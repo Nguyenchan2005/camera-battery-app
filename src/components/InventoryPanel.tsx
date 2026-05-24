@@ -43,8 +43,11 @@ export function InventoryPanel({
   );
   const batterySuggestions = useMemo(() => db.searchBattery(batteryQuery, 6), [batteryQuery, db]);
 
-  const coveredCameraIds = myCameraIds.filter((cameraId) => db.getMyCompatibleBatteries(cameraId, myBatteryIds).length > 0);
-  const uncoveredCameraIds = myCameraIds.filter((cameraId) => !db.getMyCompatibleBatteries(cameraId, myBatteryIds).length);
+  const verifiedInventoryCameraIds = myCameraIds.filter((cameraId) => db.camerasById.has(cameraId));
+  const unverifiedInventoryCameraIds = myCameraIds.filter((cameraId) => !db.camerasById.has(cameraId) && db.candidatesById.has(cameraId));
+  const unknownInventoryCameraIds = myCameraIds.filter((cameraId) => !db.camerasById.has(cameraId) && !db.candidatesById.has(cameraId));
+  const coveredCameraIds = verifiedInventoryCameraIds.filter((cameraId) => db.getMyCompatibleBatteries(cameraId, myBatteryIds).length > 0);
+  const uncoveredCameraIds = verifiedInventoryCameraIds.filter((cameraId) => !db.getMyCompatibleBatteries(cameraId, myBatteryIds).length);
   const unusedBatteryIds = myBatteryIds.filter((batteryId) => db.getMyCompatibleCameras(batteryId, myCameraIds).length === 0);
 
   function handleExport() {
@@ -104,11 +107,12 @@ export function InventoryPanel({
           <h2 className="text-lg font-semibold text-slate-950">Kho cua toi</h2>
           <p className="text-sm text-slate-500">Luu tren trinh duyet bang localStorage.</p>
         </div>
-        <div className="grid grid-cols-2 gap-2 text-center text-sm sm:grid-cols-4">
+        <div className="grid grid-cols-2 gap-2 text-center text-sm sm:grid-cols-5">
           <Stat label="May" value={myCameraIds.length} testId="inventory-camera-count" />
           <Stat label="Pin" value={myBatteryIds.length} testId="inventory-battery-count" />
           <Stat label="Da khop" value={coveredCameraIds.length} testId="inventory-covered-count" />
-          <Stat label="Chua khop" value={uncoveredCameraIds.length} testId="inventory-uncovered-count" />
+          <Stat label="Thieu pin" value={uncoveredCameraIds.length} testId="inventory-uncovered-count" />
+          <Stat label="Can verify" value={unverifiedInventoryCameraIds.length} testId="inventory-unverified-count" />
         </div>
       </div>
 
@@ -222,7 +226,10 @@ export function InventoryPanel({
                 return (
                   <InventoryRow key={cameraId} testId={`inventory-camera-${cameraId}`} label={label} onRemove={() => removeCamera(cameraId)}>
                     <Badge tone={status.status === "verified" ? "green" : status.status === "unresolved" ? "gray" : "red"}>{status.status}</Badge>
-                    {matches.length ? <Badge tone="green">co pin trong kho</Badge> : <Badge tone="gray">chua co pin khop</Badge>}
+                    {status.status === "verified" && matches.length ? <Badge tone="green">co pin trong kho</Badge> : null}
+                    {status.status === "verified" && !matches.length ? <Badge tone="gray">verified thieu pin trong kho</Badge> : null}
+                    {status.status === "unresolved" ? <Badge tone="gray">can xac minh pin</Badge> : null}
+                    {status.status === "unknown" ? <Badge tone="red">khong co trong database</Badge> : null}
                   </InventoryRow>
                 );
               })
@@ -276,11 +283,17 @@ export function InventoryPanel({
       <div data-testid="inventory-comparison" className="mt-5 rounded-md bg-slate-50 p-4">
         <h3 className="font-semibold text-slate-900">So voi kho cua toi</h3>
         <div className="mt-2 grid gap-2 text-sm text-slate-600">
+          {unverifiedInventoryCameraIds.length ? (
+            <p data-testid="inventory-unverified-summary">Co {unverifiedInventoryCameraIds.length} may trong kho chua xac minh pin: {unverifiedInventoryCameraIds.map((id) => db.candidatesById.get(id)?.display_name ?? id).join(", ")}</p>
+          ) : (
+            <p>Khong co may unverified trong kho.</p>
+          )}
           {uncoveredCameraIds.length ? (
-            <p>May chua co pin phu hop: {uncoveredCameraIds.map((id) => db.camerasById.get(id)?.display_name ?? db.candidatesById.get(id)?.display_name ?? id).join(", ")}</p>
+            <p data-testid="inventory-verified-missing-summary">Verified camera thieu pin phu hop: {uncoveredCameraIds.map((id) => db.camerasById.get(id)?.display_name ?? id).join(", ")}</p>
           ) : (
             <p>Tat ca may verified trong kho da co it nhat mot pin khop, neu co du lieu compatibility.</p>
           )}
+          {unknownInventoryCameraIds.length ? <p>Camera id khong con trong database: {unknownInventoryCameraIds.join(", ")}</p> : null}
           {unusedBatteryIds.length ? (
             <p>Pin chua dung duoc voi may nao trong kho: {unusedBatteryIds.map((id) => db.batteriesById.get(id)?.model ?? id).join(", ")}</p>
           ) : (

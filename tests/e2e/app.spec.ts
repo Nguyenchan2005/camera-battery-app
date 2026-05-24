@@ -28,6 +28,7 @@ test("search NB-13L returns a battery result", async ({ page }) => {
   await expect(page.getByTestId("result-battery")).toBeVisible();
   await expect(page.getByTestId("result-panel")).toContainText("NB-13L");
   await expect(page.getByTestId("battery-coverage-summary")).toContainText("may verified");
+  await expect(page.getByTestId("battery-unresolved-note")).toContainText("camera da duoc xac minh pin");
 });
 
 test("search Canon G7X Mark III returns verified camera and NB-13L compatibility", async ({ page }) => {
@@ -47,8 +48,13 @@ test("search Fujifilm FinePix F30 returns unresolved without battery compatibili
   await page.getByTestId("search-result-unresolved_candidate-fujifilm_finepix_f30").click();
   await expect(page.getByTestId("result-unresolved")).toBeVisible();
   await expect(page.getByTestId("result-panel")).toContainText("Fujifilm FinePix F30");
+  await expect(page.getByTestId("result-panel")).toContainText("Da tim thay model nay trong catalog");
   await expect(page.getByTestId("result-panel")).toContainText("Khong nen mua pin");
   await expect(page.locator('[data-testid^="compat-card-"]')).toHaveCount(0);
+  await page.getByTestId("add-unresolved-camera").click();
+  await expect(page.getByTestId("inventory-camera-fujifilm_finepix_f30")).toContainText("can xac minh pin");
+  await expect(page.getByTestId("inventory-unverified-count")).toContainText("1");
+  await expect(page.getByTestId("inventory-unverified-summary")).toContainText("chua xac minh pin");
 });
 
 test("search unknown model returns not found state", async ({ page }) => {

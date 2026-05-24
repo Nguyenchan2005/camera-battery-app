@@ -121,6 +121,15 @@ def extract_power_source_text(page_text: str) -> str:
     for pattern in patterns:
         for match in re.finditer(pattern, plain, flags=re.I):
             snippets.append(match.group(0))
+    japanese_patterns = [
+        r"(?:電源|使用電池|付属品|バッテリーパック|電池|充電池).{0,260}",
+        r"(?:リチウムイオン|リチャージャブルバッテリー|充電式バッテリー).{0,180}",
+        r"(?:アルカリ単3形電池|単3形電池|単4形電池|単三|単四).{0,180}",
+        r"(?:Battery Pack|Rechargeable Lithium-Ion Battery|Li-ion Battery Pack).{0,220}",
+    ]
+    for pattern in japanese_patterns:
+        for match in re.finditer(pattern, plain, flags=re.I):
+            snippets.append(match.group(0))
     seen = set()
     useful = []
     for snippet in snippets:

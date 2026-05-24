@@ -108,6 +108,14 @@ def main() -> None:
         print("Added candidates: 0")
         print("Added verified compatibility rows: 0")
         return
+    actionable_entries = [entry for entry in entries if entry.get("source_url")]
+    skipped_entries = len(entries) - len(actionable_entries)
+    if not actionable_entries:
+        print(f"Processed {len(entries)} manual missing queries.")
+        print(f"Skipped non-actionable notes: {skipped_entries}")
+        print("Added candidates: 0")
+        print("Added verified compatibility rows: 0")
+        return
 
     cameras = load_json("cameras.json")
     batteries = load_json("batteries.json")
@@ -124,7 +132,7 @@ def main() -> None:
 
     added_candidates = 0
     added_verified = 0
-    for entry in entries:
+    for entry in actionable_entries:
         required = ["query", "expected_brand", "expected_model", "source_url", "source_type"]
         missing = [field for field in required if not entry.get(field)]
         if missing:
@@ -223,6 +231,7 @@ def main() -> None:
     write_json("unresolved_models.json", sorted(unresolved_by_id.values(), key=lambda row: row["camera_id"]))
 
     print(f"Processed {len(entries)} manual missing queries.")
+    print(f"Skipped non-actionable notes: {skipped_entries}")
     print(f"Added candidates: {added_candidates}")
     print(f"Added verified compatibility rows: {added_verified}")
 

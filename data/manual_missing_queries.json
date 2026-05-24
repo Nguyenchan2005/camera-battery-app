@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "query": "canon ixy500",
+    "expected_brand": "Canon",
+    "expected_model": "IXY DIGITAL 500",
+    "status": "search_alias_fixed",
+    "notes": "Data existed as Canon PowerShot S500 DIGITAL ELPH / DIGITAL IXUS 500 / IXY DIGITAL 500."
+  },
+  {
+    "query": "sony t700",
+    "expected_brand": "Sony",
+    "expected_model": "DSC-T700",
+    "status": "search_alias_fixed",
+    "notes": "Data existed as Sony Cyber-shot DSC-T700."
+  },
+  {
+    "query": "fuji f30",
+    "expected_brand": "Fujifilm",
+    "expected_model": "FinePix F30",
+    "status": "unresolved_battery",
+    "notes": "Candidate exists in camera_candidates.json, but no explicit source-backed battery mapping is stored yet."
+  },
+  {
+    "query": "panasonic tz90",
+    "expected_brand": "Panasonic",
+    "expected_model": "Lumix DC-ZS70 / TZ90",
+    "status": "unresolved_battery",
+    "notes": "Candidate exists in camera_candidates.json, but no explicit source-backed battery mapping is stored yet."
+  }
+]

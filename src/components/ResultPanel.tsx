@@ -55,7 +55,13 @@ export function ResultPanel({
             <Badge tone="blue">{result.candidate.brand}</Badge>
             <Badge tone="gray">{result.candidate.series}</Badge>
           </div>
-          <h3 className="mt-3 text-base font-semibold text-slate-950">{result.candidate.display_name}</h3>
+          <h3 className="mt-3 text-base font-semibold text-slate-950">Da tim thay model nay trong catalog, nhung chua xac minh duoc pin.</h3>
+          <div className="mt-3 grid gap-2 text-sm text-slate-700 sm:grid-cols-2">
+            <InfoItem label="Model" value={result.candidate.display_name} />
+            <InfoItem label="Brand" value={result.candidate.brand} />
+            <InfoItem label="Series" value={result.candidate.series} />
+            <InfoItem label="Trang thai" value="Chua co nguon xac minh pin" />
+          </div>
           <p data-testid="unresolved-reason" className="mt-2 text-sm leading-6 text-slate-600">
             {result.unresolved?.reason ?? "Camera existence confirmed, battery not yet source-verified."}
           </p>
@@ -95,6 +101,25 @@ export function ResultPanel({
               }}
             >
               Copy manual check info
+            </button>
+            <button
+              data-testid="mark-needs-verification"
+              className="rounded-md border border-slate-300 px-3 py-2 text-sm font-medium hover:bg-white"
+              type="button"
+              onClick={() => {
+                const text = [
+                  "{",
+                  `  "query": "${result.candidate.display_name}",`,
+                  `  "expected_brand": "${result.candidate.brand}",`,
+                  `  "expected_model": "${result.candidate.model}",`,
+                  `  "status": "unresolved_battery",`,
+                  `  "notes": "Needs explicit battery source verification."`,
+                  "}",
+                ].join("\n");
+                navigator.clipboard?.writeText(text);
+              }}
+            >
+              Mark as needs battery verification
             </button>
           </div>
         </div>
@@ -218,6 +243,9 @@ function BatteryResult({
       <div data-testid="battery-coverage-summary" className="mt-4 rounded-md bg-slate-50 p-3 text-sm text-slate-700">
         Pin nay dung duoc cho <strong>{result.cameras.length}</strong> may verified trong database, va <strong>{myMatches.length}</strong> may trong kho cua ban.
       </div>
+      <p data-testid="battery-unresolved-note" className="mt-2 rounded-md border border-slate-200 bg-white px-3 py-2 text-sm text-slate-600">
+        Ket qua chi bao gom camera da duoc xac minh pin. Camera unresolved se khong xuat hien trong danh sach tuong thich pin cho den khi co nguon xac minh.
+      </p>
 
       <div className="mt-4 flex flex-wrap items-center gap-2">
         <span className="text-sm font-medium text-slate-700">Filter brand</span>
@@ -263,6 +291,15 @@ function BatteryResult({
           );
         })}
       </div>
+    </div>
+  );
+}
+
+function InfoItem({ label, value }: { label: string; value: string }) {
+  return (
+    <div>
+      <div className="text-xs font-semibold uppercase tracking-wide text-slate-500">{label}</div>
+      <div className="mt-1 break-words font-medium text-slate-900">{value}</div>
     </div>
   );
 }

@@ -121,6 +121,12 @@ describe("database loader, search, and source-backed lookup", () => {
     }
   });
 
+  it("does not list unresolved cameras in battery compatibility results", () => {
+    const compatibleCameras = db.getBatteryCompatibleCameras("canon_nb_13l");
+    expect(compatibleCameras.some((row) => row.camera.camera_id === "fujifilm_finepix_f30")).toBe(false);
+    expect(db.getMyCompatibleCameras("canon_nb_13l", ["fujifilm_finepix_f30"])).toEqual([]);
+  });
+
   it("returns unknown for a model not in the database", () => {
     const lookup = db.resolveLookup("Definitely Not A Compact Camera 9999XYZ");
     expect(lookup.kind).toBe("unknown");

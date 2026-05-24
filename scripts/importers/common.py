@@ -175,7 +175,13 @@ def detect_category(brand: str, series: str, model: str, display_name: str = "")
 def detect_battery_system(power_text: str, battery_models: list[str] | None = None) -> str:
     text = normalize_model_name(power_text).casefold()
     models = [normalize_model_name(model).upper() for model in (battery_models or [])]
-    if "built-in" in text or "built in" in text or "integrated battery" in text:
+    if (
+        "built-in" in text
+        or "built in" in text
+        or "integrated battery" in text
+        or "内蔵充電池" in power_text
+        or "内蔵バッテリー" in power_text
+    ):
         return "built_in"
     if "aaa" in text or "AAA" in models:
         return "aaa"
@@ -387,6 +393,11 @@ def safe_extract_power_source_text(page_text: str) -> str | None:
         "Supplied accessories",
         "Included accessories",
         "Accessories supplied",
+        "バッテリーパック",
+        "電池",
+        "電源",
+        "使用電池",
+        "充電池",
     ]
     for label in labels:
         pattern = re.compile(
@@ -410,13 +421,27 @@ def safe_extract_power_source_text(page_text: str) -> str | None:
     text = strip_tags(page_text)
     text = re.sub(r"\s+", " ", text)
     fallback = re.search(
-        r"(?<!AC )\b(Power sources?|Power supply|Battery system|Battery type|Rechargeable battery|Supplied accessories|Included accessories)\b"
+        r"(?<!AC )\b(Power sources?|Power supply|Battery system|Battery type|Battery Pack|Rechargeable Lithium-Ion Battery|Li-ion Battery Pack|Rechargeable battery|Batteries|Supplied accessories|Included accessories)\b"
         r"\s*:?\s+(.{1,420}?)(?:Operating|Dimensions|Weight|Interface|Storage|Bluetooth|Wi-Fi|WLAN|Flash|Lens|$)",
         text,
         re.I,
     )
     if fallback:
-        return fallback.group(2).strip()
+        snippet = fallback.group(2).strip()
+        if re.search(r"\b(?:built[- ]?in flash|internal memory|flash memory|battery charger|AC adapter)\b", snippet, re.I) and not re.search(
+            r"\b(?:NP-|BP-|DB-|D-LI|EN-EL|LI-|KLIC-|DMW-|NB-|AA|AAA|CR-?V3|CR123A|2CR5|battery pack|batteries)\b|電池|バッテリー|充電池",
+            snippet,
+            re.I,
+        ):
+            return None
+        return snippet
+    japanese = re.search(
+        r"(?:バッテリーパック|使用電池|電池|電源|充電池)\s*:?\s*(.{1,260}?)(?:寸法|質量|重量|記録媒体|メモリー|フラッシュ|レンズ|$)",
+        text,
+        re.I,
+    )
+    if japanese:
+        return japanese.group(1).strip()
     return None
 
 
@@ -458,7 +483,8 @@ def parse_power_mappings(power_text: str, fallback_brand: str = "Generic") -> li
         mappings.append({"brand": "Generic", "model": "AAA", "status": "uses_aaa", "quantity_required": aaa_quantity})
     if re.search(
         r"\b(?:built[- ]?in|integrated|internal|non[- ]?removable)\s+(?:rechargeable\s+)?battery\b|"
-        r"\bbattery\s+(?:is\s+)?(?:built[- ]?in|integrated|internal|non[- ]?removable)\b",
+        r"\bbattery\s+(?:is\s+)?(?:built[- ]?in|integrated|internal|non[- ]?removable)\b|"
+        r"(?:内蔵充電池|内蔵バッテリー|充電式内蔵電池)",
         source,
         re.I,
     ):
