@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Battery",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "battery_id",
+    "brand",
+    "model",
+    "aliases",
+    "chemistry",
+    "voltage",
+    "capacity_mah",
+    "notes"
+  ],
+  "properties": {
+    "battery_id": { "type": "string", "pattern": "^[a-z0-9_]+$" },
+    "brand": { "type": "string" },
+    "model": { "type": "string" },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "chemistry": {
+      "anyOf": [
+        { "type": "string" },
+        { "type": "null" }
+      ]
+    },
+    "voltage": {
+      "anyOf": [
+        { "type": "number" },
+        { "type": "null" }
+      ]
+    },
+    "capacity_mah": {
+      "anyOf": [
+        { "type": "integer" },
+        { "type": "null" }
+      ]
+    },
+    "notes": { "type": "string" }
+  }
+}

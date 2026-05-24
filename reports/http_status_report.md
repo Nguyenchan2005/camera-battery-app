@@ -1,0 +1,172 @@
+# HTTP Status Report
+
+| URL | Status | OK | Error |
+| --- | ---: | --- | --- |
+| https://leica-camera.com/en-AT/photography/cameras/q/q2-disney/technical-specification | 404 | False | Not Found |
+| https://dl.fujifilm-x.com/support/manual/a/fujifilm_a100_manual_01.pdf | 200 | True |  |
+| https://dl.fujifilm-x.com/support/manual/a/fujifilm_a150_manual_01.pdf | 200 | True |  |
+| https://camera-wiki.org/wiki/Fujifilm_FinePix_A201 | 200 | True |  |
+| https://camera-wiki.org/wiki/Fujifilm_FinePix_F10/F11 | 200 | True |  |
+| https://camera-wiki.org/wiki/Fuji_FinePix_F40fd | 200 | True |  |
+| https://camera-wiki.org/wiki/Fujifilm_FinePix_F47fd | 200 | True |  |
+| https://camera-wiki.org/wiki/Fujifilm_FinePix_F700 | 200 | True |  |
+| https://camera-wiki.org/wiki/Fujifilm_FinePix_S304 | 200 | True |  |
+| https://camera-wiki.org/wiki/Fuji_FinePix_S4400_Zoom | 200 | True |  |
+| https://camera-wiki.org/wiki/Fujifilm_FinePix_S5000_Zoom | 200 | True |  |
+| https://camera-wiki.org/wiki/Fujifilm_FinePix_S5100_Zoom | 200 | True |  |
+| https://camera-wiki.org/wiki/Fuji_FinePix_S6000/S6500fd | 200 | True |  |
+| https://camera-wiki.org/wiki/Fujifilm_FinePix_S7000 | 200 | True |  |
+| https://camera-wiki.org/wiki/Fujifilm_FinePix_S9600 | 200 | True |  |
+| https://camera-wiki.org/wiki/GE_X5 | 200 | True |  |
+| https://camera-wiki.org/wiki/HP_PhotoSmart_945 | 200 | True |  |
+| https://camera-wiki.org/wiki/Konica_Minolta_DiMAGE_Z10 | 200 | True |  |
+| https://camera-wiki.org/wiki/Konica_Minolta_DiMAGE_Z2 | 200 | True |  |
+| https://camera-wiki.org/wiki/Konica_Minolta_DiMAGE_Z3 | 200 | True |  |
+| https://camera-wiki.org/wiki/Konica_Minolta_DiMAGE_Z5 | 200 | True |  |
+| https://camera-wiki.org/wiki/Minolta_DiMAGE_A1 | 200 | True |  |
+| https://camera-wiki.org/wiki/Minolta_DiMAGE_F200 | 200 | True |  |
+| https://camera-wiki.org/wiki/Minolta_DiMAGE_X | 200 | True |  |
+| https://camera-wiki.org/wiki/Nikon_Coolpix_3100 | 200 | True |  |
+| https://camera-wiki.org/wiki/Nikon_Coolpix_4100 | 200 | True |  |
+| https://camera-wiki.org/wiki/Nikon_Coolpix_4500 | 200 | True |  |
+| https://camera-wiki.org/wiki/Nikon_Coolpix_5000 | 200 | True |  |
+| https://camera-wiki.org/wiki/Nikon_Coolpix_5400 | 200 | True |  |
+| https://camera-wiki.org/wiki/Nikon_Coolpix_600 | 200 | True |  |
+| https://camera-wiki.org/wiki/Nikon_Coolpix_700 | 200 | True |  |
+| https://camera-wiki.org/wiki/Nikon_Coolpix_8700 | 200 | True |  |
+| https://camera-wiki.org/wiki/Nikon_Coolpix_8800 | 200 | True |  |
+| https://camera-wiki.org/wiki/Nikon_Coolpix_885 | 200 | True |  |
+| https://camera-wiki.org/wiki/Nikon_Coolpix_950 | 200 | True |  |
+| https://camera-wiki.org/wiki/Nikon_Coolpix_995 | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/a/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/a10/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/a100/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/a1000/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/a300/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/a900/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/aw100/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/aw110/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/aw120/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/aw130/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/b500/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/b600/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/b700/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/l120/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/l23/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/l26/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/l28/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/l30/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/l610/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/l810/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/l820/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/p310/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/p330/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/p340/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/p500/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/p510/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/p5100/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/p520/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/p600/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/p610/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/p7000/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/p7100/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/p7700/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/p7800/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/p900/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s100/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s30/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s31/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s3100/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s32/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s33/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s3300/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s3500/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s3600/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s4000/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s4300/spec.html | 200 | True |  |
+| https://camera-wiki.org/wiki/Nikon_Coolpix_S5 | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s5100/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s5200/spec.html | 200 | True |  |
+| https://camera-wiki.org/wiki/Nikon_Coolpix_S6 | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s6000/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s6100/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s6200/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s6300/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s6500/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s6800/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s6900/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s7000/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s80/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s8000/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s8100/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s8200/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s9100/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s9300/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s9500/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s9700/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/s9900/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/w100/spec.html | 200 | True |  |
+| https://nij.nikon.com/products/lineup/compact/w150/spec.html | 200 | True |  |
+| https://camera-wiki.org/wiki/Olympus_D-380 | 200 | True |  |
+| https://camera-wiki.org/wiki/Olympus_D-620L_/_C-1400XL | 200 | True |  |
+| https://camera-wiki.org/wiki/Olympus_C-220_Zoom | 200 | True |  |
+| https://camera-wiki.org/wiki/Olympus_C-2000_Zoom | 200 | True |  |
+| https://camera-wiki.org/wiki/Olympus_C-21 | 200 | True |  |
+| https://camera-wiki.org/wiki/Olympus_C-211_Zoom | 200 | True |  |
+| https://camera-wiki.org/wiki/Olympus_C-2500L | 200 | True |  |
+| https://camera-wiki.org/wiki/Olympus_C-3020_Zoom | 200 | True |  |
+| https://camera-wiki.org/wiki/Olympus_C-3040_Zoom | 200 | True |  |
+| https://camera-wiki.org/wiki/Olympus_C-40_Zoom | 200 | True |  |
+| https://camera-wiki.org/wiki/Olympus_C-480_Zoom | 200 | True |  |
+| https://camera-wiki.org/wiki/Olympus_C-5050_Zoom | 200 | True |  |
+| https://camera-wiki.org/wiki/Olympus_C-830L | 200 | True |  |
+| https://camera-wiki.org/wiki/Olympus_C-860L | 200 | True |  |
+| https://camera-wiki.org/wiki/Olympus_FE-115_/_X-715 | 200 | True |  |
+| https://camera-wiki.org/wiki/Olympus_Stylus_410 | 200 | True |  |
+| https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-LZ1 | 200 | True |  |
+| https://camera-wiki.org/wiki/Pentax_Optio_330GS | 200 | True |  |
+| https://camera-wiki.org/wiki/Pentax_Optio_33L | 200 | True |  |
+| https://camera-wiki.org/wiki/Pentax_Optio_33WR | 200 | True |  |
+| https://camera-wiki.org/wiki/Ricoh_Caplio_GX100 | 200 | True |  |
+| https://camera-wiki.org/wiki/Ricoh_Caplio_RR120 | 200 | True |  |
+| https://camera-wiki.org/wiki/Ricoh_G600 | 200 | True |  |
+| https://camera-wiki.org/wiki/Samsung_Digimax_240 | 200 | True |  |
+| https://camera-wiki.org/wiki/Sony_DSC-H2 | 200 | True |  |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dsch-series/dsc-h300/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dsch-series/dsc-h400/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dschx-series/dsc-hx350/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dsct-series/dsc-t100/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dsct-series/dsc-t200/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dsct-series/dsc-t300/specifications | 403 | False | Forbidden |
+| https://camera-wiki.org/wiki/Sony_DSC-T33 | 200 | True |  |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dsct-series/dsc-t500/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dsct-series/dsc-t700/specifications | 403 | False | Forbidden |
+| https://camera-wiki.org/wiki/Sony_DSC-T9 | 200 | True |  |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dsct-series/dsc-t900/specifications | 403 | False | Forbidden |
+| https://camera-wiki.org/wiki/Sony_DSC-W1 | 200 | True |  |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w110/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w120/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w130/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w150/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w170/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w180/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w190/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w200/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w210/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w220/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w230/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w270/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w290/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w300/specifications | 403 | False | Forbidden |
+| https://camera-wiki.org/wiki/Sony_DSC-W5 | 200 | True |  |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w610/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w620/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w630/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w690/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w810/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w830/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscwx-series/dsc-wx100/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscwx-series/dsc-wx220/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscwx-series/dsc-wx350/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/compact-cameras-dscwx-series/dsc-wx500/specifications | 403 | False | Forbidden |
+| https://www.sony.co.id/en/electronics/support/vlog-cameras-zv-series/zv-1f/specifications | 403 | False | Forbidden |

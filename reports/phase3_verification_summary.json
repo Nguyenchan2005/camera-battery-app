@@ -1,0 +1,1738 @@
+{
+  "generated": "2026-05-24",
+  "before": {
+    "cameras": 463,
+    "batteries": 83,
+    "compatibility": 640,
+    "candidates": 1823,
+    "sources": 1080,
+    "unresolved": 1360
+  },
+  "after": {
+    "cameras": 463,
+    "batteries": 83,
+    "compatibility": 640,
+    "candidates": 1823,
+    "unresolved": 1360
+  },
+  "verifier_results": [
+    {
+      "verifier": "Fujifilm",
+      "processed": 166,
+      "verified": 0,
+      "still_unresolved": 166,
+      "warnings": [
+        {
+          "camera": "Fujifilm FinePix A203",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix A205",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix A350",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix F30",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix F300EXR",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix F31fd",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix F401",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix F600EXR",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix F70EXR",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix HS10",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix JX200",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix JX280",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix S3000",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix S3100",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix S602 Zoom",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix S800",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix S8000fd",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix S9000",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix S9500",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix XP10",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix Z20fd",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Fujifilm FinePix Z700 EXR",
+          "message": "Already checked source."
+        }
+      ],
+      "checked_urls": [
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a101_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a120_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a200_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a203_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a204_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a205_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a210_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a303_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a330_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a340_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a345_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a350_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a400_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a500_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a600_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a610_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a800_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a820_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a850_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a920_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_av100_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_av150_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_av200_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_av230_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_av250_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/a/fujifilm_av280_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f100fd_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f20_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f200exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f30_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f300exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f31fd_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f401_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f470_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f480_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f500exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f505exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f50fd_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f550exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f600exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f601zoom_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f660exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f70exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f750exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f770exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f800exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f80exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f900exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/h/fujifilm_hs10_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/h/fujifilm_hs30exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/h/fujifilm_hs35exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/h/fujifilm_hs50exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_j10_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_j100_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_j110w_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_j120_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_j150w_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_j15fd_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_j20fd_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_j210_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_j250_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_j25fd_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_j40_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_j50_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_jx200_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_jx250_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_jx280_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_jx370_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_jx500_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_jx550_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_jz100_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/j/fujifilm_jz200_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/r/fujifilm_real3dw1_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s1_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s1000fd_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s100fs_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s1500_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s1600_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s1800_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s20_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s2000hd_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s200exr_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s2500hd_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s2800hd_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s2950_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s3000_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s3100_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s3200_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s3300_manual_01.pdf",
+        "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s3400_manual_01.pdf"
+      ],
+      "verified_camera_ids": [],
+      "module": "verifiers.verify_fujifilm_batteries"
+    },
+    {
+      "verifier": "Nikon",
+      "processed": 99,
+      "verified": 0,
+      "still_unresolved": 99,
+      "warnings": [
+        {
+          "camera": "Nikon COOLPIX 3700",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Nikon COOLPIX 4300",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Nikon COOLPIX 5200",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Nikon COOLPIX 5700",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Nikon COOLPIX 5900",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Nikon COOLPIX 7900",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Nikon COOLPIX 800",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Nikon COOLPIX P1",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Nikon COOLPIX P100",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Nikon COOLPIX P2",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Nikon COOLPIX P3",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Nikon COOLPIX P4",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Nikon COOLPIX S10",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Nikon COOLPIX S2",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Nikon COOLPIX S3",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Nikon COOLPIX S3000",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Nikon COOLPIX S4",
+          "message": "Already checked source."
+        }
+      ],
+      "checked_urls": [
+        "https://nij.nikon.com/products/lineup/compact/2000/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/2100/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/2200/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/2500/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/3200/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/3500/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/3700/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/4200/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/4300/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/4600/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/4800/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/5200/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/5600/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/5700/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/5900/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/7600/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/775/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/7900/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/8400/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/880/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/910/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l1/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l10/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l100/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l11/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l110/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l12/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l14/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l15/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l16/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l18/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l19/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l2/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l20/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l21/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l22/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l24/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l25/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l27/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l29/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l3/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l310/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l320/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l330/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l4/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l5/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l6/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l620/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l830/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/l840/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/p1/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/p100/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/p2/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/p3/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/p4/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/p50/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/p5000/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/p530/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/p60/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/p80/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/p90/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s02/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s10/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s2/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s200/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s210/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s220/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s230/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s2600/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s2700/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s3/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s3000/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s4/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s4100/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s50/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s500/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s51/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s510/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s52/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s520/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s5300/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s550/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s560/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s60/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s600/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s610/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s620/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s630/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s640/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s660/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s7/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s70/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s700/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s710/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s8/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s9/spec.html",
+        "https://nij.nikon.com/products/lineup/compact/s9600/spec.html"
+      ],
+      "verified_camera_ids": [],
+      "module": "verifiers.verify_nikon_batteries"
+    },
+    {
+      "verifier": "Kodak",
+      "processed": 174,
+      "verified": 0,
+      "still_unresolved": 174,
+      "warnings": [],
+      "checked_urls": [],
+      "verified_camera_ids": [],
+      "module": "verifiers.verify_kodak_batteries"
+    },
+    {
+      "verifier": "Olympus",
+      "processed": 144,
+      "verified": 0,
+      "still_unresolved": 144,
+      "warnings": [],
+      "checked_urls": [],
+      "verified_camera_ids": [],
+      "module": "verifiers.verify_olympus_batteries"
+    },
+    {
+      "verifier": "Casio",
+      "processed": 159,
+      "verified": 0,
+      "still_unresolved": 159,
+      "warnings": [],
+      "checked_urls": [],
+      "verified_camera_ids": [],
+      "module": "verifiers.verify_casio_batteries"
+    },
+    {
+      "verifier": "Sony",
+      "processed": 112,
+      "verified": 0,
+      "still_unresolved": 112,
+      "warnings": [
+        {
+          "camera": "Sony Cyber-shot DSC-H1",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-H100",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-H200",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-HX1",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-HX100V",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-HX200V",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-HX300",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-HX400V",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-RX10 II",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-T110",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-T3",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-T7",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-TX100V",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-TX200V",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-TX300V",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W100",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W115",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W125",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W215",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W275",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W310",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W320",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W330",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W350",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W360",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W370",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W380",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W510",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W520",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W530",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W550",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W560",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W570",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W580",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W650",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W670",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W710",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-W730",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-WX1",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-WX10",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-WX150",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-WX170",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-WX200",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony Cyber-shot DSC-WX300",
+          "message": "Already checked source."
+        },
+        {
+          "camera": "Sony ZV-1 Mark II",
+          "message": "Already checked source."
+        }
+      ],
+      "checked_urls": [
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dsch-series/dsc-h100/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dsch-series/dsc-h200/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dschx-series/dsc-hx100v/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dschx-series/dsc-hx200v/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dschx-series/dsc-hx300/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dschx-series/dsc-hx400v/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscrx-series/dsc-rx10ii/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dsct-series/dsc-t110/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dsctx-series/dsc-tx100v/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dsctx-series/dsc-tx200v/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dsctx-series/dsc-tx300v/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w100/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w115/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w125/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w215/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w275/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w310/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w320/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w330/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w350/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w360/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w370/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w380/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w510/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w520/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w530/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w550/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w560/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w570/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w580/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w650/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w670/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w710/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w730/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscwx-series/dsc-wx150/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscwx-series/dsc-wx170/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscwx-series/dsc-wx200/specifications",
+        "https://www.sony.co.id/en/electronics/support/compact-cameras-dscwx-series/dsc-wx300/specifications",
+        "https://www.sony.co.id/en/electronics/support/vlog-cameras-zv-series/zv-1markii/specifications"
+      ],
+      "verified_camera_ids": [],
+      "module": "verifiers.verify_sony_batteries"
+    },
+    {
+      "verifier": "Panasonic",
+      "processed": 123,
+      "verified": 0,
+      "still_unresolved": 123,
+      "warnings": [],
+      "checked_urls": [],
+      "verified_camera_ids": [],
+      "module": "verifiers.verify_panasonic_batteries"
+    },
+    {
+      "verifier": "Samsung",
+      "processed": 113,
+      "verified": 0,
+      "still_unresolved": 113,
+      "warnings": [],
+      "checked_urls": [],
+      "verified_camera_ids": [],
+      "module": "verifiers.verify_samsung_batteries"
+    },
+    {
+      "verifier": "Ricoh/Pentax",
+      "processed": 136,
+      "verified": 0,
+      "still_unresolved": 136,
+      "warnings": [],
+      "checked_urls": [],
+      "verified_camera_ids": [],
+      "module": "verifiers.verify_ricoh_pentax_batteries"
+    },
+    {
+      "verifier": "Minor brands",
+      "processed": 130,
+      "verified": 0,
+      "still_unresolved": 130,
+      "warnings": [],
+      "checked_urls": [],
+      "verified_camera_ids": [],
+      "module": "verifiers.verify_minor_brand_batteries"
+    }
+  ],
+  "current_run_verified_camera_count": 0,
+  "phase3_cumulative_verified_camera_count": 169,
+  "verified_from_unresolved_by_brand": {
+    "Fujifilm": 15,
+    "GE": 1,
+    "HP": 1,
+    "Konica Minolta": 4,
+    "Minolta": 3,
+    "Nikon": 82,
+    "Olympus": 16,
+    "Panasonic": 1,
+    "Pentax": 3,
+    "Ricoh": 3,
+    "Samsung": 1,
+    "Sony": 39
+  },
+  "still_unresolved_by_brand": {
+    "AgfaPhoto": 1,
+    "Canon": 4,
+    "Casio": 159,
+    "Fujifilm": 166,
+    "GE": 1,
+    "HP": 66,
+    "Kodak": 174,
+    "Konica Minolta": 11,
+    "Leica": 26,
+    "Minolta": 16,
+    "Nikon": 99,
+    "Olympus": 144,
+    "Panasonic": 123,
+    "Pentax": 84,
+    "Ricoh": 52,
+    "Samsung": 113,
+    "Sigma": 9,
+    "Sony": 112
+  },
+  "source_type_counts_for_phase3": {
+    "official_manual": 110,
+    "trusted_database": 81
+  },
+  "http_status": [
+    {
+      "url": "https://leica-camera.com/en-AT/photography/cameras/q/q2-disney/technical-specification",
+      "status": 404,
+      "ok": false,
+      "error": "Not Found"
+    },
+    {
+      "url": "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a100_manual_01.pdf",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://dl.fujifilm-x.com/support/manual/a/fujifilm_a150_manual_01.pdf",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_A201",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_F10/F11",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Fuji_FinePix_F40fd",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_F47fd",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_F700",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_S304",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Fuji_FinePix_S4400_Zoom",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_S5000_Zoom",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_S5100_Zoom",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Fuji_FinePix_S6000/S6500fd",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_S7000",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_S9600",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/GE_X5",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/HP_PhotoSmart_945",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Konica_Minolta_DiMAGE_Z10",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Konica_Minolta_DiMAGE_Z2",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Konica_Minolta_DiMAGE_Z3",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Konica_Minolta_DiMAGE_Z5",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Minolta_DiMAGE_A1",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Minolta_DiMAGE_F200",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Minolta_DiMAGE_X",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Nikon_Coolpix_3100",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Nikon_Coolpix_4100",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Nikon_Coolpix_4500",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Nikon_Coolpix_5000",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Nikon_Coolpix_5400",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Nikon_Coolpix_600",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Nikon_Coolpix_700",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Nikon_Coolpix_8700",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Nikon_Coolpix_8800",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Nikon_Coolpix_885",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Nikon_Coolpix_950",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Nikon_Coolpix_995",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/a/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/a10/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/a100/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/a1000/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/a300/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/a900/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/aw100/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/aw110/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/aw120/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/aw130/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/b500/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/b600/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/b700/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/l120/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/l23/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/l26/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/l28/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/l30/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/l610/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/l810/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/l820/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/p310/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/p330/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/p340/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/p500/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/p510/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/p5100/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/p520/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/p600/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/p610/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/p7000/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/p7100/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/p7700/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/p7800/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/p900/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s100/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s30/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s31/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s3100/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s32/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s33/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s3300/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s3500/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s3600/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s4000/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s4300/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Nikon_Coolpix_S5",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s5100/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s5200/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Nikon_Coolpix_S6",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s6000/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s6100/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s6200/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s6300/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s6500/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s6800/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s6900/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s7000/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s80/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s8000/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s8100/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s8200/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s9100/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s9300/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s9500/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s9700/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/s9900/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/w100/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://nij.nikon.com/products/lineup/compact/w150/spec.html",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Olympus_D-380",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Olympus_D-620L_/_C-1400XL",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Olympus_C-220_Zoom",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Olympus_C-2000_Zoom",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Olympus_C-21",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Olympus_C-211_Zoom",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Olympus_C-2500L",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Olympus_C-3020_Zoom",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Olympus_C-3040_Zoom",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Olympus_C-40_Zoom",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Olympus_C-480_Zoom",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Olympus_C-5050_Zoom",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Olympus_C-830L",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Olympus_C-860L",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Olympus_FE-115_/_X-715",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Olympus_Stylus_410",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-LZ1",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Pentax_Optio_330GS",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Pentax_Optio_33L",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Pentax_Optio_33WR",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Ricoh_Caplio_GX100",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Ricoh_Caplio_RR120",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Ricoh_G600",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Samsung_Digimax_240",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Sony_DSC-H2",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dsch-series/dsc-h300/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dsch-series/dsc-h400/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dschx-series/dsc-hx350/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dsct-series/dsc-t100/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dsct-series/dsc-t200/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dsct-series/dsc-t300/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Sony_DSC-T33",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dsct-series/dsc-t500/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dsct-series/dsc-t700/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Sony_DSC-T9",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dsct-series/dsc-t900/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Sony_DSC-W1",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w110/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w120/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w130/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w150/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w170/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w180/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w190/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w200/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w210/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w220/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w230/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w270/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w290/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w300/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://camera-wiki.org/wiki/Sony_DSC-W5",
+      "status": 200,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w610/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w620/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w630/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w690/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w810/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w830/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscwx-series/dsc-wx100/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscwx-series/dsc-wx220/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscwx-series/dsc-wx350/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/compact-cameras-dscwx-series/dsc-wx500/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    },
+    {
+      "url": "https://www.sony.co.id/en/electronics/support/vlog-cameras-zv-series/zv-1f/specifications",
+      "status": 403,
+      "ok": false,
+      "error": "Forbidden"
+    }
+  ]
+}

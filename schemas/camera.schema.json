@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Camera",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "camera_id",
+    "brand",
+    "series",
+    "model",
+    "display_name",
+    "aliases",
+    "regional_names",
+    "release_year",
+    "category",
+    "lens_type",
+    "battery_system",
+    "notes"
+  ],
+  "properties": {
+    "camera_id": { "type": "string", "pattern": "^[a-z0-9_]+$" },
+    "brand": { "type": "string" },
+    "series": { "type": "string" },
+    "model": { "type": "string" },
+    "display_name": { "type": "string" },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "regional_names": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "array",
+        "items": { "type": "string" }
+      }
+    },
+    "release_year": {
+      "anyOf": [
+        { "type": "integer", "minimum": 1998, "maximum": 2026 },
+        { "type": "null" }
+      ]
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "point_and_shoot",
+        "premium_compact",
+        "travel_zoom",
+        "waterproof_compact",
+        "bridge_superzoom",
+        "large_sensor_compact",
+        "3d_compact",
+        "unknown"
+      ]
+    },
+    "lens_type": { "type": "string", "enum": ["fixed_lens"] },
+    "battery_system": {
+      "type": "string",
+      "enum": ["proprietary_li_ion", "aa", "aaa", "built_in", "special", "unknown"]
+    },
+    "notes": { "type": "string" }
+  }
+}

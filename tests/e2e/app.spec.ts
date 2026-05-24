@@ -1,0 +1,111 @@
+import { expect, test } from "@playwright/test";
+
+async function openApp(page: import("@playwright/test").Page) {
+  await page.goto("/");
+  await expect(page.getByTestId("app-ready")).toBeVisible();
+}
+
+async function fillSearch(page: import("@playwright/test").Page, query: string) {
+  await page.getByTestId("search-input").fill(query);
+}
+
+async function submitSearch(page: import("@playwright/test").Page, query: string) {
+  await fillSearch(page, query);
+  await page.getByTestId("search-submit").click();
+  await expect(page.getByTestId("result-panel")).toBeVisible();
+}
+
+test("app loads from static preview with database stats and network status", async ({ page }) => {
+  await openApp(page);
+  await expect(page.getByTestId("network-status")).toBeVisible();
+  await expect(page.getByTestId("database-stats")).toContainText("Verified cameras");
+  await expect(page.getByTestId("last-data-update")).toContainText(/Last data update: \d{4}-\d{2}-\d{2}|unknown/);
+});
+
+test("search NB-13L returns a battery result", async ({ page }) => {
+  await openApp(page);
+  await submitSearch(page, "NB-13L");
+  await expect(page.getByTestId("result-battery")).toBeVisible();
+  await expect(page.getByTestId("result-panel")).toContainText("NB-13L");
+  await expect(page.getByTestId("battery-coverage-summary")).toContainText("may verified");
+});
+
+test("search Canon G7X Mark III returns verified camera and NB-13L compatibility", async ({ page }) => {
+  await openApp(page);
+  await fillSearch(page, "Canon G7X Mark III");
+  await page.getByTestId("search-result-camera-canon_powershot_g7_x_mark_iii").click();
+  await expect(page.getByTestId("result-camera")).toBeVisible();
+  await expect(page.getByTestId("result-panel")).toContainText("Canon PowerShot G7 X Mark III");
+  await expect(page.getByTestId("compat-card-canon_nb_13l-fully_compatible")).toContainText("NB-13L");
+  await page.getByTestId("source-toggle").first().click();
+  await expect(page.getByTestId("source-row").first()).toBeVisible();
+});
+
+test("search Fujifilm FinePix F30 returns unresolved without battery compatibility", async ({ page }) => {
+  await openApp(page);
+  await fillSearch(page, "Fujifilm FinePix F30");
+  await page.getByTestId("search-result-unresolved_candidate-fujifilm_finepix_f30").click();
+  await expect(page.getByTestId("result-unresolved")).toBeVisible();
+  await expect(page.getByTestId("result-panel")).toContainText("Fujifilm FinePix F30");
+  await expect(page.getByTestId("result-panel")).toContainText("Khong nen mua pin");
+  await expect(page.locator('[data-testid^="compat-card-"]')).toHaveCount(0);
+});
+
+test("search unknown model returns not found state", async ({ page }) => {
+  await openApp(page);
+  await submitSearch(page, "Definitely Not A Compact Camera 9999XYZ");
+  await expect(page.getByTestId("result-unknown")).toBeVisible();
+  await expect(page.getByTestId("result-panel")).toContainText("Chua co du lieu");
+});
+
+test("adds camera and battery to local inventory", async ({ page }) => {
+  await openApp(page);
+  await fillSearch(page, "Canon G7X Mark III");
+  await page.getByTestId("search-result-camera-canon_powershot_g7_x_mark_iii").click();
+  await page.getByTestId("add-result-camera").click();
+  await expect(page.getByTestId("inventory-camera-canon_powershot_g7_x_mark_iii")).toBeVisible();
+
+  await page.getByTestId("add-compat-battery-canon_nb_13l").click();
+  await expect(page.getByTestId("inventory-battery-canon_nb_13l")).toBeVisible();
+
+  const stored = await page.evaluate(() => ({
+    cameras: JSON.parse(localStorage.getItem("compact-camera-db:my-camera-ids") ?? "[]"),
+    batteries: JSON.parse(localStorage.getItem("compact-camera-db:my-battery-ids") ?? "[]"),
+  }));
+  expect(stored.cameras).toContain("canon_powershot_g7_x_mark_iii");
+  expect(stored.batteries).toContain("canon_nb_13l");
+});
+
+test("exports and imports inventory JSON", async ({ page }, testInfo) => {
+  await openApp(page);
+  await fillSearch(page, "Canon G7X Mark III");
+  await page.getByTestId("search-result-camera-canon_powershot_g7_x_mark_iii").click();
+  await page.getByTestId("add-result-camera").click();
+  await page.getByTestId("add-compat-battery-canon_nb_13l").click();
+
+  const downloadPromise = page.waitForEvent("download");
+  await page.getByTestId("inventory-export").click();
+  const download = await downloadPromise;
+  const exportPath = testInfo.outputPath("inventory-export.json");
+  await download.saveAs(exportPath);
+
+  await page.getByTestId("clear-cameras").click();
+  await page.getByTestId("clear-batteries").click();
+  await expect(page.getByTestId("inventory-camera-canon_powershot_g7_x_mark_iii")).toHaveCount(0);
+  await expect(page.getByTestId("inventory-battery-canon_nb_13l")).toHaveCount(0);
+
+  await page.getByTestId("inventory-import-input").setInputFiles(exportPath);
+  await expect(page.getByTestId("inventory-camera-canon_powershot_g7_x_mark_iii")).toBeVisible();
+  await expect(page.getByTestId("inventory-battery-canon_nb_13l")).toBeVisible();
+});
+
+test("keyboard navigation can select a search result", async ({ page }) => {
+  await openApp(page);
+  await fillSearch(page, "NB13L");
+  await expect(page.getByTestId("search-suggestions")).toBeVisible();
+  await page.getByTestId("search-input").press("ArrowDown");
+  await page.getByTestId("search-input").press("ArrowUp");
+  await page.getByTestId("search-input").press("Enter");
+  await expect(page.getByTestId("result-battery")).toBeVisible();
+  await expect(page.getByTestId("result-panel")).toContainText("NB-13L");
+});

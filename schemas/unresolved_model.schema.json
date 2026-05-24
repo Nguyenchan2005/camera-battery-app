@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Unresolved Model",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "camera_id",
+    "display_name",
+    "brand",
+    "series",
+    "release_year",
+    "reason",
+    "candidate_source_name",
+    "candidate_source_url",
+    "checked_source_urls",
+    "last_checked"
+  ],
+  "properties": {
+    "camera_id": { "type": "string", "pattern": "^[a-z0-9_]+$" },
+    "display_name": { "type": "string" },
+    "brand": { "type": "string" },
+    "series": { "type": "string" },
+    "release_year": {
+      "anyOf": [
+        { "type": "integer", "minimum": 1998, "maximum": 2026 },
+        { "type": "null" }
+      ]
+    },
+    "reason": { "type": "string" },
+    "candidate_source_name": { "type": "string" },
+    "candidate_source_url": { "type": "string", "format": "uri" },
+    "checked_source_urls": {
+      "type": "array",
+      "items": { "type": "string", "format": "uri" }
+    },
+    "last_checked": { "type": "string", "format": "date" }
+  }
+}

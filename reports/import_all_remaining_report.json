@@ -1,0 +1,145 @@
+{
+  "generated": "2026-05-24",
+  "before": {
+    "cameras": 463,
+    "batteries": 83,
+    "compatibility": 640,
+    "candidates": 1823,
+    "sources": 1080,
+    "unresolved": 1360
+  },
+  "after": {
+    "cameras": 463,
+    "batteries": 83,
+    "compatibility": 640,
+    "candidates": 1823,
+    "unresolved": 1360
+  },
+  "processed_brands": [
+    "Casio",
+    "Fujifilm",
+    "Kodak / Kodak PIXPRO",
+    "Leica / Sigma",
+    "Minolta / Konica Minolta",
+    "Minor brands",
+    "Nikon",
+    "Olympus / OM System",
+    "Panasonic",
+    "Ricoh / Pentax",
+    "Samsung",
+    "Sony"
+  ],
+  "missing_source_brands": [],
+  "warnings": [],
+  "errors": [],
+  "importer_results": [
+    {
+      "importer": "importers.import_sony",
+      "status": "ok",
+      "adapter_status": "partial_adapter",
+      "processed": 182,
+      "verified": 15,
+      "unresolved": 112,
+      "warnings": []
+    },
+    {
+      "importer": "importers.import_nikon",
+      "status": "ok",
+      "adapter_status": "partial_adapter",
+      "processed": 191,
+      "verified": 3,
+      "unresolved": 99,
+      "warnings": []
+    },
+    {
+      "importer": "importers.import_fujifilm",
+      "status": "ok",
+      "adapter_status": "partial_adapter",
+      "processed": 190,
+      "verified": 3,
+      "unresolved": 166,
+      "warnings": []
+    },
+    {
+      "importer": "importers.import_panasonic",
+      "status": "ok",
+      "adapter_status": "real_adapter",
+      "processed": 132,
+      "verified": 0,
+      "unresolved": 127,
+      "warnings": []
+    },
+    {
+      "importer": "importers.import_olympus_om",
+      "status": "ok",
+      "adapter_status": "real_adapter",
+      "processed": 162,
+      "verified": 0,
+      "unresolved": 144,
+      "warnings": []
+    },
+    {
+      "importer": "importers.import_ricoh_pentax",
+      "status": "ok",
+      "adapter_status": "partial_adapter",
+      "processed": 145,
+      "verified": 3,
+      "unresolved": 136,
+      "warnings": []
+    },
+    {
+      "importer": "importers.import_casio",
+      "status": "ok",
+      "adapter_status": "real_adapter",
+      "processed": 163,
+      "verified": 0,
+      "unresolved": 159,
+      "warnings": []
+    },
+    {
+      "importer": "importers.import_kodak",
+      "status": "ok",
+      "adapter_status": "real_adapter",
+      "processed": 176,
+      "verified": 0,
+      "unresolved": 174,
+      "warnings": []
+    },
+    {
+      "importer": "importers.import_samsung",
+      "status": "ok",
+      "adapter_status": "real_adapter",
+      "processed": 115,
+      "verified": 0,
+      "unresolved": 113,
+      "warnings": []
+    },
+    {
+      "importer": "importers.import_leica_sigma",
+      "status": "ok",
+      "adapter_status": "partial_adapter",
+      "processed": 44,
+      "verified": 5,
+      "unresolved": 35,
+      "warnings": []
+    },
+    {
+      "importer": "importers.import_minolta_konica",
+      "status": "ok",
+      "adapter_status": "real_adapter",
+      "processed": 37,
+      "verified": 0,
+      "unresolved": 27,
+      "warnings": []
+    },
+    {
+      "importer": "importers.import_minor_brands",
+      "status": "ok",
+      "adapter_status": "real_adapter",
+      "processed": 69,
+      "verified": 0,
+      "unresolved": 67,
+      "warnings": []
+    }
+  ]
+}

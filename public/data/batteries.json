@@ -1,0 +1,869 @@
+[
+  {
+    "battery_id": "canon_bp_511",
+    "brand": "Canon",
+    "model": "BP-511",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_bp_511a",
+    "brand": "Canon",
+    "model": "BP-511A",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_bp_512",
+    "brand": "Canon",
+    "model": "BP-512",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_10l",
+    "brand": "Canon",
+    "model": "NB-10L",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_11l",
+    "brand": "Canon",
+    "model": "NB-11L",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_11lh",
+    "brand": "Canon",
+    "model": "NB-11LH",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_12l",
+    "brand": "Canon",
+    "model": "NB-12L",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": ""
+  },
+  {
+    "battery_id": "canon_nb_13l",
+    "brand": "Canon",
+    "model": "NB-13L",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 3.6,
+    "capacity_mah": 1250,
+    "notes": "Canon Japan FAQ lists nominal voltage 3.6 V and nominal capacity 1250 mAh."
+  },
+  {
+    "battery_id": "canon_nb_15l",
+    "brand": "Canon",
+    "model": "NB-15L",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_1ah",
+    "brand": "Canon",
+    "model": "NB-1AH",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_1l",
+    "brand": "Canon",
+    "model": "NB-1L",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": ""
+  },
+  {
+    "battery_id": "canon_nb_1lh",
+    "brand": "Canon",
+    "model": "NB-1LH",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_2ah",
+    "brand": "Canon",
+    "model": "NB-2AH",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_2l",
+    "brand": "Canon",
+    "model": "NB-2L",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_2lh",
+    "brand": "Canon",
+    "model": "NB-2LH",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_300",
+    "brand": "Canon",
+    "model": "NB-300",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_3ah",
+    "brand": "Canon",
+    "model": "NB-3AH",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_3l",
+    "brand": "Canon",
+    "model": "NB-3L",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_4l",
+    "brand": "Canon",
+    "model": "NB-4L",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_5l",
+    "brand": "Canon",
+    "model": "NB-5L",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_6l",
+    "brand": "Canon",
+    "model": "NB-6L",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_6lh",
+    "brand": "Canon",
+    "model": "NB-6LH",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_7l",
+    "brand": "Canon",
+    "model": "NB-7L",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_8l",
+    "brand": "Canon",
+    "model": "NB-8L",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "canon_nb_9l",
+    "brand": "Canon",
+    "model": "NB-9L",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
+  },
+  {
+    "battery_id": "casio_np_130",
+    "brand": "Casio",
+    "model": "NP-130",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": 1800,
+    "notes": "Casio FAQ lists rated capacity 1800 mAh."
+  },
+  {
+    "battery_id": "casio_np_130a",
+    "brand": "Casio",
+    "model": "NP-130A",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": 1800,
+    "notes": "Casio FAQ lists rated capacity 1800 mAh."
+  },
+  {
+    "battery_id": "fujifilm_np_120",
+    "brand": "Fujifilm",
+    "model": "NP-120",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "fujifilm_np_40",
+    "brand": "Fujifilm",
+    "model": "NP-40",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "fujifilm_np_45s",
+    "brand": "Fujifilm",
+    "model": "NP-45S",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": ""
+  },
+  {
+    "battery_id": "fujifilm_np_50",
+    "brand": "Fujifilm",
+    "model": "NP-50",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 3.6,
+    "capacity_mah": null,
+    "notes": "Voltage confirmed in FinePix REAL 3D W3 manual snippet."
+  },
+  {
+    "battery_id": "fujifilm_np_70",
+    "brand": "Fujifilm",
+    "model": "NP-70",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "fujifilm_np_95",
+    "brand": "Fujifilm",
+    "model": "NP-95",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by import_all_remaining.py; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "fujifilm_np_w126s",
+    "brand": "Fujifilm",
+    "model": "NP-W126S",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 7.2,
+    "capacity_mah": 1260,
+    "notes": "Fujifilm X100VI manual lists nominal voltage 7.2 V and capacity 1260 mAh."
+  },
+  {
+    "battery_id": "generic_2cr5",
+    "brand": "Generic",
+    "model": "2CR5",
+    "aliases": [
+      "2CR5 lithium"
+    ],
+    "chemistry": "lithium",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Special camera lithium battery format; voltage/capacity intentionally left blank until source-backed."
+  },
+  {
+    "battery_id": "generic_aa",
+    "brand": "Generic",
+    "model": "AA",
+    "aliases": [
+      "LR6",
+      "HR6",
+      "AA alkaline",
+      "AA NiMH",
+      "AA lithium",
+      "AA cell"
+    ],
+    "chemistry": "varies",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Generic AA cell; chemistry and voltage depend on cell type."
+  },
+  {
+    "battery_id": "generic_aaa",
+    "brand": "Generic",
+    "model": "AAA",
+    "aliases": [
+      "LR03",
+      "HR03",
+      "AAA alkaline",
+      "AAA NiMH",
+      "AAA lithium",
+      "AAA cell"
+    ],
+    "chemistry": "varies",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Generic AAA cell; chemistry and voltage depend on cell type."
+  },
+  {
+    "battery_id": "generic_cr123a",
+    "brand": "Generic",
+    "model": "CR123A",
+    "aliases": [],
+    "chemistry": "lithium",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "generic_cr_v3",
+    "brand": "Generic",
+    "model": "CR-V3",
+    "aliases": [
+      "CR3V",
+      "CR-3V"
+    ],
+    "chemistry": "lithium",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Special camera lithium battery format; not interchangeable with AA unless source says camera supports both."
+  },
+  {
+    "battery_id": "kodak_klic_7006",
+    "brand": "Kodak",
+    "model": "KLIC-7006",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": ""
+  },
+  {
+    "battery_id": "kodak_lb_012",
+    "brand": "Kodak PIXPRO",
+    "model": "LB-012",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 3.7,
+    "capacity_mah": 700,
+    "notes": "Kodak PIXPRO FZ55 spec sheet lists 3.7 V / 700 mAh."
+  },
+  {
+    "battery_id": "kodak_lb_060",
+    "brand": "Kodak PIXPRO",
+    "model": "LB-060",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 3.7,
+    "capacity_mah": 1100,
+    "notes": "Kodak PIXPRO AZ528 page lists 3.7 V / 1100 mAh."
+  },
+  {
+    "battery_id": "konica_minolta_np_1",
+    "brand": "Konica Minolta",
+    "model": "NP-1",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 3.7,
+    "capacity_mah": null,
+    "notes": "Third-party manual mirror snippet lists 3.7 V."
+  },
+  {
+    "battery_id": "konica_minolta_np_600",
+    "brand": "Konica Minolta",
+    "model": "NP-600",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 3.7,
+    "capacity_mah": null,
+    "notes": "Konica Minolta G600 release/manual sources confirm NP-600."
+  },
+  {
+    "battery_id": "leica_bp_dc12",
+    "brand": "Leica",
+    "model": "BP-DC12",
+    "aliases": [
+      "BP-DC12-U"
+    ],
+    "chemistry": "lithium-ion",
+    "voltage": 7.2,
+    "capacity_mah": 1200,
+    "notes": "Retailer source lists 7.2 V / 1200 mAh for V-Lux 5 battery."
+  },
+  {
+    "battery_id": "leica_bp_dc15",
+    "brand": "Leica",
+    "model": "BP-DC15",
+    "aliases": [
+      "BP-DC15-E"
+    ],
+    "chemistry": "lithium-ion",
+    "voltage": 7.2,
+    "capacity_mah": 1025,
+    "notes": "B&H retailer source lists 7.2 V / 1025 mAh."
+  },
+  {
+    "battery_id": "leica_bp_scl4",
+    "brand": "Leica",
+    "model": "BP-SCL4",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 7.2,
+    "capacity_mah": 1860,
+    "notes": "Leica Q2 technical data PDF lists 7.2 V / 1860 mAh."
+  },
+  {
+    "battery_id": "leica_bp_scl6",
+    "brand": "Leica",
+    "model": "BP-SCL6",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 7.2,
+    "capacity_mah": 2200,
+    "notes": "Leica Q3 store/technical data lists 7.2 V / 2200 mAh."
+  },
+  {
+    "battery_id": "minolta_np_400",
+    "brand": "Minolta",
+    "model": "NP-400",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "nikon_en_el1",
+    "brand": "Nikon",
+    "model": "EN-EL1",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "nikon_en_el10",
+    "brand": "Nikon",
+    "model": "EN-EL10",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "nikon_en_el11_builtin",
+    "brand": "Nikon",
+    "model": "EN-EL11 built-in",
+    "aliases": [
+      "EN-EL11"
+    ],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Built into Nikon COOLPIX S01; non-removable per Nikon USA."
+  },
+  {
+    "battery_id": "nikon_en_el12",
+    "brand": "Nikon",
+    "model": "EN-EL12",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 3.7,
+    "capacity_mah": 1050,
+    "notes": "Capacity/voltage from Nikon EN-EL12 battery overview source."
+  },
+  {
+    "battery_id": "nikon_en_el14",
+    "brand": "Nikon",
+    "model": "EN-EL14",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "nikon_en_el19",
+    "brand": "Nikon",
+    "model": "EN-EL19",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "nikon_en_el20",
+    "brand": "Nikon",
+    "model": "EN-EL20",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "nikon_en_el20a",
+    "brand": "Nikon",
+    "model": "EN-EL20a",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Nikon FAQ states EN-EL20 is not usable in P1000/P950/P1100."
+  },
+  {
+    "battery_id": "nikon_en_el23",
+    "brand": "Nikon",
+    "model": "EN-EL23",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "nikon_en_el5",
+    "brand": "Nikon",
+    "model": "EN-EL5",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "nikon_en_el7",
+    "brand": "Nikon",
+    "model": "EN-EL7",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "nikon_en_el8",
+    "brand": "Nikon",
+    "model": "EN-EL8",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "olympus_li_10b",
+    "brand": "Olympus",
+    "model": "LI-10B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "olympus_li_90b",
+    "brand": "Olympus",
+    "model": "LI-90B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": ""
+  },
+  {
+    "battery_id": "olympus_li_92b",
+    "brand": "Olympus / OM System",
+    "model": "LI-92B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 3.6,
+    "capacity_mah": 1350,
+    "notes": "OM System LI-92B accessory page lists 3.6 V and 1350 mAh."
+  },
+  {
+    "battery_id": "panasonic_dmw_blc12",
+    "brand": "Panasonic",
+    "model": "DMW-BLC12",
+    "aliases": [
+      "DMW-BLC12PP",
+      "DMW-BLC12E"
+    ],
+    "chemistry": "lithium-ion",
+    "voltage": 7.2,
+    "capacity_mah": 1200,
+    "notes": "Panasonic FZ1000 support page lists DMW-BLC12PP 7.2 V / 1200 mAh."
+  },
+  {
+    "battery_id": "panasonic_dmw_blg10",
+    "brand": "Panasonic",
+    "model": "DMW-BLG10",
+    "aliases": [
+      "DMW-BLG10PP",
+      "DMW-BLG10E"
+    ],
+    "chemistry": "lithium-ion",
+    "voltage": 7.2,
+    "capacity_mah": 1025,
+    "notes": "Capacity/voltage confirmed by Panasonic/B&H sources."
+  },
+  {
+    "battery_id": "panasonic_dmw_bmb9",
+    "brand": "Panasonic",
+    "model": "DMW-BMB9",
+    "aliases": [
+      "DMW-BMB9E"
+    ],
+    "chemistry": "lithium-ion",
+    "voltage": 7.2,
+    "capacity_mah": 895,
+    "notes": "Panasonic DMW-BMB9 page lists 7.2 V / 895 mAh."
+  },
+  {
+    "battery_id": "pentax_d_li92",
+    "brand": "Pentax",
+    "model": "D-LI92",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by import_all_remaining.py; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "ricoh_db_110",
+    "brand": "Ricoh",
+    "model": "DB-110",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 3.6,
+    "capacity_mah": 1350,
+    "notes": "WG-6 manual snippet lists 3.6 V / 1350 mAh."
+  },
+  {
+    "battery_id": "samsung_bp70a",
+    "brand": "Samsung",
+    "model": "BP70A",
+    "aliases": [
+      "BP-70A"
+    ],
+    "chemistry": "lithium-ion",
+    "voltage": 3.7,
+    "capacity_mah": 700,
+    "notes": "Samsung manual sources list 700 mAh or min 700 mAh depending model."
+  },
+  {
+    "battery_id": "samsung_bp_1410",
+    "brand": "Samsung",
+    "model": "BP-1410",
+    "aliases": [
+      "BP1410"
+    ],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": ""
+  },
+  {
+    "battery_id": "samsung_slb_10a",
+    "brand": "Samsung",
+    "model": "SLB-10A",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": ""
+  },
+  {
+    "battery_id": "sigma_bp_31",
+    "brand": "Sigma",
+    "model": "BP-31",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 3.7,
+    "capacity_mah": 1300,
+    "notes": "B&H source lists 3.7 V / 1300 mAh."
+  },
+  {
+    "battery_id": "sigma_bp_41",
+    "brand": "Sigma",
+    "model": "BP-41",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": 1250,
+    "notes": "Capacity from third-party battery summary; official Sigma source confirms camera compatibility."
+  },
+  {
+    "battery_id": "sigma_bp_51",
+    "brand": "Sigma",
+    "model": "BP-51",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by import_all_remaining.py; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "sony_np_bd1",
+    "brand": "Sony",
+    "model": "NP-BD1",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "sony_np_bg1",
+    "brand": "Sony",
+    "model": "NP-BG1",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "sony_np_bk1",
+    "brand": "Sony",
+    "model": "NP-BK1",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "sony_np_bn",
+    "brand": "Sony",
+    "model": "NP-BN",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "sony_np_bn1",
+    "brand": "Sony",
+    "model": "NP-BN1",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Listed by Sony as optional battery on some NP-BN cameras."
+  },
+  {
+    "battery_id": "sony_np_bx1",
+    "brand": "Sony",
+    "model": "NP-BX1",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by import_all_remaining.py; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "sony_np_ft1",
+    "brand": "Sony",
+    "model": "NP-FT1",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "sony_np_fw50",
+    "brand": "Sony",
+    "model": "NP-FW50",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by import_all_remaining.py; electrical details left blank unless source-backed."
+  }
+]

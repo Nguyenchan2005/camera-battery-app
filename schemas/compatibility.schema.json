@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Compatibility",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "camera_id",
+    "battery_id",
+    "status",
+    "quantity_required",
+    "note",
+    "source_name",
+    "source_url",
+    "source_type",
+    "confidence",
+    "last_verified"
+  ],
+  "properties": {
+    "camera_id": { "type": "string", "pattern": "^[a-z0-9_]+$" },
+    "battery_id": {
+      "anyOf": [
+        { "type": "string", "pattern": "^[a-z0-9_]+$" },
+        { "type": "null" }
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "fully_compatible",
+        "partially_compatible",
+        "uses_aa",
+        "uses_aaa",
+        "built_in_battery",
+        "unknown"
+      ]
+    },
+    "quantity_required": {
+      "anyOf": [
+        { "type": "integer", "minimum": 1 },
+        { "type": "null" }
+      ]
+    },
+    "note": { "type": "string" },
+    "source_name": { "type": "string" },
+    "source_url": { "type": "string", "format": "uri" },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "official_manual",
+        "official_accessory_page",
+        "trusted_database",
+        "manual_mirror",
+        "retailer",
+        "third_party_chart",
+        "unknown"
+      ]
+    },
+    "confidence": { "type": "string", "enum": ["high", "medium", "low"] },
+    "last_verified": { "type": "string", "format": "date" }
+  }
+}
