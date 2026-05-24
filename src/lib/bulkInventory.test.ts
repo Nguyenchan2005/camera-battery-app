@@ -20,19 +20,19 @@ const db = createDatabase({
 
 describe("bulk inventory paste analysis", () => {
   it("normalizes pasted lines with bullets and numbering", () => {
-    expect(parseBulkInventoryLines("1. Canon G7X Mark III\n- NB13L\n\n* Fujifilm FinePix F30")).toEqual([
+    expect(parseBulkInventoryLines("1. Canon G7X Mark III\n- NB13L\n\n* Kodak EasyShare C1013")).toEqual([
       "Canon G7X Mark III",
       "NB13L",
-      "Fujifilm FinePix F30",
+      "Kodak EasyShare C1013",
     ]);
   });
 
   it("auto-matches only unique exact camera, battery, and unresolved candidate lines", () => {
-    const result = analyzeBulkInventoryInput("Canon G7X Mark III\nNB13L\nFujifilm FinePix F30", db);
+    const result = analyzeBulkInventoryInput("Canon G7X Mark III\nNB13L\nKodak EasyShare C1013", db);
     expect(result.autoMatches.map((row) => `${row.match.type}:${row.match.id}`)).toEqual([
       "camera:canon_powershot_g7_x_mark_iii",
       "battery:canon_nb_13l",
-      "unresolved_candidate:fujifilm_finepix_f30",
+      "unresolved_candidate:kodak_easyshare_c1013",
     ]);
     expect(result.ambiguousMatches).toEqual([]);
     expect(result.notFound).toEqual([]);

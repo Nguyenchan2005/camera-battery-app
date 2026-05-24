@@ -645,6 +645,16 @@
     "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
   },
   {
+    "battery_id": "olympus_li_50b",
+    "brand": "Olympus",
+    "model": "LI-50B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by popular compact verifier from explicit manual_battery_sources.json source text."
+  },
+  {
     "battery_id": "olympus_li_90b",
     "brand": "Olympus",
     "model": "LI-90B",
@@ -689,6 +699,16 @@
     "voltage": 7.2,
     "capacity_mah": 1025,
     "notes": "Capacity/voltage confirmed by Panasonic/B&H sources."
+  },
+  {
+    "battery_id": "panasonic_dmw_blg10pp",
+    "brand": "Panasonic",
+    "model": "DMW-BLG10PP",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by popular compact verifier from explicit manual_battery_sources.json source text."
   },
   {
     "battery_id": "panasonic_dmw_bmb9",
@@ -845,6 +865,26 @@
     "voltage": null,
     "capacity_mah": null,
     "notes": "Added by import_all_remaining.py; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "sony_np_fe1",
+    "brand": "Sony",
+    "model": "NP-FE1",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by popular compact verifier from explicit manual_battery_sources.json source text."
+  },
+  {
+    "battery_id": "sony_np_fr1",
+    "brand": "Sony",
+    "model": "NP-FR1",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by popular compact verifier from explicit manual_battery_sources.json source text."
   },
   {
     "battery_id": "sony_np_ft1",

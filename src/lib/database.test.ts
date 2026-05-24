@@ -40,7 +40,7 @@ describe("database loader, search, and source-backed lookup", () => {
       },
     });
     expect(requested).toHaveLength(6);
-    expect(loaded.cameras).toHaveLength(463);
+    expect(loaded.cameras).toHaveLength(474);
     expect(loaded.cameraCandidates).toHaveLength(1823);
   });
 
@@ -111,7 +111,7 @@ describe("database loader, search, and source-backed lookup", () => {
   });
 
   it("searches an unresolved candidate without returning battery compatibility", () => {
-    const result = db.searchAll("Fujifilm FinePix F30", 5);
+    const result = db.searchAll("Kodak EasyShare C1013", 5);
     expect(result[0]?.type).toBe("unresolved_candidate");
     const lookup = db.lookupFromMatch(result[0]);
     expect(lookup.kind).toBe("unresolved");
@@ -123,8 +123,8 @@ describe("database loader, search, and source-backed lookup", () => {
 
   it("does not list unresolved cameras in battery compatibility results", () => {
     const compatibleCameras = db.getBatteryCompatibleCameras("canon_nb_13l");
-    expect(compatibleCameras.some((row) => row.camera.camera_id === "fujifilm_finepix_f30")).toBe(false);
-    expect(db.getMyCompatibleCameras("canon_nb_13l", ["fujifilm_finepix_f30"])).toEqual([]);
+    expect(compatibleCameras.some((row) => row.camera.camera_id === "kodak_easyshare_c1013")).toBe(false);
+    expect(db.getMyCompatibleCameras("canon_nb_13l", ["kodak_easyshare_c1013"])).toEqual([]);
   });
 
   it("returns unknown for a model not in the database", () => {

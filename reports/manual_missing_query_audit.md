@@ -6,7 +6,7 @@ Generated: 2026-05-25
 
 - total manual query notes: 4
 - search_alias_fixed: 2
-- unresolved_battery: 2
+- verified_battery_source_added: 2
 
 ## Rows
 
@@ -14,5 +14,5 @@ Generated: 2026-05-25
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | canon ixy500 | search_alias_fixed | Canon | IXY DIGITAL 500 | verified_camera | canon_powershot_s500_digital_elph | No data action; keep search regression test. | Data existed as Canon PowerShot S500 DIGITAL ELPH / DIGITAL IXUS 500 / IXY DIGITAL 500. |
 | sony t700 | search_alias_fixed | Sony | DSC-T700 | verified_camera | sony_cyber_shot_dsc_t700 | No data action; keep search regression test. | Data existed as Sony Cyber-shot DSC-T700. |
-| fuji f30 | unresolved_battery | Fujifilm | FinePix F30 | unresolved_candidate | fujifilm_finepix_f30 | Find explicit battery source before promoting. | Candidate exists in camera_candidates.json, but no explicit source-backed battery mapping is stored yet. |
-| panasonic tz90 | unresolved_battery | Panasonic | Lumix DC-ZS70 / TZ90 | unresolved_candidate | panasonic_lumix_dc_zs70 | Find explicit battery source before promoting. | Candidate exists in camera_candidates.json, but no explicit source-backed battery mapping is stored yet. |
+| fuji f30 | verified_battery_source_added | Fujifilm | FinePix F30 | verified_camera | fujifilm_finepix_f30 | No data action; keep source-backed battery regression covered. | Phase Data 5 promoted this model with source-backed NP-95 mapping from the Fujifilm FinePix F30 owner manual. |
+| panasonic tz90 | verified_battery_source_added | Panasonic | Lumix DC-ZS70 / TZ90 | verified_camera | panasonic_lumix_dc_zs70 | No data action; keep source-backed battery regression covered. | Phase Data 5 promoted this model with source-backed DMW-BLG10PP mapping from Panasonic support documentation. |

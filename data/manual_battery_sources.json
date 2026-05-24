@@ -1,0 +1,123 @@
+[
+  {
+    "camera_query": "Sony DSC-T1",
+    "battery_model": "NP-FT1",
+    "battery_brand": "Sony",
+    "source_name": "Sony Japan DSC-T1 product archive",
+    "source_url": "https://www.sony.jp/cyber-shot/products/archive/DSC-T1/",
+    "source_type": "official_manual",
+    "source_text": "DSC-T1 supplied accessories include rechargeable battery pack NP-FT1.",
+    "confidence": "high",
+    "notes": "Official Sony product archive states NP-FT1 supplied battery pack."
+  },
+  {
+    "camera_query": "Sony DSC-T3",
+    "battery_model": "NP-FT1",
+    "battery_brand": "Sony",
+    "source_name": "Sony Cyber-shot battery compatibility table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "source_text": "Battery compatibility table: DSC-T3 compatible with NP-FT1; NP-FR1 not compatible; NP-FD1 not compatible.",
+    "confidence": "high",
+    "notes": "Official Sony accessory compatibility table lists DSC-T3 as compatible with NP-FT1."
+  },
+  {
+    "camera_query": "Sony DSC-T7",
+    "battery_model": "NP-FE1",
+    "battery_brand": "Sony",
+    "source_name": "Sony DSC-T7 Read This First manual",
+    "source_url": "https://www.sony.jp/cyber-shot/emdown/data/T7_first.pdf",
+    "source_type": "official_manual",
+    "source_text": "DSC-T7 Read This First manual: use the supplied NP-FE1 battery pack before using the camera for the first time.",
+    "confidence": "high",
+    "notes": "Official Sony manual text names the supplied NP-FE1 battery pack."
+  },
+  {
+    "camera_query": "Sony DSC-T10",
+    "battery_model": "NP-FT1",
+    "battery_brand": "Sony",
+    "source_name": "Sony Asia DSC-T10 specifications",
+    "source_url": "https://www.sony-asia.com/electronics/support/compact-cameras-dsc-t-series/dsc-t10/specifications",
+    "source_type": "official_manual",
+    "source_text": "DSC-T10 Specifications: Battery System Lithium ION Battery NP-FT1.",
+    "confidence": "high",
+    "notes": "Official Sony support specifications name NP-FT1."
+  },
+  {
+    "camera_query": "Sony DSC-T50",
+    "battery_model": "NP-FR1",
+    "battery_brand": "Sony",
+    "source_name": "Sony Japan DSC-T50 specifications",
+    "source_url": "https://www.sony.jp/cyber-shot/products/DSC-T50/spec.html",
+    "source_type": "official_manual",
+    "source_text": "DSC-T50 supplied accessories include rechargeable battery pack NP-FR1 and battery charger BC-CS3.",
+    "confidence": "high",
+    "notes": "Official Sony specifications name NP-FR1."
+  },
+  {
+    "camera_query": "Sony DSC-T70",
+    "battery_model": "NP-BD1",
+    "battery_brand": "Sony",
+    "source_name": "Sony Singapore DSC-T70 specifications",
+    "source_url": "https://www.sony.com.sg/electronics/support/compact-cameras-dsc-t-series/dsc-t70/specifications",
+    "source_type": "official_manual",
+    "source_text": "DSC-T70 Specifications: Battery System Lithium ION Battery NP-BD1.",
+    "confidence": "high",
+    "notes": "Official Sony support specifications name NP-BD1."
+  },
+  {
+    "camera_query": "Sony DSC-T77",
+    "battery_model": "NP-BD1",
+    "battery_brand": "Sony",
+    "source_name": "Sony Italy DSC-T77 specifications",
+    "source_url": "https://www.sony.it/electronics/support/compact-cameras-dsct-series/dsc-t77/specifications",
+    "source_type": "official_manual",
+    "source_text": "DSC-T77 specifications: Batteria ricaricabile (NP-BD1), caricabatterie.",
+    "confidence": "high",
+    "notes": "Official Sony support specifications name NP-BD1."
+  },
+  {
+    "camera_query": "Sony DSC-T90",
+    "battery_model": "NP-BD1",
+    "battery_brand": "Sony",
+    "source_name": "Sony India DSC-T90 specifications",
+    "source_url": "https://www.sony.co.in/electronics/support/compact-cameras-dsct-series/dsc-t90/specifications",
+    "source_type": "official_manual",
+    "source_text": "DSC-T90 Specifications: Lithium ION Battery NP-BD1.",
+    "confidence": "high",
+    "notes": "Official Sony support specifications name NP-BD1."
+  },
+  {
+    "camera_query": "Fujifilm FinePix F30",
+    "battery_model": "NP-95",
+    "battery_brand": "Fujifilm",
+    "source_name": "Fujifilm FinePix F30 owner manual",
+    "source_url": "https://dl.fujifilm-x.com/support/manual/f/finepix_f30_manual_01.pdf",
+    "source_type": "official_manual",
+    "source_text": "FinePix F30 Owner's Manual: Accessories Included - Rechargeable Battery NP-95 (1). Specifications of the included NP-95.",
+    "confidence": "high",
+    "notes": "Official Fujifilm manual names the included NP-95 battery."
+  },
+  {
+    "camera_query": "Panasonic Lumix DC-ZS70",
+    "battery_model": "DMW-BLG10PP",
+    "battery_brand": "Panasonic",
+    "source_name": "Panasonic support charging instructions DC-ZS70",
+    "source_url": "https://help.na.panasonic.com/answers/how-to-charge-the-battery-on-a-lumix-camera/",
+    "source_type": "official_manual",
+    "source_text": "DC-ZS70: Supplied battery DMW-BLG10PP. Charging Time: Approx. 190 minutes.",
+    "confidence": "high",
+    "notes": "Official Panasonic support page names the DC-ZS70 supplied battery."
+  },
+  {
+    "camera_query": "Olympus XZ-1",
+    "battery_model": "LI-50B",
+    "battery_brand": "Olympus",
+    "source_name": "Olympus XZ-1 instruction manual",
+    "source_url": "https://learnandsupport.getolympus.com/sites/default/files/media/files/2018/04/XZ-1_Instruction_Manual_EN.pdf",
+    "source_type": "official_manual",
+    "source_text": "XZ-1 Instruction Manual: This camera uses one Olympus lithium ion battery (LI-50B).",
+    "confidence": "high",
+    "notes": "Official Olympus manual names LI-50B."
+  }
+]

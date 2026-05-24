@@ -17,14 +17,14 @@
     "query": "fuji f30",
     "expected_brand": "Fujifilm",
     "expected_model": "FinePix F30",
-    "status": "unresolved_battery",
-    "notes": "Candidate exists in camera_candidates.json, but no explicit source-backed battery mapping is stored yet."
+    "status": "verified_battery_source_added",
+    "notes": "Phase Data 5 promoted this model with source-backed NP-95 mapping from the Fujifilm FinePix F30 owner manual."
   },
   {
     "query": "panasonic tz90",
     "expected_brand": "Panasonic",
     "expected_model": "Lumix DC-ZS70 / TZ90",
-    "status": "unresolved_battery",
-    "notes": "Candidate exists in camera_candidates.json, but no explicit source-backed battery mapping is stored yet."
+    "status": "verified_battery_source_added",
+    "notes": "Phase Data 5 promoted this model with source-backed DMW-BLG10PP mapping from Panasonic support documentation."
   }
 ]

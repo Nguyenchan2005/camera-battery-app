@@ -38,7 +38,7 @@ Generated: 2026-05-25
 | Casio | QV | 14 | 0 | 0 | 14 | 14 |
 | Fujifilm | FinePix A | 23 | 3 | 2 | 20 | 23 |
 | Fujifilm | FinePix AV | 6 | 0 | 0 | 6 | 6 |
-| Fujifilm | FinePix F | 26 | 4 | 0 | 22 | 26 |
+| Fujifilm | FinePix F | 26 | 5 | 1 | 21 | 26 |
 | Fujifilm | FinePix HS | 4 | 0 | 0 | 4 | 4 |
 | Fujifilm | FinePix J | 12 | 0 | 0 | 12 | 12 |
 | Fujifilm | FinePix JX | 6 | 0 | 0 | 6 | 6 |
@@ -123,7 +123,7 @@ Generated: 2026-05-25
 | Olympus | VG series | 4 | 0 | 0 | 4 | 4 |
 | Olympus | VH series | 2 | 0 | 0 | 2 | 2 |
 | Olympus | VR series | 4 | 0 | 0 | 4 | 4 |
-| Olympus | XZ series | 1 | 0 | 0 | 1 | 1 |
+| Olympus | XZ series | 1 | 1 | 1 | 0 | 1 |
 | Panasonic | Lumix FP | 6 | 0 | 0 | 6 | 6 |
 | Panasonic | Lumix FS | 11 | 0 | 0 | 11 | 11 |
 | Panasonic | Lumix FX | 21 | 0 | 0 | 21 | 21 |
@@ -134,7 +134,7 @@ Generated: 2026-05-25
 | Panasonic | Lumix LZ | 11 | 1 | 0 | 10 | 11 |
 | Panasonic | Lumix SZ | 6 | 0 | 0 | 6 | 6 |
 | Panasonic | Lumix TS/FT | 11 | 0 | 0 | 11 | 11 |
-| Panasonic | Lumix TZ/ZS | 17 | 0 | 0 | 17 | 17 |
+| Panasonic | Lumix TZ/ZS | 17 | 1 | 1 | 16 | 17 |
 | Panasonic | Lumix ZS/TZ | 1 | 1 | 1 | 0 | 1 |
 | Pentax | Optio | 87 | 3 | 0 | 84 | 87 |
 | Pentax | WG | 1 | 1 | 1 | 0 | 1 |
@@ -158,7 +158,7 @@ Generated: 2026-05-25
 | Sony | Cyber-shot DSC-RX1 | 3 | 3 | 3 | 0 | 3 |
 | Sony | Cyber-shot DSC-RX10 | 4 | 2 | 2 | 2 | 4 |
 | Sony | Cyber-shot DSC-RX100 | 8 | 8 | 8 | 0 | 8 |
-| Sony | Cyber-shot DSC-T | 27 | 8 | 6 | 19 | 27 |
+| Sony | Cyber-shot DSC-T | 27 | 16 | 14 | 11 | 27 |
 | Sony | Cyber-shot DSC-TX | 11 | 0 | 0 | 11 | 11 |
 | Sony | Cyber-shot DSC-W | 58 | 22 | 20 | 36 | 58 |
 | Sony | Cyber-shot DSC-WX | 18 | 4 | 4 | 14 | 18 |
@@ -365,7 +365,6 @@ Generated: 2026-05-25
 | Fujifilm | FinePix F |  | Fujifilm FinePix F100fd | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix F |  | Fujifilm FinePix F20 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix F |  | Fujifilm FinePix F200EXR | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
-| Fujifilm | FinePix F |  | Fujifilm FinePix F30 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_FinePix_F30 |
 | Fujifilm | FinePix F |  | Fujifilm FinePix F300EXR | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_FinePix_F300EXR |
 | Fujifilm | FinePix F |  | Fujifilm FinePix F31fd | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_FinePix_F31fd |
 | Fujifilm | FinePix F |  | Fujifilm FinePix F401 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_FinePix_F401 |
@@ -1038,7 +1037,6 @@ Generated: 2026-05-25
 | Olympus | VR series | 2011 | Olympus VR-320 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | VR series | 2011 | Olympus VR-330 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | VR series | 2012 | Olympus VR-340 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | XZ series |  | Olympus XZ-1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_XZ-1 |
 | Panasonic | Lumix FP | 2010 | Panasonic Lumix DMC-FP1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix FP | 2010 | Panasonic Lumix DMC-FP2 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix FP | 2010 | Panasonic Lumix DMC-FP3 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
@@ -1145,7 +1143,6 @@ Generated: 2026-05-25
 | Panasonic | Lumix TS/FT | 2012 | Panasonic Lumix DMC-TS4 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix TS/FT | 2013 | Panasonic Lumix DMC-TS5 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix TS/FT | 2015 | Panasonic Lumix DMC-TS6 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TZ/ZS | 2017 | Panasonic Lumix DC-ZS70 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix TZ/ZS | 2019 | Panasonic Lumix DC-ZS80 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix TZ/ZS | 2024 | Panasonic Lumix DC-ZS99 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix TZ/ZS |  | Panasonic Lumix DMC-TZ3 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-TZ7 |
@@ -1451,23 +1448,15 @@ Generated: 2026-05-25
 | Sony | Cyber-shot DSC-HX |  | Sony Cyber-shot DSC-HX9V | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-RX10 | 2013 | Sony Cyber-shot DSC-RX10 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-RX10 | 2015 | Sony Cyber-shot DSC-RX10 II | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T10 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T11 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T110 | Battery source check failed: TimeoutError: The read operation timed out | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T2 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T20 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T25 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T3 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony_DSC-T3 |
 | Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T30 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T5 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T50 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-T | 2012 | Sony Cyber-shot DSC-T66 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T7 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony_DSC-T7 |
-| Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T70 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T75 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T77 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T90 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T99 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-T | 2013 | Sony Cyber-shot DSC-TF1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-TX |  | Sony Cyber-shot DSC-TX1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |

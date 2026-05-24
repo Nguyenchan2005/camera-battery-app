@@ -5627,6 +5627,26 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "fujifilm_finepix_f30",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F30",
+    "display_name": "Fujifilm FinePix F30",
+    "aliases": [
+      "FUJIFILM FinePix F30"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F30"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "fujifilm_finepix_f40fd",
     "brand": "Fujifilm",
     "series": "FinePix F",
@@ -8581,6 +8601,29 @@
     "notes": ""
   },
   {
+    "camera_id": "olympus_xz_1",
+    "brand": "Olympus",
+    "series": "XZ series",
+    "model": "XZ-1",
+    "display_name": "Olympus XZ-1",
+    "aliases": [
+      "Olympus XZ-1"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus XZ-1"
+      ],
+      "regional_aliases": [
+        "Olympus XZ-1"
+      ]
+    },
+    "release_year": null,
+    "category": "premium_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "om_system_tough_tg_7",
     "brand": "OM System",
     "series": "Tough",
@@ -8645,6 +8688,29 @@
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": "Panasonic ZS/TZ names are regional names for the same travel-zoom class."
+  },
+  {
+    "camera_id": "panasonic_lumix_dc_zs70",
+    "brand": "Panasonic",
+    "series": "Lumix TZ/ZS",
+    "model": "DC-ZS70",
+    "display_name": "Panasonic Lumix DC-ZS70",
+    "aliases": [
+      "DC-ZS70"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DC-ZS70"
+      ],
+      "regional_aliases": [
+        "DC-ZS70"
+      ]
+    },
+    "release_year": 2017,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "panasonic_lumix_dmc_fz1000",
@@ -9544,6 +9610,54 @@
     "notes": ""
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_t1",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-T1",
+    "display_name": "Sony Cyber-shot DSC-T1",
+    "aliases": [
+      "DSC-T1",
+      "Cyber-shot DSC-T1"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-T1"
+      ],
+      "sony_code": [
+        "DSC-T1"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t10",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-T10",
+    "display_name": "Sony Cyber-shot DSC-T10",
+    "aliases": [
+      "DSC-T10",
+      "Cyber-shot DSC-T10"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-T10"
+      ],
+      "sony_code": [
+        "DSC-T10"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_t100",
     "brand": "Sony",
     "series": "Cyber-shot DSC-T",
@@ -9583,6 +9697,30 @@
       ],
       "sony_code": [
         "DSC-T200"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t3",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-T3",
+    "display_name": "Sony Cyber-shot DSC-T3",
+    "aliases": [
+      "DSC-T3",
+      "Cyber-shot DSC-T3"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-T3"
+      ],
+      "sony_code": [
+        "DSC-T3"
       ]
     },
     "release_year": null,
@@ -9640,6 +9778,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_t50",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-T50",
+    "display_name": "Sony Cyber-shot DSC-T50",
+    "aliases": [
+      "DSC-T50",
+      "Cyber-shot DSC-T50"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-T50"
+      ],
+      "sony_code": [
+        "DSC-T50"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_t500",
     "brand": "Sony",
     "series": "Cyber-shot DSC-T",
@@ -9655,6 +9817,54 @@
       ],
       "sony_code": [
         "DSC-T500"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t7",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-T7",
+    "display_name": "Sony Cyber-shot DSC-T7",
+    "aliases": [
+      "DSC-T7",
+      "Cyber-shot DSC-T7"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-T7"
+      ],
+      "sony_code": [
+        "DSC-T7"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t70",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-T70",
+    "display_name": "Sony Cyber-shot DSC-T70",
+    "aliases": [
+      "DSC-T70",
+      "Cyber-shot DSC-T70"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-T70"
+      ],
+      "sony_code": [
+        "DSC-T70"
       ]
     },
     "release_year": null,
@@ -9688,6 +9898,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_t77",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-T77",
+    "display_name": "Sony Cyber-shot DSC-T77",
+    "aliases": [
+      "DSC-T77",
+      "Cyber-shot DSC-T77"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-T77"
+      ],
+      "sony_code": [
+        "DSC-T77"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_t9",
     "brand": "Sony",
     "series": "Cyber-shot DSC-T",
@@ -9703,6 +9937,30 @@
       ],
       "sony_code": [
         "DSC-T9"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t90",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-T90",
+    "display_name": "Sony Cyber-shot DSC-T90",
+    "aliases": [
+      "DSC-T90",
+      "Cyber-shot DSC-T90"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-T90"
+      ],
+      "sony_code": [
+        "DSC-T90"
       ]
     },
     "release_year": null,

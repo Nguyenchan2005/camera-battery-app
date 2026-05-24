@@ -61,10 +61,12 @@ nikon_en_el5,Nikon,EN-EL5,[],lithium-ion,,,Added by Phase 3 unresolved verifier;
 nikon_en_el7,Nikon,EN-EL7,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 nikon_en_el8,Nikon,EN-EL8,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 olympus_li_10b,Olympus,LI-10B,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
+olympus_li_50b,Olympus,LI-50B,[],lithium-ion,,,Added by popular compact verifier from explicit manual_battery_sources.json source text.
 olympus_li_90b,Olympus,LI-90B,[],lithium-ion,,,
 olympus_li_92b,Olympus / OM System,LI-92B,[],lithium-ion,3.6,1350,OM System LI-92B accessory page lists 3.6 V and 1350 mAh.
 panasonic_dmw_blc12,Panasonic,DMW-BLC12,"[""DMW-BLC12PP"", ""DMW-BLC12E""]",lithium-ion,7.2,1200,Panasonic FZ1000 support page lists DMW-BLC12PP 7.2 V / 1200 mAh.
 panasonic_dmw_blg10,Panasonic,DMW-BLG10,"[""DMW-BLG10PP"", ""DMW-BLG10E""]",lithium-ion,7.2,1025,Capacity/voltage confirmed by Panasonic/B&H sources.
+panasonic_dmw_blg10pp,Panasonic,DMW-BLG10PP,[],lithium-ion,,,Added by popular compact verifier from explicit manual_battery_sources.json source text.
 panasonic_dmw_bmb9,Panasonic,DMW-BMB9,"[""DMW-BMB9E""]",lithium-ion,7.2,895,Panasonic DMW-BMB9 page lists 7.2 V / 895 mAh.
 pentax_d_li92,Pentax,D-LI92,[],lithium-ion,,,Added by import_all_remaining.py; electrical details left blank unless source-backed.
 ricoh_db_110,Ricoh,DB-110,[],lithium-ion,3.6,1350,WG-6 manual snippet lists 3.6 V / 1350 mAh.
@@ -80,5 +82,7 @@ sony_np_bk1,Sony,NP-BK1,[],lithium-ion,,,Added by Phase 3 unresolved verifier; e
 sony_np_bn,Sony,NP-BN,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 sony_np_bn1,Sony,NP-BN1,[],lithium-ion,,,Listed by Sony as optional battery on some NP-BN cameras.
 sony_np_bx1,Sony,NP-BX1,[],lithium-ion,,,Added by import_all_remaining.py; electrical details left blank unless source-backed.
+sony_np_fe1,Sony,NP-FE1,[],lithium-ion,,,Added by popular compact verifier from explicit manual_battery_sources.json source text.
+sony_np_fr1,Sony,NP-FR1,[],lithium-ion,,,Added by popular compact verifier from explicit manual_battery_sources.json source text.
 sony_np_ft1,Sony,NP-FT1,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 sony_np_fw50,Sony,NP-FW50,[],lithium-ion,,,Added by import_all_remaining.py; electrical details left blank unless source-backed.

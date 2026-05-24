@@ -99,6 +99,8 @@ def main() -> None:
             action = "Find explicit battery source before promoting."
         elif status == "missing_candidate":
             action = "Add candidate only with source_url confirming existence."
+        elif status == "verified_battery_source_added":
+            action = "No data action; keep source-backed battery regression covered."
         else:
             action = "Review manually."
 

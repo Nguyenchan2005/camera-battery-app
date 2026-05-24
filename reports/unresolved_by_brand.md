@@ -5,12 +5,12 @@ Generated: 2026-05-25
 | Brand | Unresolved models |
 | --- | ---: |
 | Kodak | 174 |
-| Fujifilm | 166 |
+| Fujifilm | 165 |
 | Casio | 159 |
-| Olympus | 144 |
-| Panasonic | 123 |
+| Olympus | 143 |
+| Panasonic | 122 |
 | Samsung | 113 |
-| Sony | 112 |
+| Sony | 104 |
 | Nikon | 99 |
 | Pentax | 84 |
 | HP | 66 |
@@ -229,7 +229,6 @@ Generated: 2026-05-25
 - Fujifilm FinePix F100fd (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix F20 (FinePix F): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix F200EXR (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix F30 (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_F30
 - Fujifilm FinePix F300EXR (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_F300EXR
 - Fujifilm FinePix F31fd (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_F31fd
 - Fujifilm FinePix F401 (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_F401
@@ -926,7 +925,6 @@ Generated: 2026-05-25
 - Olympus VR-320 (VR series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus VR-330 (VR series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus VR-340 (VR series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus XZ-1 (XZ series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus_XZ-1
 
 ### Panasonic
 
@@ -1036,7 +1034,6 @@ Generated: 2026-05-25
 - Panasonic Lumix DMC-TS4 (Lumix TS/FT): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-TS5 (Lumix TS/FT): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-TS6 (Lumix TS/FT): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
-- Panasonic Lumix DC-ZS70 (Lumix TZ/ZS): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DC-ZS80 (Lumix TZ/ZS): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DC-ZS99 (Lumix TZ/ZS): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-TZ3 (Lumix TZ/ZS): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-TZ7
@@ -1357,23 +1354,15 @@ Generated: 2026-05-25
 - Sony Cyber-shot DSC-HX9V (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-RX10 (Cyber-shot DSC-RX10): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-RX10 II (Cyber-shot DSC-RX10): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-T1 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-T10 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-T11 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-T110 (Cyber-shot DSC-T): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-T2 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-T20 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-T25 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-T3 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony_DSC-T3
 - Sony Cyber-shot DSC-T30 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-T5 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-T50 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-T66 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-T7 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony_DSC-T7
-- Sony Cyber-shot DSC-T70 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-T75 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-T77 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-T90 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-T99 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-TF1 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-TX1 (Cyber-shot DSC-TX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony

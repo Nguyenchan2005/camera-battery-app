@@ -11681,13 +11681,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm FinePix F30",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_F30",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm FinePix F30 owner manual",
+    "candidate_source_url": "https://dl.fujifilm-x.com/support/manual/f/finepix_f30_manual_01.pdf",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_f300exr",
@@ -32737,13 +32737,13 @@
     "release_year": null,
     "category": "premium_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus XZ-1",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_XZ-1",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Olympus XZ-1 instruction manual",
+    "candidate_source_url": "https://learnandsupport.getolympus.com/sites/default/files/media/files/2018/04/XZ-1_Instruction_Manual_EN.pdf",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "panasonic_lumix_dmc_fp8",
@@ -36276,13 +36276,13 @@
     "release_year": 2017,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Panasonic support charging instructions DC-ZS70",
+    "candidate_source_url": "https://help.na.panasonic.com/answers/how-to-charge-the-battery-on-a-lumix-camera/",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "panasonic_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "panasonic_lumix_dc_zs80",
@@ -44762,13 +44762,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony Japan DSC-T1 product archive",
+    "candidate_source_url": "https://www.sony.jp/cyber-shot/products/archive/DSC-T1/",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_t10",
@@ -44791,13 +44791,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony Asia DSC-T10 specifications",
+    "candidate_source_url": "https://www.sony-asia.com/electronics/support/compact-cameras-dsc-t-series/dsc-t10/specifications",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_t100",
@@ -45023,13 +45023,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony Cyber-shot DSC-T3",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony_DSC-T3",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony Cyber-shot battery compatibility table",
+    "candidate_source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_t30",
@@ -45168,13 +45168,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony Japan DSC-T50 specifications",
+    "candidate_source_url": "https://www.sony.jp/cyber-shot/products/DSC-T50/spec.html",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_t500",
@@ -45226,13 +45226,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony Cyber-shot DSC-T7",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony_DSC-T7",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony DSC-T7 Read This First manual",
+    "candidate_source_url": "https://www.sony.jp/cyber-shot/emdown/data/T7_first.pdf",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_t70",
@@ -45255,13 +45255,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony Singapore DSC-T70 specifications",
+    "candidate_source_url": "https://www.sony.com.sg/electronics/support/compact-cameras-dsc-t-series/dsc-t70/specifications",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_t700",
@@ -45342,13 +45342,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony Italy DSC-T77 specifications",
+    "candidate_source_url": "https://www.sony.it/electronics/support/compact-cameras-dsct-series/dsc-t77/specifications",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_t9",
@@ -45400,13 +45400,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony India DSC-T90 specifications",
+    "candidate_source_url": "https://www.sony.co.in/electronics/support/compact-cameras-dsct-series/dsc-t90/specifications",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_t900",

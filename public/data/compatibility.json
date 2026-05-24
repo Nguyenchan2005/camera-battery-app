@@ -4596,6 +4596,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "fujifilm_finepix_f30",
+    "battery_id": "fujifilm_np_95",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "FinePix F30 Owner's Manual: Accessories Included - Rechargeable Battery NP-95 (1). Specifications of the included NP-95.",
+    "source_name": "Fujifilm FinePix F30 owner manual",
+    "source_url": "https://dl.fujifilm-x.com/support/manual/f/finepix_f30_manual_01.pdf",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "fujifilm_finepix_f40fd",
     "battery_id": "fujifilm_np_70",
     "status": "fully_compatible",
@@ -6528,6 +6540,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "olympus_xz_1",
+    "battery_id": "olympus_li_50b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "XZ-1 Instruction Manual: This camera uses one Olympus lithium ion battery (LI-50B).",
+    "source_name": "Olympus XZ-1 instruction manual",
+    "source_url": "https://learnandsupport.getolympus.com/sites/default/files/media/files/2018/04/XZ-1_Instruction_Manual_EN.pdf",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "om_system_tough_tg_7",
     "battery_id": "olympus_li_92b",
     "status": "fully_compatible",
@@ -6562,6 +6586,18 @@
     "source_type": "official_accessory_page",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "panasonic_lumix_dc_zs70",
+    "battery_id": "panasonic_dmw_blg10pp",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DC-ZS70: Supplied battery DMW-BLG10PP. Charging Time: Approx. 190 minutes.",
+    "source_name": "Panasonic support charging instructions DC-ZS70",
+    "source_url": "https://help.na.panasonic.com/answers/how-to-charge-the-battery-on-a-lumix-camera/",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "panasonic_lumix_dmc_fz1000",
@@ -7104,6 +7140,30 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_t1",
+    "battery_id": "sony_np_ft1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DSC-T1 supplied accessories include rechargeable battery pack NP-FT1.",
+    "source_name": "Sony Japan DSC-T1 product archive",
+    "source_url": "https://www.sony.jp/cyber-shot/products/archive/DSC-T1/",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t10",
+    "battery_id": "sony_np_ft1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DSC-T10 Specifications: Battery System Lithium ION Battery NP-FT1.",
+    "source_name": "Sony Asia DSC-T10 specifications",
+    "source_url": "https://www.sony-asia.com/electronics/support/compact-cameras-dsc-t-series/dsc-t10/specifications",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_t100",
     "battery_id": "sony_np_bg1",
     "status": "fully_compatible",
@@ -7126,6 +7186,18 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t3",
+    "battery_id": "sony_np_ft1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Battery compatibility table: DSC-T3 compatible with NP-FT1; NP-FR1 not compatible; NP-FD1 not compatible.",
+    "source_name": "Sony Cyber-shot battery compatibility table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_t300",
@@ -7152,6 +7224,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_t50",
+    "battery_id": "sony_np_fr1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DSC-T50 supplied accessories include rechargeable battery pack NP-FR1 and battery charger BC-CS3.",
+    "source_name": "Sony Japan DSC-T50 specifications",
+    "source_url": "https://www.sony.jp/cyber-shot/products/DSC-T50/spec.html",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_t500",
     "battery_id": "sony_np_bd1",
     "status": "fully_compatible",
@@ -7162,6 +7246,30 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t7",
+    "battery_id": "sony_np_fe1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DSC-T7 Read This First manual: use the supplied NP-FE1 battery pack before using the camera for the first time.",
+    "source_name": "Sony DSC-T7 Read This First manual",
+    "source_url": "https://www.sony.jp/cyber-shot/emdown/data/T7_first.pdf",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t70",
+    "battery_id": "sony_np_bd1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DSC-T70 Specifications: Battery System Lithium ION Battery NP-BD1.",
+    "source_name": "Sony Singapore DSC-T70 specifications",
+    "source_url": "https://www.sony.com.sg/electronics/support/compact-cameras-dsc-t-series/dsc-t70/specifications",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_t700",
@@ -7176,6 +7284,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_t77",
+    "battery_id": "sony_np_bd1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DSC-T77 specifications: Batteria ricaricabile (NP-BD1), caricabatterie.",
+    "source_name": "Sony Italy DSC-T77 specifications",
+    "source_url": "https://www.sony.it/electronics/support/compact-cameras-dsct-series/dsc-t77/specifications",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_t9",
     "battery_id": "sony_np_ft1",
     "status": "fully_compatible",
@@ -7186,6 +7306,18 @@
     "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t90",
+    "battery_id": "sony_np_bd1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DSC-T90 Specifications: Lithium ION Battery NP-BD1.",
+    "source_name": "Sony India DSC-T90 specifications",
+    "source_url": "https://www.sony.co.in/electronics/support/compact-cameras-dsct-series/dsc-t90/specifications",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_t900",

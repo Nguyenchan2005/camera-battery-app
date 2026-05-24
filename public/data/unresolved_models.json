@@ -2731,21 +2731,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "fujifilm_finepix_f30",
-    "display_name": "Fujifilm FinePix F30",
-    "brand": "Fujifilm",
-    "series": "FinePix F",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Fujifilm FinePix F30",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_F30",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Fujifilm_FinePix_F30",
-      "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f30_manual_01.pdf"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "fujifilm_finepix_f300exr",
     "display_name": "Fujifilm FinePix F300EXR",
     "brand": "Fujifilm",
@@ -12311,20 +12296,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_xz_1",
-    "display_name": "Olympus XZ-1",
-    "brand": "Olympus",
-    "series": "XZ series",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus XZ-1",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_XZ-1",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus_XZ-1"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "panasonic_lumix_dmc_fp1",
     "display_name": "Panasonic Lumix DMC-FP1",
     "brand": "Panasonic",
@@ -13800,20 +13771,6 @@
     "brand": "Panasonic",
     "series": "Lumix TS/FT",
     "release_year": 2015,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dc_zs70",
-    "display_name": "Panasonic Lumix DC-ZS70",
-    "brand": "Panasonic",
-    "series": "Lumix TZ/ZS",
-    "release_year": 2017,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Panasonic catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
@@ -18100,34 +18057,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_t1",
-    "display_name": "Sony Cyber-shot DSC-T1",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-T",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_t10",
-    "display_name": "Sony Cyber-shot DSC-T10",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-T",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_t11",
     "display_name": "Sony Cyber-shot DSC-T11",
     "brand": "Sony",
@@ -18199,20 +18128,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_t3",
-    "display_name": "Sony Cyber-shot DSC-T3",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-T",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony Cyber-shot DSC-T3",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony_DSC-T3",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony_DSC-T3"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_t30",
     "display_name": "Sony Cyber-shot DSC-T30",
     "brand": "Sony",
@@ -18241,20 +18156,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_t50",
-    "display_name": "Sony Cyber-shot DSC-T50",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-T",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_t66",
     "display_name": "Sony Cyber-shot DSC-T66",
     "brand": "Sony",
@@ -18269,64 +18170,8 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_t7",
-    "display_name": "Sony Cyber-shot DSC-T7",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-T",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony Cyber-shot DSC-T7",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony_DSC-T7",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony_DSC-T7"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_t70",
-    "display_name": "Sony Cyber-shot DSC-T70",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-T",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_t75",
     "display_name": "Sony Cyber-shot DSC-T75",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-T",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_t77",
-    "display_name": "Sony Cyber-shot DSC-T77",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-T",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_t90",
-    "display_name": "Sony Cyber-shot DSC-T90",
     "brand": "Sony",
     "series": "Cyber-shot DSC-T",
     "release_year": null,
