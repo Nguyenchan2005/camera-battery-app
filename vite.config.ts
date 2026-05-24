@@ -1,11 +1,17 @@
 import { defineConfig } from "vitest/config";
 import react from "@vitejs/plugin-react";
 import { VitePWA } from "vite-plugin-pwa";
+import { readFileSync } from "node:fs";
 
 const base = process.env.VITE_BASE_PATH ?? "/";
+const packageJson = JSON.parse(readFileSync(new URL("./package.json", import.meta.url), "utf-8")) as { version: string };
+const appBuildVersion = process.env.VITE_APP_VERSION ?? `${packageJson.version}-${process.env.GITHUB_SHA?.slice(0, 7) ?? "local"}`;
 
 export default defineConfig({
   base,
+  define: {
+    __APP_BUILD_VERSION__: JSON.stringify(appBuildVersion),
+  },
   test: {
     exclude: ["**/node_modules/**", "**/dist/**", "tests/e2e/**"],
   },

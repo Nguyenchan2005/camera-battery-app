@@ -25,6 +25,12 @@ type SearchIndexItem = {
   terms: string[];
   searchText: string;
   compactTerms: string[];
+  compactTermReasons: Record<string, string>;
+};
+
+type TermEntry = {
+  term: string;
+  reason: "exact alias" | "generated alias" | "compact alias";
 };
 
 type SearchBucket = "all" | "camera" | "battery";
@@ -563,6 +569,47 @@ function dedupe(values: Array<string | null | undefined>): string[] {
   return result;
 }
 
+function dedupeTermEntries(entries: TermEntry[]): TermEntry[] {
+  const seen = new Map<string, TermEntry>();
+  const rank: Record<TermEntry["reason"], number> = {
+    "exact alias": 3,
+    "generated alias": 2,
+    "compact alias": 1,
+  };
+  for (const entry of entries) {
+    const term = normalizeText(entry.term);
+    if (!term) continue;
+    const key = term.toLocaleLowerCase();
+    const existing = seen.get(key);
+    if (!existing || rank[entry.reason] > rank[existing.reason]) {
+      seen.set(key, { term, reason: entry.reason });
+    }
+  }
+  return [...seen.values()];
+}
+
+function splitNameVariants(value: string): string[] {
+  const variants = new Set<string>();
+  const normalized = normalizeText(value);
+  if (normalized) variants.add(normalized);
+
+  for (const piece of value.split(/[\/,;|]+/)) {
+    const cleaned = normalizeText(piece);
+    if (cleaned) variants.add(cleaned);
+  }
+
+  const parenPattern = /\(([^)]+)\)/g;
+  let match: RegExpExecArray | null;
+  while ((match = parenPattern.exec(value))) {
+    const cleaned = normalizeText(match[1]);
+    if (cleaned) variants.add(cleaned);
+  }
+  const withoutParens = normalizeText(value.replace(/\([^)]*\)/g, " "));
+  if (withoutParens) variants.add(withoutParens);
+
+  return [...variants];
+}
+
 function romanForMark(mark: string): string | null {
   const normalized = mark.toUpperCase();
   const byNumber: Record<string, string> = {
@@ -576,8 +623,20 @@ function romanForMark(mark: string): string | null {
   return byNumber[normalized] ?? null;
 }
 
-function expandCameraTerms(camera: Camera | CameraCandidate): string[] {
-  const baseTerms = dedupe([
+function addGenerated(entries: TermEntry[], term: string | null | undefined): void {
+  if (term && normalizeText(term)) {
+    entries.push({ term, reason: "generated alias" });
+  }
+}
+
+function addCompact(entries: TermEntry[], term: string | null | undefined): void {
+  if (term && normalizeText(term)) {
+    entries.push({ term, reason: "compact alias" });
+  }
+}
+
+function expandCameraTerms(camera: Camera | CameraCandidate): TermEntry[] {
+  const rawTerms = [
     camera.display_name,
     camera.model,
     camera.brand,
@@ -586,38 +645,191 @@ function expandCameraTerms(camera: Camera | CameraCandidate): string[] {
     `${camera.brand} ${camera.display_name}`,
     ...camera.aliases,
     ...flattenRegionalNames(camera.regional_names),
-  ]);
-  const expanded: string[] = [...baseTerms];
+  ];
+  const baseTerms = dedupe(rawTerms.flatMap((term) => splitNameVariants(term ?? "")));
+  const expanded: TermEntry[] = baseTerms.map((term) => ({ term, reason: "exact alias" }));
 
   for (const term of baseTerms) {
     const noPowerShot = term.replace(/\bPowerShot\b/gi, "").replace(/\s+/g, " ").trim();
-    if (noPowerShot !== term) expanded.push(noPowerShot);
+    if (noPowerShot !== term) addGenerated(expanded, noPowerShot);
 
     const compactG = term.replace(/\b(G\d+)\s+X\b/gi, "$1X");
-    if (compactG !== term) expanded.push(compactG);
+    if (compactG !== term) addGenerated(expanded, compactG);
 
     const markMatch = term.match(/\b(.+?)\s+Mark\s+(II|III|IV|V|VI|VII)\b/i);
     if (markMatch) {
-      expanded.push(`${markMatch[1]} ${markMatch[2]}`);
-      expanded.push(`${markMatch[1].replace(/\s+/g, "")} ${markMatch[2]}`);
+      addGenerated(expanded, `${markMatch[1]} ${markMatch[2]}`);
+      addGenerated(expanded, `${markMatch[1].replace(/\s+/g, "")} ${markMatch[2]}`);
     }
 
     const rxMatch = term.match(/\bRX100M([2-7])A?\b/i);
     if (rxMatch) {
       const roman = romanForMark(rxMatch[1]);
       if (roman) {
-        expanded.push(`RX100 ${roman}`);
-        expanded.push(`Sony RX100 ${roman}`);
-        expanded.push(`Sony Cyber-shot RX100 ${roman}`);
-        expanded.push(`DSC-RX100 ${roman}`);
+        addGenerated(expanded, `RX100 ${roman}`);
+        addGenerated(expanded, `Sony RX100 ${roman}`);
+        addGenerated(expanded, `Sony Cyber-shot RX100 ${roman}`);
+        addGenerated(expanded, `DSC-RX100 ${roman}`);
+        addGenerated(expanded, `RX100 ${rxMatch[1]}`);
+        addGenerated(expanded, `Sony RX100 ${rxMatch[1]}`);
       }
     }
+
+    addCanonGeneratedTerms(expanded, term, camera.brand);
+    addSonyGeneratedTerms(expanded, term);
+    addNikonGeneratedTerms(expanded, term);
+    addPanasonicGeneratedTerms(expanded, term);
+    addFujifilmGeneratedTerms(expanded, term, camera.brand);
+    addCasioGeneratedTerms(expanded, term);
+    addOlympusGeneratedTerms(expanded, term);
   }
 
-  return dedupe(expanded);
+  return dedupeTermEntries(expanded);
 }
 
-function expandBatteryTerms(battery: Battery): string[] {
+function addCanonGeneratedTerms(entries: TermEntry[], term: string, brand: string): void {
+  const ixy = term.match(/\bIXY\s+(?:DIGITAL\s+)?([A-Z]?\d+[A-Z]?)\b/i);
+  if (ixy && !hasCanonShortAliasBlockingSuffix(term, ixy)) {
+    const code = ixy[1].toUpperCase();
+    addGenerated(entries, `IXY ${code}`);
+    addCompact(entries, `IXY${code}`);
+    addGenerated(entries, `${brand} IXY ${code}`);
+    addCompact(entries, `${brand} IXY${code}`);
+  }
+
+  const ixus = term.match(/\b(?:DIGITAL\s+)?IXUS\s+([A-Z]?\d+[A-Z]?)\b/i);
+  if (ixus && !hasCanonShortAliasBlockingSuffix(term, ixus)) {
+    const code = ixus[1].toUpperCase();
+    addGenerated(entries, `IXUS ${code}`);
+    addCompact(entries, `IXUS${code}`);
+    addGenerated(entries, `${brand} IXUS ${code}`);
+    addCompact(entries, `${brand} IXUS${code}`);
+    addGenerated(entries, `Digital IXUS ${code}`);
+    addCompact(entries, `Digital IXUS${code}`);
+  }
+
+  const powershot = term.match(/\bPowerShot\s+([A-Z]\d+[A-Z]?)\b/i);
+  const elph = term.match(/\b([A-Z]\d+[A-Z]?)\s+(?:DIGITAL\s+)?ELPH\b/i);
+  const code = (powershot?.[1] ?? elph?.[1])?.toUpperCase();
+  if (code) {
+    addGenerated(entries, `PowerShot ${code}`);
+    addGenerated(entries, code);
+    addGenerated(entries, `${code} ELPH`);
+    addGenerated(entries, `${code} DIGITAL ELPH`);
+    addGenerated(entries, `${brand} PowerShot ${code}`);
+  }
+}
+
+function hasCanonShortAliasBlockingSuffix(term: string, match: RegExpMatchArray): boolean {
+  const index = match.index ?? 0;
+  const suffix = term.slice(index + match[0].length).trim();
+  return /^(HS|IS|Ti|Mark|MK|II|III|IV|V|VI|VII)\b/i.test(suffix);
+}
+
+function addSonyGeneratedTerms(entries: TermEntry[], term: string): void {
+  const dscMatches = [...term.matchAll(/\bDSC[-\s]?([A-Z]+\d+[A-Z0-9]*)\b/gi)];
+  for (const match of dscMatches) {
+    const code = match[1].toUpperCase();
+    addGenerated(entries, code);
+    addGenerated(entries, `Sony ${code}`);
+    addGenerated(entries, `DSC ${code}`);
+    addCompact(entries, `DSC${code}`);
+    addGenerated(entries, `Sony DSC ${code}`);
+    addCompact(entries, `Sony DSC${code}`);
+    addGenerated(entries, `Cyber-shot ${code}`);
+    addGenerated(entries, `Cyber shot ${code}`);
+    addGenerated(entries, `Sony Cyber-shot ${code}`);
+
+    const rx100 = code.match(/^RX100M([2-7])A?$/i);
+    if (rx100) {
+      const roman = romanForMark(rx100[1]);
+      if (roman) {
+        addGenerated(entries, `RX100 ${roman}`);
+        addGenerated(entries, `Sony RX100 ${roman}`);
+        addGenerated(entries, `Sony Cyber-shot RX100 ${roman}`);
+        addGenerated(entries, `DSC RX100 ${roman}`);
+      }
+      addGenerated(entries, `RX100 ${rx100[1]}`);
+      addCompact(entries, `RX100M${rx100[1]}`);
+    }
+  }
+}
+
+function addNikonGeneratedTerms(entries: TermEntry[], term: string): void {
+  const match = term.match(/\b(?:Nikon\s+)?(?:COOLPIX|Coolpix)?\s*([A-Z]\d{2,4}[A-Z]?)\b/i);
+  if (!match) return;
+  const code = match[1].toUpperCase();
+  addGenerated(entries, code);
+  addGenerated(entries, `Nikon ${code}`);
+  addGenerated(entries, `Coolpix ${code}`);
+  addGenerated(entries, `COOLPIX ${code}`);
+  addGenerated(entries, `Nikon COOLPIX ${code}`);
+}
+
+function addPanasonicGeneratedTerms(entries: TermEntry[], term: string): void {
+  const pairs: Record<string, string> = {
+    TZ90: "ZS70",
+    ZS70: "TZ90",
+    TZ100: "ZS100",
+    ZS100: "TZ100",
+    TZ200: "ZS200",
+    ZS200: "TZ200",
+    TZ95: "ZS80",
+    ZS80: "TZ95",
+    TZ80: "ZS60",
+    ZS60: "TZ80",
+  };
+  const matches = [...term.matchAll(/\b(?:DMC|DC)?[-\s]?((?:TZ|ZS)\d+[A-Z]?)\b/gi)];
+  for (const match of matches) {
+    const code = match[1].toUpperCase();
+    addGenerated(entries, code);
+    addGenerated(entries, `Panasonic ${code}`);
+    addGenerated(entries, `Lumix ${code}`);
+    const paired = pairs[code];
+    if (paired) {
+      addGenerated(entries, paired);
+      addGenerated(entries, `Panasonic ${paired}`);
+      addGenerated(entries, `Lumix ${paired}`);
+    }
+  }
+}
+
+function addFujifilmGeneratedTerms(entries: TermEntry[], term: string, brand: string): void {
+  const finepix = term.match(/\bFinePix\s+([A-Z]+\d+[A-Z0-9]*)\b/i);
+  const xSeries = term.match(/\b(X(?:100|70|F10)\w*)\b/i);
+  const code = (finepix?.[1] ?? xSeries?.[1])?.toUpperCase();
+  if (!code) return;
+  addGenerated(entries, code);
+  addGenerated(entries, `Fuji ${code}`);
+  addGenerated(entries, `Fujifilm ${code}`);
+  if (finepix) {
+    addGenerated(entries, `FinePix ${code}`);
+    addGenerated(entries, `Fuji FinePix ${code}`);
+    addGenerated(entries, `${brand} FinePix ${code}`);
+  }
+}
+
+function addCasioGeneratedTerms(entries: TermEntry[], term: string): void {
+  const matches = [...term.matchAll(/\bEX[-\s]?((?:ZR|FH|FC|TR|Z|S|H)\d{2,4}[A-Z]?)\b/gi)];
+  for (const match of matches) {
+    const code = match[1].toUpperCase();
+    addGenerated(entries, code);
+    addGenerated(entries, `Casio ${code}`);
+    addGenerated(entries, `Exilim ${code}`);
+    addCompact(entries, `EX${code}`);
+  }
+}
+
+function addOlympusGeneratedTerms(entries: TermEntry[], term: string): void {
+  const match = term.match(/\bTG[-\s]?(\d{1,2})\b/i);
+  if (!match) return;
+  const code = `TG${match[1]}`;
+  addGenerated(entries, code);
+  addGenerated(entries, `Olympus ${code}`);
+  addGenerated(entries, `Tough ${code}`);
+}
+
+function expandBatteryTerms(battery: Battery): TermEntry[] {
   const terms = dedupe([
     battery.model,
     battery.brand,
@@ -625,21 +837,23 @@ function expandBatteryTerms(battery: Battery): string[] {
     ...battery.aliases,
     battery.battery_id.replace(/_/g, " "),
   ]);
-  const expanded = [...terms];
+  const expanded: TermEntry[] = terms.map((term) => ({ term, reason: "exact alias" }));
   for (const term of terms) {
     const compact = compactToken(term);
-    if (compact.length >= 4) expanded.push(compact);
+    if (compact.length >= 4) addCompact(expanded, compact);
     const hyphenless = term.replace(/-/g, "");
-    if (hyphenless !== term) expanded.push(hyphenless);
+    if (hyphenless !== term) addCompact(expanded, hyphenless);
   }
-  return dedupe(expanded);
+  return dedupeTermEntries(expanded);
 }
 
 function makeCameraSearchItem(
   camera: Camera | CameraCandidate,
   type: "camera" | "unresolved_candidate",
 ): SearchIndexItem {
-  const terms = expandCameraTerms(camera);
+  const termEntries = expandCameraTerms(camera);
+  const terms = termEntries.map((entry) => entry.term);
+  const compactTermReasons = compactReasonMap(termEntries);
   return {
     type,
     id: camera.camera_id,
@@ -647,12 +861,15 @@ function makeCameraSearchItem(
     subtitle: `${camera.brand} · ${camera.series}${camera.release_year ? ` · ${camera.release_year}` : ""}`,
     terms,
     searchText: terms.join(" "),
-    compactTerms: terms.map(compactToken).filter(Boolean),
+    compactTerms: Object.keys(compactTermReasons),
+    compactTermReasons,
   };
 }
 
 function makeBatterySearchItem(battery: Battery): SearchIndexItem {
-  const terms = expandBatteryTerms(battery);
+  const termEntries = expandBatteryTerms(battery);
+  const terms = termEntries.map((entry) => entry.term);
+  const compactTermReasons = compactReasonMap(termEntries);
   return {
     type: "battery",
     id: battery.battery_id,
@@ -660,8 +877,28 @@ function makeBatterySearchItem(battery: Battery): SearchIndexItem {
     subtitle: `${battery.brand}${battery.chemistry ? ` · ${battery.chemistry}` : ""}`,
     terms,
     searchText: terms.join(" "),
-    compactTerms: terms.map(compactToken).filter(Boolean),
+    compactTerms: Object.keys(compactTermReasons),
+    compactTermReasons,
   };
+}
+
+function compactReasonMap(entries: TermEntry[]): Record<string, string> {
+  const rank: Record<string, number> = {
+    "exact alias": 4,
+    "generated alias": 3,
+    "compact alias": 2,
+    "compact contains": 1,
+  };
+  const result: Record<string, string> = {};
+  for (const entry of entries) {
+    const compact = compactToken(entry.term);
+    if (!compact) continue;
+    const current = result[compact];
+    if (!current || rank[entry.reason] > rank[current]) {
+      result[compact] = entry.reason;
+    }
+  }
+  return result;
 }
 
 function makeFuse(items: SearchIndexItem[]): Fuse<SearchIndexItem> {
@@ -691,6 +928,40 @@ function itemToMatch(item: SearchIndexItem, score: number, exact: boolean, match
   };
 }
 
+function compactExactMatches(items: SearchIndexItem[], compactQuery: string): SearchMatch[] {
+  if (!compactQuery) return [];
+  return items
+    .filter((item) => item.compactTerms.includes(compactQuery))
+    .map((item) => itemToMatch(item, -1, true, item.compactTermReasons[compactQuery] ?? "compact alias"));
+}
+
+function compactContainmentMatches(items: SearchIndexItem[], compactQuery: string): SearchMatch[] {
+  if (!compactQuery || compactQuery.length < 6) return [];
+  const matches: SearchMatch[] = [];
+  for (const item of items) {
+    for (const compactTerm of item.compactTerms) {
+      if (compactTerm === compactQuery) continue;
+      if (isSafeCompactContainment(compactQuery, compactTerm)) {
+        matches.push(itemToMatch(item, 0.05, false, "compact alias"));
+        break;
+      }
+    }
+  }
+  return matches;
+}
+
+function isSafeCompactContainment(compactQuery: string, compactTerm: string): boolean {
+  const shorter = compactQuery.length <= compactTerm.length ? compactQuery : compactTerm;
+  const longer = compactQuery.length > compactTerm.length ? compactQuery : compactTerm;
+  if (shorter.length < 6 || !longer.includes(shorter)) return false;
+  if (isRiskyShortModelCompact(shorter)) return false;
+  return true;
+}
+
+function isRiskyShortModelCompact(value: string): boolean {
+  return /^[A-Z]{0,3}\d{1,2}[A-Z]?$/.test(value);
+}
+
 function reasonFromFuseResult(result: { matches?: readonly { key?: string }[] }): string {
   const key = result.matches?.[0]?.key ?? "";
   if (key.includes("label")) return "display/model";
@@ -706,19 +977,21 @@ function runSearch(fuse: Fuse<SearchIndexItem>, items: SearchIndexItem[], query:
   }
 
   const compactQuery = compactToken(cleaned);
-  const exactMatches = compactQuery
-    ? items
-        .filter((item) => item.compactTerms.includes(compactQuery))
-        .map((item) => itemToMatch(item, -1, true))
-    : [];
+  const exactMatches = compactExactMatches(items, compactQuery);
+  const containsMatches = compactContainmentMatches(items, compactQuery);
 
   const fuzzyMatches = fuse.search(cleaned, { limit: limit * 3 }).map((result) => {
     const exact = Boolean(compactQuery && result.item.compactTerms.includes(compactQuery));
-    return itemToMatch(result.item, result.score ?? 1, exact, exact ? "exact token" : reasonFromFuseResult(result));
+    return itemToMatch(
+      result.item,
+      result.score ?? 1,
+      exact,
+      exact ? result.item.compactTermReasons[compactQuery] ?? "compact alias" : `fuzzy fallback: ${reasonFromFuseResult(result)}`,
+    );
   });
 
   const byKey = new Map<string, SearchMatch>();
-  for (const match of [...exactMatches, ...fuzzyMatches]) {
+  for (const match of [...exactMatches, ...containsMatches, ...fuzzyMatches]) {
     const key = `${match.type}:${match.id}`;
     const previous = byKey.get(key);
     if (!previous || match.score < previous.score || (match.exact && !previous.exact)) {

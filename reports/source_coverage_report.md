@@ -1,6 +1,6 @@
 # Source Coverage Report
 
-Generated: 2026-05-24
+Generated: 2026-05-25
 
 - Registered sources: 1080
 - Source URLs used by candidates/compatibility: 660

@@ -1,6 +1,6 @@
 # Coverage By Series
 
-Generated: 2026-05-24
+Generated: 2026-05-25
 
 ## Canon Batch 1 Summary
 

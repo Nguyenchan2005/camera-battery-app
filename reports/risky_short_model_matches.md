@@ -1,6 +1,6 @@
 # Risky Short Model Matches
 
-Generated: 2026-05-24
+Generated: 2026-05-25
 
 Short model names can match longer models if substring matching is used. This report lists verified rows whose model token needs exact-boundary review.
 

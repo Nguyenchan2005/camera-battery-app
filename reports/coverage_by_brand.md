@@ -1,6 +1,6 @@
 # Coverage By Brand
 
-Generated: 2026-05-24
+Generated: 2026-05-25
 
 | Brand | Importer status | Total candidates | Verified cameras | Unresolved cameras | Compatibility rows | High confidence rows | Medium confidence rows | Low confidence rows | Alias/regional-name count | Source count |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |

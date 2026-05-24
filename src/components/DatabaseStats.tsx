@@ -14,6 +14,9 @@ export function DatabaseStats({ db }: { db: CameraBatteryDatabase }) {
           <p data-testid="last-data-update" className="text-sm text-slate-500">
             Last data update: {db.dataSummary.lastDataUpdate ?? "unknown"}
           </p>
+          <p data-testid="app-build-version" className="text-xs text-slate-500">
+            App build version: {__APP_BUILD_VERSION__}
+          </p>
         </div>
         <button
           data-testid="toggle-database-stats"

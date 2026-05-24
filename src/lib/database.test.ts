@@ -54,6 +54,56 @@ describe("database loader, search, and source-backed lookup", () => {
     }
   });
 
+  it("searches Canon regional aliases for IXY/IXUS/ELPH compact forms", () => {
+    const queries = [
+      "canon ixy500",
+      "canon ixy 500",
+      "ixy500",
+      "ixy digital 500",
+      "ixus500",
+      "digital ixus500",
+      "powershot s500",
+    ];
+    for (const query of queries) {
+      const result = db.searchAll(query, 5);
+      expect(result[0]?.id, query).toBe("canon_powershot_s500_digital_elph");
+    }
+  });
+
+  it("searches Sony DSC short aliases and keeps verified battery compatibility", () => {
+    const queries = ["sony t700", "sony dsc t700", "dsc t700", "dsct700", "cyber shot t700"];
+    for (const query of queries) {
+      const result = db.searchAll(query, 5);
+      expect(result[0]?.id, query).toBe("sony_cyber_shot_dsc_t700");
+    }
+
+    const lookup = db.lookupFromMatch(db.searchAll("sony t700", 1)[0]);
+    expect(lookup.kind).toBe("camera");
+    if (lookup.kind === "camera") {
+      expect(lookup.compatibility.some((row) => row.battery_id === "sony_np_bd1")).toBe(true);
+    }
+  });
+
+  it("searches common brand/model shorthand aliases across major brands", () => {
+    const cases = [
+      ["sony t900", "sony_cyber_shot_dsc_t900"],
+      ["sony wx500", "sony_cyber_shot_dsc_wx500"],
+      ["nikon p1000", "nikon_coolpix_p1000"],
+      ["coolpix p1000", "nikon_coolpix_p1000"],
+      ["panasonic tz90", "panasonic_lumix_dc_zs70"],
+      ["panasonic zs70", "panasonic_lumix_dc_zs70"],
+      ["fuji f30", "fujifilm_finepix_f30"],
+      ["finepix f30", "fujifilm_finepix_f30"],
+      ["olympus tg6", "olympus_tough_tg_6"],
+      ["casio zr1000", "casio_exilim_ex_zr1000"],
+    ] as const;
+
+    for (const [query, expectedId] of cases) {
+      const result = db.searchAll(query, 5);
+      expect(result[0]?.id, query).toBe(expectedId);
+    }
+  });
+
   it("searches a battery with hyphenless input", () => {
     const result = db.searchBattery("NB13L", 3);
     expect(result[0]?.id).toBe("canon_nb_13l");
