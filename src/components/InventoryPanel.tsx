@@ -1,6 +1,7 @@
 import { useMemo, useRef, useState } from "react";
 import type React from "react";
 import type { CameraBatteryDatabase } from "../lib/database";
+import { analyzeBulkInventoryInput, type BulkInventoryAnalysis } from "../lib/bulkInventory";
 import { exportInventory, parseInventoryImport } from "../lib/inventory";
 import { Badge } from "./Badge";
 
@@ -31,6 +32,8 @@ export function InventoryPanel({
 }) {
   const [cameraQuery, setCameraQuery] = useState("");
   const [batteryQuery, setBatteryQuery] = useState("");
+  const [bulkInput, setBulkInput] = useState("");
+  const [bulkAnalysis, setBulkAnalysis] = useState<BulkInventoryAnalysis | null>(null);
   const [importWarnings, setImportWarnings] = useState<string[]>([]);
   const importRef = useRef<HTMLInputElement | null>(null);
 
@@ -63,6 +66,35 @@ export function InventoryPanel({
     replaceBatteries(result.myBatteryIds);
     setImportWarnings(result.warnings);
     if (importRef.current) importRef.current.value = "";
+  }
+
+  function addMatchToInventory(match: { type: "camera" | "battery" | "unresolved_candidate"; id: string }) {
+    if (match.type === "battery") {
+      addBattery(match.id);
+    } else {
+      addCamera(match.id);
+    }
+  }
+
+  function handleBulkAdd() {
+    const analysis = analyzeBulkInventoryInput(bulkInput, db);
+    for (const row of analysis.autoMatches) {
+      addMatchToInventory(row.match);
+    }
+    setBulkAnalysis(analysis);
+  }
+
+  function chooseAmbiguousOption(line: string, optionIndex: number) {
+    if (!bulkAnalysis) return;
+    const row = bulkAnalysis.ambiguousMatches.find((item) => item.line === line);
+    const match = row?.options[optionIndex];
+    if (!match) return;
+    addMatchToInventory(match);
+    setBulkAnalysis({
+      ...bulkAnalysis,
+      ambiguousMatches: bulkAnalysis.ambiguousMatches.filter((item) => item.line !== line),
+      autoMatches: [...bulkAnalysis.autoMatches, { line, match }],
+    });
   }
 
   return (
@@ -110,6 +142,50 @@ export function InventoryPanel({
           ))}
         </div>
       ) : null}
+
+      <div data-testid="inventory-bulk-panel" className="mt-5 rounded-md border border-slate-200 bg-slate-50 p-4">
+        <div className="flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between">
+          <div>
+            <h3 className="font-semibold text-slate-900">Them hang loat bang paste</h3>
+            <p className="mt-1 text-sm text-slate-600">
+              Moi dong la mot may anh hoac pin. App chi tu them khi match exact duy nhat; dong mo ho se hien goi y de ban chon.
+            </p>
+          </div>
+          <button
+            data-testid="inventory-bulk-clear"
+            className="rounded-md border border-slate-300 bg-white px-3 py-2 text-sm font-medium hover:bg-slate-50"
+            type="button"
+            onClick={() => {
+              setBulkInput("");
+              setBulkAnalysis(null);
+            }}
+          >
+            Clear paste
+          </button>
+        </div>
+        <textarea
+          data-testid="inventory-bulk-input"
+          className="mt-3 min-h-32 w-full resize-y rounded-md border border-slate-300 bg-white px-3 py-2 text-sm outline-none focus:border-sky-500 focus:ring-4 focus:ring-sky-100"
+          placeholder={"Canon G7X Mark III\nSony RX100 VII\nNB13L\nNPBX1"}
+          value={bulkInput}
+          onChange={(event) => setBulkInput(event.target.value)}
+        />
+        <div className="mt-3 flex flex-wrap gap-2">
+          <button
+            data-testid="inventory-bulk-add"
+            className="rounded-md bg-slate-950 px-3 py-2 text-sm font-semibold text-white hover:bg-slate-800 disabled:cursor-not-allowed disabled:bg-slate-400"
+            type="button"
+            disabled={!bulkInput.trim()}
+            onClick={handleBulkAdd}
+          >
+            Them hang loat
+          </button>
+          <span className="self-center text-xs text-slate-500">Unresolved candidate co the them vao kho, nhung app se khong tra pin cho model chua verify.</span>
+        </div>
+        {bulkAnalysis ? (
+          <BulkAnalysisSummary analysis={bulkAnalysis} onChooseOption={chooseAmbiguousOption} />
+        ) : null}
+      </div>
 
       <div className="mt-5 grid gap-5 lg:grid-cols-2">
         <div>
@@ -258,6 +334,92 @@ function Picker({
       ) : null}
     </div>
   );
+}
+
+function BulkAnalysisSummary({
+  analysis,
+  onChooseOption,
+}: {
+  analysis: BulkInventoryAnalysis;
+  onChooseOption: (line: string, optionIndex: number) => void;
+}) {
+  return (
+    <div data-testid="inventory-bulk-summary" className="mt-4 space-y-3 text-sm">
+      <div className="grid gap-2 sm:grid-cols-4">
+        <SummaryMetric label="Dong da doc" value={analysis.totalLines} />
+        <SummaryMetric label="Tu them exact" value={analysis.autoMatches.length} />
+        <SummaryMetric label="Can chon" value={analysis.ambiguousMatches.length} />
+        <SummaryMetric label="Khong thay" value={analysis.notFound.length} />
+      </div>
+
+      {analysis.autoMatches.length ? (
+        <div data-testid="inventory-bulk-auto" className="rounded-md border border-emerald-200 bg-emerald-50 p-3 text-emerald-800">
+          <strong>Da tu them:</strong>
+          <ul className="mt-2 list-inside list-disc space-y-1">
+            {analysis.autoMatches.map((row) => (
+              <li key={`${row.line}-${row.match.type}-${row.match.id}`}>
+                {row.line} to {row.match.label} ({row.match.type})
+              </li>
+            ))}
+          </ul>
+        </div>
+      ) : null}
+
+      {analysis.ambiguousMatches.length ? (
+        <div data-testid="inventory-bulk-ambiguous" className="rounded-md border border-amber-200 bg-amber-50 p-3 text-amber-900">
+          <strong>Can chon thu cong:</strong>
+          <div className="mt-3 space-y-3">
+            {analysis.ambiguousMatches.map((row) => (
+              <div key={row.line} className="rounded-md border border-amber-200 bg-white p-3">
+                <div className="font-medium">{row.line}</div>
+                <div className="mt-1 text-xs text-amber-800">{row.reason}</div>
+                <div className="mt-2 grid gap-2">
+                  {row.options.map((option, index) => (
+                    <button
+                      key={`${row.line}-${option.type}-${option.id}`}
+                      data-testid={`inventory-bulk-option-${safeTestId(row.line)}-${index}`}
+                      className="rounded-md border border-slate-200 bg-white px-3 py-2 text-left hover:border-sky-300 hover:bg-sky-50"
+                      type="button"
+                      onClick={() => onChooseOption(row.line, index)}
+                    >
+                      <span className="block font-medium text-slate-900">{option.label}</span>
+                      <span className="block text-xs text-slate-500">
+                        {option.type} / {option.subtitle} / {option.matchReason}
+                      </span>
+                    </button>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      ) : null}
+
+      {analysis.notFound.length ? (
+        <div data-testid="inventory-bulk-not-found" className="rounded-md border border-rose-200 bg-rose-50 p-3 text-rose-800">
+          <strong>Khong tim thay:</strong>
+          <ul className="mt-2 list-inside list-disc space-y-1">
+            {analysis.notFound.map((row) => (
+              <li key={row.line}>{row.line}</li>
+            ))}
+          </ul>
+        </div>
+      ) : null}
+    </div>
+  );
+}
+
+function SummaryMetric({ label, value }: { label: string; value: number }) {
+  return (
+    <div className="rounded-md border border-slate-200 bg-white px-3 py-2 text-center">
+      <div className="text-base font-semibold text-slate-950">{value}</div>
+      <div className="text-xs text-slate-500">{label}</div>
+    </div>
+  );
+}
+
+function safeTestId(value: string): string {
+  return value.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 }
 
 function InventoryRow({

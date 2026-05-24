@@ -135,6 +135,8 @@ Phase App 2 adds:
   inventory comparison.
 - Unresolved manual-check copy flow.
 - Inventory import/export JSON with id validation.
+- Bulk paste inventory add: paste one camera or battery per line; the app only
+  auto-adds unique exact matches and asks for manual choice on ambiguous lines.
 
 When source JSON changes:
 

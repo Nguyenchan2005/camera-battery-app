@@ -99,6 +99,17 @@ test("exports and imports inventory JSON", async ({ page }, testInfo) => {
   await expect(page.getByTestId("inventory-battery-canon_nb_13l")).toBeVisible();
 });
 
+test("bulk paste adds exact inventory matches and reports unknown lines", async ({ page }) => {
+  await openApp(page);
+  await page.getByTestId("inventory-bulk-input").fill("Canon G7X Mark III\nNB13L\nDefinitely Missing Camera 9999XYZ");
+  await page.getByTestId("inventory-bulk-add").click();
+
+  await expect(page.getByTestId("inventory-camera-canon_powershot_g7_x_mark_iii")).toBeVisible();
+  await expect(page.getByTestId("inventory-battery-canon_nb_13l")).toBeVisible();
+  await expect(page.getByTestId("inventory-bulk-summary")).toContainText("Tu them exact");
+  await expect(page.getByTestId("inventory-bulk-not-found")).toContainText("Definitely Missing Camera 9999XYZ");
+});
+
 test("keyboard navigation can select a search result", async ({ page }) => {
   await openApp(page);
   await fillSearch(page, "NB13L");
