@@ -9706,13 +9706,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Casio EX-ZR1200 Official Power Requirements",
+    "candidate_source_url": "https://support.casio.com/en/support/answer.php?cid=001016014006&num=1&qid=51384",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "casio_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "casio_exilim_ex_zr1500",
@@ -9756,13 +9756,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Casio EX-ZR20 Official Power Requirements",
+    "candidate_source_url": "https://support.casio.com/en/support/answer.php?cid=001016005006&num=5&qid=2445",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "casio_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "casio_exilim_ex_zr2000",
@@ -10281,13 +10281,13 @@
     "release_year": 2011,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Casio EX-ZR200 Official User Guide",
+    "candidate_source_url": "https://support.casio.com/storage/en/manual/pdf/EN/001/EXZR200_M29_FB_EN.pdf",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "casio_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "casio_exilim_ex_zs15",
@@ -10356,13 +10356,13 @@
     "release_year": 2012,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Casio EX-ZR300 Official User Guide",
+    "candidate_source_url": "https://support.casio.com/storage/en/manual/pdf/EN/001/EXZR300_M29_FB_EN.pdf",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "casio_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "casio_exilim_ex_zs150",
@@ -10406,13 +10406,13 @@
     "release_year": 2013,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Casio EX-ZR400 Official Power Requirements",
+    "candidate_source_url": "https://support.casio.com/en/support/answer.php?cid=001016009006&num=1&qid=4885",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "casio_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "casio_exilim_ex_zr800",
@@ -10431,13 +10431,13 @@
     "release_year": 2013,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Casio EX-ZR800 Official Power Requirements",
+    "candidate_source_url": "https://support.casio.com/en/support/answer.php?cid=001016015006&num=1&qid=51747",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "casio_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "casio_exilim_ex_zr3000",
@@ -11606,13 +11606,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_f20",
@@ -11656,13 +11656,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_f30",
@@ -11706,13 +11706,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm FinePix F300EXR",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_F300EXR",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_f31fd",
@@ -11731,13 +11731,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm FinePix F31fd",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_F31fd",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-95 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-gb/support_compatibility/np-95/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_f401",
@@ -11881,13 +11881,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_f505exr",
@@ -11906,13 +11906,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_f50fd",
@@ -11931,13 +11931,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_f550exr",
@@ -11956,13 +11956,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_f600exr",
@@ -11981,13 +11981,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred. Phase 3 verified mapping was removed because source text did not explicitly confirm a built-in battery.",
-    "candidate_source_name": "Camera-wiki Fujifilm FinePix F600EXR",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_Finepix_F600EXR",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "phase3_demoted_unverified",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_f601_zoom",
@@ -12031,13 +12031,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_f700",
@@ -12081,13 +12081,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm FinePix F70EXR",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_F70EXR",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_f750exr",
@@ -12106,13 +12106,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_f770exr",
@@ -12131,13 +12131,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_f800exr",
@@ -12156,13 +12156,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_f80exr",
@@ -12206,13 +12206,13 @@
     "release_year": 2013,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_hs10",
@@ -12256,13 +12256,13 @@
     "release_year": null,
     "category": "bridge_superzoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-W126 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-gb/support_compatibility/np-w126",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_hs35exr",
@@ -12306,13 +12306,13 @@
     "release_year": null,
     "category": "bridge_superzoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-W126 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-gb/support_compatibility/np-w126",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_j10",
@@ -12331,13 +12331,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_j100",
@@ -12356,13 +12356,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_j110w",
@@ -12381,13 +12381,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_j120",
@@ -12406,13 +12406,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_j150w",
@@ -12456,13 +12456,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_j20fd",
@@ -12531,13 +12531,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_j25fd",
@@ -12606,13 +12606,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-40 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support/compatibility/accessories/np-40/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_jx200",
@@ -12631,13 +12631,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm FinePix JX200",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_JX200",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_jx250",
@@ -12656,13 +12656,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_jx280",
@@ -12706,13 +12706,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_jx500",
@@ -12731,13 +12731,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_jx550",
@@ -12756,13 +12756,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_jz100",
@@ -12781,13 +12781,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_jz200",
@@ -13702,13 +13702,13 @@
     "release_year": 2008,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-140 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support/compatibility/accessories/np-140/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_s2000hd",
@@ -13777,13 +13777,13 @@
     "release_year": 2009,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-140 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support/compatibility/accessories/np-140/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_s1600",
@@ -14152,13 +14152,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_t300",
@@ -14177,13 +14177,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_t350",
@@ -14227,13 +14227,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_t500",
@@ -14252,13 +14252,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_t550",
@@ -14277,13 +14277,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_xp10",
@@ -14302,13 +14302,13 @@
     "release_year": null,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm FinePix XP10",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_XP",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_xp100",
@@ -14327,13 +14327,13 @@
     "release_year": null,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_xp170",
@@ -14352,13 +14352,13 @@
     "release_year": null,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_xp20",
@@ -14377,13 +14377,13 @@
     "release_year": null,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_xp30",
@@ -14402,13 +14402,13 @@
     "release_year": null,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_xp50",
@@ -14427,13 +14427,13 @@
     "release_year": null,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_xp60",
@@ -14452,13 +14452,13 @@
     "release_year": null,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_xp200",
@@ -14477,13 +14477,13 @@
     "release_year": 2013,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_xp70",
@@ -14502,13 +14502,13 @@
     "release_year": 2014,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_xp80",
@@ -14527,13 +14527,13 @@
     "release_year": 2015,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_xp90",
@@ -14552,13 +14552,13 @@
     "release_year": 2016,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_xp120",
@@ -14577,13 +14577,13 @@
     "release_year": 2017,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_xp130",
@@ -14602,13 +14602,13 @@
     "release_year": 2018,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_xp140",
@@ -14673,13 +14673,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z10fd",
@@ -14698,13 +14698,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z110",
@@ -14748,13 +14748,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z20fd",
@@ -14773,13 +14773,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm FinePix Z20fd",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_Z20fd",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z250fd",
@@ -14823,13 +14823,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-40 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support/compatibility/accessories/np-40/",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z30",
@@ -14848,13 +14848,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z300",
@@ -14923,13 +14923,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z35",
@@ -14948,13 +14948,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z37",
@@ -14973,13 +14973,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z5fd",
@@ -15023,13 +15023,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z700_exr",
@@ -15073,13 +15073,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z71",
@@ -15098,13 +15098,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z80",
@@ -15123,13 +15123,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z800exr",
@@ -15173,13 +15173,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z81",
@@ -15198,13 +15198,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z90",
@@ -15223,13 +15223,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z900exr",
@@ -15273,13 +15273,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z91",
@@ -15323,13 +15323,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_x70",
@@ -15471,13 +15471,13 @@
     "release_year": 2017,
     "category": "large_sensor_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Fujifilm NP-W126 Official Compatibility Chart",
+    "candidate_source_url": "https://www.fujifilm-x.com/en-gb/support_compatibility/np-w126",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_xf10",
@@ -17893,13 +17893,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Kodak catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Kodak EasyShare C643/C603 Official User Guide",
+    "candidate_source_url": "https://resources.kodak.com/support/pdf/en/manuals/urg00531/C643_C603_GLB_en.pdf",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "kodak_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "kodak_easyshare_c613",
@@ -17943,13 +17943,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Kodak catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Kodak EasyShare C643/C603 Official User Guide",
+    "candidate_source_url": "https://resources.kodak.com/support/pdf/en/manuals/urg00531/C643_C603_GLB_en.pdf",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "kodak_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "kodak_easyshare_c653",
@@ -19889,13 +19889,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Kodak catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Kodak EasyShare M530 Official Extended User Guide",
+    "candidate_source_url": "https://resources.kodak.com/support/pdf/en/manuals/urg01095/M530_xUG_GLB_en.pdf",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "kodak_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "kodak_easyshare_m531",
@@ -26831,13 +26831,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Nikon EN-EL12 Official Compatibility Page",
+    "candidate_source_url": "https://www.nikonusa.com/p/en-el12-rechargeable-li-ion-battery/25780/overview",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_s6300",
@@ -27086,13 +27086,13 @@
     "release_year": 2008,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Nikon EN-EL12 Official Compatibility Page",
+    "candidate_source_url": "https://www.nikonusa.com/p/en-el12-rechargeable-li-ion-battery/25780/overview",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_s710",
@@ -27112,13 +27112,13 @@
     "release_year": 2008,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Nikon EN-EL12 Official Compatibility Page",
+    "candidate_source_url": "https://www.nikonusa.com/p/en-el12-rechargeable-li-ion-battery/25780/overview",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_s220",
@@ -27190,13 +27190,13 @@
     "release_year": 2009,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Nikon EN-EL12 Official Compatibility Page",
+    "candidate_source_url": "https://www.nikonusa.com/p/en-el12-rechargeable-li-ion-battery/25780/overview",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_s640",
@@ -27242,13 +27242,13 @@
     "release_year": 2009,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Nikon EN-EL12 Official Compatibility Page",
+    "candidate_source_url": "https://www.nikonusa.com/p/en-el12-rechargeable-li-ion-battery/25780/overview",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_s4000",
@@ -27991,13 +27991,13 @@
     "release_year": 2014,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Nikon EN-EL12 Official Compatibility Page",
+    "candidate_source_url": "https://www.nikonusa.com/p/en-el12-rechargeable-li-ion-battery/25780/overview",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_s9700",
@@ -31575,13 +31575,13 @@
     "release_year": 2011,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Olympus SP-810UZ Official Instruction Manual",
+    "candidate_source_url": "https://learnandsupport.getolympus.com/sites/default/files/media/files/2018/04/SP-810UZ_Instruction_Manual_EN.pdf",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_sp_620uz",
@@ -32037,13 +32037,13 @@
     "release_year": 2011,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "OM SYSTEM Compact Camera Official Battery Compatibility Table - LI-42B",
+    "candidate_source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_tg_610",
@@ -32065,13 +32065,13 @@
     "release_year": 2011,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "OM SYSTEM Compact Camera Official Battery Compatibility Table - LI-50B",
+    "candidate_source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_tg_810",
@@ -32093,13 +32093,13 @@
     "release_year": 2011,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "OM SYSTEM Compact Camera Official Battery Compatibility Table - LI-50B",
+    "candidate_source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_tg_1_ihs",
@@ -32121,13 +32121,13 @@
     "release_year": 2012,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "OM SYSTEM LI-92B Official Product Compatibility",
+    "candidate_source_url": "https://explore.omsystem.com/c/en/li-92b-lithium-ion-battery",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_tg_320",
@@ -32149,13 +32149,13 @@
     "release_year": 2012,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "OM SYSTEM Compact Camera Official Battery Compatibility Table - LI-42B",
+    "candidate_source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_tg_820_ihs",
@@ -32177,13 +32177,13 @@
     "release_year": 2012,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "OM SYSTEM Compact Camera Official Battery Compatibility Table - LI-50B",
+    "candidate_source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_tg_2_ihs",
@@ -32205,13 +32205,13 @@
     "release_year": 2013,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "OM SYSTEM LI-92B Official Product Compatibility",
+    "candidate_source_url": "https://explore.omsystem.com/c/en/li-92b-lithium-ion-battery",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_tg_630_ihs",
@@ -32233,13 +32233,13 @@
     "release_year": 2013,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "OM SYSTEM Compact Camera Official Battery Compatibility Table - LI-50B",
+    "candidate_source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_tg_830_ihs",
@@ -32261,13 +32261,13 @@
     "release_year": 2013,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "OM SYSTEM Compact Camera Official Battery Compatibility Table - LI-50B",
+    "candidate_source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_tg_3",
@@ -32289,13 +32289,13 @@
     "release_year": 2014,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "OM SYSTEM LI-92B Official Product Compatibility",
+    "candidate_source_url": "https://explore.omsystem.com/c/en/li-92b-lithium-ion-battery",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_tg_850",
@@ -32317,13 +32317,13 @@
     "release_year": 2014,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "OM SYSTEM Compact Camera Official Battery Compatibility Table - LI-50B",
+    "candidate_source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_tg_4",
@@ -32345,13 +32345,13 @@
     "release_year": 2015,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Olympus TG-4 Official Instruction Manual",
+    "candidate_source_url": "https://learnandsupport.getolympus.com/sites/default/files/media/files/2018/04/TG-4_Instruction_Manual_EN.pdf",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_tg_860",
@@ -32373,13 +32373,13 @@
     "release_year": 2015,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "OM SYSTEM Compact Camera Official Battery Compatibility Table - LI-50B",
+    "candidate_source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_tg_870",
@@ -32401,13 +32401,13 @@
     "release_year": 2016,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "OM SYSTEM Compact Camera Official Battery Compatibility Table - LI-50B",
+    "candidate_source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_tg_5",
@@ -32429,13 +32429,13 @@
     "release_year": 2017,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Olympus TG-5 Official Instruction Manual",
+    "candidate_source_url": "https://learnandsupport.getolympus.com/sites/default/files/media/files/2018/04/TG-5_ENU_00.pdf",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_vg_110",
@@ -33941,13 +33941,13 @@
     "release_year": null,
     "category": "bridge_superzoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Panasonic DMC-FZ200 Official Operating Instructions",
+    "candidate_source_url": "https://help.na.panasonic.com/wp-content/uploads/2023/02/DMCFZ200_VQT4H57_ENG.pdf",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "panasonic_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "panasonic_lumix_dmc_fz30",
@@ -33997,13 +33997,13 @@
     "release_year": null,
     "category": "bridge_superzoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Panasonic DMC-FZ300 Official Catalogue",
+    "candidate_source_url": "https://www.panasonic.com/content/dam/Panasonic/it/it/Cataloghi-e-Brochure/FZ300%20Catalog.pdf",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "panasonic_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "panasonic_lumix_dmc_fz5",
@@ -34971,13 +34971,13 @@
     "release_year": 2012,
     "category": "premium_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Panasonic DMC-LX7 Official Operating Instructions",
+    "candidate_source_url": "https://help.na.panasonic.com/wp-content/uploads/2023/02/DMCLX7_VQT4H90_ENG.pdf",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "panasonic_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "panasonic_lumix_dmc_lx100",
@@ -36218,13 +36218,13 @@
     "release_year": 2016,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Panasonic DMW-BLG10 Official Product Page",
+    "candidate_source_url": "https://shop.panasonic.com/products/rechargable-lithium-ion-battery-dmw-blg10",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "panasonic_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "panasonic_lumix_dmc_zs60",
@@ -36248,13 +36248,13 @@
     "release_year": 2016,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Panasonic DMW-BLG10 Official Support Compatibility Specification",
+    "candidate_source_url": "https://help.na.panasonic.com/?p=423812&post_type=answers",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "panasonic_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "panasonic_lumix_dc_zs70",
@@ -44085,13 +44085,13 @@
     "release_year": 2013,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony DSC-HX300 Official Specifications",
+    "candidate_source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx300/specifications",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_hx50v",
@@ -44114,13 +44114,13 @@
     "release_year": 2013,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony DSC-HX50V Official Specifications",
+    "candidate_source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx50v/specifications",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_hx400v",
@@ -44143,13 +44143,13 @@
     "release_year": 2014,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony NP-BX1 Official Compatibility Information",
+    "candidate_source_url": "https://support.d-imaging.sony.co.jp/www/cscs/accessories/compatibility.php?area=gb&cat=1&lang=en&mdl=NP-BX1",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_hx60v",
@@ -44172,13 +44172,13 @@
     "release_year": 2014,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony NP-BX1 Official Compatibility Information",
+    "candidate_source_url": "https://support.d-imaging.sony.co.jp/www/cscs/accessories/compatibility.php?area=gb&cat=1&lang=en&mdl=NP-BX1",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_hx90v",
@@ -44201,13 +44201,13 @@
     "release_year": 2015,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony DSC-HX90V Official Specifications",
+    "candidate_source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx90v/specifications",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_hx350",
@@ -44259,13 +44259,13 @@
     "release_year": 2016,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony DSC-HX80 Official Specifications",
+    "candidate_source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx80/specifications",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_hx95",
@@ -44288,13 +44288,13 @@
     "release_year": 2018,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony DSC-HX95 Official Specifications",
+    "candidate_source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx95/specifications",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_rx1",
@@ -45516,13 +45516,13 @@
     "release_year": 2013,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony NP-BN1 Official Compatibility Information",
+    "candidate_source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_tx1",
@@ -45632,13 +45632,13 @@
     "release_year": null,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony NP-BN1 Official Compatibility Information",
+    "candidate_source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_tx300v",
@@ -45806,13 +45806,13 @@
     "release_year": 2012,
     "category": "waterproof_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony NP-BN1 Official Compatibility Information",
+    "candidate_source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_tx66",
@@ -45835,13 +45835,13 @@
     "release_year": 2012,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony NP-BN1 Official Compatibility Information",
+    "candidate_source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_w1",
@@ -46850,13 +46850,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony NP-BN1 Official Compatibility Information",
+    "candidate_source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_w7",
@@ -46937,13 +46937,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony Cyber-shot DSC-W710",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony_DSC-W710",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony NP-BN1 Official Compatibility Information",
+    "candidate_source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_w80",
@@ -47401,13 +47401,13 @@
     "release_year": 2012,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony NP-BN1 Official Compatibility Information",
+    "candidate_source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_w690",
@@ -47459,13 +47459,13 @@
     "release_year": 2013,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony NP-BN1 Official Compatibility Information",
+    "candidate_source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_w810",
@@ -47633,13 +47633,13 @@
     "release_year": null,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony NP-BN1 Official Compatibility Information",
+    "candidate_source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_wx7",
@@ -47778,13 +47778,13 @@
     "release_year": 2012,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony NP-BN1 Official Compatibility Information",
+    "candidate_source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_wx170",
@@ -47836,13 +47836,13 @@
     "release_year": 2012,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony NP-BN1 Official Compatibility Information",
+    "candidate_source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_wx200",
@@ -47865,13 +47865,13 @@
     "release_year": 2013,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony NP-BN1 Official Compatibility Information",
+    "candidate_source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_wx300",
@@ -47894,13 +47894,13 @@
     "release_year": 2013,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony DSC-WX300 Official Specifications",
+    "candidate_source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-wx-series/dsc-wx300/specifications",
+    "candidate_source_type": "official_manual",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_wx60",
@@ -47923,13 +47923,13 @@
     "release_year": 2013,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony NP-BN1 Official Compatibility Information",
+    "candidate_source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_wx80",
@@ -47952,13 +47952,13 @@
     "release_year": 2013,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "candidate_source_type": "trusted_database",
+    "candidate_source_name": "Sony NP-BN1 Official Compatibility Information",
+    "candidate_source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "candidate_source_type": "official_accessory_page",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_wx220",

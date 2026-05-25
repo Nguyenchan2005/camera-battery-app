@@ -99,6 +99,21 @@ export interface UnresolvedModel {
   last_checked: string;
 }
 
+export interface BatterySuggestion {
+  camera_id: string;
+  display_name: string;
+  brand: string;
+  suggested_battery_model: string;
+  suggested_battery_id: string | null;
+  evidence_type: string;
+  source_name: string;
+  source_url: string;
+  source_text: string;
+  confidence: "medium" | "low";
+  warning: string;
+  last_checked: string;
+}
+
 export interface GroupedCompatibilitySource {
   source_name: string;
   source_url: string;
@@ -138,6 +153,7 @@ export interface DataBundle {
   cameraCandidates: CameraCandidate[];
   sources: Source[];
   unresolvedModels: UnresolvedModel[];
+  batterySuggestions: BatterySuggestion[];
 }
 
 export type LookupResult =
@@ -150,11 +166,13 @@ export type LookupResult =
       kind: "battery";
       battery: Battery;
       cameras: Array<{ camera: Camera; compatibility: GroupedCompatibility[] }>;
+      suggestions: BatterySuggestion[];
     }
   | {
       kind: "unresolved";
       candidate: CameraCandidate;
       unresolved?: UnresolvedModel;
+      suggestions: BatterySuggestion[];
     }
   | {
       kind: "unknown";

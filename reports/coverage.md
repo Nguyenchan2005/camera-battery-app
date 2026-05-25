@@ -4,35 +4,35 @@ Generated: 2026-05-25
 
 ## Summary
 
-- Cameras: 474
-- Compatibility rows: 651
-- Cameras with at least one high-confidence verified battery row: 400
+- Cameras: 601
+- Compatibility rows: 778
+- Cameras with at least one high-confidence verified battery row: 527
 - Cameras with unknown battery mapping rows: 0
-- Cameras with aliases or regional names: 466
+- Cameras with aliases or regional names: 593
 
 ## Cameras By Brand
 
 | Brand | Cameras | High rows | Medium rows | Low rows |
 | --- | ---: | ---: | ---: | ---: |
 | Canon | 223 | 373 | 1 | 0 |
-| Casio | 4 | 5 | 0 | 0 |
-| Fujifilm | 22 | 8 | 14 | 0 |
+| Casio | 10 | 11 | 0 | 0 |
+| Fujifilm | 91 | 77 | 14 | 0 |
 | GE | 2 | 0 | 2 | 0 |
 | HP | 1 | 0 | 1 | 0 |
-| Kodak | 2 | 2 | 0 | 0 |
+| Kodak | 5 | 5 | 0 | 0 |
 | Kodak PIXPRO | 2 | 2 | 0 | 0 |
 | Konica Minolta | 6 | 1 | 4 | 1 |
 | Leica | 4 | 4 | 0 | 0 |
 | Minolta | 4 | 0 | 6 | 0 |
-| Nikon | 89 | 76 | 21 | 0 |
+| Nikon | 95 | 82 | 21 | 0 |
 | OM System | 1 | 1 | 0 | 0 |
-| Olympus | 19 | 3 | 22 | 0 |
-| Panasonic | 6 | 5 | 1 | 0 |
+| Olympus | 35 | 19 | 22 | 0 |
+| Panasonic | 11 | 10 | 1 | 0 |
 | Pentax | 4 | 1 | 4 | 0 |
 | Ricoh | 6 | 3 | 3 | 0 |
 | Samsung | 5 | 1 | 3 | 2 |
 | Sigma | 7 | 7 | 0 | 0 |
-| Sony | 66 | 68 | 5 | 0 |
+| Sony | 88 | 90 | 5 | 0 |
 | Vivitar | 1 | 0 | 1 | 0 |
 
 ## Manual Check List

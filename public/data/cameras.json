@@ -5500,6 +5500,106 @@
     "notes": ""
   },
   {
+    "camera_id": "casio_exilim_ex_zr1200",
+    "brand": "Casio",
+    "series": "Exilim Z",
+    "model": "Exilim EX-ZR1200",
+    "display_name": "Casio Exilim EX-ZR1200",
+    "aliases": [
+      "Exilim EX-ZR1200"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-ZR1200"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "casio_exilim_ex_zr20",
+    "brand": "Casio",
+    "series": "Exilim Z",
+    "model": "Exilim EX-ZR20",
+    "display_name": "Casio Exilim EX-ZR20",
+    "aliases": [
+      "Exilim EX-ZR20"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-ZR20"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "casio_exilim_ex_zr200",
+    "brand": "Casio",
+    "series": "Exilim Z",
+    "model": "Exilim EX-ZR200",
+    "display_name": "Casio Exilim EX-ZR200",
+    "aliases": [
+      "Exilim EX-ZR200"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-ZR200"
+      ]
+    },
+    "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "casio_exilim_ex_zr300",
+    "brand": "Casio",
+    "series": "Exilim Z",
+    "model": "Exilim EX-ZR300",
+    "display_name": "Casio Exilim EX-ZR300",
+    "aliases": [
+      "Exilim EX-ZR300"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-ZR300"
+      ]
+    },
+    "release_year": 2012,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "casio_exilim_ex_zr400",
+    "brand": "Casio",
+    "series": "Exilim Z",
+    "model": "Exilim EX-ZR400",
+    "display_name": "Casio Exilim EX-ZR400",
+    "aliases": [
+      "Exilim EX-ZR400"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-ZR400"
+      ]
+    },
+    "release_year": 2013,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "casio_exilim_ex_zr500",
     "brand": "Casio",
     "series": "Exilim High Speed",
@@ -5545,6 +5645,26 @@
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": "EX-ZR710/750 share the manual family, but mapping here is source-backed for EX-ZR700."
+  },
+  {
+    "camera_id": "casio_exilim_ex_zr800",
+    "brand": "Casio",
+    "series": "Exilim Z",
+    "model": "Exilim EX-ZR800",
+    "display_name": "Casio Exilim EX-ZR800",
+    "aliases": [
+      "Exilim EX-ZR800"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-ZR800"
+      ]
+    },
+    "release_year": 2013,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "fujifilm_finepix_a100",
@@ -5627,6 +5747,46 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "fujifilm_finepix_f100fd",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F100fd",
+    "display_name": "Fujifilm FinePix F100fd",
+    "aliases": [
+      "FUJIFILM FinePix F100fd"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F100fd"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_f200exr",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F200EXR",
+    "display_name": "Fujifilm FinePix F200EXR",
+    "aliases": [
+      "FUJIFILM FinePix F200EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F200EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "fujifilm_finepix_f30",
     "brand": "Fujifilm",
     "series": "FinePix F",
@@ -5638,6 +5798,46 @@
     "regional_names": {
       "global": [
         "Fujifilm FinePix F30"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_f300exr",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F300EXR",
+    "display_name": "Fujifilm FinePix F300EXR",
+    "aliases": [
+      "FUJIFILM FinePix F300EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F300EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_f31fd",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F31fd",
+    "display_name": "Fujifilm FinePix F31fd",
+    "aliases": [
+      "FUJIFILM FinePix F31fd"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F31fd"
       ]
     },
     "release_year": null,
@@ -5687,6 +5887,126 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "fujifilm_finepix_f500exr",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F500EXR",
+    "display_name": "Fujifilm FinePix F500EXR",
+    "aliases": [
+      "FUJIFILM FinePix F500EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F500EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_f505exr",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F505EXR",
+    "display_name": "Fujifilm FinePix F505EXR",
+    "aliases": [
+      "FUJIFILM FinePix F505EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F505EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_f50fd",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F50fd",
+    "display_name": "Fujifilm FinePix F50fd",
+    "aliases": [
+      "FUJIFILM FinePix F50fd"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F50fd"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_f550exr",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F550EXR",
+    "display_name": "Fujifilm FinePix F550EXR",
+    "aliases": [
+      "FUJIFILM FinePix F550EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F550EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_f600exr",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F600EXR",
+    "display_name": "Fujifilm FinePix F600EXR",
+    "aliases": [
+      "FUJIFILM FinePix F600EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F600EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred. Phase 3 verified mapping was removed because source text did not explicitly confirm a built-in battery."
+  },
+  {
+    "camera_id": "fujifilm_finepix_f660exr",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F660EXR",
+    "display_name": "Fujifilm FinePix F660EXR",
+    "aliases": [
+      "FUJIFILM FinePix F660EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F660EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "fujifilm_finepix_f700",
     "brand": "Fujifilm",
     "series": "FinePix F",
@@ -5698,6 +6018,406 @@
     "regional_names": {
       "global": [
         "Fujifilm FinePix F700"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_f70exr",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F70EXR",
+    "display_name": "Fujifilm FinePix F70EXR",
+    "aliases": [
+      "FUJIFILM FinePix F70EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F70EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_f750exr",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F750EXR",
+    "display_name": "Fujifilm FinePix F750EXR",
+    "aliases": [
+      "FUJIFILM FinePix F750EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F750EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_f770exr",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F770EXR",
+    "display_name": "Fujifilm FinePix F770EXR",
+    "aliases": [
+      "FUJIFILM FinePix F770EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F770EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_f800exr",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F800EXR",
+    "display_name": "Fujifilm FinePix F800EXR",
+    "aliases": [
+      "FUJIFILM FinePix F800EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F800EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_f900exr",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F900EXR",
+    "display_name": "Fujifilm FinePix F900EXR",
+    "aliases": [
+      "FUJIFILM FinePix F900EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F900EXR"
+      ]
+    },
+    "release_year": 2013,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_hs30exr",
+    "brand": "Fujifilm",
+    "series": "FinePix HS",
+    "model": "FinePix HS30EXR",
+    "display_name": "Fujifilm FinePix HS30EXR",
+    "aliases": [
+      "FUJIFILM FinePix HS30EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix HS30EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_hs50exr",
+    "brand": "Fujifilm",
+    "series": "FinePix HS",
+    "model": "FinePix HS50EXR",
+    "display_name": "Fujifilm FinePix HS50EXR",
+    "aliases": [
+      "FUJIFILM FinePix HS50EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix HS50EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_j10",
+    "brand": "Fujifilm",
+    "series": "FinePix J",
+    "model": "FinePix J10",
+    "display_name": "Fujifilm FinePix J10",
+    "aliases": [
+      "FUJIFILM FinePix J10"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix J10"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_j100",
+    "brand": "Fujifilm",
+    "series": "FinePix J",
+    "model": "FinePix J100",
+    "display_name": "Fujifilm FinePix J100",
+    "aliases": [
+      "FUJIFILM FinePix J100"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix J100"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_j110w",
+    "brand": "Fujifilm",
+    "series": "FinePix J",
+    "model": "FinePix J110w",
+    "display_name": "Fujifilm FinePix J110w",
+    "aliases": [
+      "FUJIFILM FinePix J110w"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix J110w"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_j120",
+    "brand": "Fujifilm",
+    "series": "FinePix J",
+    "model": "FinePix J120",
+    "display_name": "Fujifilm FinePix J120",
+    "aliases": [
+      "FUJIFILM FinePix J120"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix J120"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_j15fd",
+    "brand": "Fujifilm",
+    "series": "FinePix J",
+    "model": "FinePix J15fd",
+    "display_name": "Fujifilm FinePix J15fd",
+    "aliases": [
+      "FUJIFILM FinePix J15fd"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix J15fd"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_j250",
+    "brand": "Fujifilm",
+    "series": "FinePix J",
+    "model": "FinePix J250",
+    "display_name": "Fujifilm FinePix J250",
+    "aliases": [
+      "FUJIFILM FinePix J250"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix J250"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_j50",
+    "brand": "Fujifilm",
+    "series": "FinePix J",
+    "model": "FinePix J50",
+    "display_name": "Fujifilm FinePix J50",
+    "aliases": [
+      "FUJIFILM FinePix J50"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix J50"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_jx200",
+    "brand": "Fujifilm",
+    "series": "FinePix JX",
+    "model": "FinePix JX200",
+    "display_name": "Fujifilm FinePix JX200",
+    "aliases": [
+      "FUJIFILM FinePix JX200"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix JX200"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_jx250",
+    "brand": "Fujifilm",
+    "series": "FinePix JX",
+    "model": "FinePix JX250",
+    "display_name": "Fujifilm FinePix JX250",
+    "aliases": [
+      "FUJIFILM FinePix JX250"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix JX250"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_jx370",
+    "brand": "Fujifilm",
+    "series": "FinePix JX",
+    "model": "FinePix JX370",
+    "display_name": "Fujifilm FinePix JX370",
+    "aliases": [
+      "FUJIFILM FinePix JX370"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix JX370"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_jx500",
+    "brand": "Fujifilm",
+    "series": "FinePix JX",
+    "model": "FinePix JX500",
+    "display_name": "Fujifilm FinePix JX500",
+    "aliases": [
+      "FUJIFILM FinePix JX500"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix JX500"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_jx550",
+    "brand": "Fujifilm",
+    "series": "FinePix JX",
+    "model": "FinePix JX550",
+    "display_name": "Fujifilm FinePix JX550",
+    "aliases": [
+      "FUJIFILM FinePix JX550"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix JX550"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_jz100",
+    "brand": "Fujifilm",
+    "series": "FinePix JZ",
+    "model": "FinePix JZ100",
+    "display_name": "Fujifilm FinePix JZ100",
+    "aliases": [
+      "FUJIFILM FinePix JZ100"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix JZ100"
       ]
     },
     "release_year": null,
@@ -5721,6 +6441,46 @@
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": ""
+  },
+  {
+    "camera_id": "fujifilm_finepix_s100fs",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S100fs",
+    "display_name": "Fujifilm FinePix S100fs",
+    "aliases": [
+      "FUJIFILM FinePix S100fs"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S100fs"
+      ]
+    },
+    "release_year": 2008,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s200exr",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S200EXR",
+    "display_name": "Fujifilm FinePix S200EXR",
+    "aliases": [
+      "FUJIFILM FinePix S200EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S200EXR"
+      ]
+    },
+    "release_year": 2009,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "fujifilm_finepix_s304",
@@ -5883,6 +6643,186 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "fujifilm_finepix_t200",
+    "brand": "Fujifilm",
+    "series": "FinePix T",
+    "model": "FinePix T200",
+    "display_name": "Fujifilm FinePix T200",
+    "aliases": [
+      "FUJIFILM FinePix T200"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix T200"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_t300",
+    "brand": "Fujifilm",
+    "series": "FinePix T",
+    "model": "FinePix T300",
+    "display_name": "Fujifilm FinePix T300",
+    "aliases": [
+      "FUJIFILM FinePix T300"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix T300"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_t400",
+    "brand": "Fujifilm",
+    "series": "FinePix T",
+    "model": "FinePix T400",
+    "display_name": "Fujifilm FinePix T400",
+    "aliases": [
+      "FUJIFILM FinePix T400"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix T400"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_t500",
+    "brand": "Fujifilm",
+    "series": "FinePix T",
+    "model": "FinePix T500",
+    "display_name": "Fujifilm FinePix T500",
+    "aliases": [
+      "FUJIFILM FinePix T500"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix T500"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_t550",
+    "brand": "Fujifilm",
+    "series": "FinePix T",
+    "model": "FinePix T550",
+    "display_name": "Fujifilm FinePix T550",
+    "aliases": [
+      "FUJIFILM FinePix T550"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix T550"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_xp10",
+    "brand": "Fujifilm",
+    "series": "FinePix XP",
+    "model": "FinePix XP10",
+    "display_name": "Fujifilm FinePix XP10",
+    "aliases": [
+      "FUJIFILM FinePix XP10"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix XP10"
+      ]
+    },
+    "release_year": null,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_xp100",
+    "brand": "Fujifilm",
+    "series": "FinePix XP",
+    "model": "FinePix XP100",
+    "display_name": "Fujifilm FinePix XP100",
+    "aliases": [
+      "FUJIFILM FinePix XP100"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix XP100"
+      ]
+    },
+    "release_year": null,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_xp120",
+    "brand": "Fujifilm",
+    "series": "FinePix XP",
+    "model": "FinePix XP120",
+    "display_name": "Fujifilm FinePix XP120",
+    "aliases": [
+      "FUJIFILM FinePix XP120"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix XP120"
+      ]
+    },
+    "release_year": 2017,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_xp130",
+    "brand": "Fujifilm",
+    "series": "FinePix XP",
+    "model": "FinePix XP130",
+    "display_name": "Fujifilm FinePix XP130",
+    "aliases": [
+      "FUJIFILM FinePix XP130"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix XP130"
+      ]
+    },
+    "release_year": 2018,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "fujifilm_finepix_xp140",
     "brand": "Fujifilm",
     "series": "FinePix XP",
@@ -5897,6 +6837,566 @@
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": ""
+  },
+  {
+    "camera_id": "fujifilm_finepix_xp170",
+    "brand": "Fujifilm",
+    "series": "FinePix XP",
+    "model": "FinePix XP170",
+    "display_name": "Fujifilm FinePix XP170",
+    "aliases": [
+      "FUJIFILM FinePix XP170"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix XP170"
+      ]
+    },
+    "release_year": null,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_xp20",
+    "brand": "Fujifilm",
+    "series": "FinePix XP",
+    "model": "FinePix XP20",
+    "display_name": "Fujifilm FinePix XP20",
+    "aliases": [
+      "FUJIFILM FinePix XP20"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix XP20"
+      ]
+    },
+    "release_year": null,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_xp200",
+    "brand": "Fujifilm",
+    "series": "FinePix XP",
+    "model": "FinePix XP200",
+    "display_name": "Fujifilm FinePix XP200",
+    "aliases": [
+      "FUJIFILM FinePix XP200"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix XP200"
+      ]
+    },
+    "release_year": 2013,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_xp30",
+    "brand": "Fujifilm",
+    "series": "FinePix XP",
+    "model": "FinePix XP30",
+    "display_name": "Fujifilm FinePix XP30",
+    "aliases": [
+      "FUJIFILM FinePix XP30"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix XP30"
+      ]
+    },
+    "release_year": null,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_xp50",
+    "brand": "Fujifilm",
+    "series": "FinePix XP",
+    "model": "FinePix XP50",
+    "display_name": "Fujifilm FinePix XP50",
+    "aliases": [
+      "FUJIFILM FinePix XP50"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix XP50"
+      ]
+    },
+    "release_year": null,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_xp60",
+    "brand": "Fujifilm",
+    "series": "FinePix XP",
+    "model": "FinePix XP60",
+    "display_name": "Fujifilm FinePix XP60",
+    "aliases": [
+      "FUJIFILM FinePix XP60"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix XP60"
+      ]
+    },
+    "release_year": null,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_xp70",
+    "brand": "Fujifilm",
+    "series": "FinePix XP",
+    "model": "FinePix XP70",
+    "display_name": "Fujifilm FinePix XP70",
+    "aliases": [
+      "FUJIFILM FinePix XP70"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix XP70"
+      ]
+    },
+    "release_year": 2014,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_xp80",
+    "brand": "Fujifilm",
+    "series": "FinePix XP",
+    "model": "FinePix XP80",
+    "display_name": "Fujifilm FinePix XP80",
+    "aliases": [
+      "FUJIFILM FinePix XP80"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix XP80"
+      ]
+    },
+    "release_year": 2015,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_xp90",
+    "brand": "Fujifilm",
+    "series": "FinePix XP",
+    "model": "FinePix XP90",
+    "display_name": "Fujifilm FinePix XP90",
+    "aliases": [
+      "FUJIFILM FinePix XP90"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix XP90"
+      ]
+    },
+    "release_year": 2016,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z100fd",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z100fd",
+    "display_name": "Fujifilm FinePix Z100fd",
+    "aliases": [
+      "FUJIFILM FinePix Z100fd"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z100fd"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z10fd",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z10fd",
+    "display_name": "Fujifilm FinePix Z10fd",
+    "aliases": [
+      "FUJIFILM FinePix Z10fd"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z10fd"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z200fd",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z200fd",
+    "display_name": "Fujifilm FinePix Z200fd",
+    "aliases": [
+      "FUJIFILM FinePix Z200fd"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z200fd"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z20fd",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z20fd",
+    "display_name": "Fujifilm FinePix Z20fd",
+    "aliases": [
+      "FUJIFILM FinePix Z20fd"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z20fd"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z3",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z3",
+    "display_name": "Fujifilm FinePix Z3",
+    "aliases": [
+      "FUJIFILM FinePix Z3"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z3"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z30",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z30",
+    "display_name": "Fujifilm FinePix Z30",
+    "aliases": [
+      "FUJIFILM FinePix Z30"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z30"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z33wp",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z33WP",
+    "display_name": "Fujifilm FinePix Z33WP",
+    "aliases": [
+      "FUJIFILM FinePix Z33WP"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z33WP"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z35",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z35",
+    "display_name": "Fujifilm FinePix Z35",
+    "aliases": [
+      "FUJIFILM FinePix Z35"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z35"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z37",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z37",
+    "display_name": "Fujifilm FinePix Z37",
+    "aliases": [
+      "FUJIFILM FinePix Z37"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z37"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z70",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z70",
+    "display_name": "Fujifilm FinePix Z70",
+    "aliases": [
+      "FUJIFILM FinePix Z70"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z70"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z707exr",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z707EXR",
+    "display_name": "Fujifilm FinePix Z707EXR",
+    "aliases": [
+      "FUJIFILM FinePix Z707EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z707EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z71",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z71",
+    "display_name": "Fujifilm FinePix Z71",
+    "aliases": [
+      "FUJIFILM FinePix Z71"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z71"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z80",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z80",
+    "display_name": "Fujifilm FinePix Z80",
+    "aliases": [
+      "FUJIFILM FinePix Z80"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z80"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z808exr",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z808EXR",
+    "display_name": "Fujifilm FinePix Z808EXR",
+    "aliases": [
+      "FUJIFILM FinePix Z808EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z808EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z81",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z81",
+    "display_name": "Fujifilm FinePix Z81",
+    "aliases": [
+      "FUJIFILM FinePix Z81"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z81"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z90",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z90",
+    "display_name": "Fujifilm FinePix Z90",
+    "aliases": [
+      "FUJIFILM FinePix Z90"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z90"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z909exr",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z909EXR",
+    "display_name": "Fujifilm FinePix Z909EXR",
+    "aliases": [
+      "FUJIFILM FinePix Z909EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z909EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z950_exr",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z950 EXR",
+    "display_name": "Fujifilm FinePix Z950 EXR",
+    "aliases": [
+      "FUJIFILM FinePix Z950 EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z950 EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_x100f",
+    "brand": "Fujifilm",
+    "series": "X100",
+    "model": "X100F",
+    "display_name": "Fujifilm X100F",
+    "aliases": [
+      "FUJIFILM X100F"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm X100F"
+      ]
+    },
+    "release_year": 2017,
+    "category": "large_sensor_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "fujifilm_x100v",
@@ -6048,6 +7548,66 @@
     "lens_type": "fixed_lens",
     "battery_system": "aa",
     "notes": ""
+  },
+  {
+    "camera_id": "kodak_easyshare_c603",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C603",
+    "display_name": "Kodak EasyShare C603",
+    "aliases": [
+      "Kodak Easyshare C603"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C603"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c643",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C643",
+    "display_name": "Kodak EasyShare C643",
+    "aliases": [
+      "Kodak Easyshare C643"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C643"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_m530",
+    "brand": "Kodak",
+    "series": "EasyShare M",
+    "model": "EasyShare M530",
+    "display_name": "Kodak EasyShare M530",
+    "aliases": [
+      "Kodak Easyshare M530"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare M530"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "kodak_easyshare_m883",
@@ -7807,6 +9367,27 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "nikon_coolpix_s610",
+    "brand": "Nikon",
+    "series": "COOLPIX S",
+    "model": "COOLPIX S610",
+    "display_name": "Nikon COOLPIX S610",
+    "aliases": [
+      "Coolpix S610",
+      "S610"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX S610"
+      ]
+    },
+    "release_year": 2008,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "nikon_coolpix_s6100",
     "brand": "Nikon",
     "series": "COOLPIX S",
@@ -7828,6 +9409,27 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "nikon_coolpix_s620",
+    "brand": "Nikon",
+    "series": "COOLPIX S",
+    "model": "COOLPIX S620",
+    "display_name": "Nikon COOLPIX S620",
+    "aliases": [
+      "Coolpix S620",
+      "S620"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX S620"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "nikon_coolpix_s6200",
     "brand": "Nikon",
     "series": "COOLPIX S",
@@ -7843,6 +9445,27 @@
       ]
     },
     "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_s630",
+    "brand": "Nikon",
+    "series": "COOLPIX S",
+    "model": "COOLPIX S630",
+    "display_name": "Nikon COOLPIX S630",
+    "aliases": [
+      "Coolpix S630",
+      "S630"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX S630"
+      ]
+    },
+    "release_year": 2009,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -7933,6 +9556,27 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "nikon_coolpix_s70",
+    "brand": "Nikon",
+    "series": "COOLPIX S",
+    "model": "COOLPIX S70",
+    "display_name": "Nikon COOLPIX S70",
+    "aliases": [
+      "Coolpix S70",
+      "S70"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX S70"
+      ]
+    },
+    "release_year": 2009,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "nikon_coolpix_s7000",
     "brand": "Nikon",
     "series": "COOLPIX S",
@@ -7948,6 +9592,27 @@
       ]
     },
     "release_year": 2015,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_s710",
+    "brand": "Nikon",
+    "series": "COOLPIX S",
+    "model": "COOLPIX S710",
+    "display_name": "Nikon COOLPIX S710",
+    "aliases": [
+      "Coolpix S710",
+      "S710"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX S710"
+      ]
+    },
+    "release_year": 2008,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -8095,6 +9760,27 @@
       ]
     },
     "release_year": 2013,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_s9600",
+    "brand": "Nikon",
+    "series": "COOLPIX S",
+    "model": "COOLPIX S9600",
+    "display_name": "Nikon COOLPIX S9600",
+    "aliases": [
+      "Coolpix S9600",
+      "S9600"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX S9600"
+      ]
+    },
+    "release_year": 2014,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -8546,6 +10232,29 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "olympus_sp_810uz",
+    "brand": "Olympus",
+    "series": "SP series",
+    "model": "SP-810UZ",
+    "display_name": "Olympus SP-810UZ",
+    "aliases": [
+      "Olympus SP-810UZ"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus SP-810UZ"
+      ],
+      "regional_aliases": [
+        "Olympus SP-810UZ"
+      ]
+    },
+    "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "olympus_stylus_410",
     "brand": "Olympus",
     "series": "Stylus/mju Digital",
@@ -8583,6 +10292,351 @@
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": ""
+  },
+  {
+    "camera_id": "olympus_tg_1_ihs",
+    "brand": "Olympus",
+    "series": "Tough/TG",
+    "model": "TG-1 iHS",
+    "display_name": "Olympus TG-1 iHS",
+    "aliases": [
+      "Olympus TG-1 iHS"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus TG-1 iHS"
+      ],
+      "regional_aliases": [
+        "Olympus TG-1 iHS"
+      ]
+    },
+    "release_year": 2012,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_tg_2_ihs",
+    "brand": "Olympus",
+    "series": "Tough/TG",
+    "model": "TG-2 iHS",
+    "display_name": "Olympus TG-2 iHS",
+    "aliases": [
+      "Olympus TG-2 iHS"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus TG-2 iHS"
+      ],
+      "regional_aliases": [
+        "Olympus TG-2 iHS"
+      ]
+    },
+    "release_year": 2013,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_tg_3",
+    "brand": "Olympus",
+    "series": "Tough/TG",
+    "model": "TG-3",
+    "display_name": "Olympus TG-3",
+    "aliases": [
+      "Olympus TG-3"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus TG-3"
+      ],
+      "regional_aliases": [
+        "Olympus TG-3"
+      ]
+    },
+    "release_year": 2014,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_tg_310",
+    "brand": "Olympus",
+    "series": "Tough/TG",
+    "model": "TG-310",
+    "display_name": "Olympus TG-310",
+    "aliases": [
+      "Olympus TG-310"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus TG-310"
+      ],
+      "regional_aliases": [
+        "Olympus TG-310"
+      ]
+    },
+    "release_year": 2011,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_tg_320",
+    "brand": "Olympus",
+    "series": "Tough/TG",
+    "model": "TG-320",
+    "display_name": "Olympus TG-320",
+    "aliases": [
+      "Olympus TG-320"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus TG-320"
+      ],
+      "regional_aliases": [
+        "Olympus TG-320"
+      ]
+    },
+    "release_year": 2012,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_tg_4",
+    "brand": "Olympus",
+    "series": "Tough/TG",
+    "model": "TG-4",
+    "display_name": "Olympus TG-4",
+    "aliases": [
+      "Olympus TG-4"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus TG-4"
+      ],
+      "regional_aliases": [
+        "Olympus TG-4"
+      ]
+    },
+    "release_year": 2015,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_tg_5",
+    "brand": "Olympus",
+    "series": "Tough/TG",
+    "model": "TG-5",
+    "display_name": "Olympus TG-5",
+    "aliases": [
+      "Olympus TG-5"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus TG-5"
+      ],
+      "regional_aliases": [
+        "Olympus TG-5"
+      ]
+    },
+    "release_year": 2017,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_tg_610",
+    "brand": "Olympus",
+    "series": "Tough/TG",
+    "model": "TG-610",
+    "display_name": "Olympus TG-610",
+    "aliases": [
+      "Olympus TG-610"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus TG-610"
+      ],
+      "regional_aliases": [
+        "Olympus TG-610"
+      ]
+    },
+    "release_year": 2011,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_tg_630_ihs",
+    "brand": "Olympus",
+    "series": "Tough/TG",
+    "model": "TG-630 iHS",
+    "display_name": "Olympus TG-630 iHS",
+    "aliases": [
+      "Olympus TG-630 iHS"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus TG-630 iHS"
+      ],
+      "regional_aliases": [
+        "Olympus TG-630 iHS"
+      ]
+    },
+    "release_year": 2013,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_tg_810",
+    "brand": "Olympus",
+    "series": "Tough/TG",
+    "model": "TG-810",
+    "display_name": "Olympus TG-810",
+    "aliases": [
+      "Olympus TG-810"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus TG-810"
+      ],
+      "regional_aliases": [
+        "Olympus TG-810"
+      ]
+    },
+    "release_year": 2011,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_tg_820_ihs",
+    "brand": "Olympus",
+    "series": "Tough/TG",
+    "model": "TG-820 iHS",
+    "display_name": "Olympus TG-820 iHS",
+    "aliases": [
+      "Olympus TG-820 iHS"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus TG-820 iHS"
+      ],
+      "regional_aliases": [
+        "Olympus TG-820 iHS"
+      ]
+    },
+    "release_year": 2012,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_tg_830_ihs",
+    "brand": "Olympus",
+    "series": "Tough/TG",
+    "model": "TG-830 iHS",
+    "display_name": "Olympus TG-830 iHS",
+    "aliases": [
+      "Olympus TG-830 iHS"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus TG-830 iHS"
+      ],
+      "regional_aliases": [
+        "Olympus TG-830 iHS"
+      ]
+    },
+    "release_year": 2013,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_tg_850",
+    "brand": "Olympus",
+    "series": "Tough/TG",
+    "model": "TG-850",
+    "display_name": "Olympus TG-850",
+    "aliases": [
+      "Olympus TG-850"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus TG-850"
+      ],
+      "regional_aliases": [
+        "Olympus TG-850"
+      ]
+    },
+    "release_year": 2014,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_tg_860",
+    "brand": "Olympus",
+    "series": "Tough/TG",
+    "model": "TG-860",
+    "display_name": "Olympus TG-860",
+    "aliases": [
+      "Olympus TG-860"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus TG-860"
+      ],
+      "regional_aliases": [
+        "Olympus TG-860"
+      ]
+    },
+    "release_year": 2015,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_tg_870",
+    "brand": "Olympus",
+    "series": "Tough/TG",
+    "model": "TG-870",
+    "display_name": "Olympus TG-870",
+    "aliases": [
+      "Olympus TG-870"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus TG-870"
+      ],
+      "regional_aliases": [
+        "Olympus TG-870"
+      ]
+    },
+    "release_year": 2016,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "olympus_tough_tg_6",
@@ -8729,6 +10783,52 @@
     "notes": ""
   },
   {
+    "camera_id": "panasonic_lumix_dmc_fz200",
+    "brand": "Panasonic",
+    "series": "Lumix FZ",
+    "model": "DMC-FZ200",
+    "display_name": "Panasonic Lumix DMC-FZ200",
+    "aliases": [
+      "DMC-FZ200"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-FZ200"
+      ],
+      "regional_aliases": [
+        "DMC-FZ200"
+      ]
+    },
+    "release_year": null,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fz300",
+    "brand": "Panasonic",
+    "series": "Lumix FZ",
+    "model": "DMC-FZ300",
+    "display_name": "Panasonic Lumix DMC-FZ300",
+    "aliases": [
+      "DMC-FZ300"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-FZ300"
+      ],
+      "regional_aliases": [
+        "DMC-FZ300"
+      ]
+    },
+    "release_year": null,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "panasonic_lumix_dmc_lx100",
     "brand": "Panasonic",
     "series": "Lumix LX",
@@ -8743,6 +10843,29 @@
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": ""
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_lx7",
+    "brand": "Panasonic",
+    "series": "Lumix LX",
+    "model": "DMC-LX7",
+    "display_name": "Panasonic Lumix DMC-LX7",
+    "aliases": [
+      "DMC-LX7"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-LX7"
+      ],
+      "regional_aliases": [
+        "DMC-LX7"
+      ]
+    },
+    "release_year": 2012,
+    "category": "premium_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "panasonic_lumix_dmc_lz1",
@@ -8765,6 +10888,56 @@
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_zs100",
+    "brand": "Panasonic",
+    "series": "Lumix TZ/ZS",
+    "model": "DMC-ZS100",
+    "display_name": "Panasonic Lumix DMC-ZS100",
+    "aliases": [
+      "DMC-ZS100",
+      "DMC-TZ100"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-ZS100"
+      ],
+      "regional_aliases": [
+        "DMC-ZS100",
+        "DMC-TZ100"
+      ]
+    },
+    "release_year": 2016,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_zs60",
+    "brand": "Panasonic",
+    "series": "Lumix TZ/ZS",
+    "model": "DMC-ZS60",
+    "display_name": "Panasonic Lumix DMC-ZS60",
+    "aliases": [
+      "DMC-ZS60",
+      "DMC-TZ60"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-ZS60"
+      ],
+      "regional_aliases": [
+        "DMC-ZS60",
+        "DMC-TZ60"
+      ]
+    },
+    "release_year": 2016,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
@@ -9248,6 +11421,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_hx300",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-HX",
+    "model": "DSC-HX300",
+    "display_name": "Sony Cyber-shot DSC-HX300",
+    "aliases": [
+      "DSC-HX300",
+      "Cyber-shot DSC-HX300"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-HX300"
+      ],
+      "sony_code": [
+        "DSC-HX300"
+      ]
+    },
+    "release_year": 2013,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_hx350",
     "brand": "Sony",
     "series": "Cyber-shot DSC-HX",
@@ -9266,6 +11463,150 @@
       ]
     },
     "release_year": 2016,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx400v",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-HX",
+    "model": "DSC-HX400V",
+    "display_name": "Sony Cyber-shot DSC-HX400V",
+    "aliases": [
+      "DSC-HX400V",
+      "Cyber-shot DSC-HX400V"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-HX400V"
+      ],
+      "sony_code": [
+        "DSC-HX400V"
+      ]
+    },
+    "release_year": 2014,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx50v",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-HX",
+    "model": "DSC-HX50V",
+    "display_name": "Sony Cyber-shot DSC-HX50V",
+    "aliases": [
+      "DSC-HX50V",
+      "Cyber-shot DSC-HX50V"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-HX50V"
+      ],
+      "sony_code": [
+        "DSC-HX50V"
+      ]
+    },
+    "release_year": 2013,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx60v",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-HX",
+    "model": "DSC-HX60V",
+    "display_name": "Sony Cyber-shot DSC-HX60V",
+    "aliases": [
+      "DSC-HX60V",
+      "Cyber-shot DSC-HX60V"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-HX60V"
+      ],
+      "sony_code": [
+        "DSC-HX60V"
+      ]
+    },
+    "release_year": 2014,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx80",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-HX",
+    "model": "DSC-HX80",
+    "display_name": "Sony Cyber-shot DSC-HX80",
+    "aliases": [
+      "DSC-HX80",
+      "Cyber-shot DSC-HX80"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-HX80"
+      ],
+      "sony_code": [
+        "DSC-HX80"
+      ]
+    },
+    "release_year": 2016,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx90v",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-HX",
+    "model": "DSC-HX90V",
+    "display_name": "Sony Cyber-shot DSC-HX90V",
+    "aliases": [
+      "DSC-HX90V",
+      "Cyber-shot DSC-HX90V"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-HX90V"
+      ],
+      "sony_code": [
+        "DSC-HX90V"
+      ]
+    },
+    "release_year": 2015,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx95",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-HX",
+    "model": "DSC-HX95",
+    "display_name": "Sony Cyber-shot DSC-HX95",
+    "aliases": [
+      "DSC-HX95",
+      "Cyber-shot DSC-HX95"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-HX95"
+      ],
+      "sony_code": [
+        "DSC-HX95"
+      ]
+    },
+    "release_year": 2018,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -9994,6 +12335,78 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_tf1",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-TF1",
+    "display_name": "Sony Cyber-shot DSC-TF1",
+    "aliases": [
+      "DSC-TF1",
+      "Cyber-shot DSC-TF1"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-TF1"
+      ],
+      "sony_code": [
+        "DSC-TF1"
+      ]
+    },
+    "release_year": 2013,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_tx20",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-TX",
+    "model": "DSC-TX20",
+    "display_name": "Sony Cyber-shot DSC-TX20",
+    "aliases": [
+      "DSC-TX20",
+      "Cyber-shot DSC-TX20"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-TX20"
+      ],
+      "sony_code": [
+        "DSC-TX20"
+      ]
+    },
+    "release_year": 2012,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_tx200v",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-TX",
+    "model": "DSC-TX200V",
+    "display_name": "Sony Cyber-shot DSC-TX200V",
+    "aliases": [
+      "DSC-TX200V",
+      "Cyber-shot DSC-TX200V"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-TX200V"
+      ],
+      "sony_code": [
+        "DSC-TX200V"
+      ]
+    },
+    "release_year": null,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_tx30",
     "brand": "Sony",
     "series": "Cyber-shot TX",
@@ -10024,6 +12437,30 @@
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": "Sony source lists NP-BN supplied and NP-BN1 optional."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_tx66",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-TX",
+    "model": "DSC-TX66",
+    "display_name": "Sony Cyber-shot DSC-TX66",
+    "aliases": [
+      "DSC-TX66",
+      "Cyber-shot DSC-TX66"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-TX66"
+      ],
+      "sony_code": [
+        "DSC-TX66"
+      ]
+    },
+    "release_year": 2012,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "sony_cyber_shot_dsc_w1",
@@ -10482,6 +12919,54 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w650",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W650",
+    "display_name": "Sony Cyber-shot DSC-W650",
+    "aliases": [
+      "DSC-W650",
+      "Cyber-shot DSC-W650"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W650"
+      ],
+      "sony_code": [
+        "DSC-W650"
+      ]
+    },
+    "release_year": 2012,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w670",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W670",
+    "display_name": "Sony Cyber-shot DSC-W670",
+    "aliases": [
+      "DSC-W670",
+      "Cyber-shot DSC-W670"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W670"
+      ],
+      "sony_code": [
+        "DSC-W670"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w690",
     "brand": "Sony",
     "series": "Cyber-shot DSC-W",
@@ -10500,6 +12985,54 @@
       ]
     },
     "release_year": 2012,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w710",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W710",
+    "display_name": "Sony Cyber-shot DSC-W710",
+    "aliases": [
+      "DSC-W710",
+      "Cyber-shot DSC-W710"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W710"
+      ],
+      "sony_code": [
+        "DSC-W710"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w730",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W730",
+    "display_name": "Sony Cyber-shot DSC-W730",
+    "aliases": [
+      "DSC-W730",
+      "Cyber-shot DSC-W730"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W730"
+      ],
+      "sony_code": [
+        "DSC-W730"
+      ]
+    },
+    "release_year": 2013,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -10594,6 +13127,54 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_wx150",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-WX",
+    "model": "DSC-WX150",
+    "display_name": "Sony Cyber-shot DSC-WX150",
+    "aliases": [
+      "DSC-WX150",
+      "Cyber-shot DSC-WX150"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-WX150"
+      ],
+      "sony_code": [
+        "DSC-WX150"
+      ]
+    },
+    "release_year": 2012,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_wx200",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-WX",
+    "model": "DSC-WX200",
+    "display_name": "Sony Cyber-shot DSC-WX200",
+    "aliases": [
+      "DSC-WX200",
+      "Cyber-shot DSC-WX200"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-WX200"
+      ],
+      "sony_code": [
+        "DSC-WX200"
+      ]
+    },
+    "release_year": 2013,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_wx220",
     "brand": "Sony",
     "series": "Cyber-shot DSC-WX",
@@ -10612,6 +13193,30 @@
       ]
     },
     "release_year": 2014,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_wx300",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-WX",
+    "model": "DSC-WX300",
+    "display_name": "Sony Cyber-shot DSC-WX300",
+    "aliases": [
+      "DSC-WX300",
+      "Cyber-shot DSC-WX300"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-WX300"
+      ],
+      "sony_code": [
+        "DSC-WX300"
+      ]
+    },
+    "release_year": 2013,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -10642,6 +13247,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_wx50",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-WX",
+    "model": "DSC-WX50",
+    "display_name": "Sony Cyber-shot DSC-WX50",
+    "aliases": [
+      "DSC-WX50",
+      "Cyber-shot DSC-WX50"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-WX50"
+      ],
+      "sony_code": [
+        "DSC-WX50"
+      ]
+    },
+    "release_year": null,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_wx500",
     "brand": "Sony",
     "series": "Cyber-shot DSC-WX",
@@ -10660,6 +13289,78 @@
       ]
     },
     "release_year": 2015,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_wx60",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-WX",
+    "model": "DSC-WX60",
+    "display_name": "Sony Cyber-shot DSC-WX60",
+    "aliases": [
+      "DSC-WX60",
+      "Cyber-shot DSC-WX60"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-WX60"
+      ],
+      "sony_code": [
+        "DSC-WX60"
+      ]
+    },
+    "release_year": 2013,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_wx70",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-WX",
+    "model": "DSC-WX70",
+    "display_name": "Sony Cyber-shot DSC-WX70",
+    "aliases": [
+      "DSC-WX70",
+      "Cyber-shot DSC-WX70"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-WX70"
+      ],
+      "sony_code": [
+        "DSC-WX70"
+      ]
+    },
+    "release_year": 2012,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_wx80",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-WX",
+    "model": "DSC-WX80",
+    "display_name": "Sony Cyber-shot DSC-WX80",
+    "aliases": [
+      "DSC-WX80",
+      "Cyber-shot DSC-WX80"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-WX80"
+      ],
+      "sony_code": [
+        "DSC-WX80"
+      ]
+    },
+    "release_year": 2013,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",

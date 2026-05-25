@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "battery_suggestion.schema.json",
+  "title": "BatterySuggestion",
+  "type": "object",
+  "required": [
+    "camera_id",
+    "display_name",
+    "brand",
+    "suggested_battery_model",
+    "suggested_battery_id",
+    "evidence_type",
+    "source_name",
+    "source_url",
+    "source_text",
+    "confidence",
+    "warning",
+    "last_checked"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "camera_id": { "type": "string", "minLength": 1 },
+    "display_name": { "type": "string", "minLength": 1 },
+    "brand": { "type": "string", "minLength": 1 },
+    "suggested_battery_model": { "type": "string", "minLength": 1 },
+    "suggested_battery_id": { "type": ["string", "null"] },
+    "evidence_type": { "type": "string", "minLength": 1 },
+    "source_name": { "type": "string", "minLength": 1 },
+    "source_url": { "type": "string", "format": "uri" },
+    "source_text": { "type": "string", "minLength": 1 },
+    "confidence": { "enum": ["medium", "low"] },
+    "warning": { "type": "string", "minLength": 1 },
+    "last_checked": { "type": "string", "format": "date" }
+  }
+}

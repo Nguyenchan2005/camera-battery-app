@@ -57,6 +57,20 @@ test("search Kodak EasyShare C1013 returns unresolved without battery compatibil
   await expect(page.getByTestId("inventory-unverified-summary")).toContainText("chua xac minh pin");
 });
 
+test("shows weak battery suggestions separately from verified compatibility", async ({ page }) => {
+  await openApp(page);
+  await fillSearch(page, "Kodak EasyShare C713");
+  await page.getByTestId("search-result-unresolved_candidate-kodak_easyshare_c713").click();
+  await expect(page.getByTestId("result-unresolved")).toBeVisible();
+  await expect(page.getByTestId("unresolved-suggestions")).toContainText("AA");
+  await expect(page.getByTestId("unresolved-suggestions")).toContainText("unverified suggestion");
+  await expect(page.locator('[data-testid^="compat-card-"]')).toHaveCount(0);
+
+  await submitSearch(page, "AA");
+  await expect(page.getByTestId("battery-suggested-matches")).toContainText("Kodak EasyShare C713");
+  await expect(page.getByTestId("battery-suggested-matches")).toContainText("chua xac minh");
+});
+
 test("search unknown model returns not found state", async ({ page }) => {
   await openApp(page);
   await submitSearch(page, "Definitely Not A Compact Camera 9999XYZ");

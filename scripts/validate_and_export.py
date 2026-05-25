@@ -85,6 +85,21 @@ UNRESOLVED_FIELDS = [
     "last_checked",
 ]
 
+SUGGESTION_FIELDS = [
+    "camera_id",
+    "display_name",
+    "brand",
+    "suggested_battery_model",
+    "suggested_battery_id",
+    "evidence_type",
+    "source_name",
+    "source_url",
+    "source_text",
+    "confidence",
+    "warning",
+    "last_checked",
+]
+
 CAMERA_CATEGORIES = {
     "point_and_shoot",
     "premium_compact",
@@ -189,10 +204,12 @@ def validate(
     candidates: list[dict] | None = None,
     sources: list[dict] | None = None,
     unresolved: list[dict] | None = None,
+    suggestions: list[dict] | None = None,
 ) -> None:
     candidates = candidates or []
     sources = sources or []
     unresolved = unresolved or []
+    suggestions = suggestions or []
 
     require_fields(cameras, CAMERA_FIELDS, "camera")
     require_fields(batteries, BATTERY_FIELDS, "battery")
@@ -203,6 +220,8 @@ def validate(
         require_fields(sources, SOURCE_FIELDS, "source")
     if unresolved:
         require_fields(unresolved, UNRESOLVED_FIELDS, "unresolved model")
+    if suggestions:
+        require_fields(suggestions, SUGGESTION_FIELDS, "battery suggestion")
 
     check_unique(cameras, "camera_id", "camera")
     check_unique(batteries, "battery_id", "battery")
@@ -311,6 +330,26 @@ def validate(
         date.fromisoformat(row["last_checked"])
         if row["camera_id"] in verified_compat_camera_ids:
             raise ValueError(f"{row['camera_id']} is unresolved but has verified compatibility")
+
+    suggestion_keys: set[tuple[str, str, str]] = set()
+    for index, row in enumerate(suggestions, start=1):
+        if row["camera_id"] not in unresolved_ids:
+            raise ValueError(f"suggestion row {index} must refer to an unresolved camera")
+        if row["camera_id"] not in candidate_ids:
+            raise ValueError(f"suggestion row {index} references unknown candidate {row['camera_id']}")
+        if row["suggested_battery_id"] is not None and row["suggested_battery_id"] not in battery_ids:
+            raise ValueError(f"suggestion row {index} references unknown battery {row['suggested_battery_id']}")
+        if row["confidence"] not in {"medium", "low"}:
+            raise ValueError(f"suggestion row {index} cannot be high confidence")
+        if not row["suggested_battery_model"].strip() or not row["source_text"].strip() or not row["warning"].strip():
+            raise ValueError(f"suggestion row {index} missing evidence or warning")
+        if not valid_url(row["source_url"]):
+            raise ValueError(f"suggestion row {index} has invalid source_url")
+        date.fromisoformat(row["last_checked"])
+        key = (row["camera_id"], row["suggested_battery_model"].casefold(), row["source_url"])
+        if key in suggestion_keys:
+            raise ValueError(f"Duplicate battery suggestion: {key}")
+        suggestion_keys.add(key)
 
     mapped_camera_ids = {row["camera_id"] for row in compat}
     missing_compat = sorted(camera_ids - mapped_camera_ids)
@@ -997,8 +1036,9 @@ def main() -> None:
     candidates = load_optional_json("camera_candidates.json")
     sources = load_optional_json("sources.json")
     unresolved = load_optional_json("unresolved_models.json")
+    suggestions = load_optional_json("battery_suggestions.json")
 
-    validate(cameras, batteries, compat, candidates, sources, unresolved)
+    validate(cameras, batteries, compat, candidates, sources, unresolved, suggestions)
 
     EXPORT_DIR.mkdir(exist_ok=True)
     REPORT_DIR.mkdir(exist_ok=True)
@@ -1012,6 +1052,8 @@ def main() -> None:
         write_csv(EXPORT_DIR / "sources.csv", sources, SOURCE_FIELDS)
     if unresolved:
         write_csv(EXPORT_DIR / "unresolved_models.csv", unresolved, UNRESOLVED_FIELDS)
+    if suggestions:
+        write_csv(EXPORT_DIR / "battery_suggestions.csv", suggestions, SUGGESTION_FIELDS)
     write_report(cameras, compat)
     write_duplicate_alias_report(cameras, candidates)
     write_duplicate_compatibility_report(compat)
@@ -1023,7 +1065,7 @@ def main() -> None:
     write_risky_short_model_matches(cameras, compat)
     write_manual_audit_sample(cameras, batteries, compat)
 
-    print(f"Validated {len(cameras)} cameras, {len(batteries)} batteries, {len(compat)} compatibility rows.")
+    print(f"Validated {len(cameras)} cameras, {len(batteries)} batteries, {len(compat)} compatibility rows, {len(suggestions)} battery suggestions.")
     print("Wrote CSV files to exports/")
     print("Wrote coverage reports to reports/")
 

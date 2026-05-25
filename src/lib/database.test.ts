@@ -1,5 +1,6 @@
 import { describe, expect, it } from "vitest";
 import batteriesJson from "../../data/batteries.json";
+import batterySuggestionsJson from "../../data/battery_suggestions.json";
 import cameraCandidatesJson from "../../data/camera_candidates.json";
 import camerasJson from "../../data/cameras.json";
 import compatibilityJson from "../../data/compatibility.json";
@@ -17,12 +18,13 @@ const bundle = {
   cameraCandidates: cameraCandidatesJson,
   sources: sourcesJson,
   unresolvedModels: unresolvedModelsJson,
+  batterySuggestions: batterySuggestionsJson,
 } as DataBundle;
 
 const db = createDatabase(bundle);
 
 describe("database loader, search, and source-backed lookup", () => {
-  it("lazy-loads all six JSON files through the loader", async () => {
+  it("lazy-loads all seven JSON files through the loader", async () => {
     const requested: string[] = [];
     const loaded = await loadDataBundle({
       baseUrl: "/data",
@@ -35,13 +37,14 @@ describe("database loader, search, and source-backed lookup", () => {
           "/data/camera_candidates.json": bundle.cameraCandidates,
           "/data/sources.json": bundle.sources,
           "/data/unresolved_models.json": bundle.unresolvedModels,
+          "/data/battery_suggestions.json": bundle.batterySuggestions,
         };
         return map[url] as T;
       },
     });
-    expect(requested).toHaveLength(6);
-    expect(loaded.cameras).toHaveLength(474);
-    expect(loaded.cameraCandidates).toHaveLength(1823);
+    expect(requested).toHaveLength(7);
+    expect(loaded.cameras).toHaveLength(bundle.cameras.length);
+    expect(loaded.cameraCandidates).toHaveLength(bundle.cameraCandidates.length);
   });
 
   it("searches a verified camera with common shorthand", () => {
@@ -125,6 +128,19 @@ describe("database loader, search, and source-backed lookup", () => {
     const compatibleCameras = db.getBatteryCompatibleCameras("canon_nb_13l");
     expect(compatibleCameras.some((row) => row.camera.camera_id === "kodak_easyshare_c1013")).toBe(false);
     expect(db.getMyCompatibleCameras("canon_nb_13l", ["kodak_easyshare_c1013"])).toEqual([]);
+  });
+
+  it("keeps weak battery suggestions separate from verified compatibility", () => {
+    const lookup = db.lookupFromMatch(db.searchAll("Kodak EasyShare C713", 1)[0]);
+    expect(lookup.kind).toBe("unresolved");
+    if (lookup.kind === "unresolved") {
+      expect(lookup.suggestions.some((row) => row.suggested_battery_model === "AA")).toBe(true);
+      expect(db.getCameraBatteryCompatibility(lookup.candidate.camera_id)).toEqual([]);
+      expect(db.buildNaturalAnswer(lookup)).toContain("goi y chua xac minh");
+    }
+    const aaSuggestions = db.getBatterySuggestionsForBattery("generic_aa");
+    expect(aaSuggestions.some((row) => row.camera_id === "kodak_easyshare_c713")).toBe(true);
+    expect(db.getBatteryCompatibleCameras("generic_aa").some((row) => row.camera.camera_id === "kodak_easyshare_c713")).toBe(false);
   });
 
   it("returns unknown for a model not in the database", () => {

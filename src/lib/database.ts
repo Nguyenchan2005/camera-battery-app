@@ -1,6 +1,7 @@
 import Fuse from "fuse.js";
 import type {
   Battery,
+  BatterySuggestion,
   Camera,
   CameraCandidate,
   Compatibility,
@@ -43,6 +44,7 @@ const DATA_FILES = {
   cameraCandidates: "camera_candidates.json",
   sources: "sources.json",
   unresolvedModels: "unresolved_models.json",
+  batterySuggestions: "battery_suggestions.json",
 } as const;
 
 const confidenceRank: Record<Confidence, number> = { high: 3, medium: 2, low: 1 };
@@ -60,15 +62,16 @@ const sourceRank: Record<SourceType, number> = {
 export async function loadDataBundle(options: { baseUrl?: string; fetchJson?: FetchJson } = {}): Promise<DataBundle> {
   const baseUrl = (options.baseUrl ?? "/data").replace(/\/$/, "");
   const fetchJson = options.fetchJson ?? defaultFetchJson;
-  const [cameras, batteries, compatibility, cameraCandidates, sources, unresolvedModels] = await Promise.all([
+  const [cameras, batteries, compatibility, cameraCandidates, sources, unresolvedModels, batterySuggestions] = await Promise.all([
     fetchJson<Camera[]>(`${baseUrl}/${DATA_FILES.cameras}`),
     fetchJson<Battery[]>(`${baseUrl}/${DATA_FILES.batteries}`),
     fetchJson<Compatibility[]>(`${baseUrl}/${DATA_FILES.compatibility}`),
     fetchJson<CameraCandidate[]>(`${baseUrl}/${DATA_FILES.cameraCandidates}`),
     fetchJson<Source[]>(`${baseUrl}/${DATA_FILES.sources}`),
     fetchJson<UnresolvedModel[]>(`${baseUrl}/${DATA_FILES.unresolvedModels}`),
+    fetchJson<BatterySuggestion[]>(`${baseUrl}/${DATA_FILES.batterySuggestions}`),
   ]);
-  const bundle = { cameras, batteries, compatibility, cameraCandidates, sources, unresolvedModels };
+  const bundle = { cameras, batteries, compatibility, cameraCandidates, sources, unresolvedModels, batterySuggestions };
   validateBundleShape(bundle);
   return bundle;
 }
@@ -89,6 +92,7 @@ function validateBundleShape(bundle: DataBundle): void {
     ["cameraCandidates", bundle.cameraCandidates],
     ["sources", bundle.sources],
     ["unresolvedModels", bundle.unresolvedModels],
+    ["batterySuggestions", bundle.batterySuggestions],
   ];
   for (const [name, value] of arrays) {
     if (!Array.isArray(value)) {
@@ -114,6 +118,14 @@ function validateBundleShape(bundle: DataBundle): void {
       }
     }
   }
+  if (bundle.batterySuggestions.length) {
+    const sample = bundle.batterySuggestions[0];
+    for (const key of ["camera_id", "suggested_battery_model", "source_url", "warning"]) {
+      if (!(key in sample)) {
+        throw new Error(`Schema mismatch: battery_suggestions.json row is missing ${key}.`);
+      }
+    }
+  }
 }
 
 export function createDatabase(data: DataBundle): CameraBatteryDatabase {
@@ -127,6 +139,7 @@ export class CameraBatteryDatabase {
   readonly cameraCandidates: CameraCandidate[];
   readonly sources: Source[];
   readonly unresolvedModels: UnresolvedModel[];
+  readonly batterySuggestions: BatterySuggestion[];
 
   readonly camerasById: Map<string, Camera>;
   readonly batteriesById: Map<string, Battery>;
@@ -134,6 +147,7 @@ export class CameraBatteryDatabase {
   readonly unresolvedByCameraId: Map<string, UnresolvedModel>;
   readonly compatibilityByCameraId: Map<string, Compatibility[]>;
   readonly compatibilityByBatteryId: Map<string, Compatibility[]>;
+  readonly suggestionsByCameraId: Map<string, BatterySuggestion[]>;
 
   private readonly allSearchItems: SearchIndexItem[];
   private readonly cameraSearchItems: SearchIndexItem[];
@@ -150,6 +164,7 @@ export class CameraBatteryDatabase {
     candidates: number;
     unresolved: number;
     sources: number;
+    suggestions: number;
     lastDataUpdate: string | null;
   };
 
@@ -160,6 +175,7 @@ export class CameraBatteryDatabase {
     this.cameraCandidates = data.cameraCandidates;
     this.sources = data.sources;
     this.unresolvedModels = data.unresolvedModels;
+    this.batterySuggestions = data.batterySuggestions ?? [];
 
     this.camerasById = mapById(this.cameras, "camera_id");
     this.batteriesById = mapById(this.batteries, "battery_id");
@@ -167,6 +183,7 @@ export class CameraBatteryDatabase {
     this.unresolvedByCameraId = mapById(this.unresolvedModels, "camera_id");
     this.compatibilityByCameraId = groupRowsBy(this.compatibility, (row) => row.camera_id);
     this.compatibilityByBatteryId = groupRowsBy(this.compatibility, (row) => row.battery_id);
+    this.suggestionsByCameraId = groupRowsBy(this.batterySuggestions, (row) => row.camera_id);
 
     const verifiedCameraIds = new Set(this.cameras.map((camera) => camera.camera_id));
     const unresolvedCandidates = this.cameraCandidates.filter((candidate) => !verifiedCameraIds.has(candidate.camera_id));
@@ -187,6 +204,7 @@ export class CameraBatteryDatabase {
       candidates: this.cameraCandidates.length,
       unresolved: this.unresolvedModels.length,
       sources: this.sources.length,
+      suggestions: this.batterySuggestions.length,
       lastDataUpdate: latestDate([
         ...this.compatibility.map((row) => row.last_verified),
         ...this.sources.map((source) => source.last_verified),
@@ -249,6 +267,14 @@ export class CameraBatteryDatabase {
       .sort((a, b) => a.camera.display_name.localeCompare(b.camera.display_name));
   }
 
+  getBatterySuggestionsForCandidate(cameraId: string): BatterySuggestion[] {
+    return this.suggestionsByCameraId.get(cameraId) ?? [];
+  }
+
+  getBatterySuggestionsForBattery(batteryId: string): BatterySuggestion[] {
+    return this.batterySuggestions.filter((row) => row.suggested_battery_id === batteryId);
+  }
+
   getCandidateStatus(cameraId: string):
     | { status: "verified"; camera: Camera; candidate?: CameraCandidate }
     | { status: "unresolved"; candidate: CameraCandidate; unresolved?: UnresolvedModel }
@@ -304,14 +330,24 @@ export class CameraBatteryDatabase {
       if (!battery) {
         return { kind: "unknown", query: match.label };
       }
-      return { kind: "battery", battery, cameras: this.getBatteryCompatibleCameras(battery.battery_id) };
+      return {
+        kind: "battery",
+        battery,
+        cameras: this.getBatteryCompatibleCameras(battery.battery_id),
+        suggestions: this.getBatterySuggestionsForBattery(battery.battery_id),
+      };
     }
 
     const candidate = this.candidatesById.get(match.id);
     if (!candidate) {
       return { kind: "unknown", query: match.label };
     }
-    return { kind: "unresolved", candidate, unresolved: this.unresolvedByCameraId.get(candidate.camera_id) };
+    return {
+      kind: "unresolved",
+      candidate,
+      unresolved: this.unresolvedByCameraId.get(candidate.camera_id),
+      suggestions: this.getBatterySuggestionsForCandidate(candidate.camera_id),
+    };
   }
 
   groupCompatibilityRows(rows: Compatibility[]): GroupedCompatibility[] {
@@ -396,7 +432,10 @@ export class CameraBatteryDatabase {
     }
 
     if (result.kind === "unresolved") {
-      return `${result.candidate.display_name} co trong catalog, nhung hien database chua co nguon xac minh pin. Khong nen mua pin dua tren model nay cho den khi co nguon xac minh.`;
+      const suggestionText = result.suggestions.length
+        ? ` Co goi y chua xac minh (${result.suggestions.map((row) => row.suggested_battery_model).join(", ")}), nhung day khong phai compatibility verified.`
+        : "";
+      return `${result.candidate.display_name} co trong catalog, nhung hien database chua co nguon xac minh pin.${suggestionText} Khong nen mua pin dua tren model nay cho den khi co nguon xac minh.`;
     }
 
     return `Hien database chua co du lieu cho model/pin "${result.query}". Ban co the kiem tra lai cach viet hoac them vao danh sach can xac minh.`;
@@ -440,6 +479,23 @@ export class CameraBatteryDatabase {
           severity: "warning",
           message: "Unresolved model is missing reason or checked_source_urls",
           rowId: unresolved.camera_id,
+        });
+      }
+    }
+
+    for (const suggestion of this.batterySuggestions) {
+      if (!this.unresolvedByCameraId.has(suggestion.camera_id)) {
+        issues.push({
+          severity: "error",
+          message: "Battery suggestion references a camera that is not unresolved",
+          rowId: suggestion.camera_id,
+        });
+      }
+      if (suggestion.suggested_battery_id && !this.batteriesById.has(suggestion.suggested_battery_id)) {
+        issues.push({
+          severity: "error",
+          message: "Battery suggestion references a missing battery_id",
+          rowId: suggestion.camera_id,
         });
       }
     }

@@ -28,13 +28,14 @@ export function DatabaseStats({ db }: { db: CameraBatteryDatabase }) {
         </button>
       </div>
 
-      <div className="mt-4 grid grid-cols-2 gap-2 text-sm sm:grid-cols-3 lg:grid-cols-6">
+      <div className="mt-4 grid grid-cols-2 gap-2 text-sm sm:grid-cols-4 lg:grid-cols-7">
         <Metric label="Verified cameras" value={db.dataSummary.verifiedCameras} />
         <Metric label="Candidates" value={db.dataSummary.candidates} />
         <Metric label="Unresolved" value={db.dataSummary.unresolved} />
         <Metric label="Batteries" value={db.dataSummary.batteries} />
         <Metric label="Mappings" value={db.dataSummary.compatibilityRows} />
         <Metric label="Sources" value={db.dataSummary.sources} />
+        <Metric label="Suggestions" value={db.dataSummary.suggestions} />
       </div>
 
       {open ? (

@@ -25,6 +25,10 @@ Files:
 - `data/sources.json` - source registry for batch imports.
 - `data/unresolved_models.json` - confirmed camera candidates still needing
   manual battery verification.
+- `data/battery_suggestions.json` - weak-source battery leads for unresolved
+  cameras; these rows are not verified compatibility mappings.
+- `data/web_assisted_battery_evidence.json` - reviewed web evidence input for
+  official/manual promotions and clearly separated suggestions.
 - `schemas/*.schema.json` - machine-readable JSON schemas.
 - `scripts/import_all_remaining.py` - source-backed master importer for
   non-Canon brands. It can be rerun and rolls back a single failed brand
@@ -38,6 +42,9 @@ Files:
 - `scripts/verify_unresolved_batteries.py` - Phase 3 verifier that promotes
   unresolved candidates only when an official/manual/trusted source explicitly
   confirms the battery or power source.
+- `scripts/web_assisted_battery_verifier.py` - Phase Data 6 verifier with
+  `--dry-run` and `--apply`; official/manual evidence may promote mappings,
+  while retailer evidence can only create an unverified suggestion.
 - `scripts/verifiers/verify_*.py` - brand-specific Phase 3 battery verifiers.
 - `scripts/validate_and_export.py` - validates JSON, writes CSV, and builds the
   coverage reports.
@@ -72,6 +79,8 @@ Run:
 ```powershell
 py -3 scripts\import_all_remaining.py
 py -3 scripts\verify_unresolved_batteries.py
+py -3 scripts\web_assisted_battery_verifier.py --dry-run
+py -3 scripts\web_assisted_battery_verifier.py --apply
 py -3 scripts\validate_and_export.py
 ```
 
@@ -120,7 +129,8 @@ sent to an AI layer, never the full database or unsourced guesses.
 
 ## Phase App 2 Notes
 
-The app now lazy-loads the six JSON files from `public/data/*.json` at startup.
+The app now lazy-loads seven application JSON files from `public/data/*.json` at startup,
+including `battery_suggestions.json`.
 The original source database remains in `data/*.json`; copy updated JSON into
 `public/data/` when refreshing the frontend dataset.
 
@@ -134,6 +144,8 @@ Phase App 2 adds:
 - Better camera and battery result panels, including grouped sources and
   inventory comparison.
 - Unresolved manual-check copy flow.
+- Unresolved battery suggestions shown separately from verified compatibility;
+  suggestion rows never count as compatible cameras.
 - Inventory import/export JSON with id validation.
 - Bulk paste inventory add: paste one camera or battery per line; the app only
   auto-adds unique exact matches and asks for manual choice on ambiguous lines.

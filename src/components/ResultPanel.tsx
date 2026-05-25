@@ -77,6 +77,29 @@ export function ResultPanel({
           >
             {result.candidate.candidate_source_name}
           </a>
+          {result.suggestions.length ? (
+            <div data-testid="unresolved-suggestions" className="mt-4 rounded-md border border-amber-200 bg-amber-50 p-3">
+              <h4 className="text-sm font-semibold text-amber-950">Goi y chua xac minh</h4>
+              <p className="mt-1 text-sm text-amber-900">
+                Chua co pin verified. Cac goi y duoi day chi la dau moi de kiem tra thu cong, khong phai ket luan tuong thich.
+              </p>
+              <div className="mt-3 space-y-3">
+                {result.suggestions.map((suggestion) => (
+                  <div key={`${suggestion.camera_id}-${suggestion.suggested_battery_model}-${suggestion.source_url}`} className="rounded-md border border-amber-200 bg-white p-3 text-sm">
+                    <div className="flex flex-wrap items-center gap-2">
+                      <strong className="text-slate-950">{suggestion.suggested_battery_model}</strong>
+                      <ConfidenceBadge confidence={suggestion.confidence} />
+                      <Badge tone="gray">unverified suggestion</Badge>
+                    </div>
+                    <p className="mt-2 text-slate-600">{suggestion.warning}</p>
+                    <a className="mt-2 block break-words font-medium text-sky-700 hover:text-sky-900" href={suggestion.source_url} rel="noreferrer" target="_blank">
+                      {suggestion.source_name}
+                    </a>
+                  </div>
+                ))}
+              </div>
+            </div>
+          ) : null}
           <div className="mt-4 flex flex-wrap gap-2">
             <button
               data-testid="add-unresolved-camera"
@@ -291,6 +314,23 @@ function BatteryResult({
           );
         })}
       </div>
+
+      {result.suggestions.length ? (
+        <div data-testid="battery-suggested-matches" className="mt-5 rounded-md border border-amber-200 bg-amber-50 p-4">
+          <h3 className="text-sm font-semibold text-amber-950">Suggested matches chua xac minh</h3>
+          <p className="mt-1 text-sm text-amber-900">
+            Cac model nay khong nam trong danh sach compatible verified. Can kiem tra nguon official/manual truoc khi mua pin.
+          </p>
+          <div className="mt-3 space-y-2">
+            {result.suggestions.map((suggestion) => (
+              <div key={`${suggestion.camera_id}-${suggestion.source_url}`} className="rounded-md border border-amber-200 bg-white px-3 py-2 text-sm">
+                <strong>{suggestion.display_name}</strong>
+                <span className="ml-2 text-slate-600">{suggestion.source_name}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      ) : null}
     </div>
   );
 }

@@ -24,21 +24,24 @@ canon_nb_6lh,Canon,NB-6LH,[],lithium-ion,,,Added from Canon Batch 1 import; elec
 canon_nb_7l,Canon,NB-7L,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
 canon_nb_8l,Canon,NB-8L,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
 canon_nb_9l,Canon,NB-9L,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
+casio_np_110,Casio,NP-110,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 casio_np_130,Casio,NP-130,[],lithium-ion,,1800,Casio FAQ lists rated capacity 1800 mAh.
 casio_np_130a,Casio,NP-130A,[],lithium-ion,,1800,Casio FAQ lists rated capacity 1800 mAh.
 fujifilm_np_120,Fujifilm,NP-120,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
+fujifilm_np_140,Fujifilm,NP-140,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 fujifilm_np_40,Fujifilm,NP-40,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
-fujifilm_np_45s,Fujifilm,NP-45S,[],lithium-ion,,,
+fujifilm_np_45s,Fujifilm,NP-45S,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 fujifilm_np_50,Fujifilm,NP-50,[],lithium-ion,3.6,,Voltage confirmed in FinePix REAL 3D W3 manual snippet.
 fujifilm_np_70,Fujifilm,NP-70,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 fujifilm_np_95,Fujifilm,NP-95,[],lithium-ion,,,Added by import_all_remaining.py; electrical details left blank unless source-backed.
+fujifilm_np_w126,Fujifilm,NP-W126,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 fujifilm_np_w126s,Fujifilm,NP-W126S,[],lithium-ion,7.2,1260,Fujifilm X100VI manual lists nominal voltage 7.2 V and capacity 1260 mAh.
 generic_2cr5,Generic,2CR5,"[""2CR5 lithium""]",lithium,,,Special camera lithium battery format; voltage/capacity intentionally left blank until source-backed.
 generic_aa,Generic,AA,"[""LR6"", ""HR6"", ""AA alkaline"", ""AA NiMH"", ""AA lithium"", ""AA cell""]",varies,,,Generic AA cell; chemistry and voltage depend on cell type.
 generic_aaa,Generic,AAA,"[""LR03"", ""HR03"", ""AAA alkaline"", ""AAA NiMH"", ""AAA lithium"", ""AAA cell""]",varies,,,Generic AAA cell; chemistry and voltage depend on cell type.
 generic_cr123a,Generic,CR123A,[],lithium,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 generic_cr_v3,Generic,CR-V3,"[""CR3V"", ""CR-3V""]",lithium,,,Special camera lithium battery format; not interchangeable with AA unless source says camera supports both.
-kodak_klic_7006,Kodak,KLIC-7006,[],lithium-ion,,,
+kodak_klic_7006,Kodak,KLIC-7006,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 kodak_lb_012,Kodak PIXPRO,LB-012,[],lithium-ion,3.7,700,Kodak PIXPRO FZ55 spec sheet lists 3.7 V / 700 mAh.
 kodak_lb_060,Kodak PIXPRO,LB-060,[],lithium-ion,3.7,1100,Kodak PIXPRO AZ528 page lists 3.7 V / 1100 mAh.
 konica_minolta_np_1,Konica Minolta,NP-1,[],lithium-ion,3.7,,Third-party manual mirror snippet lists 3.7 V.
@@ -61,10 +64,13 @@ nikon_en_el5,Nikon,EN-EL5,[],lithium-ion,,,Added by Phase 3 unresolved verifier;
 nikon_en_el7,Nikon,EN-EL7,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 nikon_en_el8,Nikon,EN-EL8,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 olympus_li_10b,Olympus,LI-10B,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
+olympus_li_42b,Olympus,LI-42B,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 olympus_li_50b,Olympus,LI-50B,[],lithium-ion,,,Added by popular compact verifier from explicit manual_battery_sources.json source text.
 olympus_li_90b,Olympus,LI-90B,[],lithium-ion,,,
 olympus_li_92b,Olympus / OM System,LI-92B,[],lithium-ion,3.6,1350,OM System LI-92B accessory page lists 3.6 V and 1350 mAh.
+panasonic_dmw_bcj13pp,Panasonic,DMW-BCJ13PP,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 panasonic_dmw_blc12,Panasonic,DMW-BLC12,"[""DMW-BLC12PP"", ""DMW-BLC12E""]",lithium-ion,7.2,1200,Panasonic FZ1000 support page lists DMW-BLC12PP 7.2 V / 1200 mAh.
+panasonic_dmw_blc12pp,Panasonic,DMW-BLC12PP,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 panasonic_dmw_blg10,Panasonic,DMW-BLG10,"[""DMW-BLG10PP"", ""DMW-BLG10E""]",lithium-ion,7.2,1025,Capacity/voltage confirmed by Panasonic/B&H sources.
 panasonic_dmw_blg10pp,Panasonic,DMW-BLG10PP,[],lithium-ion,,,Added by popular compact verifier from explicit manual_battery_sources.json source text.
 panasonic_dmw_bmb9,Panasonic,DMW-BMB9,"[""DMW-BMB9E""]",lithium-ion,7.2,895,Panasonic DMW-BMB9 page lists 7.2 V / 895 mAh.

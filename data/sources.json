@@ -9,6 +9,15 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "b_and_h_photo_b_and_h_kodak_easyshare_c713_product_specification_https_www_bhphotovideo_com_c_product_582525_reg_kodak_1",
+    "source_name": "B&H Kodak EasyShare C713 Product Specification",
+    "source_url": "https://www.bhphotovideo.com/c/product/582525-REG/Kodak_1590363_EasyShare_C713_Digital_Camera.html/overview",
+    "source_type": "retailer",
+    "publisher": "B&H Photo",
+    "last_verified": "2026-05-25",
+    "notes": "Unverified battery suggestion only; this source does not create compatibility."
+  },
+  {
     "source_id": "camera_wiki_camera_wiki_casio_catalog_https_camera_wiki_org_wiki_casio",
     "source_name": "Camera-wiki Casio catalog",
     "source_url": "https://camera-wiki.org/wiki/Casio",
@@ -7551,6 +7560,51 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "casio_casio_ex_zr1200_official_power_requirements_https_support_casio_com_en_support_answer_php_cid_001016014006_and_num",
+    "source_name": "Casio EX-ZR1200 Official Power Requirements",
+    "source_url": "https://support.casio.com/en/support/answer.php?cid=001016014006&num=1&qid=51384",
+    "source_type": "official_manual",
+    "publisher": "Casio",
+    "last_verified": "2026-05-25",
+    "notes": "Casio official power requirements for Exilim EX-ZR1200: Rechargeable NP-130 lithium-ion battery can be used to power the camera."
+  },
+  {
+    "source_id": "casio_casio_ex_zr200_official_user_guide_https_support_casio_com_storage_en_manual_pdf_en_001_exzr200_m29_fb_en_pdf",
+    "source_name": "Casio EX-ZR200 Official User Guide",
+    "source_url": "https://support.casio.com/storage/en/manual/pdf/EN/001/EXZR200_M29_FB_EN.pdf",
+    "source_type": "official_manual",
+    "publisher": "Casio",
+    "last_verified": "2026-05-25",
+    "notes": "Official user guide for Exilim EX-ZR200: Rechargeable lithium ion battery (NP-130) x1."
+  },
+  {
+    "source_id": "casio_casio_ex_zr20_official_power_requirements_https_support_casio_com_en_support_answer_php_cid_001016005006_and_num_5",
+    "source_name": "Casio EX-ZR20 Official Power Requirements",
+    "source_url": "https://support.casio.com/en/support/answer.php?cid=001016005006&num=5&qid=2445",
+    "source_type": "official_manual",
+    "publisher": "Casio",
+    "last_verified": "2026-05-25",
+    "notes": "Casio official power requirements for Exilim EX-ZR20: The camera requires a special lithium ion battery (NP-110 or NP-160); this mapping records stated battery NP-110."
+  },
+  {
+    "source_id": "casio_casio_ex_zr300_official_user_guide_https_support_casio_com_storage_en_manual_pdf_en_001_exzr300_m29_fb_en_pdf",
+    "source_name": "Casio EX-ZR300 Official User Guide",
+    "source_url": "https://support.casio.com/storage/en/manual/pdf/EN/001/EXZR300_M29_FB_EN.pdf",
+    "source_type": "official_manual",
+    "publisher": "Casio",
+    "last_verified": "2026-05-25",
+    "notes": "Official user guide for Exilim EX-ZR300: Rechargeable lithium ion battery (NP-130) x1."
+  },
+  {
+    "source_id": "casio_casio_ex_zr400_official_power_requirements_https_support_casio_com_en_support_answer_php_cid_001016009006_and_num",
+    "source_name": "Casio EX-ZR400 Official Power Requirements",
+    "source_url": "https://support.casio.com/en/support/answer.php?cid=001016009006&num=1&qid=4885",
+    "source_type": "official_manual",
+    "publisher": "Casio",
+    "last_verified": "2026-05-25",
+    "notes": "Casio official power requirements for Exilim EX-ZR400: The camera requires a special lithium ion battery (NP-130)."
+  },
+  {
     "source_id": "casio_casio_ex_zr5000_power_requirements_faq_https_support_casio_com_tw_support_answer_php_cid_001016028006_and_num_3_an",
     "source_name": "Casio EX-ZR5000 power requirements FAQ",
     "source_url": "https://support.casio.com/tw/support/answer.php?cid=001016028006&num=3&qid=81041",
@@ -7576,6 +7630,15 @@
     "publisher": "Casio",
     "last_verified": "2026-05-24",
     "notes": "Backfilled source registry entry from an existing compatibility row."
+  },
+  {
+    "source_id": "casio_casio_ex_zr800_official_power_requirements_https_support_casio_com_en_support_answer_php_cid_001016015006_and_num",
+    "source_name": "Casio EX-ZR800 Official Power Requirements",
+    "source_url": "https://support.casio.com/en/support/answer.php?cid=001016015006&num=1&qid=51747",
+    "source_type": "official_manual",
+    "publisher": "Casio",
+    "last_verified": "2026-05-25",
+    "notes": "Casio official power requirements for Exilim EX-ZR800: Rechargeable NP-130 lithium-ion battery can be used to power the camera."
   },
   {
     "source_id": "fujifilm_camera_wiki_fujifilm_finepix_a201_https_camera_wiki_org_wiki_fujifilm_finepix_a201",
@@ -7767,6 +7830,60 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "fujifilm_fujifilm_np_140_official_compatibility_chart_https_www_fujifilm_x_com_en_us_support_compatibility_accessories_n",
+    "source_name": "Fujifilm NP-140 Official Compatibility Chart",
+    "source_url": "https://www.fujifilm-x.com/en-us/support/compatibility/accessories/np-140/",
+    "source_type": "official_accessory_page",
+    "publisher": "Fujifilm",
+    "last_verified": "2026-05-25",
+    "notes": "Fujifilm official NP-140 compatibility chart lists FinePix S200EXR as compatible with rechargeable battery NP-140."
+  },
+  {
+    "source_id": "fujifilm_fujifilm_np_40_official_compatibility_chart_https_www_fujifilm_x_com_en_us_support_compatibility_accessories_np",
+    "source_name": "Fujifilm NP-40 Official Compatibility Chart",
+    "source_url": "https://www.fujifilm-x.com/en-us/support/compatibility/accessories/np-40/",
+    "source_type": "official_accessory_page",
+    "publisher": "Fujifilm",
+    "last_verified": "2026-05-25",
+    "notes": "Fujifilm official NP-40 compatibility chart lists FinePix Z3 as compatible with rechargeable battery NP-40."
+  },
+  {
+    "source_id": "fujifilm_fujifilm_np_45s_official_compatibility_chart_https_www_fujifilm_x_com_en_us_support_compatibility_np_45s",
+    "source_name": "Fujifilm NP-45S Official Compatibility Chart",
+    "source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "source_type": "official_accessory_page",
+    "publisher": "Fujifilm",
+    "last_verified": "2026-05-25",
+    "notes": "Fujifilm official NP-45S compatibility chart lists FinePix XP130 as compatible with rechargeable battery NP-45S."
+  },
+  {
+    "source_id": "fujifilm_fujifilm_np_50_official_compatibility_chart_https_www_fujifilm_x_com_global_products_accessories_np_50",
+    "source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "source_type": "official_accessory_page",
+    "publisher": "Fujifilm",
+    "last_verified": "2026-05-25",
+    "notes": "Fujifilm official NP-50 compatibility information lists FinePix F505EXR as compatible with Li-ion battery NP-50."
+  },
+  {
+    "source_id": "fujifilm_fujifilm_np_95_official_compatibility_chart_https_www_fujifilm_x_com_en_gb_support_compatibility_np_95",
+    "source_name": "Fujifilm NP-95 Official Compatibility Chart",
+    "source_url": "https://www.fujifilm-x.com/en-gb/support_compatibility/np-95/",
+    "source_type": "official_accessory_page",
+    "publisher": "Fujifilm",
+    "last_verified": "2026-05-25",
+    "notes": "Fujifilm official NP-95 compatibility chart lists FinePix F31fd as compatible with rechargeable battery NP-95."
+  },
+  {
+    "source_id": "fujifilm_fujifilm_np_w126_official_compatibility_chart_https_www_fujifilm_x_com_en_gb_support_compatibility_np_w126",
+    "source_name": "Fujifilm NP-W126 Official Compatibility Chart",
+    "source_url": "https://www.fujifilm-x.com/en-gb/support_compatibility/np-w126",
+    "source_type": "official_accessory_page",
+    "publisher": "Fujifilm",
+    "last_verified": "2026-05-25",
+    "notes": "Fujifilm official NP-W126 compatibility chart lists FinePix HS30EXR as compatible with rechargeable battery NP-W126."
+  },
+  {
     "source_id": "fujifilm_fujifilm_x100v_online_manual_specifications_https_fujifilm_dsc_com_en_manual_x100v_technical_notes_spec_index_h",
     "source_name": "Fujifilm X100V online manual specifications",
     "source_url": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
@@ -7837,6 +7954,24 @@
     "publisher": "Kodak",
     "last_verified": "2026-05-24",
     "notes": "Backfilled source registry entry from an existing compatibility row."
+  },
+  {
+    "source_id": "kodak_kodak_easyshare_c643_c603_official_user_guide_https_resources_kodak_com_support_pdf_en_manuals_urg00531_c643_c603",
+    "source_name": "Kodak EasyShare C643/C603 Official User Guide",
+    "source_url": "https://resources.kodak.com/support/pdf/en/manuals/urg00531/C643_C603_GLB_en.pdf",
+    "source_type": "official_manual",
+    "publisher": "Kodak",
+    "last_verified": "2026-05-25",
+    "notes": "Kodak official user guide for EasyShare C603 identifies Kodak oxy-alkaline digital camera batteries AA as a power source; retrieved evidence does not state quantity. Source confirms battery type but quantity was not explicitly extracted."
+  },
+  {
+    "source_id": "kodak_kodak_easyshare_m530_official_extended_user_guide_https_resources_kodak_com_support_pdf_en_manuals_urg01095_m530_x",
+    "source_name": "Kodak EasyShare M530 Official Extended User Guide",
+    "source_url": "https://resources.kodak.com/support/pdf/en/manuals/urg01095/M530_xUG_GLB_en.pdf",
+    "source_type": "official_manual",
+    "publisher": "Kodak",
+    "last_verified": "2026-05-25",
+    "notes": "Kodak official user guide for EasyShare M530: Power - KODAK Li-Ion Rechargeable Digital Camera Battery KLIC-7006."
   },
   {
     "source_id": "kodak_kodak_easyshare_m883_user_guide_https_kodakassist_freshdesk_com_support_solutions_articles_48001069330_kodak_easys",
@@ -8143,6 +8278,15 @@
     "publisher": "Nikon",
     "last_verified": "2026-05-24",
     "notes": "Backfilled source registry entry from an existing compatibility row."
+  },
+  {
+    "source_id": "nikon_nikon_en_el12_official_compatibility_page_https_www_nikonusa_com_p_en_el12_rechargeable_li_ion_battery_25780_overv",
+    "source_name": "Nikon EN-EL12 Official Compatibility Page",
+    "source_url": "https://www.nikonusa.com/p/en-el12-rechargeable-li-ion-battery/25780/overview",
+    "source_type": "official_accessory_page",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "Nikon official EN-EL12 compatible product list identifies COOLPIX S710 as compatible with Rechargeable Li-ion Battery EN-EL12."
   },
   {
     "source_id": "nikon_nikon_global_coolpix_p1000_specifications_https_imaging_nikon_com_imaging_lineup_coolpix_p_p1000",
@@ -8937,6 +9081,33 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "olympus_olympus_sp_810uz_official_instruction_manual_https_learnandsupport_getolympus_com_sites_default_files_media_file",
+    "source_name": "Olympus SP-810UZ Official Instruction Manual",
+    "source_url": "https://learnandsupport.getolympus.com/sites/default/files/media/files/2018/04/SP-810UZ_Instruction_Manual_EN.pdf",
+    "source_type": "official_manual",
+    "publisher": "Olympus",
+    "last_verified": "2026-05-25",
+    "notes": "Official instruction manual for SP-810UZ: This camera uses one Olympus lithium ion battery (LI-50B)."
+  },
+  {
+    "source_id": "olympus_olympus_tg_4_official_instruction_manual_https_learnandsupport_getolympus_com_sites_default_files_media_files_20",
+    "source_name": "Olympus TG-4 Official Instruction Manual",
+    "source_url": "https://learnandsupport.getolympus.com/sites/default/files/media/files/2018/04/TG-4_Instruction_Manual_EN.pdf",
+    "source_type": "official_manual",
+    "publisher": "Olympus",
+    "last_verified": "2026-05-25",
+    "notes": "Official instruction manual for TG-4: This camera uses one Olympus lithium-ion battery (LI-92B)."
+  },
+  {
+    "source_id": "olympus_olympus_tg_5_official_instruction_manual_https_learnandsupport_getolympus_com_sites_default_files_media_files_20",
+    "source_name": "Olympus TG-5 Official Instruction Manual",
+    "source_url": "https://learnandsupport.getolympus.com/sites/default/files/media/files/2018/04/TG-5_ENU_00.pdf",
+    "source_type": "official_manual",
+    "publisher": "Olympus",
+    "last_verified": "2026-05-25",
+    "notes": "Official instruction manual for TG-5: This camera uses one Olympus lithium-ion battery (LI-92B)."
+  },
+  {
     "source_id": "olympus_olympus_xz_1_instruction_manual_https_learnandsupport_getolympus_com_sites_default_files_media_files_2018_04_xz",
     "source_name": "Olympus XZ-1 instruction manual",
     "source_url": "https://learnandsupport.getolympus.com/sites/default/files/media/files/2018/04/XZ-1_Instruction_Manual_EN.pdf",
@@ -8962,6 +9133,33 @@
     "publisher": "Olympus",
     "last_verified": "2026-05-24",
     "notes": "Backfilled source registry entry from an existing compatibility row."
+  },
+  {
+    "source_id": "om_system_om_system_compact_camera_official_battery_compatibility_table_li_42b_https_support_jp_omsystem_com_jp_support",
+    "source_name": "OM SYSTEM Compact Camera Official Battery Compatibility Table - LI-42B",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "publisher": "OM SYSTEM",
+    "last_verified": "2026-05-25",
+    "notes": "OM SYSTEM official compact-camera battery table lists TG-310 with lithium-ion rechargeable battery LI-42B."
+  },
+  {
+    "source_id": "om_system_om_system_compact_camera_official_battery_compatibility_table_li_50b_https_support_jp_omsystem_com_jp_support",
+    "source_name": "OM SYSTEM Compact Camera Official Battery Compatibility Table - LI-50B",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "publisher": "OM SYSTEM",
+    "last_verified": "2026-05-25",
+    "notes": "OM SYSTEM official compact-camera battery table lists TG-610 with lithium-ion rechargeable battery LI-50B."
+  },
+  {
+    "source_id": "om_system_om_system_li_92b_official_product_compatibility_https_explore_omsystem_com_c_en_li_92b_lithium_ion_battery",
+    "source_name": "OM SYSTEM LI-92B Official Product Compatibility",
+    "source_url": "https://explore.omsystem.com/c/en/li-92b-lithium-ion-battery",
+    "source_type": "official_accessory_page",
+    "publisher": "OM SYSTEM",
+    "last_verified": "2026-05-25",
+    "notes": "OM SYSTEM official LI-92B product description identifies TG-3 among cameras compatible with lithium-ion battery LI-92B."
   },
   {
     "source_id": "om_system_om_system_tg_7_q_and_a_https_support_jp_omsystem_com_en_support_imsg_digicamera_qa_products_tg7_index_html",
@@ -9000,6 +9198,33 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "panasonic_panasonic_dmc_fz200_official_operating_instructions_https_help_na_panasonic_com_wp_content_uploads_2023_02_dmc",
+    "source_name": "Panasonic DMC-FZ200 Official Operating Instructions",
+    "source_url": "https://help.na.panasonic.com/wp-content/uploads/2023/02/DMCFZ200_VQT4H57_ENG.pdf",
+    "source_type": "official_manual",
+    "publisher": "Panasonic",
+    "last_verified": "2026-05-25",
+    "notes": "Official operating instructions for DMC-FZ200: Battery Pack DMW-BLC12PP."
+  },
+  {
+    "source_id": "panasonic_panasonic_dmc_fz300_official_catalogue_https_www_panasonic_com_content_dam_panasonic_it_it_cataloghi_e_brochur",
+    "source_name": "Panasonic DMC-FZ300 Official Catalogue",
+    "source_url": "https://www.panasonic.com/content/dam/Panasonic/it/it/Cataloghi-e-Brochure/FZ300%20Catalog.pdf",
+    "source_type": "official_manual",
+    "publisher": "Panasonic",
+    "last_verified": "2026-05-25",
+    "notes": "Panasonic official catalogue specifications for DMC-FZ300 state Battery DMW-BLC12."
+  },
+  {
+    "source_id": "panasonic_panasonic_dmc_lx7_official_operating_instructions_https_help_na_panasonic_com_wp_content_uploads_2023_02_dmclx",
+    "source_name": "Panasonic DMC-LX7 Official Operating Instructions",
+    "source_url": "https://help.na.panasonic.com/wp-content/uploads/2023/02/DMCLX7_VQT4H90_ENG.pdf",
+    "source_type": "official_manual",
+    "publisher": "Panasonic",
+    "last_verified": "2026-05-25",
+    "notes": "Official operating instructions for DMC-LX7: Battery Pack DMW-BCJ13PP."
+  },
+  {
     "source_id": "panasonic_panasonic_dmw_blg10_accessory_page_https_shop_panasonic_com_products_rechargable_lithium_ion_battery_dmw_blg10",
     "source_name": "Panasonic DMW-BLG10 accessory page",
     "source_url": "https://shop.panasonic.com/products/rechargable-lithium-ion-battery-dmw-blg10",
@@ -9007,6 +9232,24 @@
     "publisher": "Panasonic",
     "last_verified": "2026-05-24",
     "notes": "Backfilled source registry entry from an existing compatibility row."
+  },
+  {
+    "source_id": "panasonic_panasonic_dmw_blg10_official_product_page_https_shop_panasonic_com_products_rechargable_lithium_ion_battery_dm",
+    "source_name": "Panasonic DMW-BLG10 Official Product Page",
+    "source_url": "https://shop.panasonic.com/products/rechargable-lithium-ion-battery-dmw-blg10",
+    "source_type": "official_accessory_page",
+    "publisher": "Panasonic",
+    "last_verified": "2026-05-25",
+    "notes": "Panasonic official DMW-BLG10 product page lists DMC-ZS60 as a compatible model for rechargeable Lithium-ion battery DMW-BLG10."
+  },
+  {
+    "source_id": "panasonic_panasonic_dmw_blg10_official_support_compatibility_specification_https_help_na_panasonic_com_p_423812_and_post",
+    "source_name": "Panasonic DMW-BLG10 Official Support Compatibility Specification",
+    "source_url": "https://help.na.panasonic.com/?p=423812&post_type=answers",
+    "source_type": "official_accessory_page",
+    "publisher": "Panasonic",
+    "last_verified": "2026-05-25",
+    "notes": "Panasonic official DMW-BLG10 battery specifications list DMC-ZS60 among compatible models for Li-ion Battery DMW-BLG10."
   },
   {
     "source_id": "panasonic_panasonic_support_charging_instructions_dc_zs70_https_help_na_panasonic_com_answers_how_to_charge_the_battery",
@@ -9279,6 +9522,51 @@
     "notes": "Battery compatibility table: DSC-T3 compatible with NP-FT1; NP-FR1 not compatible; NP-FD1 not compatible."
   },
   {
+    "source_id": "sony_sony_dsc_hx300_official_specifications_https_www_sony_com_electronics_support_compact_cameras_dsc_hx_series_dsc_hx3",
+    "source_name": "Sony DSC-HX300 Official Specifications",
+    "source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx300/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony official specifications for DSC-HX300: Supplied Battery - Rechargeable Battery Pack NP-BX1."
+  },
+  {
+    "source_id": "sony_sony_dsc_hx50v_official_specifications_https_www_sony_com_electronics_support_compact_cameras_dsc_hx_series_dsc_hx5",
+    "source_name": "Sony DSC-HX50V Official Specifications",
+    "source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx50v/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony official specifications for DSC-HX50V: Supplied Battery - Rechargeable Battery Pack NP-BX1."
+  },
+  {
+    "source_id": "sony_sony_dsc_hx80_official_specifications_https_www_sony_com_electronics_support_compact_cameras_dsc_hx_series_dsc_hx80",
+    "source_name": "Sony DSC-HX80 Official Specifications",
+    "source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx80/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony official specifications for DSC-HX80: Supplied Battery - Rechargeable Battery Pack NP-BX1."
+  },
+  {
+    "source_id": "sony_sony_dsc_hx90v_official_specifications_https_www_sony_com_electronics_support_compact_cameras_dsc_hx_series_dsc_hx9",
+    "source_name": "Sony DSC-HX90V Official Specifications",
+    "source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx90v/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony official specifications for DSC-HX90V: Supplied Battery - Rechargeable Battery Pack NP-BX1."
+  },
+  {
+    "source_id": "sony_sony_dsc_hx95_official_specifications_https_www_sony_com_electronics_support_compact_cameras_dsc_hx_series_dsc_hx95",
+    "source_name": "Sony DSC-HX95 Official Specifications",
+    "source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx95/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony official specifications for DSC-HX95: Supplied Battery - Rechargeable Battery Pack NP-BX1."
+  },
+  {
     "source_id": "sony_sony_dsc_t7_read_this_first_manual_https_www_sony_jp_cyber_shot_emdown_data_t7_first_pdf",
     "source_name": "Sony DSC-T7 Read This First manual",
     "source_url": "https://www.sony.jp/cyber-shot/emdown/data/T7_first.pdf",
@@ -9286,6 +9574,15 @@
     "publisher": "Sony",
     "last_verified": "2026-05-25",
     "notes": "DSC-T7 Read This First manual: use the supplied NP-FE1 battery pack before using the camera for the first time."
+  },
+  {
+    "source_id": "sony_sony_dsc_wx300_official_specifications_https_www_sony_com_electronics_support_compact_cameras_dsc_wx_series_dsc_wx3",
+    "source_name": "Sony DSC-WX300 Official Specifications",
+    "source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-wx-series/dsc-wx300/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony official specifications for DSC-WX300: Supplied Battery - Rechargeable Battery Pack NP-BX1."
   },
   {
     "source_id": "sony_sony_india_dsc_t90_specifications_https_www_sony_co_in_electronics_support_compact_cameras_dsct_series_dsc_t90_spec",
@@ -9484,6 +9781,24 @@
     "publisher": "Sony",
     "last_verified": "2026-05-24",
     "notes": "Backfilled source registry entry from an existing compatibility row."
+  },
+  {
+    "source_id": "sony_sony_np_bn1_official_compatibility_information_https_electronics_sony_com_imaging_imaging_accessories_imaging_compa",
+    "source_name": "Sony NP-BN1 Official Compatibility Information",
+    "source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "source_type": "official_accessory_page",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony official NP-BN1 compatibility information lists DSC-WX70 as compatible with rechargeable battery NP-BN1."
+  },
+  {
+    "source_id": "sony_sony_np_bx1_official_compatibility_information_https_support_d_imaging_sony_co_jp_www_cscs_accessories_compatibilit",
+    "source_name": "Sony NP-BX1 Official Compatibility Information",
+    "source_url": "https://support.d-imaging.sony.co.jp/www/cscs/accessories/compatibility.php?area=gb&cat=1&lang=en&mdl=NP-BX1",
+    "source_type": "official_accessory_page",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony official NP-BX1 compatibility information lists DSC-HX400V as fully compatible with Battery / Power NP-BX1."
   },
   {
     "source_id": "sony_sony_singapore_dsc_t70_specifications_https_www_sony_com_sg_electronics_support_compact_cameras_dsc_t_series_dsc_t7",

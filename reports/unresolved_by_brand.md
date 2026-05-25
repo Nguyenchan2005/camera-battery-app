@@ -4,15 +4,15 @@ Generated: 2026-05-25
 
 | Brand | Unresolved models |
 | --- | ---: |
-| Kodak | 174 |
-| Fujifilm | 165 |
-| Casio | 159 |
-| Olympus | 143 |
-| Panasonic | 122 |
+| Kodak | 171 |
+| Casio | 153 |
+| Olympus | 127 |
+| Panasonic | 117 |
 | Samsung | 113 |
-| Sony | 104 |
-| Nikon | 99 |
+| Fujifilm | 96 |
+| Nikon | 93 |
 | Pentax | 84 |
+| Sony | 82 |
 | HP | 66 |
 | Ricoh | 52 |
 | Leica | 26 |
@@ -152,24 +152,18 @@ Generated: 2026-05-25
 - Casio Exilim EX-Z90 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR10 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR100 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
-- Casio Exilim EX-ZR1200 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR15 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR1500 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
-- Casio Exilim EX-ZR20 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
-- Casio Exilim EX-ZR200 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR2000 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR2100 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
-- Casio Exilim EX-ZR300 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR3000 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR3500 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR3600 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
-- Casio Exilim EX-ZR400 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR50 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR5100 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR55 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR60 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR65 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
-- Casio Exilim EX-ZR800 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR850 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZS10 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZS100 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
@@ -226,61 +220,29 @@ Generated: 2026-05-25
 - Fujifilm FinePix AV230 (FinePix AV): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix AV250 (FinePix AV): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix AV280 (FinePix AV): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix F100fd (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix F20 (FinePix F): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix F200EXR (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix F300EXR (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_F300EXR
-- Fujifilm FinePix F31fd (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_F31fd
 - Fujifilm FinePix F401 (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_F401
 - Fujifilm FinePix F470 (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix F480 (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix F500EXR (FinePix F): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix F505EXR (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix F50fd (FinePix F): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix F550EXR (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix F600EXR (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_Finepix_F600EXR
 - Fujifilm FinePix F601 Zoom (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix F660EXR (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix F70EXR (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_F70EXR
-- Fujifilm FinePix F750EXR (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix F770EXR (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix F800EXR (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix F80EXR (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix F900EXR (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix HS10 (FinePix HS): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_HS10
-- Fujifilm FinePix HS30EXR (FinePix HS): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix HS35EXR (FinePix HS): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix HS50EXR (FinePix HS): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix J10 (FinePix J): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix J100 (FinePix J): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix J110w (FinePix J): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix J120 (FinePix J): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix J150w (FinePix J): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix J15fd (FinePix J): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix J20fd (FinePix J): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix J210 (FinePix J): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix J250 (FinePix J): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix J25fd (FinePix J): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix J40 (FinePix J): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix J50 (FinePix J): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix JX200 (FinePix JX): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_JX200
-- Fujifilm FinePix JX250 (FinePix JX): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix JX280 (FinePix JX): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_JX280
-- Fujifilm FinePix JX370 (FinePix JX): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix JX500 (FinePix JX): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix JX550 (FinePix JX): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix JZ100 (FinePix JZ): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix JZ200 (FinePix JZ): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix Real 3D W1 (FinePix REAL 3D): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S1 (FinePix S): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S1000fd (FinePix S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix S100fs (FinePix S): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S1500 (FinePix S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S1600 (FinePix S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S1800 (FinePix S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S20 (FinePix S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S2000HD (FinePix S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix S200EXR (FinePix S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S2500HD (FinePix S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S2800HD (FinePix S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S2950 (FinePix S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
@@ -315,54 +277,17 @@ Generated: 2026-05-25
 - Fujifilm FinePix SL260 (FinePix SL): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix SL280 (FinePix SL): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix SL300 (FinePix SL): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix T200 (FinePix T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix T300 (FinePix T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix T350 (FinePix T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix T400 (FinePix T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix T500 (FinePix T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix T550 (FinePix T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix XP10 (FinePix XP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_XP
-- Fujifilm FinePix XP100 (FinePix XP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix XP120 (FinePix XP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix XP130 (FinePix XP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix XP170 (FinePix XP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix XP20 (FinePix XP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix XP200 (FinePix XP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix XP30 (FinePix XP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix XP50 (FinePix XP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix XP60 (FinePix XP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix XP70 (FinePix XP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix XP80 (FinePix XP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix XP90 (FinePix XP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix Z1000EXR (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z100fd (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z10fd (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix Z110 (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z200fd (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z20fd (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_Z20fd
 - Fujifilm FinePix Z250fd (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z3 (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z30 (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix Z300 (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix Z31 (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z33WP (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z35 (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z37 (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix Z5fd (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z70 (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix Z700 EXR (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_Z700_EXR
-- Fujifilm FinePix Z707EXR (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z71 (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z80 (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix Z800EXR (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z808EXR (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z81 (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z90 (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix Z900EXR (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z909EXR (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix Z91 (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z950 EXR (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm X100F (X100): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm X100S (X100): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm X100T (X100): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 
@@ -466,9 +391,7 @@ Generated: 2026-05-25
 - Kodak EasyShare C513 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C530 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C533 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
-- Kodak EasyShare C603 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C613 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
-- Kodak EasyShare C643 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C653 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C663 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C703 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
@@ -545,7 +468,6 @@ Generated: 2026-05-25
 - Kodak EasyShare M420 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare M52 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare M522 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
-- Kodak EasyShare M530 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare M531 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare M532 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare M5350 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
@@ -767,18 +689,12 @@ Generated: 2026-05-25
 - Nikon COOLPIX S560 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S60 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S600 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX S610 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX S620 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX S630 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S640 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S660 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S7 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX S70 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S700 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX S710 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S8 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S9 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX S9600 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 
 ### Olympus
 
@@ -888,7 +804,6 @@ Generated: 2026-05-25
 - Olympus SP-620UZ (SP series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus SP-700 (SP series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus SP-800UZ (SP series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus SP-810UZ (SP series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus SP-820UZ (SP series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus SZ-10 (SZ series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus SZ-11 (SZ series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
@@ -900,21 +815,6 @@ Generated: 2026-05-25
 - Olympus Stylus 400 (Stylus/mju Digital): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus_Stylus_%C2%B5_digital_cameras
 - Olympus Stylus 500 (Stylus/mju Digital): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus_Stylus_%C2%B5_digital_cameras
 - Olympus μ 5000 (Stylus/mju Digital): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus_Stylus_%C2%B5_digital_cameras
-- Olympus TG-1 iHS (Tough/TG): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus TG-2 iHS (Tough/TG): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus TG-3 (Tough/TG): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus TG-310 (Tough/TG): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus TG-320 (Tough/TG): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus TG-4 (Tough/TG): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus TG-5 (Tough/TG): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus TG-610 (Tough/TG): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus TG-630 iHS (Tough/TG): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus TG-810 (Tough/TG): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus TG-820 iHS (Tough/TG): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus TG-830 iHS (Tough/TG): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus TG-850 (Tough/TG): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus TG-860 (Tough/TG): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus TG-870 (Tough/TG): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus VG-110 (VG series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus VG-120 (VG series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus VG-145 (VG series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
@@ -975,12 +875,10 @@ Generated: 2026-05-25
 - Panasonic Lumix DMC-FZ18 (Lumix FZ): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-FZ2 (Lumix FZ): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic_DMC-FZ2
 - Panasonic Lumix DMC-FZ20 (Lumix FZ): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic_DMC-FZ20
-- Panasonic Lumix DMC-FZ200 (Lumix FZ): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-FZ2000 (Lumix FZ): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-FZ28 (Lumix FZ): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-FZ3 (Lumix FZ): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-FZ30 (Lumix FZ): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic_DMC-FZ30
-- Panasonic Lumix DMC-FZ300 (Lumix FZ): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-FZ38 (Lumix FZ): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-FZ40 (Lumix FZ): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-FZ47 (Lumix FZ): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
@@ -1006,7 +904,6 @@ Generated: 2026-05-25
 - Panasonic Lumix DMC-LX2 (Lumix LX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic_DMC-LX2
 - Panasonic Lumix DMC-LX3 (Lumix LX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-LX3
 - Panasonic Lumix DMC-LX5 (Lumix LX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic_DMC-LX5
-- Panasonic Lumix DMC-LX7 (Lumix LX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-LZ10 (Lumix LZ): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-LZ2 (Lumix LZ): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-LZ20 (Lumix LZ): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
@@ -1041,13 +938,11 @@ Generated: 2026-05-25
 - Panasonic Lumix DMC-TZ50 (Lumix TZ/ZS): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-ZS1 (Lumix TZ/ZS): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-ZS10 (Lumix TZ/ZS): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
-- Panasonic Lumix DMC-ZS100 (Lumix TZ/ZS): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-ZS15 (Lumix TZ/ZS): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-ZS20 (Lumix TZ/ZS): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-ZS25 (Lumix TZ/ZS): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-ZS30 (Lumix TZ/ZS): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-TZ40
 - Panasonic Lumix DMC-ZS45 (Lumix TZ/ZS): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
-- Panasonic Lumix DMC-ZS60 (Lumix TZ/ZS): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-ZS7 (Lumix TZ/ZS): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 - Panasonic Lumix DMC-ZS8 (Lumix TZ/ZS): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Panasonic
 
@@ -1341,16 +1236,9 @@ Generated: 2026-05-25
 - Sony Cyber-shot DSC-HX10V (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-HX200V (Cyber-shot DSC-HX): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-HX20V (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-HX300 (Cyber-shot DSC-HX): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-HX30V (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-HX400V (Cyber-shot DSC-HX): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-HX50V (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-HX5V (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-HX60V (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-HX7V (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-HX80 (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-HX90V (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-HX95 (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-HX9V (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-RX10 (Cyber-shot DSC-RX10): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-RX10 II (Cyber-shot DSC-RX10): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Sony
@@ -1364,15 +1252,11 @@ Generated: 2026-05-25
 - Sony Cyber-shot DSC-T66 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-T75 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-T99 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-TF1 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-TX1 (Cyber-shot DSC-TX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-TX10 (Cyber-shot DSC-TX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-TX100V (Cyber-shot DSC-TX): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-TX20 (Cyber-shot DSC-TX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-TX200V (Cyber-shot DSC-TX): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-TX300V (Cyber-shot DSC-TX): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-TX5 (Cyber-shot DSC-TX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-TX66 (Cyber-shot DSC-TX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-TX7 (Cyber-shot DSC-TX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-TX77 (Cyber-shot DSC-TX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-TX9 (Cyber-shot DSC-TX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
@@ -1403,27 +1287,16 @@ Generated: 2026-05-25
 - Sony Cyber-shot DSC-W560 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W570 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W580 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-W650 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-W670 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W7 (Cyber-shot DSC-W): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W70 (Cyber-shot DSC-W): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-W710 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony_DSC-W710
-- Sony Cyber-shot DSC-W730 (Cyber-shot DSC-W): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W80 (Cyber-shot DSC-W): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W85 (Cyber-shot DSC-W): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W90 (Cyber-shot DSC-W): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-WX1 (Cyber-shot DSC-WX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony_DSC-WX1
 - Sony Cyber-shot DSC-WX10 (Cyber-shot DSC-WX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony_DSC-WX10
-- Sony Cyber-shot DSC-WX150 (Cyber-shot DSC-WX): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-WX170 (Cyber-shot DSC-WX): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-WX200 (Cyber-shot DSC-WX): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-WX30 (Cyber-shot DSC-WX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-WX300 (Cyber-shot DSC-WX): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-WX5 (Cyber-shot DSC-WX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-WX50 (Cyber-shot DSC-WX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-WX60 (Cyber-shot DSC-WX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-WX7 (Cyber-shot DSC-WX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-WX70 (Cyber-shot DSC-WX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-WX80 (Cyber-shot DSC-WX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-WX9 (Cyber-shot DSC-WX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony ZV-1 Mark II (VLOGCAM ZV): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony

@@ -1,0 +1,16 @@
+[
+  {
+    "camera_id": "kodak_easyshare_c713",
+    "display_name": "Kodak EasyShare C713",
+    "brand": "Kodak",
+    "suggested_battery_model": "AA",
+    "suggested_battery_id": "generic_aa",
+    "evidence_type": "retailer_specification",
+    "source_name": "B&H Kodak EasyShare C713 Product Specification",
+    "source_url": "https://www.bhphotovideo.com/c/product/582525-REG/Kodak_1590363_EasyShare_C713_Digital_Camera.html/overview",
+    "source_text": "B&H product specification for EasyShare C713 states Battery Type: 2x AA Batteries (Alkaline, Lithium, NiMH).",
+    "confidence": "low",
+    "warning": "Not verified official compatibility; do not treat this suggestion as a confirmed compatible battery.",
+    "last_checked": "2026-05-25"
+  }
+]

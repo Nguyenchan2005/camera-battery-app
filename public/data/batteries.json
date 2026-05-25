@@ -250,6 +250,16 @@
     "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
   },
   {
+    "battery_id": "casio_np_110",
+    "brand": "Casio",
+    "model": "NP-110",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by web-assisted verifier from an explicit source-backed battery mapping."
+  },
+  {
     "battery_id": "casio_np_130",
     "brand": "Casio",
     "model": "NP-130",
@@ -280,6 +290,16 @@
     "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
   },
   {
+    "battery_id": "fujifilm_np_140",
+    "brand": "Fujifilm",
+    "model": "NP-140",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by web-assisted verifier from an explicit source-backed battery mapping."
+  },
+  {
     "battery_id": "fujifilm_np_40",
     "brand": "Fujifilm",
     "model": "NP-40",
@@ -297,7 +317,7 @@
     "chemistry": "lithium-ion",
     "voltage": null,
     "capacity_mah": null,
-    "notes": ""
+    "notes": "Added by web-assisted verifier from an explicit source-backed battery mapping."
   },
   {
     "battery_id": "fujifilm_np_50",
@@ -328,6 +348,16 @@
     "voltage": null,
     "capacity_mah": null,
     "notes": "Added by import_all_remaining.py; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "fujifilm_np_w126",
+    "brand": "Fujifilm",
+    "model": "NP-W126",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by web-assisted verifier from an explicit source-backed battery mapping."
   },
   {
     "battery_id": "fujifilm_np_w126s",
@@ -416,7 +446,7 @@
     "chemistry": "lithium-ion",
     "voltage": null,
     "capacity_mah": null,
-    "notes": ""
+    "notes": "Added by web-assisted verifier from an explicit source-backed battery mapping."
   },
   {
     "battery_id": "kodak_lb_012",
@@ -645,6 +675,16 @@
     "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
   },
   {
+    "battery_id": "olympus_li_42b",
+    "brand": "Olympus",
+    "model": "LI-42B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by web-assisted verifier from an explicit source-backed battery mapping."
+  },
+  {
     "battery_id": "olympus_li_50b",
     "brand": "Olympus",
     "model": "LI-50B",
@@ -675,6 +715,16 @@
     "notes": "OM System LI-92B accessory page lists 3.6 V and 1350 mAh."
   },
   {
+    "battery_id": "panasonic_dmw_bcj13pp",
+    "brand": "Panasonic",
+    "model": "DMW-BCJ13PP",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by web-assisted verifier from an explicit source-backed battery mapping."
+  },
+  {
     "battery_id": "panasonic_dmw_blc12",
     "brand": "Panasonic",
     "model": "DMW-BLC12",
@@ -686,6 +736,16 @@
     "voltage": 7.2,
     "capacity_mah": 1200,
     "notes": "Panasonic FZ1000 support page lists DMW-BLC12PP 7.2 V / 1200 mAh."
+  },
+  {
+    "battery_id": "panasonic_dmw_blc12pp",
+    "brand": "Panasonic",
+    "model": "DMW-BLC12PP",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added by web-assisted verifier from an explicit source-backed battery mapping."
   },
   {
     "battery_id": "panasonic_dmw_blg10",

@@ -29,31 +29,6 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 | Kodak EasyShare C340 | EasyShare C | https://camera-wiki.org/wiki/Kodak | Camera existence confirmed, battery not yet source-verified |
 | Kodak EasyShare C360 | EasyShare C | https://camera-wiki.org/wiki/Kodak | Camera existence confirmed, battery not yet source-verified |
 
-## Fujifilm
-
-| Camera | Series | Source | Reason |
-| --- | --- | --- | --- |
-| Fujifilm FinePix A101 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A120 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A200 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A203 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_FinePix_A203 | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A204 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A205 | FinePix A | https://camera-wiki.org/wiki/Fuji_FinePix_A205 | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A210 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A303 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A330 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A340 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A345 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A350 | FinePix A | https://camera-wiki.org/wiki/Fuji_FinePix_A350 | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A400 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A500 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A600 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A610 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Battery source check failed: TimeoutError: The read operation timed out |
-| Fujifilm FinePix A800 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A820 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Battery source check failed: TimeoutError: The read operation timed out |
-| Fujifilm FinePix A850 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
-| Fujifilm FinePix A920 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Battery source check failed: TimeoutError: The read operation timed out |
-
 ## Casio
 
 | Camera | Series | Source | Reason |
@@ -154,30 +129,30 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 | Samsung Digimax 430 | Digimax | https://camera-wiki.org/wiki/Samsung | Camera existence confirmed, battery not yet source-verified |
 | Samsung Digimax 50DUO | Digimax | https://camera-wiki.org/wiki/Samsung | Camera existence confirmed, battery not yet source-verified |
 
-## Sony
+## Fujifilm
 
 | Camera | Series | Source | Reason |
 | --- | --- | --- | --- |
-| Sony Cyber-shot DSC-H1 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony_DSC-H1 | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H10 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H100 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-H20 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H200 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-H3 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H5 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H50 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H55 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H7 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H70 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H9 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H90 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-HX1 | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony_Cybershot_DSC-HX1 | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-HX100V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-HX10V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-HX200V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-HX20V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-HX300 | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-HX30V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Fujifilm FinePix A101 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A120 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A200 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A203 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_FinePix_A203 | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A204 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A205 | FinePix A | https://camera-wiki.org/wiki/Fuji_FinePix_A205 | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A210 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A303 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A330 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A340 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A345 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A350 | FinePix A | https://camera-wiki.org/wiki/Fuji_FinePix_A350 | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A400 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A500 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A600 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A610 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Battery source check failed: TimeoutError: The read operation timed out |
+| Fujifilm FinePix A800 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A820 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Battery source check failed: TimeoutError: The read operation timed out |
+| Fujifilm FinePix A850 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
+| Fujifilm FinePix A920 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Battery source check failed: TimeoutError: The read operation timed out |
 
 ## Nikon
 
@@ -228,6 +203,31 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 | Pentax Optio E10 | Optio | https://camera-wiki.org/wiki/Pentax | Camera existence confirmed, battery not yet source-verified |
 | Pentax Optio E20 | Optio | https://camera-wiki.org/wiki/Pentax | Camera existence confirmed, battery not yet source-verified |
 | Pentax Optio E30 | Optio | https://camera-wiki.org/wiki/Pentax | Camera existence confirmed, battery not yet source-verified |
+
+## Sony
+
+| Camera | Series | Source | Reason |
+| --- | --- | --- | --- |
+| Sony Cyber-shot DSC-H1 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony_DSC-H1 | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-H10 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-H100 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-H20 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-H200 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-H3 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-H5 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-H50 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-H55 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-H7 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-H70 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-H9 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-H90 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-HX1 | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony_Cybershot_DSC-HX1 | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-HX100V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-HX10V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-HX200V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-HX20V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-HX30V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-HX5V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
 
 ## HP
 
