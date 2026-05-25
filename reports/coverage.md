@@ -4,11 +4,11 @@ Generated: 2026-05-25
 
 ## Summary
 
-- Cameras: 1068
-- Compatibility rows: 1526
-- Cameras with at least one high-confidence verified battery row: 992
+- Cameras: 1082
+- Compatibility rows: 1540
+- Cameras with at least one high-confidence verified battery row: 1004
 - Cameras with unknown battery mapping rows: 0
-- Cameras with aliases or regional names: 1060
+- Cameras with aliases or regional names: 1074
 
 ## Cameras By Brand
 
@@ -19,18 +19,18 @@ Generated: 2026-05-25
 | Fujifilm | 135 | 173 | 14 | 0 |
 | GE | 2 | 0 | 2 | 0 |
 | HP | 1 | 0 | 1 | 0 |
-| Kodak | 14 | 12 | 2 | 0 |
+| Kodak | 15 | 12 | 3 | 0 |
 | Kodak PIXPRO | 2 | 2 | 0 | 0 |
 | Konica Minolta | 6 | 1 | 4 | 1 |
 | Leica | 4 | 4 | 0 | 0 |
 | Minolta | 4 | 0 | 6 | 0 |
-| Nikon | 123 | 110 | 21 | 0 |
+| Nikon | 129 | 116 | 21 | 0 |
 | OM System | 1 | 1 | 0 | 0 |
 | Olympus | 184 | 267 | 22 | 0 |
 | Panasonic | 136 | 149 | 1 | 0 |
 | Pentax | 4 | 1 | 4 | 0 |
-| Ricoh | 6 | 3 | 3 | 0 |
-| Samsung | 19 | 1 | 17 | 2 |
+| Ricoh | 12 | 9 | 3 | 0 |
+| Samsung | 20 | 1 | 18 | 2 |
 | Sigma | 7 | 7 | 0 | 0 |
 | Sony | 174 | 291 | 5 | 0 |
 | Vivitar | 1 | 0 | 1 | 0 |
@@ -59,6 +59,7 @@ Generated: 2026-05-25
 | HP | HP PhotoSmart 945 | uses_aa | medium | https://camera-wiki.org/wiki/HP_PhotoSmart_945 |
 | Kodak | Kodak EasyShare C613 | uses_aa | medium | https://www.manualslib.com/manual/89231/Kodak-Easyshare-C613.html |
 | Kodak | Kodak EasyShare C653 | uses_aa | medium | https://www.manualslib.com/manual/3586927/Kodak-Easyshare-C653.html?page=66 |
+| Kodak | Kodak EasyShare Z950 | fully_compatible | medium | https://www.manualslib.com/manual/89285/Kodak-Easyshare-Z950.html |
 | Konica Minolta | Konica Minolta DiMAGE X1 | fully_compatible | low | https://manualmachine.com/konicaminolta/dimagex1/13844315-user-manual/ |
 | Konica Minolta | Konica Minolta DiMAGE Z10 | uses_aa | medium | https://camera-wiki.org/wiki/Konica_Minolta_DiMAGE_Z10 |
 | Konica Minolta | Konica Minolta DiMAGE Z2 | uses_aa | medium | https://camera-wiki.org/wiki/Konica_Minolta_DiMAGE_Z2 |
@@ -133,6 +134,7 @@ Generated: 2026-05-25
 | Samsung | Samsung ST150F | fully_compatible | low | https://www.manualsonline.com/manuals/mfg/samsung/st150f_3.html?p=135 |
 | Samsung | Samsung ST30 | fully_compatible | medium | https://www.manualslib.com/manual/210057/Samsung-St30.html?page=94 |
 | Samsung | Samsung ST65 | fully_compatible | medium | https://www.manualslib.com/manual/146341/Samsung-St65.html?page=98 |
+| Samsung | Samsung ST70 | fully_compatible | medium | https://www.manualslib.com/manual/145886/Samsung-St70.html |
 | Samsung | Samsung ST90 | fully_compatible | medium | https://www.manualslib.com/manual/147297/Samsung-St90.html?page=98 |
 | Samsung | Samsung ST95 | fully_compatible | medium | https://www.manualslib.com/manual/146324/Samsung-St95.html?page=114 |
 | Samsung | Samsung WB1000 | fully_compatible | medium | https://manualzz.com/doc/49237037/samsung-wb1000-user-manual |

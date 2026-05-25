@@ -8803,6 +8803,30 @@
     "notes": ""
   },
   {
+    "camera_id": "kodak_easyshare_z950",
+    "brand": "Kodak",
+    "series": "EasyShare Z",
+    "model": "EasyShare Z950",
+    "display_name": "Kodak EasyShare Z950",
+    "aliases": [
+      "Kodak Easyshare Z950",
+      "Kodak Z950"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare Z950"
+      ],
+      "research_aliases": [
+        "Kodak Z950"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "kodak_pixpro_az528",
     "brand": "Kodak PIXPRO",
     "series": "Astro Zoom",
@@ -9698,6 +9722,27 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "nikon_coolpix_l100",
+    "brand": "Nikon",
+    "series": "COOLPIX L",
+    "model": "COOLPIX L100",
+    "display_name": "Nikon COOLPIX L100",
+    "aliases": [
+      "Coolpix L100",
+      "L100"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX L100"
+      ]
+    },
+    "release_year": 2009,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "nikon_coolpix_l110",
     "brand": "Nikon",
     "series": "COOLPIX L",
@@ -9752,6 +9797,27 @@
     "regional_names": {
       "global": [
         "COOLPIX L16"
+      ]
+    },
+    "release_year": 2008,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_l18",
+    "brand": "Nikon",
+    "series": "COOLPIX L",
+    "model": "COOLPIX L18",
+    "display_name": "Nikon COOLPIX L18",
+    "aliases": [
+      "Coolpix L18",
+      "L18"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX L18"
       ]
     },
     "release_year": 2008,
@@ -10235,6 +10301,27 @@
     "regional_names": {
       "global": [
         "COOLPIX P1"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_p100",
+    "brand": "Nikon",
+    "series": "COOLPIX P",
+    "model": "COOLPIX P100",
+    "display_name": "Nikon COOLPIX P100",
+    "aliases": [
+      "Coolpix P100",
+      "P100"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX P100"
       ]
     },
     "release_year": null,
@@ -10775,6 +10862,27 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "nikon_coolpix_s210",
+    "brand": "Nikon",
+    "series": "COOLPIX S",
+    "model": "COOLPIX S210",
+    "display_name": "Nikon COOLPIX S210",
+    "aliases": [
+      "Coolpix S210",
+      "S210"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX S210"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "nikon_coolpix_s30",
     "brand": "Nikon",
     "series": "COOLPIX S",
@@ -11048,6 +11156,27 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "nikon_coolpix_s51",
+    "brand": "Nikon",
+    "series": "COOLPIX S",
+    "model": "COOLPIX S51",
+    "display_name": "Nikon COOLPIX S51",
+    "aliases": [
+      "Coolpix S51",
+      "S51"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX S51"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "nikon_coolpix_s5100",
     "brand": "Nikon",
     "series": "COOLPIX S",
@@ -11063,6 +11192,27 @@
       ]
     },
     "release_year": 2010,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_s520",
+    "brand": "Nikon",
+    "series": "COOLPIX S",
+    "model": "COOLPIX S520",
+    "display_name": "Nikon COOLPIX S520",
+    "aliases": [
+      "Coolpix S520",
+      "S520"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX S520"
+      ]
+    },
+    "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -18676,6 +18826,126 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "ricoh_cx1",
+    "brand": "Ricoh",
+    "series": "CX",
+    "model": "CX1",
+    "display_name": "Ricoh CX1",
+    "aliases": [
+      "CX1"
+    ],
+    "regional_names": {
+      "global": [
+        "Ricoh CX1"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "ricoh_cx2",
+    "brand": "Ricoh",
+    "series": "CX",
+    "model": "CX2",
+    "display_name": "Ricoh CX2",
+    "aliases": [
+      "CX2"
+    ],
+    "regional_names": {
+      "global": [
+        "Ricoh CX2"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "ricoh_cx3",
+    "brand": "Ricoh",
+    "series": "CX",
+    "model": "CX3",
+    "display_name": "Ricoh CX3",
+    "aliases": [
+      "CX3"
+    ],
+    "regional_names": {
+      "global": [
+        "Ricoh CX3"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "ricoh_cx4",
+    "brand": "Ricoh",
+    "series": "CX",
+    "model": "CX4",
+    "display_name": "Ricoh CX4",
+    "aliases": [
+      "CX4"
+    ],
+    "regional_names": {
+      "global": [
+        "Ricoh CX4"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "ricoh_cx5",
+    "brand": "Ricoh",
+    "series": "CX",
+    "model": "CX5",
+    "display_name": "Ricoh CX5",
+    "aliases": [
+      "CX5"
+    ],
+    "regional_names": {
+      "global": [
+        "Ricoh CX5"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "ricoh_cx6",
+    "brand": "Ricoh",
+    "series": "CX",
+    "model": "CX6",
+    "display_name": "Ricoh CX6",
+    "aliases": [
+      "CX6"
+    ],
+    "regional_names": {
+      "global": [
+        "Ricoh CX6"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "ricoh_g600",
     "brand": "Ricoh",
     "series": "Rugged",
@@ -18956,6 +19226,30 @@
     "regional_names": {
       "global": [
         "Samsung ST65"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "samsung_st70",
+    "brand": "Samsung",
+    "series": "ST",
+    "model": "ST70",
+    "display_name": "Samsung ST70",
+    "aliases": [
+      "ST70",
+      "Samsung TL110"
+    ],
+    "regional_names": {
+      "global": [
+        "Samsung ST70"
+      ],
+      "research_aliases": [
+        "Samsung TL110"
       ]
     },
     "release_year": null,

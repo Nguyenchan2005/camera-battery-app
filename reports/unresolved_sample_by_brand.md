@@ -183,12 +183,6 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 
 | Camera | Series | Source | Reason |
 | --- | --- | --- | --- |
-| Ricoh CX1 | CX | https://camera-wiki.org/wiki/Ricoh_CX1 | Camera existence confirmed, battery not yet source-verified |
-| Ricoh CX2 | CX | https://camera-wiki.org/wiki/Ricoh_CX2 | Camera existence confirmed, battery not yet source-verified |
-| Ricoh CX3 | CX | https://camera-wiki.org/wiki/Ricoh_CX3 | Camera existence confirmed, battery not yet source-verified |
-| Ricoh CX4 | CX | https://camera-wiki.org/wiki/Ricoh_CX4 | Camera existence confirmed, battery not yet source-verified |
-| Ricoh CX5 | CX | https://camera-wiki.org/wiki/Ricoh | Camera existence confirmed, battery not yet source-verified |
-| Ricoh CX6 | CX | https://camera-wiki.org/wiki/Ricoh | Camera existence confirmed, battery not yet source-verified |
 | Ricoh Caplio 300G | Caplio | https://camera-wiki.org/wiki/Ricoh | Camera existence confirmed, battery not yet source-verified |
 | Ricoh Caplio 400G Wide | Caplio | https://camera-wiki.org/wiki/Ricoh | Camera existence confirmed, battery not yet source-verified |
 | Ricoh Caplio 500G Wide | Caplio | https://camera-wiki.org/wiki/Ricoh | Camera existence confirmed, battery not yet source-verified |
@@ -203,6 +197,12 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 | Ricoh Caplio Pro G3 | Caplio | https://camera-wiki.org/wiki/Ricoh | Camera existence confirmed, battery not yet source-verified |
 | Ricoh Caplio R1 | Caplio | https://camera-wiki.org/wiki/Ricoh | Camera existence confirmed, battery not yet source-verified |
 | Ricoh Caplio R1S | Caplio | https://camera-wiki.org/wiki/Ricoh | Camera existence confirmed, battery not yet source-verified |
+| Ricoh Caplio R1V | Caplio | https://camera-wiki.org/wiki/Ricoh | Camera existence confirmed, battery not yet source-verified |
+| Ricoh Caplio R2 | Caplio | https://camera-wiki.org/wiki/Ricoh | Camera existence confirmed, battery not yet source-verified |
+| Ricoh Caplio R2S | Caplio | https://camera-wiki.org/wiki/Ricoh | Camera existence confirmed, battery not yet source-verified |
+| Ricoh Caplio R3 | Caplio | https://camera-wiki.org/wiki/Ricoh | Camera existence confirmed, battery not yet source-verified |
+| Ricoh Caplio R30 | Caplio | https://camera-wiki.org/wiki/Ricoh | Camera existence confirmed, battery not yet source-verified |
+| Ricoh Caplio R4 | Caplio | https://camera-wiki.org/wiki/Ricoh_Caplio_R4 | Camera existence confirmed, battery not yet source-verified |
 
 ## Olympus
 

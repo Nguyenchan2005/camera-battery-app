@@ -4,14 +4,14 @@ Generated: 2026-05-25
 
 | Brand | Unresolved models |
 | --- | ---: |
-| Kodak | 162 |
+| Kodak | 161 |
 | Casio | 141 |
-| Samsung | 99 |
+| Samsung | 98 |
 | Fujifilm | 93 |
 | Pentax | 84 |
 | HP | 66 |
-| Nikon | 65 |
-| Ricoh | 52 |
+| Nikon | 59 |
+| Ricoh | 46 |
 | Olympus | 45 |
 | Panasonic | 30 |
 | Leica | 26 |
@@ -507,7 +507,6 @@ Generated: 2026-05-25
 - Kodak EasyShare Z8612 IS (EasyShare Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare Z885 (EasyShare Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare Z915 (EasyShare Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
-- Kodak EasyShare Z950 (EasyShare Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare Z980 (EasyShare Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare Z981 (EasyShare Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare Z990 (EasyShare Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
@@ -600,17 +599,14 @@ Generated: 2026-05-25
 - Nikon COOLPIX 910 (COOLPIX 9): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L1 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L10 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L100 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L11 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L12 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L14 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L15 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L18 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L21 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L29 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L5 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L6 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX P100 (COOLPIX P): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_P100
 - Nikon COOLPIX P3 (COOLPIX P): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_P3_%26_P4
 - Nikon COOLPIX P4 (COOLPIX P): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_P3_%26_P4
 - Nikon COOLPIX P50 (COOLPIX P): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
@@ -619,7 +615,6 @@ Generated: 2026-05-25
 - Nikon COOLPIX P90 (COOLPIX P): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S02 (COOLPIX S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S2 (COOLPIX S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_S2
-- Nikon COOLPIX S210 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S220 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S230 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S2600 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
@@ -628,10 +623,8 @@ Generated: 2026-05-25
 - Nikon COOLPIX S3000 (COOLPIX S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_S3000
 - Nikon COOLPIX S4 (COOLPIX S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_S4
 - Nikon COOLPIX S4100 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX S51 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S510 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S52 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX S520 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S5300 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S550 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S560 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
@@ -814,12 +807,6 @@ Generated: 2026-05-25
 
 ### Ricoh
 
-- Ricoh CX1 (CX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Ricoh_CX1
-- Ricoh CX2 (CX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Ricoh_CX2
-- Ricoh CX3 (CX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Ricoh_CX3
-- Ricoh CX4 (CX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Ricoh_CX4
-- Ricoh CX5 (CX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Ricoh
-- Ricoh CX6 (CX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Ricoh
 - Ricoh Caplio 300G (Caplio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Ricoh
 - Ricoh Caplio 400G Wide (Caplio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Ricoh
 - Ricoh Caplio 500G Wide (Caplio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Ricoh
@@ -959,7 +946,6 @@ Generated: 2026-05-25
 - Samsung ST5500 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST600 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST6500 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
-- Samsung ST70 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST700 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST80 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST93 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung

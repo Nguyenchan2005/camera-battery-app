@@ -10,18 +10,18 @@ Generated: 2026-05-25
 | Fujifilm | partial_adapter | 228 | 135 | 93 | 187 | 173 | 14 | 0 | 228 | 45 |
 | GE | real_adapter | 3 | 2 | 1 | 2 | 0 | 2 | 0 | 3 | 3 |
 | HP | real_adapter | 67 | 1 | 66 | 1 | 0 | 1 | 0 | 67 | 19 |
-| Kodak | real_adapter | 176 | 14 | 162 | 14 | 12 | 2 | 0 | 176 | 13 |
+| Kodak | real_adapter | 176 | 15 | 161 | 15 | 12 | 3 | 0 | 176 | 14 |
 | Kodak PIXPRO | real_adapter | 2 | 2 | 0 | 2 | 2 | 0 | 0 | 2 | 2 |
 | Konica Minolta | real_adapter | 17 | 6 | 11 | 6 | 1 | 4 | 1 | 17 | 15 |
 | Leica | partial_adapter | 30 | 4 | 26 | 4 | 4 | 0 | 0 | 29 | 12 |
 | Minolta | real_adapter | 20 | 4 | 16 | 6 | 0 | 6 | 0 | 20 | 13 |
-| Nikon | partial_adapter | 188 | 123 | 65 | 131 | 110 | 21 | 0 | 188 | 126 |
+| Nikon | partial_adapter | 188 | 129 | 59 | 137 | 116 | 21 | 0 | 188 | 132 |
 | OM System | real_adapter | 1 | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 1 |
 | Olympus | real_adapter | 229 | 184 | 45 | 289 | 267 | 22 | 0 | 229 | 45 |
 | Panasonic | real_adapter | 166 | 136 | 30 | 150 | 149 | 1 | 0 | 166 | 39 |
 | Pentax | partial_adapter | 88 | 4 | 84 | 5 | 1 | 4 | 0 | 88 | 13 |
-| Ricoh | partial_adapter | 58 | 6 | 52 | 6 | 3 | 3 | 0 | 58 | 26 |
-| Samsung | real_adapter | 118 | 19 | 99 | 20 | 1 | 17 | 2 | 116 | 24 |
+| Ricoh | partial_adapter | 58 | 12 | 46 | 12 | 9 | 3 | 0 | 58 | 32 |
+| Samsung | real_adapter | 118 | 20 | 98 | 21 | 1 | 18 | 2 | 116 | 25 |
 | Sigma | partial_adapter | 16 | 7 | 9 | 7 | 7 | 0 | 0 | 16 | 9 |
 | Sony | partial_adapter | 194 | 174 | 20 | 296 | 291 | 5 | 0 | 194 | 100 |
 | Vivitar | real_adapter | 1 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 1 |

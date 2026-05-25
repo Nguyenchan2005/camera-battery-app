@@ -479,6 +479,16 @@
     "notes": "Special camera lithium battery format; not interchangeable with AA unless source says camera supports both."
   },
   {
+    "battery_id": "kodak_klic_7003",
+    "brand": "Kodak",
+    "model": "KLIC-7003",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed direct-agent research evidence."
+  },
+  {
     "battery_id": "kodak_klic_7006",
     "brand": "Kodak",
     "model": "KLIC-7006",
@@ -1103,6 +1113,16 @@
     "notes": "Added by import_all_remaining.py; electrical details left blank unless source-backed."
   },
   {
+    "battery_id": "ricoh_db_100",
+    "brand": "Ricoh",
+    "model": "DB-100",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed direct-agent research evidence."
+  },
+  {
     "battery_id": "ricoh_db_110",
     "brand": "Ricoh",
     "model": "DB-110",
@@ -1111,6 +1131,16 @@
     "voltage": 3.6,
     "capacity_mah": 1350,
     "notes": "WG-6 manual snippet lists 3.6 V / 1350 mAh."
+  },
+  {
+    "battery_id": "ricoh_db_70",
+    "brand": "Ricoh",
+    "model": "DB-70",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed direct-agent research evidence."
   },
   {
     "battery_id": "samsung_bp70a",

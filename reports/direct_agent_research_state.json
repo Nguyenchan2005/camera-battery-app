@@ -1,0 +1,35 @@
+{
+  "before": {
+    "verified_cameras": 1068,
+    "unresolved_models": 925,
+    "compatibility_rows": 1526,
+    "batteries": 133,
+    "candidates": 1993,
+    "suggestions": 0
+  },
+  "promoted_camera_ids": [
+    "kodak_easyshare_z950",
+    "nikon_coolpix_l100",
+    "nikon_coolpix_l18",
+    "nikon_coolpix_p100",
+    "nikon_coolpix_s210",
+    "nikon_coolpix_s51",
+    "nikon_coolpix_s520",
+    "ricoh_cx1",
+    "ricoh_cx2",
+    "ricoh_cx3",
+    "ricoh_cx4",
+    "ricoh_cx5",
+    "ricoh_cx6",
+    "samsung_st70"
+  ],
+  "suggested_camera_ids": [],
+  "after": {
+    "verified_cameras": 1082,
+    "unresolved_models": 911,
+    "compatibility_rows": 1540,
+    "batteries": 136,
+    "candidates": 1993,
+    "suggestions": 0
+  }
+}

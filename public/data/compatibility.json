@@ -7224,6 +7224,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "kodak_easyshare_z950",
+    "battery_id": "kodak_klic_7003",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "KODAK EASYSHARE Z950. Loading the battery: KODAK Li-Ion Rechargeable Digital Camera Battery, KLIC-7003.",
+    "source_name": "Kodak EasyShare Z950 User Manual text mirror",
+    "source_url": "https://www.manualslib.com/manual/89285/Kodak-Easyshare-Z950.html",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "kodak_pixpro_az528",
     "battery_id": "kodak_lb_060",
     "status": "fully_compatible",
@@ -7872,6 +7884,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "nikon_coolpix_l100",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": null,
+    "note": "Nikon COOLPIX L100. Battery / Batteries: AA (Alkaline, NiMH, Oxyride or Lithium).",
+    "source_name": "Nikon COOLPIX L100 Official Specifications",
+    "source_url": "https://www.nikonusa.com/p/coolpix-l100/26170/overview",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "nikon_coolpix_l110",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -7903,6 +7927,18 @@
     "note": "Nikon COOLPIX L16. Power Sources: 2 AA-size batteries.",
     "source_name": "Nikon COOLPIX L16 Official Specifications",
     "source_url": "https://www.nikonusa.com/p/coolpix-l16/25598/overview",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "nikon_coolpix_l18",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "Nikon COOLPIX L18: Two AA alkaline (supplied), lithium or oxyride batteries.",
+    "source_name": "Nikon COOLPIX 2008 Official Comparison Guide",
+    "source_url": "https://www.nikonusa.com/fileuploads/pdfs/COOLPIX_Compare_2008.pdf",
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-25"
@@ -8179,6 +8215,18 @@
     "note": "Nikon official guide for COOLPIX P1 and COOLPIX P2 specifies EN-EL8 Rechargeable Li-ion Battery for COOLPIX P1.",
     "source_name": "Nikon COOLPIX P1/P2 Official Manual",
     "source_url": "https://www.nikonusa.com/pdf/manuals/coolpix/P1P2_en.pdf",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "nikon_coolpix_p100",
+    "battery_id": "nikon_en_el5",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX P100. Battery / Batteries: Rechargeable Li-ion Battery EN-EL5.",
+    "source_name": "Nikon COOLPIX P100 Official Specifications",
+    "source_url": "https://www.nikonusa.com/p/coolpix-p100/26212/overview",
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-25"
@@ -8508,6 +8556,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "nikon_coolpix_s210",
+    "battery_id": "nikon_en_el10",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX S210. Battery / Batteries: Rechargeable Li-ion Battery EN-EL10.",
+    "source_name": "Nikon COOLPIX S210 Official Specifications",
+    "source_url": "https://www.nikonusa.com/en/nikon-products/product-archive/compact-digital-cameras/coolpix-s210.html",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "nikon_coolpix_s30",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -8664,6 +8724,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "nikon_coolpix_s51",
+    "battery_id": "nikon_en_el8",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX S51. Battery / Batteries: Rechargeable Li-ion Battery EN-EL8.",
+    "source_name": "Nikon COOLPIX S51 Official Specifications",
+    "source_url": "https://www.nikonusa.com/p/coolpix-s51/25574/overview",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "nikon_coolpix_s5100",
     "battery_id": "nikon_en_el10",
     "status": "fully_compatible",
@@ -8674,6 +8746,18 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "nikon_coolpix_s520",
+    "battery_id": "nikon_en_el10",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX S520. Battery / Batteries: Rechargeable Li-ion Battery EN-EL10.",
+    "source_name": "Nikon COOLPIX S520 Official Specifications",
+    "source_url": "https://www.nikonusa.com/p/coolpix-s520/26112/overview",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "nikon_coolpix_s5200",
@@ -14376,6 +14460,78 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "ricoh_cx1",
+    "battery_id": "ricoh_db_70",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "CX1: 電源 | リチャージャブルバッテリー（DB-70）x1.",
+    "source_name": "Ricoh CX1 Official Specifications",
+    "source_url": "https://www.ricoh-imaging.co.jp/japan/dc/cx/cx1/spec.html",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "ricoh_cx2",
+    "battery_id": "ricoh_db_70",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "CX2 Optional Accessories: Rechargeable Battery DB-70. Rechargeable battery for the CX2.",
+    "source_name": "Ricoh CX2 Official Accessory Page",
+    "source_url": "https://www.ricoh-imaging.co.jp/english/r_dc/cx/cx2/option.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "ricoh_cx3",
+    "battery_id": "ricoh_db_100",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "CX3 FAQ: The RICOH DB-100 battery is for the CX3.",
+    "source_name": "Ricoh CX3 Official FAQ",
+    "source_url": "https://www.ricoh-imaging.co.jp/english/r_dc/support/faq/bp/docs10/EDC03095.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "ricoh_cx4",
+    "battery_id": "ricoh_db_100",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "CX4 Major Specifications. Power Supply: Rechargeable Battery: DB-100 x1.",
+    "source_name": "Ricoh CX4 Official Specifications",
+    "source_url": "https://www.ricoh-imaging.co.jp/english/r_dc/cx/cx4/specs.html",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "ricoh_cx5",
+    "battery_id": "ricoh_db_100",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "CX5 Major Specifications. Power Supply: Rechargeable Battery (DB-100) x1.",
+    "source_name": "Ricoh CX5 Official Specifications",
+    "source_url": "https://www.ricoh-imaging.co.jp/english/r_dc/cx/cx5/specs.html",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "ricoh_cx6",
+    "battery_id": "ricoh_db_100",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "CX6 Major Specifications. Power Supply: Rechargeable Battery (DB-100) x 1.",
+    "source_name": "Ricoh CX6 Official Specifications",
+    "source_url": "https://www.ricoh-imaging.co.jp/english/r_dc/cx/cx6/specs.html",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "ricoh_g600",
     "battery_id": "generic_aaa",
     "status": "uses_aaa",
@@ -14563,6 +14719,18 @@
     "note": "Samsung ST65 specifications. Power source: Rechargeable battery: BP70A, 740mAh.",
     "source_name": "Samsung ST65 Manual (ManualsLib mirror)",
     "source_url": "https://www.manualslib.com/manual/146341/Samsung-St65.html?page=98",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "samsung_st70",
+    "battery_id": "samsung_bp70a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Samsung ST70 User Manual. Specifications - Power Source - Rechargeable battery: BP70A.",
+    "source_name": "Samsung ST70 User Manual text mirror",
+    "source_url": "https://www.manualslib.com/manual/145886/Samsung-St70.html",
     "source_type": "manual_mirror",
     "confidence": "medium",
     "last_verified": "2026-05-25"

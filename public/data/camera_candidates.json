@@ -22402,23 +22402,27 @@
     "model": "EasyShare Z950",
     "display_name": "Kodak EasyShare Z950",
     "aliases": [
-      "Kodak Easyshare Z950"
+      "Kodak Easyshare Z950",
+      "Kodak Z950"
     ],
     "regional_names": {
       "global": [
         "Kodak EasyShare Z950"
+      ],
+      "research_aliases": [
+        "Kodak Z950"
       ]
     },
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Kodak catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "kodak_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "kodak_easyshare_z980",
@@ -25996,13 +26000,13 @@
     "release_year": 2008,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_l100",
@@ -26022,13 +26026,13 @@
     "release_year": 2009,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_l19",
@@ -26516,13 +26520,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Nikon COOLPIX P100",
     "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix_P100",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_p1000",
@@ -27343,13 +27347,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_s3",
@@ -27577,13 +27581,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_s510",
@@ -27655,13 +27659,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_s6",
@@ -41932,13 +41936,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Ricoh CX1",
     "candidate_source_url": "https://camera-wiki.org/wiki/Ricoh_CX1",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "ricoh_pentax_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "ricoh_cx2",
@@ -41957,13 +41961,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Ricoh CX2",
     "candidate_source_url": "https://camera-wiki.org/wiki/Ricoh_CX2",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "ricoh_pentax_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "ricoh_cx3",
@@ -41982,13 +41986,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Ricoh CX3",
     "candidate_source_url": "https://camera-wiki.org/wiki/Ricoh_CX3",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "ricoh_pentax_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "ricoh_cx4",
@@ -42007,13 +42011,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Ricoh CX4",
     "candidate_source_url": "https://camera-wiki.org/wiki/Ricoh_CX4",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "ricoh_pentax_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "ricoh_cx5",
@@ -42032,13 +42036,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Ricoh/Pentax compact catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Ricoh",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "ricoh_pentax_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "ricoh_cx6",
@@ -42057,13 +42061,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Ricoh/Pentax compact catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Ricoh",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "ricoh_pentax_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "ricoh_caplio_300g",
@@ -45864,23 +45868,27 @@
     "model": "ST70",
     "display_name": "Samsung ST70",
     "aliases": [
-      "ST70"
+      "ST70",
+      "Samsung TL110"
     ],
     "regional_names": {
       "global": [
         "Samsung ST70"
+      ],
+      "research_aliases": [
+        "Samsung TL110"
       ]
     },
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Samsung catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "samsung_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "samsung_st700",

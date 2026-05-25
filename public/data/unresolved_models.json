@@ -6524,20 +6524,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "kodak_easyshare_z950",
-    "display_name": "Kodak EasyShare Z950",
-    "brand": "Kodak",
-    "series": "EasyShare Z",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Kodak catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Kodak"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "kodak_easyshare_z980",
     "display_name": "Kodak EasyShare Z980",
     "brand": "Kodak",
@@ -7678,21 +7664,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "nikon_coolpix_l100",
-    "display_name": "Nikon COOLPIX L100",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": 2009,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l100/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "nikon_coolpix_l11",
     "display_name": "Nikon COOLPIX L11",
     "brand": "Nikon",
@@ -7753,21 +7724,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "nikon_coolpix_l18",
-    "display_name": "Nikon COOLPIX L18",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": 2008,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l18/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "nikon_coolpix_l21",
     "display_name": "Nikon COOLPIX L21",
     "brand": "Nikon",
@@ -7824,21 +7780,6 @@
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Nikon_Coolpix",
       "https://nij.nikon.com/products/lineup/compact/l6/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_p100",
-    "display_name": "Nikon COOLPIX P100",
-    "brand": "Nikon",
-    "series": "COOLPIX P",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Nikon COOLPIX P100",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix_P100",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix_P100",
-      "https://nij.nikon.com/products/lineup/compact/p100/spec.html"
     ],
     "last_checked": "2026-05-24"
   },
@@ -7963,21 +7904,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "nikon_coolpix_s210",
-    "display_name": "Nikon COOLPIX S210",
-    "brand": "Nikon",
-    "series": "COOLPIX S",
-    "release_year": null,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/s210/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "nikon_coolpix_s220",
     "display_name": "Nikon COOLPIX S220",
     "brand": "Nikon",
@@ -8098,21 +8024,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "nikon_coolpix_s51",
-    "display_name": "Nikon COOLPIX S51",
-    "brand": "Nikon",
-    "series": "COOLPIX S",
-    "release_year": null,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/s51/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "nikon_coolpix_s510",
     "display_name": "Nikon COOLPIX S510",
     "brand": "Nikon",
@@ -8139,21 +8050,6 @@
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Nikon_Coolpix",
       "https://nij.nikon.com/products/lineup/compact/s52/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_s520",
-    "display_name": "Nikon COOLPIX S520",
-    "brand": "Nikon",
-    "series": "COOLPIX S",
-    "release_year": null,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/s520/spec.html"
     ],
     "last_checked": "2026-05-24"
   },
@@ -10549,90 +10445,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "ricoh_cx1",
-    "display_name": "Ricoh CX1",
-    "brand": "Ricoh",
-    "series": "CX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Ricoh CX1",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Ricoh_CX1",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Ricoh_CX1"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "ricoh_cx2",
-    "display_name": "Ricoh CX2",
-    "brand": "Ricoh",
-    "series": "CX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Ricoh CX2",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Ricoh_CX2",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Ricoh_CX2"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "ricoh_cx3",
-    "display_name": "Ricoh CX3",
-    "brand": "Ricoh",
-    "series": "CX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Ricoh CX3",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Ricoh_CX3",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Ricoh_CX3"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "ricoh_cx4",
-    "display_name": "Ricoh CX4",
-    "brand": "Ricoh",
-    "series": "CX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Ricoh CX4",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Ricoh_CX4",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Ricoh_CX4"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "ricoh_cx5",
-    "display_name": "Ricoh CX5",
-    "brand": "Ricoh",
-    "series": "CX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Ricoh/Pentax compact catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Ricoh",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Ricoh"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "ricoh_cx6",
-    "display_name": "Ricoh CX6",
-    "brand": "Ricoh",
-    "series": "CX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Ricoh/Pentax compact catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Ricoh",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Ricoh"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "ricoh_caplio_300g",
     "display_name": "Ricoh Caplio 300G",
     "brand": "Ricoh",
@@ -12525,20 +12337,6 @@
   {
     "camera_id": "samsung_st6500",
     "display_name": "Samsung ST6500",
-    "brand": "Samsung",
-    "series": "ST",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "samsung_st70",
-    "display_name": "Samsung ST70",
     "brand": "Samsung",
     "series": "ST",
     "release_year": null,
