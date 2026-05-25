@@ -29,11 +29,16 @@ casio_np_130,Casio,NP-130,[],lithium-ion,,1800,Casio FAQ lists rated capacity 18
 casio_np_130a,Casio,NP-130A,[],lithium-ion,,1800,Casio FAQ lists rated capacity 1800 mAh.
 casio_np_160,Casio,NP-160,[],lithium-ion,,1200,Added from reviewed Phase 10 targeted manual evidence.
 casio_np_40,Casio,NP-40,[],lithium-ion,,,Added from reviewed Phase 10 targeted manual evidence.
+casio_np_60,Casio,NP-60,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
+casio_np_70,Casio,NP-70,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
+casio_np_80,Casio,NP-80,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
 casio_np_90,Casio,NP-90,[],lithium-ion,3.7,1950,Added from reviewed Phase 10 targeted manual evidence.
 fujifilm_np_120,Fujifilm,NP-120,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 fujifilm_np_140,Fujifilm,NP-140,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 fujifilm_np_40,Fujifilm,NP-40,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
+fujifilm_np_40n,Fujifilm,NP-40N,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
 fujifilm_np_45,Fujifilm,NP-45,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
+fujifilm_np_45a,Fujifilm,NP-45A,[],lithium-ion,3.7,720,Added from reviewed direct-agent research evidence.
 fujifilm_np_45s,Fujifilm,NP-45S,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 fujifilm_np_50,Fujifilm,NP-50,[],lithium-ion,3.6,,Voltage confirmed in FinePix REAL 3D W3 manual snippet.
 fujifilm_np_70,Fujifilm,NP-70,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
@@ -43,10 +48,12 @@ fujifilm_np_w126s,Fujifilm,NP-W126S,[],lithium-ion,7.2,1260,Fujifilm X100VI manu
 generic_2cr5,Generic,2CR5,"[""2CR5 lithium""]",lithium,,,Special camera lithium battery format; voltage/capacity intentionally left blank until source-backed.
 generic_aa,Generic,AA,"[""LR6"", ""HR6"", ""AA alkaline"", ""AA NiMH"", ""AA lithium"", ""AA cell""]",varies,,,Generic AA cell; chemistry and voltage depend on cell type.
 generic_aaa,Generic,AAA,"[""LR03"", ""HR03"", ""AAA alkaline"", ""AAA NiMH"", ""AAA lithium"", ""AAA cell""]",varies,,,Generic AAA cell; chemistry and voltage depend on cell type.
+generic_built_in_battery,Generic,Built-in battery,"[""Integrated rechargeable battery""]",lithium-ion,,,Added from reviewed direct-agent research evidence.
 generic_cr123a,Generic,CR123A,[],lithium,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 generic_cr_v3,Generic,CR-V3,"[""CR3V"", ""CR-3V""]",lithium,,,Special camera lithium battery format; not interchangeable with AA unless source says camera supports both.
 kodak_klic_7003,Kodak,KLIC-7003,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
 kodak_klic_7006,Kodak,KLIC-7006,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
+kodak_klic_8000,Kodak,KLIC-8000,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
 kodak_lb_012,Kodak PIXPRO,LB-012,[],lithium-ion,3.7,700,Kodak PIXPRO FZ55 spec sheet lists 3.7 V / 700 mAh.
 kodak_lb_060,Kodak PIXPRO,LB-060,[],lithium-ion,3.7,1100,Kodak PIXPRO AZ528 page lists 3.7 V / 1100 mAh.
 konica_minolta_np_1,Konica Minolta,NP-1,[],lithium-ion,3.7,,Third-party manual mirror snippet lists 3.7 V.
@@ -58,10 +65,12 @@ leica_bp_scl6,Leica,BP-SCL6,[],lithium-ion,7.2,2200,Leica Q3 store/technical dat
 minolta_np_400,Minolta,NP-400,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 nikon_en_el1,Nikon,EN-EL1,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 nikon_en_el10,Nikon,EN-EL10,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
+nikon_en_el11,Nikon,EN-EL11,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
 nikon_en_el11_builtin,Nikon,EN-EL11 built-in,"[""EN-EL11""]",lithium-ion,,,Built into Nikon COOLPIX S01; non-removable per Nikon USA.
 nikon_en_el12,Nikon,EN-EL12,[],lithium-ion,3.7,1050,Capacity/voltage from Nikon EN-EL12 battery overview source.
 nikon_en_el14,Nikon,EN-EL14,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 nikon_en_el19,Nikon,EN-EL19,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
+nikon_en_el2,Nikon,EN-EL2,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
 nikon_en_el20,Nikon,EN-EL20,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 nikon_en_el20a,Nikon,EN-EL20a,[],lithium-ion,,,Nikon FAQ states EN-EL20 is not usable in P1000/P950/P1100.
 nikon_en_el23,Nikon,EN-EL23,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
@@ -113,6 +122,7 @@ ricoh_db_70,Ricoh,DB-70,[],lithium-ion,,,Added from reviewed direct-agent resear
 samsung_bp70a,Samsung,BP70A,"[""BP-70A""]",lithium-ion,3.7,700,Samsung manual sources list 700 mAh or min 700 mAh depending model.
 samsung_bp88a,Samsung,BP88A,[],lithium-ion,3.7,880,Added from reviewed LLM-assisted research evidence with a recorded source.
 samsung_bp_1410,Samsung,BP-1410,"[""BP1410""]",lithium-ion,,,
+samsung_slb_07,Samsung,SLB-07,[],lithium-ion,,760,Added from reviewed direct-agent research evidence.
 samsung_slb_10a,Samsung,SLB-10A,[],lithium-ion,3.7,1050,Added from reviewed Phase 10 targeted manual evidence.
 samsung_slb_11a,Samsung,SLB-11A,[],lithium-ion,3.8,1130,Added from reviewed LLM-assisted research evidence with a recorded source.
 sigma_bp_31,Sigma,BP-31,[],lithium-ion,3.7,1300,B&H source lists 3.7 V / 1300 mAh.

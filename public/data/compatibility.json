@@ -4524,6 +4524,30 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "casio_exilim_ex_fc150",
+    "battery_id": "casio_np_40",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-FC150 manual: Unpacking: Digital camera; Rechargeable lithium ion battery (NP-40).",
+    "source_name": "Casio EX-FC150 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-fc150",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_fc200s",
+    "battery_id": "casio_np_110",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-FC200S manual: Unpacking: Digital camera; Rechargeable lithium ion battery (NP-110).",
+    "source_name": "Casio EX-FC200S User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-fc200s",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "casio_exilim_ex_fh100",
     "battery_id": "casio_np_90",
     "status": "fully_compatible",
@@ -4533,6 +4557,42 @@
     "source_url": "https://support.casio.com/pdf/001/EXFH100_M29_FB_100311_E.pdf",
     "source_type": "official_manual",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_fh20",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "Casio EX-FH20 manual: Use one of the following battery types: Four AA-size alkaline batteries: LR6; Four AA-size rechargeable Ni-MH batteries: HR6.",
+    "source_name": "Casio EX-FH20 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-fh20",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_fs10",
+    "battery_id": "casio_np_60",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-FS10 manual: Unpacking: Digital camera; Rechargeable lithium ion battery (NP-60).",
+    "source_name": "Casio EX-FS10 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-fs10",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_g1",
+    "battery_id": "casio_np_80",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-G1 manual: Unpacking: Digital camera; Rechargeable lithium ion battery (NP-80).",
+    "source_name": "Casio EX-G1 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-g1",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -4569,6 +4629,186 @@
     "source_url": "https://www.casio.com/jp/digital-cameras/options/product.NP-130A/",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_h5",
+    "battery_id": "casio_np_80",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-H5 manual: Unpacking: Digital camera; Rechargeable lithium ion battery (NP-80).",
+    "source_name": "Casio EX-H5 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-h5",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_h50",
+    "battery_id": "casio_np_80",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-H50 manual: Accessories: Rechargeable lithium ion battery (NP-80).",
+    "source_name": "Casio EX-H50 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-h50",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_z100",
+    "battery_id": "casio_np_40",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-Z100 manual: Unpacking: Digital camera; Rechargeable lithium ion battery (NP-40).",
+    "source_name": "Casio EX-Z100 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-z100",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_z1000",
+    "battery_id": "casio_np_40",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-Z1000 manual: Digital Camera; Rechargeable Lithium Ion Battery (NP-40).",
+    "source_name": "Casio EX-Z1000 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-z1000",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_z1050",
+    "battery_id": "casio_np_40",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-Z1050 manual: Digital Camera; Rechargeable Lithium Ion Battery (NP-40).",
+    "source_name": "Casio EX-Z1050 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-z1050",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_z1080",
+    "battery_id": "casio_np_40",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-Z1080 manual: Digital Camera; Rechargeable Lithium Ion Battery (NP-40).",
+    "source_name": "Casio EX-Z1080 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-z1080",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_z1200",
+    "battery_id": "casio_np_40",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-Z1200 manual: Digital Camera; Rechargeable Lithium Ion Battery (NP-40).",
+    "source_name": "Casio EX-Z1200 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-z1200",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_z150",
+    "battery_id": "casio_np_70",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-Z150 manual: Unpacking: Digital camera; Rechargeable lithium ion battery (NP-70).",
+    "source_name": "Casio EX-Z150 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-z150",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_z200",
+    "battery_id": "casio_np_40",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-Z200 manual: Unpacking: Digital camera; Rechargeable lithium ion battery (NP-40).",
+    "source_name": "Casio EX-Z200 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-z200",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_z2000",
+    "battery_id": "casio_np_110",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-Z2000 manual: Unpacking: Digital camera; Rechargeable lithium ion battery (NP-110).",
+    "source_name": "Casio EX-Z2000 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-z2000",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_z2300",
+    "battery_id": "casio_np_110",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-Z2300 manual: Unpacking: Digital camera; Rechargeable lithium ion battery (NP-110).",
+    "source_name": "Casio EX-Z2300 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-z2300",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_z250",
+    "battery_id": "casio_np_70",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-Z250 manual: Unpacking: Digital camera; Rechargeable lithium ion battery (NP-70).",
+    "source_name": "Casio EX-Z250 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-z250",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_z270",
+    "battery_id": "casio_np_80",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-Z270 manual: Unpacking: Digital camera; Rechargeable lithium ion battery (NP-80).",
+    "source_name": "Casio EX-Z270 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-z270",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_z280",
+    "battery_id": "casio_np_80",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-Z280 manual: Unpacking: Digital camera; Rechargeable lithium ion battery (NP-80).",
+    "source_name": "Casio EX-Z280 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-z280",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_z300",
+    "battery_id": "casio_np_40",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Casio EX-Z300 manual: Unpacking: Digital camera; Rechargeable lithium ion battery (NP-40).",
+    "source_name": "Casio EX-Z300 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/casio/ex-z300",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -4800,6 +5040,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "fujifilm_finepix_a200",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "Fujifilm FinePix A200 manual: Compatible batteries: Use two AA-size alkaline batteries or two AA-size nickel-metal hydride batteries.",
+    "source_name": "Fujifilm FinePix A200 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/fujifilm/finepix-a200",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "fujifilm_finepix_a201",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -4810,6 +5062,18 @@
     "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a205",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "Fujifilm FinePix A205 manual: Power supply: 2 x AA-size alkaline batteries or 2 x AA-size Ni-MH batteries.",
+    "source_name": "Fujifilm FinePix A205 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/fujifilm/finepix-a205",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "fujifilm_finepix_f10",
@@ -4833,6 +5097,18 @@
     "source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_f20",
+    "battery_id": "fujifilm_np_70",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Fujifilm FinePix F20 manual: Compatible battery: Rechargeable Battery NP-70 (1).",
+    "source_name": "Fujifilm FinePix F20 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/fujifilm/finepix-f20",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -4908,6 +5184,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "fujifilm_finepix_f470",
+    "battery_id": "fujifilm_np_40n",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Fujifilm FinePix F470 manual: Compatible battery: Rechargeable Battery NP-40N (1).",
+    "source_name": "Fujifilm FinePix F470 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/fujifilm/finepix-f470",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "fujifilm_finepix_f47fd",
     "battery_id": "fujifilm_np_70",
     "status": "fully_compatible",
@@ -4918,6 +5206,18 @@
     "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "fujifilm_finepix_f480",
+    "battery_id": "fujifilm_np_40n",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Fujifilm FinePix F480 manual: Compatible battery: Rechargeable Battery NP-40N (1).",
+    "source_name": "Fujifilm FinePix F480 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/fujifilm/finepix-f480",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "fujifilm_finepix_f500exr",
@@ -5700,6 +6000,30 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "fujifilm_finepix_s1500",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "Fujifilm FinePix S1500 manual: The camera takes four AA alkaline, lithium, or rechargeable Ni-MH batteries.",
+    "source_name": "Fujifilm FinePix S1500 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/fujifilm/finepix-s1500",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s1600",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "Fujifilm FinePix S1600 manual: The camera takes four AA alkaline, lithium, or rechargeable Ni-MH batteries.",
+    "source_name": "Fujifilm FinePix S1600 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/fujifilm/finepix-s1600",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "fujifilm_finepix_s200exr",
     "battery_id": "fujifilm_np_140",
     "status": "fully_compatible",
@@ -6252,6 +6576,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "fujifilm_finepix_z1000exr",
+    "battery_id": "fujifilm_np_45a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Fujifilm FinePix Z1000EXR manual: Power supply: NP-45A rechargeable battery.",
+    "source_name": "Fujifilm FinePix Z1000EXR User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/fujifilm/finepix-z1000exr",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "fujifilm_finepix_z100fd",
     "battery_id": "fujifilm_np_45s",
     "status": "fully_compatible",
@@ -6309,6 +6645,18 @@
     "source_url": "https://www.fujifilm-x.com/global/products/accessories/np-45s/",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_z110",
+    "battery_id": "fujifilm_np_45a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Fujifilm FinePix Z110 manual: NP-45A rechargeable battery; Nominal voltage DC 3.7 V; Nominal capacity 720 mAh.",
+    "source_name": "Fujifilm FinePix Z110 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/fujifilm/finepix-z110",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -6417,6 +6765,18 @@
     "source_url": "https://www.fujifilm-x.com/global/products/accessories/np-45s/",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_z31",
+    "battery_id": "fujifilm_np_45a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Fujifilm FinePix Z31 manual: The only types of batteries you can use are NP-45A.",
+    "source_name": "Fujifilm FinePix Z31 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/fujifilm/finepix-z31",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -7224,6 +7584,114 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "kodak_easyshare_z1012_is",
+    "battery_id": "kodak_klic_8000",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Kodak EasyShare Z1012 IS manual: Loading the battery: Kodak Li-Ion rechargeable digital camera battery KLIC-8000 (rechargeable).",
+    "source_name": "Kodak EasyShare Z1012 IS User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/kodak/easyshare-z1012-is",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_z1015_is",
+    "battery_id": "kodak_klic_8000",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Kodak EasyShare Z1015 IS manual: Loading the battery: Kodak Li-Ion rechargeable digital camera battery KLIC-8000 (rechargeable).",
+    "source_name": "Kodak EasyShare Z1015 IS User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/kodak/easyshare-z1015-is",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_z1085_is",
+    "battery_id": "kodak_klic_8000",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Kodak EasyShare Z1085 IS manual: Loading the battery: Kodak Li-Ion rechargeable digital camera battery KLIC-8000 (rechargeable).",
+    "source_name": "Kodak EasyShare Z1085 IS User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/kodak/easyshare-z1085-is",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_z1275",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "Kodak EASYSHARE Z1275 manual: Loading the battery: 2 AA (rechargeable or non-rechargeable).",
+    "source_name": "Kodak EasyShare Z1275 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/kodak/easyshare-z1275",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_z612",
+    "battery_id": "kodak_klic_8000",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Kodak EasyShare Z612 manual: We recommend using only a Kodak Li-Ion rechargeable digital camera battery KLIC-8000 or Kodak lithium digital camera battery CRV3.",
+    "source_name": "Kodak EasyShare Z612 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/kodak/easyshare-z612",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_z650",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "Kodak EasyShare Z650 manual: Loading the battery: 2 AA lithium or Ni-MH batteries.",
+    "source_name": "Kodak EasyShare Z650 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/kodak/easyshare-z650",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_z700",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "Kodak EasyShare Z700 manual: Power: 2-AA lithium; 2-AA Ni-MH; CRV3.",
+    "source_name": "Kodak EasyShare Z700 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/kodak/easyshare-z700",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_z710",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "Kodak EASYSHARE Z710 manual: Loading the battery: 2 AA lithium or Ni-MH batteries.",
+    "source_name": "Kodak EasyShare Z710 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/kodak/easyshare-z710",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_z812_is",
+    "battery_id": "kodak_klic_8000",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Kodak EASYSHARE Z812 IS manual: Loading the battery: Kodak Li-Ion rechargeable digital camera battery KLIC-8000.",
+    "source_name": "Kodak EasyShare Z812 IS User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/kodak/easyshare-z812-is",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "kodak_easyshare_z950",
     "battery_id": "kodak_klic_7003",
     "status": "fully_compatible",
@@ -7452,6 +7920,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "nikon_coolpix_2500",
+    "battery_id": "nikon_en_el2",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX 2500 manual: Your camera is powered by a rechargeable Nikon EN-EL2 lithium-ion battery.",
+    "source_name": "Nikon COOLPIX 2500 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/nikon/coolpix-2500",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "nikon_coolpix_3100",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -7581,6 +8061,18 @@
     "source_url": "https://www.nikonusa.com/pdf/manuals/coolpix/4600_5600_en.pdf",
     "source_type": "official_manual",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "nikon_coolpix_5700",
+    "battery_id": "nikon_en_el1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX 5700 manual: Your camera is powered by a single rechargeable Nikon EN-EL1 lithium-ion battery or a non-rechargeable 2CR5 lithium battery.",
+    "source_name": "Nikon COOLPIX 5700 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/nikon/coolpix-5700",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -8136,6 +8628,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "nikon_coolpix_l5",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "Nikon COOLPIX L5 manual: Inserting Batteries: The camera uses two AA batteries.",
+    "source_name": "Nikon COOLPIX L5 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/nikon/coolpix-l5",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "nikon_coolpix_l610",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -8314,6 +8818,18 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "nikon_coolpix_p4",
+    "battery_id": "nikon_en_el5",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX P4 manual: Compatible battery: Nikon Li-ion Rechargeable Battery EN-EL5.",
+    "source_name": "Nikon COOLPIX P4 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/nikon/coolpix-p4",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "nikon_coolpix_p500",
@@ -8508,6 +9024,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "nikon_coolpix_s02",
+    "battery_id": "generic_built_in_battery",
+    "status": "built_in_battery",
+    "quantity_required": null,
+    "note": "Nikon COOLPIX S02 official specification: Power source: built-in rechargeable lithium-ion battery.",
+    "source_name": "Nikon COOLPIX S02 Official Specifications",
+    "source_url": "https://nij.nikon.com/products/lineup/compact/s02/spec.html",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "nikon_coolpix_s1",
     "battery_id": "nikon_en_el8",
     "status": "fully_compatible",
@@ -8568,6 +9096,42 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "nikon_coolpix_s230",
+    "battery_id": "nikon_en_el10",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX S230 manual: The camera uses a Rechargeable Li-ion Battery EN-EL10 (supplied).",
+    "source_name": "Nikon COOLPIX S230 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/nikon/coolpix-s230",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "nikon_coolpix_s2600",
+    "battery_id": "nikon_en_el19",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX S2600 manual: Insert the supplied Rechargeable Li-ion Battery EN-EL19.",
+    "source_name": "Nikon COOLPIX S2600 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/nikon/coolpix-s2600",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "nikon_coolpix_s2700",
+    "battery_id": "nikon_en_el19",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX S2700 manual: Insert the supplied Rechargeable Li-ion Battery EN-EL19.",
+    "source_name": "Nikon COOLPIX S2700 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/nikon/coolpix-s2700",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "nikon_coolpix_s30",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -8578,6 +9142,18 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "nikon_coolpix_s3000",
+    "battery_id": "nikon_en_el10",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX S3000 manual: Insert the Rechargeable Li-ion Battery EN-EL10 (supplied) into the camera.",
+    "source_name": "Nikon COOLPIX S3000 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/nikon/coolpix-s3000",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "nikon_coolpix_s31",
@@ -8676,6 +9252,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "nikon_coolpix_s4100",
+    "battery_id": "nikon_en_el19",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX S4100 manual: Insert a Rechargeable Li-ion Battery EN-EL19 (supplied) into the camera.",
+    "source_name": "Nikon COOLPIX S4100 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/nikon/coolpix-s4100",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "nikon_coolpix_s4300",
     "battery_id": "nikon_en_el19",
     "status": "fully_compatible",
@@ -8736,6 +9324,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "nikon_coolpix_s510",
+    "battery_id": "nikon_en_el10",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX S510 manual: The camera uses a Rechargeable Li-ion Battery EN-EL10 (supplied).",
+    "source_name": "Nikon COOLPIX S510 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/nikon/coolpix-s510",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "nikon_coolpix_s5100",
     "battery_id": "nikon_en_el10",
     "status": "fully_compatible",
@@ -8746,6 +9346,18 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "nikon_coolpix_s52",
+    "battery_id": "nikon_en_el8",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX S52 manual: The camera uses a rechargeable lithium-ion battery EN-EL8 (supplied).",
+    "source_name": "Nikon COOLPIX S52 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/nikon/coolpix-s52",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "nikon_coolpix_s520",
@@ -8772,6 +9384,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "nikon_coolpix_s550",
+    "battery_id": "nikon_en_el11",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX S550 manual: The camera uses a Rechargeable Li-ion Battery EN-EL11 (supplied).",
+    "source_name": "Nikon COOLPIX S550 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/nikon/coolpix-s550",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "nikon_coolpix_s6",
     "battery_id": "nikon_en_el8",
     "status": "fully_compatible",
@@ -8782,6 +9406,18 @@
     "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "nikon_coolpix_s600",
+    "battery_id": "nikon_en_el10",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX S600 manual: The camera uses a Rechargeable Li-ion Battery EN-EL10 (supplied).",
+    "source_name": "Nikon COOLPIX S600 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/nikon/coolpix-s600",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "nikon_coolpix_s6000",
@@ -8866,6 +9502,18 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "nikon_coolpix_s640",
+    "battery_id": "nikon_en_el12",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon COOLPIX S640 manual: Insert a Rechargeable Li-ion Battery EN-EL12 (supplied) into the camera.",
+    "source_name": "Nikon COOLPIX S640 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/nikon/coolpix-s640",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "nikon_coolpix_s6500",
@@ -9813,6 +10461,18 @@
     "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_c_160",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "Olympus C-160 manual: Loading batteries: Use one CR-V3 lithium battery pack, or two AA (R6) NiMH batteries or alkaline batteries.",
+    "source_name": "Olympus C-160 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/olympus/c-160",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -14688,6 +15348,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "samsung_st100",
+    "battery_id": "samsung_bp70a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Samsung ST100 manual: Power source: Rechargeable battery: Lithium-ion battery (BP-70A, 740 mAh).",
+    "source_name": "Samsung ST100 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/samsung/st100",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "samsung_st150f",
     "battery_id": "samsung_bp70a",
     "status": "fully_compatible",
@@ -14707,6 +15379,42 @@
     "note": "Samsung ST30 specifications. Power source: Rechargeable battery: BP70A, 740mAh.",
     "source_name": "Samsung ST30 Manual (ManualsLib mirror)",
     "source_url": "https://www.manualslib.com/manual/210057/Samsung-St30.html?page=94",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "samsung_st5000",
+    "battery_id": "samsung_slb_11a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Samsung ST5000 manual: Power source: Rechargeable battery: Lithium-ion battery (SLB-11A, 1130 mAh).",
+    "source_name": "Samsung ST5000 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/samsung/st5000",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "samsung_st5500",
+    "battery_id": "samsung_slb_11a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Samsung ST5500 manual: Power source: Rechargeable battery: Lithium-ion battery (SLB-11A, 1130 mAh).",
+    "source_name": "Samsung ST5500 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/samsung/st5500",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "samsung_st600",
+    "battery_id": "samsung_slb_07",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Samsung ST600 manual: Power source: Rechargeable battery: Lithium-ion battery (SLB-07, 760mAh).",
+    "source_name": "Samsung ST600 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/samsung/st600",
     "source_type": "manual_mirror",
     "confidence": "medium",
     "last_verified": "2026-05-25"
@@ -14736,6 +15444,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "samsung_st80",
+    "battery_id": "samsung_bp70a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Samsung ST80 manual: Power source: Rechargeable battery: Lithium-ion battery (BP-70A, 740 mAh).",
+    "source_name": "Samsung ST80 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/samsung/st80",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "samsung_st90",
     "battery_id": "samsung_bp70a",
     "status": "fully_compatible",
@@ -14743,6 +15463,18 @@
     "note": "Samsung ST90 specifications. Power source: Rechargeable battery: BP70A, 740mAh.",
     "source_name": "Samsung ST90 Manual (ManualsLib mirror)",
     "source_url": "https://www.manualslib.com/manual/147297/Samsung-St90.html?page=98",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "samsung_st93",
+    "battery_id": "samsung_bp70a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Samsung ST93 manual: Power source: Rechargeable battery: Lithium-ion battery BP70A (740 mAh, Minimum 700 mAh).",
+    "source_name": "Samsung ST93 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/samsung/st93",
     "source_type": "manual_mirror",
     "confidence": "medium",
     "last_verified": "2026-05-25"
@@ -14767,6 +15499,18 @@
     "note": "Samsung WB1000 User Manual: Power source - Rechargeable battery: Lithium-ion battery (SLB-11A, 1,130 mAh). Battery specifications: Mode SLB-11A, Type Lithium-ion battery, Cell capacity 1,130 mAh, Voltage 3.8 V.",
     "source_name": "Samsung WB1000 User Manual text mirror",
     "source_url": "https://manualzz.com/doc/49237037/samsung-wb1000-user-manual",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "samsung_wb2000",
+    "battery_id": "samsung_slb_11a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Samsung WB2000 manual: Battery specifications: Mode SLB-11A; Type Lithium-ion battery; Cell capacity 1,130 mAh; Voltage 3.8 V.",
+    "source_name": "Samsung WB2000 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/samsung/wb2000",
     "source_type": "manual_mirror",
     "confidence": "medium",
     "last_verified": "2026-05-25"
@@ -14827,6 +15571,18 @@
     "note": "Samsung WB650 specifications. Power source: Rechargeable battery: SLB-11A, 3.8V (1,130 mAh).",
     "source_name": "Samsung WB650 Manual (ManualsLib mirror)",
     "source_url": "https://www.manualslib.com/manual/261662/Samsung-Wb650.html?page=110",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "samsung_wb750",
+    "battery_id": "samsung_slb_10a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Samsung WB750 manual: Power source: Rechargeable battery: Lithium-ion battery (SLB-10A, 1050 mAh).",
+    "source_name": "Samsung WB750 User Manual mirror",
+    "source_url": "https://safe-manuals.com/user-manual/samsung/wb750",
     "source_type": "manual_mirror",
     "confidence": "medium",
     "last_verified": "2026-05-25"

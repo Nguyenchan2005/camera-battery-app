@@ -32,19 +32,22 @@ SUGGESTIONS_PATH = DATA_DIR / "battery_suggestions.json"
 STATE_PATH = REPORT_DIR / "direct_agent_research_state.json"
 DRY_RUN_REPORT = REPORT_DIR / "direct_agent_research_candidates.md"
 APPLY_REPORT = REPORT_DIR / "direct_agent_research_applied.md"
+PHASE12_REPORT = REPORT_DIR / "phase12_direct_research_100_summary.md"
+PHASE12_STATE = REPORT_DIR / "phase12_direct_research_state.json"
 
 HIGH_SOURCE_TYPES = {"official_manual", "official_accessory_page"}
 MEDIUM_SOURCE_TYPES = {"manual_mirror", "trusted_database"}
 SUGGESTION_SOURCE_TYPES = {"retailer", "third_party_chart"}
 WARNING = "Not verified official compatibility; do not treat this suggestion as a confirmed compatible battery."
 
-BRAND_QUOTAS = [("Kodak", 20), ("Casio", 20), ("Samsung", 20), ("Nikon", 20), ("Sony", 10)]
-OTHER_BRANDS = ["Fujifilm", "Panasonic", "Olympus", "Pentax", "Ricoh", "HP"]
+BRAND_QUOTAS = [("Kodak", 20), ("Casio", 20), ("Samsung", 20), ("Nikon", 15), ("Fujifilm", 10)]
+OTHER_BRANDS = ["Pentax", "Ricoh", "HP", "Olympus", "Panasonic", "Sony"]
 POPULAR_TERMS = {
-    "Kodak": ["easyshare c", "easyshare m", "easyshare z"],
-    "Casio": ["ex-zr", "ex-z", "ex-h", "ex-fc", "ex-tr"],
+    "Kodak": ["easyshare z", "easyshare m", "easyshare c"],
+    "Casio": ["ex-zr", "ex-h", "ex-fc", "ex-z", "ex-s", "ex-tr"],
     "Samsung": ["wb", "st", "pl", "dv", "es", "digimax"],
-    "Nikon": ["coolpix l", "coolpix s", "coolpix p", "coolpix aw", "coolpix w"],
+    "Nikon": ["coolpix p", "coolpix s", "coolpix l", "coolpix aw", "coolpix w"],
+    "Fujifilm": ["finepix f", "finepix z", "finepix xp", "finepix s", "finepix a"],
     "Sony": ["dsc-wx", "dsc-hx", "dsc-w", "dsc-h", "dsc-t"],
 }
 INITIAL_TEST_IDS = [
@@ -96,6 +99,8 @@ def state_counts(ctx: ImportContext, suggestions: list[dict[str, Any]]) -> dict[
 
 def candidate_terms(candidate: dict[str, Any], extra: list[str] | None = None) -> list[str]:
     terms = [candidate["display_name"], candidate["model"], *candidate.get("aliases", []), *(extra or [])]
+    if candidate.get("brand") == "Casio" and candidate.get("model", "").casefold().startswith("exilim "):
+        terms.append(candidate["model"][len("Exilim "):])
     for values in (candidate.get("regional_names") or {}).values():
         terms.extend(values)
     return dedupe_aliases([value for value in terms if value])
@@ -156,13 +161,25 @@ def policy_action(evidence: dict[str, Any]) -> tuple[str, str, str]:
 def preferred(candidate: dict[str, Any], evidence_ids: set[str]) -> tuple[int, int, str]:
     name = normalize_for_match(f"{candidate.get('series', '')} {candidate.get('model', '')}")
     tokens = POPULAR_TERMS.get(candidate["brand"], [])
-    popularity = 0 if any(token in name for token in tokens) else 1
+    popularity = next((position for position, token in enumerate(tokens) if token in name), len(tokens))
     return (0 if candidate["camera_id"] in evidence_ids else 1, popularity, candidate["display_name"])
 
 
-def balanced_queue(ctx: ImportContext, limit: int, evidence_ids: set[str]) -> list[dict[str, Any]]:
+def eligible_unresolved(ctx: ImportContext) -> list[dict[str, Any]]:
     candidates = {row["camera_id"]: row for row in ctx.candidates}
-    unresolved = [candidates[row["camera_id"]] for row in ctx.unresolved if row["camera_id"] in candidates]
+    verified_ids = {row["camera_id"] for row in ctx.cameras}
+    compatible_ids = {row["camera_id"] for row in ctx.compatibility}
+    return [
+        candidates[row["camera_id"]]
+        for row in ctx.unresolved
+        if row["camera_id"] in candidates
+        and row["camera_id"] not in verified_ids
+        and row["camera_id"] not in compatible_ids
+    ]
+
+
+def balanced_queue(ctx: ImportContext, limit: int, evidence_ids: set[str]) -> list[dict[str, Any]]:
+    unresolved = eligible_unresolved(ctx)
     selected: list[dict[str, Any]] = []
     selected_ids: set[str] = set()
 
@@ -174,7 +191,7 @@ def balanced_queue(ctx: ImportContext, limit: int, evidence_ids: set[str]) -> li
 
     for brand, quota in BRAND_QUOTAS:
         add([row for row in unresolved if row["brand"] == brand], quota)
-    other_target = 10
+    other_target = 15
     reviewed_other = sorted(
         [row for row in unresolved if row["brand"] in OTHER_BRANDS and row["camera_id"] in evidence_ids],
         key=lambda item: preferred(item, evidence_ids),
@@ -322,7 +339,17 @@ def evaluate(
         "status": status,
         "reason": reason,
     }
-    if not apply or action == "remain_unresolved" or existing:
+    if not apply or existing:
+        return result
+
+    if action == "remain_unresolved":
+        unresolved = next((row for row in ctx.unresolved if row["camera_id"] == candidate["camera_id"]), None)
+        if unresolved and validate_url(evidence.get("source_url", "")):
+            unresolved["reason"] = evidence.get("notes") or "Direct research attempted; no exact battery evidence found."
+            unresolved["checked_source_urls"] = dedupe_aliases(
+                [*unresolved.get("checked_source_urls", []), evidence["source_url"]]
+            )
+            unresolved["last_checked"] = ctx.today
         return result
 
     if action == "promote_verified":
@@ -474,6 +501,106 @@ def write_report(
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def write_phase12_summary(
+    path: Path,
+    mode: str,
+    selected: list[dict[str, Any]],
+    results: list[dict[str, Any]],
+    ctx: ImportContext,
+    before: dict[str, int],
+    after: dict[str, int],
+    already_verified_selected_count: int,
+) -> None:
+    result_by_id = {row["camera_id"]: row for row in results}
+    researched = [row for row in selected if row["camera_id"] in result_by_id]
+    promoted = [row for row in results if row["status"] in {"would_promote", "promoted"}]
+    suggestions = [row for row in results if row["status"] in {"would_suggest", "suggested"}]
+    failed = [row for row in results if row["decision"] == "remain_unresolved"]
+    skipped = [row for row in selected if row["camera_id"] not in result_by_id]
+    source_breakdown = Counter(row["source_type"] for row in results if row.get("source_type"))
+    verified_by_brand = Counter(row["brand"] for row in promoted)
+    failed_by_brand = Counter(row["brand"] for row in failed)
+    lines = [
+        "# Phase 12 Direct Research - 100 Unresolved Cameras",
+        "",
+        f"Mode: {mode}",
+        f"Generated: {ctx.today}",
+        "",
+        "This batch is selected only from unresolved camera IDs that do not occur in verified cameras or compatibility rows. A queued row without reviewed evidence is not counted as researched and cannot alter data.",
+        "",
+        "## Progress",
+        "",
+        f"- selected_count: {len(selected)}",
+        f"- already_verified_selected_count: {already_verified_selected_count}",
+        f"- researched_count: {len(researched)}",
+        f"- promoted_count: {len(promoted)}",
+        f"- suggestion_count: {len(suggestions)}",
+        f"- still_unresolved_count: {len(selected) - len(promoted)}",
+        f"- skipped_count: {len(skipped)}",
+        "",
+        "## Coverage Delta",
+        "",
+        "| Metric | Before | After | Delta |",
+        "| --- | ---: | ---: | ---: |",
+    ]
+    for key in ["verified_cameras", "unresolved_models", "compatibility_rows", "batteries", "candidates", "suggestions"]:
+        lines.append(f"| {key} | {before[key]} | {after[key]} | {after[key] - before[key]} |")
+    lines.extend(["", "## Queue IDs", "", "```text"])
+    lines.extend(row["camera_id"] for row in selected)
+    lines.extend(["```", "", "## Source Type Breakdown", "", "| Source type | Rows |", "| --- | ---: |"])
+    for source_type, count in sorted(source_breakdown.items(), key=lambda item: (-item[1], item[0])):
+        lines.append(f"| {source_type} | {count} |")
+    lines.extend(["", "## Verified By Brand", "", "| Brand | Rows |", "| --- | ---: |"])
+    for brand, count in sorted(verified_by_brand.items(), key=lambda item: (-item[1], item[0])):
+        lines.append(f"| {brand} | {count} |")
+    lines.extend(["", "## Failed By Brand", "", "| Brand | Rows |", "| --- | ---: |"])
+    for brand, count in sorted(failed_by_brand.items(), key=lambda item: (-item[1], item[0])):
+        lines.append(f"| {brand} | {count} |")
+    if len(researched) < 100:
+        lines.extend(
+            [
+                "",
+                "## Research Coverage Gap",
+                "",
+                f"Only {len(researched)} of 100 selected rows currently have reviewed evidence JSON. "
+                "Remaining rows are queued for direct source review and are intentionally not promoted without battery text.",
+            ]
+        )
+    if len(promoted) < 30:
+        lines.extend(
+            [
+                "",
+                "## Promotion Gap",
+                "",
+                "Promotions are below 30 because unreviewed rows have no acceptable exact battery evidence yet; "
+                "they are not promoted from model similarity, charger-only pages, retailer-only results, or pages with no battery text.",
+            ]
+        )
+    lines.extend(
+        [
+            "",
+            "## Detail",
+            "",
+            "| Camera | Brand | Battery found | Source | Source text | Decision | Reason |",
+            "| --- | --- | --- | --- | --- | --- | --- |",
+        ]
+    )
+    for candidate in selected:
+        result = result_by_id.get(candidate["camera_id"])
+        if result:
+            lines.append(
+                f"| {cell(result['camera'])} | {cell(result['brand'])} | {cell(result['battery'])} | "
+                f"[{cell(result['source_name'])}]({result['source_url']}) | {cell(result['source_text'])} | "
+                f"{cell(result['decision'])} ({cell(result['status'])}) | {cell(result['reason'])} |"
+            )
+        else:
+            lines.append(
+                f"| {cell(candidate['display_name'])} | {cell(candidate['brand'])} |  |  |  | skipped | "
+                "No reviewed source record has been added; remains unresolved. |"
+            )
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
 def save_state(before: dict[str, int], after: dict[str, int], results: list[dict[str, Any]]) -> None:
     if STATE_PATH.exists():
         state = json.loads(STATE_PATH.read_text(encoding="utf-8"))
@@ -500,6 +627,8 @@ def execute(limit: int, query: str | None, apply: bool) -> dict[str, Any]:
     suggestions = load_array(SUGGESTIONS_PATH)
     evidence = evidence_by_id()
     before = state_counts(ctx, suggestions)
+    total_unresolved_queue_before = len(eligible_unresolved(ctx))
+    already_verified_selected_count = 0
     if query:
         candidate = resolve_one(ctx, query)
         if candidate is None:
@@ -507,6 +636,15 @@ def execute(limit: int, query: str | None, apply: bool) -> dict[str, Any]:
         selected = [candidate]
     else:
         selected = balanced_queue(ctx, limit, set(evidence))
+        verified_ids = {row["camera_id"] for row in ctx.cameras}
+        compatibility_ids = {row["camera_id"] for row in ctx.compatibility}
+        invalid = [
+            row["camera_id"] for row in selected
+            if row["camera_id"] in verified_ids or row["camera_id"] in compatibility_ids
+        ]
+        if invalid:
+            raise ValueError(f"Batch queue includes already verified/compatible camera IDs: {invalid}")
+        already_verified_selected_count = len(invalid)
     results = []
     for candidate in selected:
         for row in evidence.get(candidate["camera_id"], []):
@@ -524,9 +662,28 @@ def execute(limit: int, query: str | None, apply: bool) -> dict[str, Any]:
     REPORT_DIR.mkdir(exist_ok=True)
     output = APPLY_REPORT if apply else DRY_RUN_REPORT
     write_report(output, "apply" if apply else "dry-run", selected, results, ctx, evidence, before, after)
+    if not query:
+        write_phase12_summary(
+            PHASE12_REPORT,
+            "apply" if apply else "dry-run",
+            selected,
+            results,
+            ctx,
+            before,
+            after,
+            already_verified_selected_count,
+        )
     if apply:
         save_state(before, after, results)
-    return {"before": before, "after": after, "selected": selected, "results": results, "report": output}
+    return {
+        "before": before,
+        "after": after,
+        "selected": selected,
+        "results": results,
+        "report": PHASE12_REPORT if not query else output,
+        "total_unresolved_queue": total_unresolved_queue_before,
+        "already_verified_selected_count": already_verified_selected_count,
+    }
 
 
 def main() -> None:
@@ -541,6 +698,12 @@ def main() -> None:
     print(f"Mode: {'apply' if args.apply else 'dry-run'}")
     print(f"Scope: {args.one or f'balanced batch limit={args.limit}'}")
     print(f"Selected candidates: {len(outcome['selected'])}")
+    if not args.one:
+        print(f"Total unresolved queue: {outcome['total_unresolved_queue']}")
+        print(f"already_verified_in_queue: {outcome['already_verified_selected_count']}")
+        print("first_selected_camera_ids:")
+        for row in outcome["selected"]:
+            print(f"- {row['camera_id']}")
     for key, value in outcome["before"].items():
         print(f"{key}: {value} -> {outcome['after'][key]}")
     for result in outcome["results"]:

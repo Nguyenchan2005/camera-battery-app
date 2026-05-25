@@ -300,6 +300,36 @@
     "notes": "Added from reviewed Phase 10 targeted manual evidence."
   },
   {
+    "battery_id": "casio_np_60",
+    "brand": "Casio",
+    "model": "NP-60",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed direct-agent research evidence."
+  },
+  {
+    "battery_id": "casio_np_70",
+    "brand": "Casio",
+    "model": "NP-70",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed direct-agent research evidence."
+  },
+  {
+    "battery_id": "casio_np_80",
+    "brand": "Casio",
+    "model": "NP-80",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed direct-agent research evidence."
+  },
+  {
     "battery_id": "casio_np_90",
     "brand": "Casio",
     "model": "NP-90",
@@ -340,6 +370,16 @@
     "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
   },
   {
+    "battery_id": "fujifilm_np_40n",
+    "brand": "Fujifilm",
+    "model": "NP-40N",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed direct-agent research evidence."
+  },
+  {
     "battery_id": "fujifilm_np_45",
     "brand": "Fujifilm",
     "model": "NP-45",
@@ -348,6 +388,16 @@
     "voltage": null,
     "capacity_mah": null,
     "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
+    "battery_id": "fujifilm_np_45a",
+    "brand": "Fujifilm",
+    "model": "NP-45A",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 3.7,
+    "capacity_mah": 720,
+    "notes": "Added from reviewed direct-agent research evidence."
   },
   {
     "battery_id": "fujifilm_np_45s",
@@ -456,6 +506,18 @@
     "notes": "Generic AAA cell; chemistry and voltage depend on cell type."
   },
   {
+    "battery_id": "generic_built_in_battery",
+    "brand": "Generic",
+    "model": "Built-in battery",
+    "aliases": [
+      "Integrated rechargeable battery"
+    ],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed direct-agent research evidence."
+  },
+  {
     "battery_id": "generic_cr123a",
     "brand": "Generic",
     "model": "CR123A",
@@ -497,6 +559,16 @@
     "voltage": null,
     "capacity_mah": null,
     "notes": "Added by web-assisted verifier from an explicit source-backed battery mapping."
+  },
+  {
+    "battery_id": "kodak_klic_8000",
+    "brand": "Kodak",
+    "model": "KLIC-8000",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed direct-agent research evidence."
   },
   {
     "battery_id": "kodak_lb_012",
@@ -613,6 +685,16 @@
     "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
   },
   {
+    "battery_id": "nikon_en_el11",
+    "brand": "Nikon",
+    "model": "EN-EL11",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed direct-agent research evidence."
+  },
+  {
     "battery_id": "nikon_en_el11_builtin",
     "brand": "Nikon",
     "model": "EN-EL11 built-in",
@@ -653,6 +735,16 @@
     "voltage": null,
     "capacity_mah": null,
     "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "nikon_en_el2",
+    "brand": "Nikon",
+    "model": "EN-EL2",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed direct-agent research evidence."
   },
   {
     "battery_id": "nikon_en_el20",
@@ -1175,6 +1267,16 @@
     "voltage": null,
     "capacity_mah": null,
     "notes": ""
+  },
+  {
+    "battery_id": "samsung_slb_07",
+    "brand": "Samsung",
+    "model": "SLB-07",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": 760,
+    "notes": "Added from reviewed direct-agent research evidence."
   },
   {
     "battery_id": "samsung_slb_10a",

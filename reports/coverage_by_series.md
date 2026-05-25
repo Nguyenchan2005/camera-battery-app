@@ -23,9 +23,9 @@ Generated: 2026-05-25
 | Canon | PowerShot S | 19 | 19 | 19 | 0 | 0 |
 | Canon | PowerShot SX | 36 | 35 | 35 | 1 | 1 |
 | Casio | Exilim 1 | 2 | 2 | 2 | 0 | 2 |
-| Casio | Exilim F | 8 | 2 | 2 | 6 | 8 |
-| Casio | Exilim G | 1 | 0 | 0 | 1 | 1 |
-| Casio | Exilim H | 7 | 3 | 3 | 4 | 7 |
+| Casio | Exilim F | 8 | 6 | 2 | 2 | 8 |
+| Casio | Exilim G | 1 | 1 | 0 | 0 | 1 |
+| Casio | Exilim H | 7 | 5 | 3 | 2 | 7 |
 | Casio | Exilim High Speed | 4 | 4 | 4 | 0 | 2 |
 | Casio | Exilim J | 1 | 0 | 0 | 1 | 1 |
 | Casio | Exilim M | 4 | 0 | 0 | 4 | 4 |
@@ -34,22 +34,22 @@ Generated: 2026-05-25
 | Casio | Exilim S | 16 | 0 | 0 | 16 | 16 |
 | Casio | Exilim T | 9 | 0 | 0 | 9 | 9 |
 | Casio | Exilim V | 2 | 0 | 0 | 2 | 2 |
-| Casio | Exilim Z | 87 | 11 | 11 | 76 | 87 |
+| Casio | Exilim Z | 87 | 24 | 11 | 63 | 87 |
 | Casio | QV | 14 | 0 | 0 | 14 | 14 |
 | Fujifilm | FinePix | 26 | 26 | 26 | 0 | 26 |
-| Fujifilm | FinePix A | 23 | 3 | 2 | 20 | 23 |
+| Fujifilm | FinePix A | 23 | 5 | 2 | 18 | 23 |
 | Fujifilm | FinePix AV | 6 | 0 | 0 | 6 | 6 |
-| Fujifilm | FinePix F | 26 | 21 | 17 | 5 | 26 |
+| Fujifilm | FinePix F | 26 | 24 | 17 | 2 | 26 |
 | Fujifilm | FinePix HS | 4 | 2 | 2 | 2 | 4 |
 | Fujifilm | FinePix J | 12 | 7 | 7 | 5 | 12 |
 | Fujifilm | FinePix JX | 6 | 5 | 5 | 1 | 6 |
 | Fujifilm | FinePix JZ | 2 | 1 | 1 | 1 | 2 |
 | Fujifilm | FinePix REAL 3D | 2 | 1 | 1 | 1 | 2 |
-| Fujifilm | FinePix S | 46 | 10 | 2 | 36 | 46 |
+| Fujifilm | FinePix S | 46 | 12 | 2 | 34 | 46 |
 | Fujifilm | FinePix SL | 5 | 0 | 0 | 5 | 5 |
 | Fujifilm | FinePix T | 6 | 5 | 5 | 1 | 6 |
 | Fujifilm | FinePix XP | 14 | 14 | 14 | 0 | 14 |
-| Fujifilm | FinePix Z | 28 | 19 | 19 | 9 | 28 |
+| Fujifilm | FinePix Z | 28 | 22 | 19 | 6 | 28 |
 | Fujifilm | X | 1 | 1 | 1 | 0 | 1 |
 | Fujifilm | X compact | 15 | 15 | 15 | 0 | 15 |
 | Fujifilm | X100 | 5 | 4 | 4 | 1 | 5 |
@@ -69,7 +69,7 @@ Generated: 2026-05-25
 | Kodak | EasyShare P | 3 | 0 | 0 | 3 | 3 |
 | Kodak | EasyShare SLICE | 1 | 0 | 0 | 1 | 1 |
 | Kodak | EasyShare V | 13 | 0 | 0 | 13 | 13 |
-| Kodak | EasyShare Z | 24 | 1 | 0 | 23 | 24 |
+| Kodak | EasyShare Z | 24 | 10 | 0 | 14 | 24 |
 | Kodak | EasyShare ZD | 2 | 0 | 0 | 2 | 2 |
 | Kodak PIXPRO | Astro Zoom | 1 | 1 | 1 | 0 | 1 |
 | Kodak PIXPRO | Friendly Zoom | 1 | 1 | 1 | 0 | 1 |
@@ -97,10 +97,10 @@ Generated: 2026-05-25
 | Minolta | DiMAGE XI | 1 | 0 | 0 | 1 | 1 |
 | Minolta | DiMAGE XT | 1 | 0 | 0 | 1 | 1 |
 | Minolta | DiMAGE Z | 1 | 0 | 0 | 1 | 1 |
-| Nikon | COOLPIX 2 | 4 | 0 | 0 | 4 | 4 |
+| Nikon | COOLPIX 2 | 4 | 1 | 0 | 3 | 4 |
 | Nikon | COOLPIX 3 | 4 | 1 | 0 | 3 | 4 |
 | Nikon | COOLPIX 4 | 6 | 3 | 1 | 3 | 6 |
-| Nikon | COOLPIX 5 | 6 | 4 | 2 | 2 | 6 |
+| Nikon | COOLPIX 5 | 6 | 5 | 2 | 1 | 6 |
 | Nikon | COOLPIX 6 | 1 | 1 | 0 | 0 | 1 |
 | Nikon | COOLPIX 7 | 4 | 1 | 0 | 3 | 4 |
 | Nikon | COOLPIX 8 | 6 | 3 | 0 | 3 | 6 |
@@ -108,12 +108,12 @@ Generated: 2026-05-25
 | Nikon | COOLPIX A | 6 | 6 | 6 | 0 | 6 |
 | Nikon | COOLPIX AW | 4 | 4 | 4 | 0 | 4 |
 | Nikon | COOLPIX B | 3 | 3 | 3 | 0 | 3 |
-| Nikon | COOLPIX L | 37 | 27 | 27 | 10 | 37 |
-| Nikon | COOLPIX P | 29 | 23 | 23 | 6 | 29 |
-| Nikon | COOLPIX S | 70 | 47 | 45 | 23 | 70 |
+| Nikon | COOLPIX L | 37 | 28 | 27 | 9 | 37 |
+| Nikon | COOLPIX P | 29 | 24 | 23 | 5 | 29 |
+| Nikon | COOLPIX S | 70 | 58 | 46 | 12 | 70 |
 | Nikon | COOLPIX W | 3 | 3 | 3 | 0 | 3 |
 | OM System | Tough | 1 | 1 | 1 | 0 | 1 |
-| Olympus | C series | 60 | 40 | 35 | 20 | 60 |
+| Olympus | C series | 60 | 41 | 35 | 19 | 60 |
 | Olympus | CAMEDIA series | 2 | 1 | 1 | 1 | 2 |
 | Olympus | FE | 4 | 4 | 4 | 0 | 4 |
 | Olympus | FE series | 43 | 27 | 26 | 16 | 43 |
@@ -167,8 +167,8 @@ Generated: 2026-05-25
 | Samsung | ES | 13 | 0 | 0 | 13 | 13 |
 | Samsung | NV | 12 | 0 | 0 | 12 | 12 |
 | Samsung | PL | 8 | 6 | 0 | 2 | 7 |
-| Samsung | ST | 16 | 6 | 0 | 10 | 16 |
-| Samsung | WB | 11 | 6 | 1 | 5 | 10 |
+| Samsung | ST | 16 | 12 | 0 | 4 | 16 |
+| Samsung | WB | 11 | 8 | 1 | 3 | 10 |
 | Sigma | DP | 10 | 1 | 1 | 9 | 10 |
 | Sigma | DP Merrill | 2 | 2 | 2 | 0 | 2 |
 | Sigma | dp Quattro | 4 | 4 | 4 | 0 | 4 |
@@ -204,16 +204,9 @@ Generated: 2026-05-25
 | Canon | PowerShot A | 2010 | PowerShot A490 | Camera existence is confirmed by Canon Camera Museum, but no source-backed battery mapping was extracted in this batch. | https://global.canon/en/c-museum/product/dcc585.html |
 | Canon | PowerShot N | 2015 | PowerShot N2 | Camera existence is confirmed by Canon Camera Museum, but no source-backed battery mapping was extracted in this batch. | https://global.canon/en/c-museum/product/dcc660.html |
 | Canon | PowerShot SX | 2018 | PowerShot SX70 HS | Camera existence is confirmed by Canon Camera Museum, but no source-backed battery mapping was extracted in this batch. | https://global.canon/en/c-museum/product/dcc879.html |
-| Casio | Exilim F |  | Casio Exilim EX-FC150 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim F |  | Casio Exilim EX-FC200S | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim F |  | Casio Exilim EX-FH15 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim F |  | Casio Exilim EX-FH20 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim F | 2009 | Casio Exilim EX-FH25 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim F |  | Casio Exilim EX-FS10 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim G | 2009 | Casio Exilim EX-G1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim H |  | Casio Exilim EX-H20G | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim H |  | Casio Exilim EX-H5 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim H |  | Casio Exilim EX-H50 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim H |  | Casio Exilim EX-H60 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim J |  | Casio Exilim EX-J10 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim M |  | Casio Exilim EX-M1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
@@ -256,28 +249,15 @@ Generated: 2026-05-25
 | Casio | Exilim V |  | Casio Exilim EX-V7 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim V |  | Casio Exilim EX-V8 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim Z |  | Casio Exilim EX-Z10 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim Z |  | Casio Exilim EX-Z100 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim Z |  | Casio Exilim EX-Z1000 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim Z |  | Casio Exilim EX-Z1050 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim Z |  | Casio Exilim EX-Z1080 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim Z |  | Casio Exilim EX-Z110 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim Z |  | Casio Exilim EX-Z120 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim Z |  | Casio Exilim EX-Z1200 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim Z |  | Casio Exilim EX-Z150 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim Z |  | Casio Exilim EX-Z16 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim Z |  | Casio Exilim EX-Z19 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim Z |  | Casio Exilim EX-Z2 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim Z |  | Casio Exilim EX-Z20 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim Z |  | Casio Exilim EX-Z200 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim Z |  | Casio Exilim EX-Z2000 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim Z |  | Casio Exilim EX-Z2300 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim Z |  | Casio Exilim EX-Z250 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim Z |  | Casio Exilim EX-Z270 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim Z |  | Casio Exilim EX-Z280 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim Z |  | Casio Exilim EX-Z29 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim Z |  | Casio Exilim EX-Z3 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim Z |  | Casio Exilim EX-Z30 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
-| Casio | Exilim Z |  | Casio Exilim EX-Z300 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim Z |  | Casio Exilim EX-Z3000 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim Z |  | Casio Exilim EX-Z33 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Casio | Exilim Z |  | Casio Exilim EX-Z330 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
@@ -347,10 +327,8 @@ Generated: 2026-05-25
 | Casio | QV |  | Casio QV-8000SX | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Casio |
 | Fujifilm | FinePix A | 2001 | Fujifilm FinePix A101 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix A |  | Fujifilm FinePix A120 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
-| Fujifilm | FinePix A | 2002 | Fujifilm FinePix A200 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix A |  | Fujifilm FinePix A203 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_FinePix_A203 |
 | Fujifilm | FinePix A |  | Fujifilm FinePix A204 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
-| Fujifilm | FinePix A |  | Fujifilm FinePix A205 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fuji_FinePix_A205 |
 | Fujifilm | FinePix A |  | Fujifilm FinePix A210 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix A |  | Fujifilm FinePix A303 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix A |  | Fujifilm FinePix A330 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
@@ -371,10 +349,7 @@ Generated: 2026-05-25
 | Fujifilm | FinePix AV |  | Fujifilm FinePix AV230 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix AV |  | Fujifilm FinePix AV250 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix AV |  | Fujifilm FinePix AV280 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
-| Fujifilm | FinePix F |  | Fujifilm FinePix F20 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix F |  | Fujifilm FinePix F401 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_FinePix_F401 |
-| Fujifilm | FinePix F |  | Fujifilm FinePix F470 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
-| Fujifilm | FinePix F |  | Fujifilm FinePix F480 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix F |  | Fujifilm FinePix F601 Zoom | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix HS |  | Fujifilm FinePix HS10 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_FinePix_HS10 |
 | Fujifilm | FinePix HS |  | Fujifilm FinePix HS35EXR | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
@@ -388,8 +363,6 @@ Generated: 2026-05-25
 | Fujifilm | FinePix REAL 3D |  | Fujifilm FinePix Real 3D W1 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix S | 2014 | Fujifilm FinePix S1 | Battery source check failed: TimeoutError: The read operation timed out | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix S | 2008 | Fujifilm FinePix S1000fd | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
-| Fujifilm | FinePix S | 2009 | Fujifilm FinePix S1500 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
-| Fujifilm | FinePix S | 2010 | Fujifilm FinePix S1600 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix S | 2010 | Fujifilm FinePix S1800 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix S | 2004 | Fujifilm FinePix S20 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix S | 2008 | Fujifilm FinePix S2000HD | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
@@ -428,10 +401,7 @@ Generated: 2026-05-25
 | Fujifilm | FinePix SL |  | Fujifilm FinePix SL280 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix SL |  | Fujifilm FinePix SL300 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix T |  | Fujifilm FinePix T350 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
-| Fujifilm | FinePix Z |  | Fujifilm FinePix Z1000EXR | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
-| Fujifilm | FinePix Z |  | Fujifilm FinePix Z110 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix Z |  | Fujifilm FinePix Z300 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
-| Fujifilm | FinePix Z |  | Fujifilm FinePix Z31 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix Z |  | Fujifilm FinePix Z5fd | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix Z |  | Fujifilm FinePix Z700 EXR | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_FinePix_Z700_EXR |
 | Fujifilm | FinePix Z |  | Fujifilm FinePix Z800EXR | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
@@ -439,8 +409,8 @@ Generated: 2026-05-25
 | Fujifilm | FinePix Z |  | Fujifilm FinePix Z91 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | X100 |  | Fujifilm X100T | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | GE | GE compact |  | GE G1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/General_Imaging |
-| HP | PhotoSmart |  | HP PhotoSmart 120 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Hewlett-Packard |
-| HP | PhotoSmart |  | HP PhotoSmart 210 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Hewlett-Packard |
+| HP | PhotoSmart |  | HP PhotoSmart 120 | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Hewlett-Packard |
+| HP | PhotoSmart |  | HP PhotoSmart 210 | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Hewlett-Packard |
 | HP | PhotoSmart |  | HP PhotoSmart 215 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Hewlett-Packard |
 | HP | PhotoSmart |  | HP PhotoSmart 315 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Hewlett-Packard |
 | HP | PhotoSmart |  | HP PhotoSmart 318 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/HP_PhotoSmart_318 |
@@ -641,26 +611,17 @@ Generated: 2026-05-25
 | Kodak | EasyShare V |  | Kodak EasyShare V705 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
 | Kodak | EasyShare V |  | Kodak EasyShare V803 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
 | Kodak | EasyShare V |  | Kodak EasyShare V830 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z1012 IS | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z1015 IS | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z1085 IS | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z1275 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z5010 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z5120 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z583 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z612 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z650 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z700 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z710 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z712 IS | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z730 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z740 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z7590 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z760 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z812 IS | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z8612 IS | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z885 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare Z |  | Kodak EasyShare Z915 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
+| Kodak | EasyShare Z |  | Kodak EasyShare Z5010 | Direct research attempted; readable manual section did not specify an exact battery model or cell quantity. | https://camera-wiki.org/wiki/Kodak |
+| Kodak | EasyShare Z |  | Kodak EasyShare Z5120 | Direct research attempted; manual mirror exposed no explicit battery/power source. | https://camera-wiki.org/wiki/Kodak |
+| Kodak | EasyShare Z |  | Kodak EasyShare Z583 | Direct research attempted; manual mirror exposed no explicit battery/power source. | https://camera-wiki.org/wiki/Kodak |
+| Kodak | EasyShare Z |  | Kodak EasyShare Z712 IS | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Kodak |
+| Kodak | EasyShare Z |  | Kodak EasyShare Z730 | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Kodak |
+| Kodak | EasyShare Z |  | Kodak EasyShare Z740 | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Kodak |
+| Kodak | EasyShare Z |  | Kodak EasyShare Z7590 | Direct research attempted; battery compartment mention alone does not verify compatibility. | https://camera-wiki.org/wiki/Kodak |
+| Kodak | EasyShare Z |  | Kodak EasyShare Z760 | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Kodak |
+| Kodak | EasyShare Z |  | Kodak EasyShare Z8612 IS | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Kodak |
+| Kodak | EasyShare Z |  | Kodak EasyShare Z885 | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Kodak |
+| Kodak | EasyShare Z |  | Kodak EasyShare Z915 | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Kodak |
 | Kodak | EasyShare Z |  | Kodak EasyShare Z980 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
 | Kodak | EasyShare Z |  | Kodak EasyShare Z981 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
 | Kodak | EasyShare Z |  | Kodak EasyShare Z990 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
@@ -722,14 +683,12 @@ Generated: 2026-05-25
 | Nikon | COOLPIX 2 | 2000 | Nikon COOLPIX 2000 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX 2 | 2003 | Nikon COOLPIX 2100 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX 2 | 2004 | Nikon COOLPIX 2200 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
-| Nikon | COOLPIX 2 | 2002 | Nikon COOLPIX 2500 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX 3 | 2004 | Nikon COOLPIX 3200 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX 3 | 2002 | Nikon COOLPIX 3500 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX 3 |  | Nikon COOLPIX 3700 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Nikon_Coolpix_3700 |
 | Nikon | COOLPIX 4 | 2004 | Nikon COOLPIX 4200 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX 4 |  | Nikon COOLPIX 4300 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Nikon_Coolpix_4300 |
 | Nikon | COOLPIX 4 | 2004 | Nikon COOLPIX 4800 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
-| Nikon | COOLPIX 5 |  | Nikon COOLPIX 5700 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Nikon_Coolpix_5700 |
 | Nikon | COOLPIX 5 |  | Nikon COOLPIX 5900 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Nikon_Coolpix_5900 |
 | Nikon | COOLPIX 7 | 2005 | Nikon COOLPIX 7600 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX 7 | 2001 | Nikon COOLPIX 775 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
@@ -747,40 +706,26 @@ Generated: 2026-05-25
 | Nikon | COOLPIX L | 2007 | Nikon COOLPIX L15 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX L | 2010 | Nikon COOLPIX L21 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX L |  | Nikon COOLPIX L29 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
-| Nikon | COOLPIX L | 2006 | Nikon COOLPIX L5 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX L | 2006 | Nikon COOLPIX L6 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX P |  | Nikon COOLPIX P3 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Nikon_Coolpix_P3_%26_P4 |
-| Nikon | COOLPIX P |  | Nikon COOLPIX P4 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Nikon_Coolpix_P3_%26_P4 |
 | Nikon | COOLPIX P | 2007 | Nikon COOLPIX P50 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX P | 2014 | Nikon COOLPIX P530 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX P | 2008 | Nikon COOLPIX P80 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX P | 2009 | Nikon COOLPIX P90 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
-| Nikon | COOLPIX S | 2013 | Nikon COOLPIX S02 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX S |  | Nikon COOLPIX S2 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Nikon_Coolpix_S2 |
 | Nikon | COOLPIX S | 2009 | Nikon COOLPIX S220 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
-| Nikon | COOLPIX S | 2009 | Nikon COOLPIX S230 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
-| Nikon | COOLPIX S | 2012 | Nikon COOLPIX S2600 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
-| Nikon | COOLPIX S | 2013 | Nikon COOLPIX S2700 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX S |  | Nikon COOLPIX S3 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Nikon_Coolpix_S3 |
-| Nikon | COOLPIX S |  | Nikon COOLPIX S3000 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Nikon_Coolpix_S3000 |
 | Nikon | COOLPIX S |  | Nikon COOLPIX S4 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Nikon_Coolpix_S4 |
-| Nikon | COOLPIX S | 2011 | Nikon COOLPIX S4100 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
-| Nikon | COOLPIX S |  | Nikon COOLPIX S510 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
-| Nikon | COOLPIX S |  | Nikon COOLPIX S52 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX S | 2014 | Nikon COOLPIX S5300 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
-| Nikon | COOLPIX S | 2008 | Nikon COOLPIX S550 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX S | 2008 | Nikon COOLPIX S560 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX S | 2008 | Nikon COOLPIX S60 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
-| Nikon | COOLPIX S |  | Nikon COOLPIX S600 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
-| Nikon | COOLPIX S | 2009 | Nikon COOLPIX S640 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX S | 2013 | Nikon COOLPIX S660 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX S |  | Nikon COOLPIX S7 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX S |  | Nikon COOLPIX S700 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX S |  | Nikon COOLPIX S8 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX S |  | Nikon COOLPIX S9 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
-| Olympus | C series | 2003 | Olympus C-150 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series |  | Olympus C-160 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_C-160 |
-| Olympus | C series | 2005 | Olympus C-170 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
+| Olympus | C series | 2003 | Olympus C-150 | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Olympus |
+| Olympus | C series | 2005 | Olympus C-170 | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series | 2005 | Olympus C-180 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series | 2004 | Olympus C-310 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series | 2005 | Olympus C-315 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
@@ -829,7 +774,7 @@ Generated: 2026-05-25
 | Panasonic | Lumix FX | 2013 | Panasonic Lumix DMC-FX70 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix FX |  | Panasonic Lumix DMC-FX78 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix FX | 2011 | Panasonic Lumix DMC-FX90 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FZ | 2024 | Panasonic Lumix DC-FZ80D | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
+| Panasonic | Lumix FZ | 2024 | Panasonic Lumix DC-FZ80D | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix FZ | 2019 | Panasonic Lumix DMC-FZ1000II | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix FZ | 2017 | Panasonic Lumix DMC-FZ2000 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix FZ | 2009 | Panasonic Lumix DMC-FZ38 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
@@ -839,7 +784,7 @@ Generated: 2026-05-25
 | Panasonic | Lumix LC |  | Panasonic Lumix DMC-LC50 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LC |  | Panasonic Lumix DMC-LC70 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LC |  | Panasonic Lumix DMC-LC80 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix LX | 2018 | Panasonic Lumix DC-LX100 II | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
+| Panasonic | Lumix LX | 2018 | Panasonic Lumix DC-LX100 II | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LZ | 2008 | Panasonic Lumix DMC-LZ10 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LZ | 2005 | Panasonic Lumix DMC-LZ2 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LZ | 2012 | Panasonic Lumix DMC-LZ20 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
@@ -853,9 +798,9 @@ Generated: 2026-05-25
 | Panasonic | Lumix TS/FT | 2015 | Panasonic Lumix DMC-TS6 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix TZ/ZS | 2024 | Panasonic Lumix DC-ZS99 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix TZ/ZS | 2008 | Panasonic Lumix DMC-TZ50 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Pentax | Optio |  | Pentax Optio 230 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Pentax |
-| Pentax | Optio |  | Pentax Optio 30 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Pentax |
-| Pentax | Optio |  | Pentax Optio 330 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Pentax |
+| Pentax | Optio |  | Pentax Optio 230 | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Pentax |
+| Pentax | Optio |  | Pentax Optio 30 | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Pentax |
+| Pentax | Optio |  | Pentax Optio 330 | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Pentax |
 | Pentax | Optio |  | Pentax Optio 33LF | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Pentax |
 | Pentax | Optio |  | Pentax Optio 430 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Pentax |
 | Pentax | Optio |  | Pentax Optio 43WR | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Pentax |
@@ -937,9 +882,9 @@ Generated: 2026-05-25
 | Pentax | Optio |  | Pentax Optio WS80 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Pentax |
 | Pentax | Optio |  | Pentax Optio X | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Pentax |
 | Pentax | Optio |  | Pentax Optio Z10 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Pentax |
-| Ricoh | Caplio |  | Ricoh Caplio 300G | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Ricoh |
-| Ricoh | Caplio |  | Ricoh Caplio 400G Wide | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Ricoh |
-| Ricoh | Caplio |  | Ricoh Caplio 500G Wide | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Ricoh |
+| Ricoh | Caplio |  | Ricoh Caplio 300G | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Ricoh |
+| Ricoh | Caplio |  | Ricoh Caplio 400G Wide | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Ricoh |
+| Ricoh | Caplio |  | Ricoh Caplio 500G Wide | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Ricoh |
 | Ricoh | Caplio |  | Ricoh Caplio 500SE | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Ricoh |
 | Ricoh | Caplio |  | Ricoh Caplio G3 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Ricoh |
 | Ricoh | Caplio |  | Ricoh Caplio G3 model M | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Ricoh |
@@ -1039,9 +984,9 @@ Generated: 2026-05-25
 | Samsung | Digimax |  | Samsung Digimax V4 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
 | Samsung | Digimax |  | Samsung Digimax V5 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
 | Samsung | Digimax |  | Samsung Digimax V6 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | ES |  | Samsung ES10 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | ES |  | Samsung ES15 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | ES |  | Samsung ES17 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
+| Samsung | ES |  | Samsung ES10 | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Samsung |
+| Samsung | ES |  | Samsung ES15 | Direct research attempted; optional charger listing is not compatibility evidence. | https://camera-wiki.org/wiki/Samsung |
+| Samsung | ES |  | Samsung ES17 | Direct research attempted; optional charger listing is not compatibility evidence. | https://camera-wiki.org/wiki/Samsung |
 | Samsung | ES |  | Samsung ES20 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
 | Samsung | ES |  | Samsung ES25 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
 | Samsung | ES |  | Samsung ES28 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
@@ -1064,23 +1009,15 @@ Generated: 2026-05-25
 | Samsung | NV |  | Samsung NV7 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung_NV7_OPS |
 | Samsung | NV |  | Samsung NV8 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
 | Samsung | NV |  | Samsung NV9 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | PL |  | Samsung PL150 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | PL |  | Samsung PL210 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | ST |  | Samsung ST100 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | ST |  | Samsung ST500 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | ST |  | Samsung ST5000 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | ST |  | Samsung ST550 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | ST |  | Samsung ST5500 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | ST |  | Samsung ST600 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | ST |  | Samsung ST6500 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | ST |  | Samsung ST700 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | ST |  | Samsung ST80 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | ST |  | Samsung ST93 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | WB |  | Samsung WB2000 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | WB |  | Samsung WB210 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | WB |  | Samsung WB5500 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | WB |  | Samsung WB700 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | WB |  | Samsung WB750 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
+| Samsung | PL |  | Samsung PL150 | Direct research attempted; charger/general battery language does not verify a battery model. | https://camera-wiki.org/wiki/Samsung |
+| Samsung | PL |  | Samsung PL210 | Direct research attempted; ambiguous accessory listing is not promoted. | https://camera-wiki.org/wiki/Samsung |
+| Samsung | ST |  | Samsung ST500 | Direct research attempted; rechargeable battery without model is insufficient. | https://camera-wiki.org/wiki/Samsung |
+| Samsung | ST |  | Samsung ST550 | Direct research attempted; rechargeable battery without model is insufficient. | https://camera-wiki.org/wiki/Samsung |
+| Samsung | ST |  | Samsung ST6500 | Direct research attempted; rechargeable battery without model is insufficient. | https://camera-wiki.org/wiki/Samsung |
+| Samsung | ST |  | Samsung ST700 | Direct research attempted; rechargeable battery without model is insufficient. | https://camera-wiki.org/wiki/Samsung |
+| Samsung | WB |  | Samsung WB210 | Direct research attempted; accessory listing is not accepted as primary battery evidence. | https://camera-wiki.org/wiki/Samsung |
+| Samsung | WB |  | Samsung WB5500 | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Samsung |
+| Samsung | WB |  | Samsung WB700 | Direct research attempted; source found but no explicit battery text was extracted. | https://camera-wiki.org/wiki/Samsung |
 | Sigma | DP |  | Sigma DP0 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sigma |
 | Sigma | DP |  | Sigma DP1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sigma_DP1 |
 | Sigma | DP | 2012 | Sigma DP1m | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sigma |
@@ -1090,8 +1027,8 @@ Generated: 2026-05-25
 | Sigma | DP |  | Sigma DP2s | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sigma_DP2 |
 | Sigma | DP |  | Sigma DP2x | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sigma_DP2 |
 | Sigma | DP | 2013 | Sigma DP3 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sigma |
-| Sony | Cyber-shot DSC-H | 2007 | Sony Cyber-shot DSC-H9 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T25 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
+| Sony | Cyber-shot DSC-H | 2007 | Sony Cyber-shot DSC-H9 | Direct research attempted; generic battery-pack reference is not an exact compatibility mapping. | https://camera-wiki.org/wiki/Sony |
+| Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T25 | Direct research attempted; charger-only battery type reference is insufficient. | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-T | 2012 | Sony Cyber-shot DSC-T66 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T75 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-TX |  | Sony Cyber-shot DSC-TX77 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
