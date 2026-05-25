@@ -4,11 +4,11 @@ Generated: 2026-05-25
 
 ## Summary
 
-- Cameras: 717
-- Compatibility rows: 894
-- Cameras with at least one high-confidence verified battery row: 640
+- Cameras: 1006
+- Compatibility rows: 1463
+- Cameras with at least one high-confidence verified battery row: 943
 - Cameras with unknown battery mapping rows: 0
-- Cameras with aliases or regional names: 709
+- Cameras with aliases or regional names: 998
 
 ## Cameras By Brand
 
@@ -16,7 +16,7 @@ Generated: 2026-05-25
 | --- | ---: | ---: | ---: | ---: |
 | Canon | 223 | 373 | 1 | 0 |
 | Casio | 17 | 18 | 0 | 0 |
-| Fujifilm | 93 | 79 | 14 | 0 |
+| Fujifilm | 135 | 173 | 14 | 0 |
 | GE | 2 | 0 | 2 | 0 |
 | HP | 1 | 0 | 1 | 0 |
 | Kodak | 6 | 5 | 1 | 0 |
@@ -26,13 +26,13 @@ Generated: 2026-05-25
 | Minolta | 4 | 0 | 6 | 0 |
 | Nikon | 97 | 84 | 21 | 0 |
 | OM System | 1 | 1 | 0 | 0 |
-| Olympus | 73 | 57 | 22 | 0 |
-| Panasonic | 24 | 23 | 1 | 0 |
+| Olympus | 184 | 267 | 22 | 0 |
+| Panasonic | 136 | 149 | 1 | 0 |
 | Pentax | 4 | 1 | 4 | 0 |
 | Ricoh | 6 | 3 | 3 | 0 |
 | Samsung | 7 | 1 | 5 | 2 |
 | Sigma | 7 | 7 | 0 | 0 |
-| Sony | 139 | 141 | 5 | 0 |
+| Sony | 163 | 280 | 5 | 0 |
 | Vivitar | 1 | 0 | 1 | 0 |
 
 ## Manual Check List

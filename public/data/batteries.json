@@ -675,6 +675,46 @@
     "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
   },
   {
+    "battery_id": "olympus_blm_1",
+    "brand": "Olympus",
+    "model": "BLM-1",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
+  },
+  {
+    "battery_id": "olympus_blm_5",
+    "brand": "Olympus",
+    "model": "BLM-5",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
+  },
+  {
+    "battery_id": "olympus_bls_5",
+    "brand": "Olympus",
+    "model": "BLS-5",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
+  },
+  {
+    "battery_id": "olympus_bls_50",
+    "brand": "Olympus",
+    "model": "BLS-50",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
+  },
+  {
     "battery_id": "olympus_li_10b",
     "brand": "Olympus",
     "model": "LI-10B",
@@ -693,6 +733,26 @@
     "voltage": null,
     "capacity_mah": null,
     "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
+    "battery_id": "olympus_li_30b",
+    "brand": "Olympus",
+    "model": "LI-30B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
+  },
+  {
+    "battery_id": "olympus_li_40b",
+    "brand": "Olympus",
+    "model": "LI-40B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
   },
   {
     "battery_id": "olympus_li_42b",
@@ -715,6 +775,16 @@
     "notes": "Added by popular compact verifier from explicit manual_battery_sources.json source text."
   },
   {
+    "battery_id": "olympus_li_60b",
+    "brand": "Olympus",
+    "model": "LI-60B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
+  },
+  {
     "battery_id": "olympus_li_70b",
     "brand": "Olympus",
     "model": "LI-70B",
@@ -732,7 +802,7 @@
     "chemistry": "lithium-ion",
     "voltage": null,
     "capacity_mah": null,
-    "notes": ""
+    "notes": "Added from an official bulk compatibility extraction."
   },
   {
     "battery_id": "olympus_li_92b",
@@ -743,6 +813,16 @@
     "voltage": 3.6,
     "capacity_mah": 1350,
     "notes": "OM System LI-92B accessory page lists 3.6 V and 1350 mAh."
+  },
+  {
+    "battery_id": "panasonic_cgas001a1b",
+    "brand": "Panasonic",
+    "model": "CGAS001A1B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
   },
   {
     "battery_id": "panasonic_cgas002a1b",
@@ -785,6 +865,46 @@
     "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
   },
   {
+    "battery_id": "panasonic_cgrs006a1b",
+    "brand": "Panasonic",
+    "model": "CGRS006A1B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
+  },
+  {
+    "battery_id": "panasonic_cgrs602a1b",
+    "brand": "Panasonic",
+    "model": "CGRS602A1B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
+  },
+  {
+    "battery_id": "panasonic_dmw_bcf10",
+    "brand": "Panasonic",
+    "model": "DMW-BCF10",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
+  },
+  {
+    "battery_id": "panasonic_dmw_bcg10",
+    "brand": "Panasonic",
+    "model": "DMW-BCG10",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
+  },
+  {
     "battery_id": "panasonic_dmw_bch7",
     "brand": "Panasonic",
     "model": "DMW-BCH7",
@@ -813,6 +933,26 @@
     "voltage": null,
     "capacity_mah": null,
     "notes": "Added by web-assisted verifier from an explicit source-backed battery mapping."
+  },
+  {
+    "battery_id": "panasonic_dmw_bck7",
+    "brand": "Panasonic",
+    "model": "DMW-BCK7",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
+  },
+  {
+    "battery_id": "panasonic_dmw_bcl7",
+    "brand": "Panasonic",
+    "model": "DMW-BCL7",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
   },
   {
     "battery_id": "panasonic_dmw_bcm13",
@@ -891,6 +1031,16 @@
     "notes": "Added by popular compact verifier from explicit manual_battery_sources.json source text."
   },
   {
+    "battery_id": "panasonic_dmw_blh7",
+    "brand": "Panasonic",
+    "model": "DMW-BLH7",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
+  },
+  {
     "battery_id": "panasonic_dmw_bmb9",
     "brand": "Panasonic",
     "model": "DMW-BMB9",
@@ -901,6 +1051,16 @@
     "voltage": 7.2,
     "capacity_mah": 895,
     "notes": "Panasonic DMW-BMB9 page lists 7.2 V / 895 mAh."
+  },
+  {
+    "battery_id": "panasonic_dmwbce10",
+    "brand": "Panasonic",
+    "model": "DMWBCE10",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
   },
   {
     "battery_id": "pentax_d_li92",
@@ -1067,6 +1227,16 @@
     "notes": "Added by import_all_remaining.py; electrical details left blank unless source-backed."
   },
   {
+    "battery_id": "sony_np_fc11",
+    "brand": "Sony",
+    "model": "NP-FC11",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
+  },
+  {
     "battery_id": "sony_np_fd1",
     "brand": "Sony",
     "model": "NP-FD1",
@@ -1087,6 +1257,16 @@
     "notes": "Added by popular compact verifier from explicit manual_battery_sources.json source text."
   },
   {
+    "battery_id": "sony_np_fg1",
+    "brand": "Sony",
+    "model": "NP-FG1",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
+  },
+  {
     "battery_id": "sony_np_fh50",
     "brand": "Sony",
     "model": "NP-FH50",
@@ -1105,6 +1285,26 @@
     "voltage": null,
     "capacity_mah": null,
     "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
+    "battery_id": "sony_np_fm50",
+    "brand": "Sony",
+    "model": "NP-FM50",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
+  },
+  {
+    "battery_id": "sony_np_fm500h_5",
+    "brand": "Sony",
+    "model": "NP-FM500H/5",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from an official bulk compatibility extraction."
   },
   {
     "battery_id": "sony_np_fr1",

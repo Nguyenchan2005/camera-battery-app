@@ -3458,20 +3458,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "fujifilm_x100s",
-    "display_name": "Fujifilm X100S",
-    "brand": "Fujifilm",
-    "series": "X100",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Fujifilm_digital_cameras"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "fujifilm_x100t",
     "display_name": "Fujifilm X100T",
     "brand": "Fujifilm",
@@ -8910,20 +8896,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_c_100",
-    "display_name": "Olympus C-100",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 2001,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_c_150",
     "display_name": "Olympus C-150",
     "brand": "Olympus",
@@ -8980,104 +8952,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_c_200",
-    "display_name": "Olympus C-200",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 2001,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_2020",
-    "display_name": "Olympus C-2020",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 2020,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_2040",
-    "display_name": "Olympus C-2040",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 2000,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_2100",
-    "display_name": "Olympus C-2100",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 2000,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_300",
-    "display_name": "Olympus C-300",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 2002,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_3000",
-    "display_name": "Olympus C-3000",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus C-3000",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_C-3000_Zoom",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus_C-3000_Zoom"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_3030",
-    "display_name": "Olympus C-3030",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 2000,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_c_310",
     "display_name": "Olympus C-310",
     "brand": "Olympus",
@@ -9097,20 +8971,6 @@
     "brand": "Olympus",
     "series": "C series",
     "release_year": 2005,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_350",
-    "display_name": "Olympus C-350",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 2003,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Olympus catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
@@ -9148,20 +9008,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_c_400",
-    "display_name": "Olympus C-400",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_c_4000",
     "display_name": "Olympus C-4000",
     "brand": "Olympus",
@@ -9172,20 +9018,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_C-4000_Zoom",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Olympus_C-4000_Zoom"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_4040",
-    "display_name": "Olympus C-4040",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 2001,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
     ],
     "last_checked": "2026-05-24"
   },
@@ -9260,20 +9092,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_c_5060",
-    "display_name": "Olympus C-5060",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus C-5060",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_C-5060_WideZoom",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus_C-5060_WideZoom"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_c_55",
     "display_name": "Olympus C-55",
     "brand": "Olympus",
@@ -9302,62 +9120,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_c_70",
-    "display_name": "Olympus C-70",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus C-70",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_C-7000_Zoom",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus_C-7000_Zoom"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_700",
-    "display_name": "Olympus C-700",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus C-700",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_C-700_Ultra_Zoom",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus_C-700_Ultra_Zoom"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_7070",
-    "display_name": "Olympus C-7070",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus C-7070",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_C-7070_WideZoom",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus_C-7070_WideZoom"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_720",
-    "display_name": "Olympus C-720",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 2002,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_c_725",
     "display_name": "Olympus C-725",
     "brand": "Olympus",
@@ -9372,78 +9134,8 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_c_730",
-    "display_name": "Olympus C-730",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 2002,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_740",
-    "display_name": "Olympus C-740",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 2003,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_750",
-    "display_name": "Olympus C-750",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus C-750",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_C-750_Ultra_Zoom",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus_C-750_Ultra_Zoom"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_760",
-    "display_name": "Olympus C-760",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 2004,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_c_765",
     "display_name": "Olympus C-765",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 2004,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_770",
-    "display_name": "Olympus C-770",
     "brand": "Olympus",
     "series": "C series",
     "release_year": 2004,
@@ -9470,62 +9162,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_c_8080",
-    "display_name": "Olympus C-8080",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 2004,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_840l",
-    "display_name": "Olympus C-840L",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 1998,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_900",
-    "display_name": "Olympus C-900",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 1998,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_920",
-    "display_name": "Olympus C-920",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 1999,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_c_960",
     "display_name": "Olympus C-960",
     "brand": "Olympus",
@@ -9536,34 +9172,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_c_990",
-    "display_name": "Olympus C-990",
-    "brand": "Olympus",
-    "series": "C series",
-    "release_year": 2000,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_camedia_c_1",
-    "display_name": "Olympus Camedia C-1",
-    "brand": "Olympus",
-    "series": "CAMEDIA series",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus Camedia C-1",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_Camedia_C-1",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus_Camedia_C-1"
     ],
     "last_checked": "2026-05-24"
   },
@@ -9584,20 +9192,6 @@
   {
     "camera_id": "olympus_fe_100",
     "display_name": "Olympus FE-100",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2005,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_110",
-    "display_name": "Olympus FE-110",
     "brand": "Olympus",
     "series": "FE series",
     "release_year": 2005,
@@ -9654,20 +9248,6 @@
   {
     "camera_id": "olympus_fe_170",
     "display_name": "Olympus FE-170",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2006,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_180",
-    "display_name": "Olympus FE-180",
     "brand": "Olympus",
     "series": "FE series",
     "release_year": 2006,
@@ -9820,34 +9400,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_fe_46",
-    "display_name": "Olympus FE-46",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_47",
-    "display_name": "Olympus FE-47",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2010,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_fe_5000",
     "display_name": "Olympus FE-5000",
     "brand": "Olympus",
@@ -9876,190 +9428,8 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_sp_320",
-    "display_name": "Olympus SP-320",
-    "brand": "Olympus",
-    "series": "SP series",
-    "release_year": 2006,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sp_350",
-    "display_name": "Olympus SP-350",
-    "brand": "Olympus",
-    "series": "SP series",
-    "release_year": 2005,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sp_500uz",
-    "display_name": "Olympus SP-500UZ",
-    "brand": "Olympus",
-    "series": "SP series",
-    "release_year": 2005,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sp_510uz",
-    "display_name": "Olympus SP-510UZ",
-    "brand": "Olympus",
-    "series": "SP series",
-    "release_year": 2006,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sp_550uz",
-    "display_name": "Olympus SP-550UZ",
-    "brand": "Olympus",
-    "series": "SP series",
-    "release_year": 2007,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sp_560uz",
-    "display_name": "Olympus SP-560UZ",
-    "brand": "Olympus",
-    "series": "SP series",
-    "release_year": 2007,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sp_570uz",
-    "display_name": "Olympus SP-570UZ",
-    "brand": "Olympus",
-    "series": "SP series",
-    "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sp_590uz",
-    "display_name": "Olympus SP-590UZ",
-    "brand": "Olympus",
-    "series": "SP series",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sp_600uz",
-    "display_name": "Olympus SP-600UZ",
-    "brand": "Olympus",
-    "series": "SP series",
-    "release_year": 2010,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sp_610uz",
-    "display_name": "Olympus SP-610UZ",
-    "brand": "Olympus",
-    "series": "SP series",
-    "release_year": 2011,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sp_620uz",
-    "display_name": "Olympus SP-620UZ",
-    "brand": "Olympus",
-    "series": "SP series",
-    "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sp_820uz",
-    "display_name": "Olympus SP-820UZ",
-    "brand": "Olympus",
-    "series": "SP series",
-    "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_sz_12",
     "display_name": "Olympus SZ-12",
-    "brand": "Olympus",
-    "series": "SZ series",
-    "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sz_31mr_ihs",
-    "display_name": "Olympus SZ-31MR iHS",
     "brand": "Olympus",
     "series": "SZ series",
     "release_year": 2012,
@@ -10156,162 +9526,8 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "panasonic_lumix_dmc_fp5",
-    "display_name": "Panasonic Lumix DMC-FP5",
-    "brand": "Panasonic",
-    "series": "Lumix FP",
-    "release_year": 2011,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fp7",
-    "display_name": "Panasonic Lumix DMC-FP7",
-    "brand": "Panasonic",
-    "series": "Lumix FP",
-    "release_year": 2011,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fp8",
-    "display_name": "Panasonic Lumix DMC-FP8",
-    "brand": "Panasonic",
-    "series": "Lumix FP",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "panasonic_lumix_dmc_fs12",
     "display_name": "Panasonic Lumix DMC-FS12",
-    "brand": "Panasonic",
-    "series": "Lumix FS",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fs15",
-    "display_name": "Panasonic Lumix DMC-FS15",
-    "brand": "Panasonic",
-    "series": "Lumix FS",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fs20",
-    "display_name": "Panasonic Lumix DMC-FS20",
-    "brand": "Panasonic",
-    "series": "Lumix FS",
-    "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fs25",
-    "display_name": "Panasonic Lumix DMC-FS25",
-    "brand": "Panasonic",
-    "series": "Lumix FS",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fs3",
-    "display_name": "Panasonic Lumix DMC-FS3",
-    "brand": "Panasonic",
-    "series": "Lumix FS",
-    "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fs4",
-    "display_name": "Panasonic Lumix DMC-FS4",
-    "brand": "Panasonic",
-    "series": "Lumix FS",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fs42",
-    "display_name": "Panasonic Lumix DMC-FS42",
-    "brand": "Panasonic",
-    "series": "Lumix FS",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fs5",
-    "display_name": "Panasonic Lumix DMC-FS5",
-    "brand": "Panasonic",
-    "series": "Lumix FS",
-    "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fs6",
-    "display_name": "Panasonic Lumix DMC-FS6",
     "brand": "Panasonic",
     "series": "Lumix FS",
     "release_year": 2009,
@@ -10334,174 +9550,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FS62",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FS62"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fs7",
-    "display_name": "Panasonic Lumix DMC-FS7",
-    "brand": "Panasonic",
-    "series": "Lumix FS",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-FS7",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FS7",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FS7"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fx07",
-    "display_name": "Panasonic Lumix DMC-FX07",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-FX07",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FX07",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FX07"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fx100",
-    "display_name": "Panasonic Lumix DMC-FX100",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": 2007,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fx150",
-    "display_name": "Panasonic Lumix DMC-FX150",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fx33",
-    "display_name": "Panasonic Lumix DMC-FX33",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": 2007,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fx35",
-    "display_name": "Panasonic Lumix DMC-FX35",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fx37",
-    "display_name": "Panasonic Lumix DMC-FX37",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fx48",
-    "display_name": "Panasonic Lumix DMC-FX48",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fx50",
-    "display_name": "Panasonic Lumix DMC-FX50",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-FX50",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FX50",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FX50"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fx500",
-    "display_name": "Panasonic Lumix DMC-FX500",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fx580",
-    "display_name": "Panasonic Lumix DMC-FX580",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fx65",
-    "display_name": "Panasonic Lumix DMC-FX65",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
     ],
     "last_checked": "2026-05-24"
   },
@@ -10534,67 +9582,11 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "panasonic_lumix_dmc_fx700",
-    "display_name": "Panasonic Lumix DMC-FX700",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-FX700",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FX700",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FX700"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fx75",
-    "display_name": "Panasonic Lumix DMC-FX75",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": 2010,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "panasonic_lumix_dmc_fx78",
     "display_name": "Panasonic Lumix DMC-FX78",
     "brand": "Panasonic",
     "series": "Lumix FX",
     "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fx8",
-    "display_name": "Panasonic Lumix DMC-FX8",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-FX8",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FX8",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FX8"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fx9",
-    "display_name": "Panasonic Lumix DMC-FX9",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": 2005,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Panasonic catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
@@ -10632,20 +9624,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "panasonic_lumix_dmc_fz100",
-    "display_name": "Panasonic Lumix DMC-FZ100",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-FZ100",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FZ100",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FZ100"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "panasonic_lumix_dmc_fz1000ii",
     "display_name": "Panasonic Lumix DMC-FZ1000II",
     "brand": "Panasonic",
@@ -10656,62 +9634,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fz150",
-    "display_name": "Panasonic Lumix DMC-FZ150",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": 2011,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fz18",
-    "display_name": "Panasonic Lumix DMC-FZ18",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": 2007,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fz2",
-    "display_name": "Panasonic Lumix DMC-FZ2",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-FZ2",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_DMC-FZ2",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_DMC-FZ2"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fz20",
-    "display_name": "Panasonic Lumix DMC-FZ20",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-FZ20",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_DMC-FZ20",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_DMC-FZ20"
     ],
     "last_checked": "2026-05-24"
   },
@@ -10730,48 +9652,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "panasonic_lumix_dmc_fz28",
-    "display_name": "Panasonic Lumix DMC-FZ28",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fz3",
-    "display_name": "Panasonic Lumix DMC-FZ3",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": 2004,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fz30",
-    "display_name": "Panasonic Lumix DMC-FZ30",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-FZ30",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_DMC-FZ30",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_DMC-FZ30"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "panasonic_lumix_dmc_fz38",
     "display_name": "Panasonic Lumix DMC-FZ38",
     "brand": "Panasonic",
@@ -10782,132 +9662,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fz40",
-    "display_name": "Panasonic Lumix DMC-FZ40",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": 2010,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fz47",
-    "display_name": "Panasonic Lumix DMC-FZ47",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": 2011,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fz5",
-    "display_name": "Panasonic Lumix DMC-FZ5",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-FZ5",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_DMC-FZ5",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_DMC-FZ5"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fz50",
-    "display_name": "Panasonic Lumix DMC-FZ50",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-FZ50",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_DMC-FZ50",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_DMC-FZ50"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fz60",
-    "display_name": "Panasonic Lumix DMC-FZ60",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fz7",
-    "display_name": "Panasonic Lumix DMC-FZ7",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-FZ7",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_DMC-FZ7",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_DMC-FZ7"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fz70",
-    "display_name": "Panasonic Lumix DMC-FZ70",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": 2013,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fz8",
-    "display_name": "Panasonic Lumix DMC-FZ8",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-FZ8",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FZ8",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FZ8"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_lc1",
-    "display_name": "Panasonic Lumix DMC-LC1",
-    "brand": "Panasonic",
-    "series": "Lumix LC",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-LC1",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_DMC-LC1",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_DMC-LC1"
     ],
     "last_checked": "2026-05-24"
   },
@@ -10940,20 +9694,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "panasonic_lumix_dmc_lc40",
-    "display_name": "Panasonic Lumix DMC-LC40",
-    "brand": "Panasonic",
-    "series": "Lumix LC",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-LC40",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_DMC-LC40",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_DMC-LC40"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "panasonic_lumix_dmc_lc43",
     "display_name": "Panasonic Lumix DMC-LC43",
     "brand": "Panasonic",
@@ -10964,20 +9704,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_lc5",
-    "display_name": "Panasonic Lumix DMC-LC5",
-    "brand": "Panasonic",
-    "series": "Lumix LC",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-LC5",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-LC5",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-LC5"
     ],
     "last_checked": "2026-05-24"
   },
@@ -11034,48 +9760,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_lx1",
-    "display_name": "Panasonic Lumix DMC-LX1",
-    "brand": "Panasonic",
-    "series": "Lumix LX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-LX1",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_DMC-LX1",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_DMC-LX1"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_lx10",
-    "display_name": "Panasonic Lumix DMC-LX10",
-    "brand": "Panasonic",
-    "series": "Lumix LX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_lx2",
-    "display_name": "Panasonic Lumix DMC-LX2",
-    "brand": "Panasonic",
-    "series": "Lumix LX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-LX2",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_DMC-LX2",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_DMC-LX2"
     ],
     "last_checked": "2026-05-24"
   },
@@ -11150,20 +9834,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "panasonic_lumix_dmc_lz40",
-    "display_name": "Panasonic Lumix DMC-LZ40",
-    "brand": "Panasonic",
-    "series": "Lumix LZ",
-    "release_year": 2014,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "panasonic_lumix_dmc_lz5",
     "display_name": "Panasonic Lumix DMC-LZ5",
     "brand": "Panasonic",
@@ -11220,207 +9890,11 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "panasonic_lumix_dmc_sz1",
-    "display_name": "Panasonic Lumix DMC-SZ1",
-    "brand": "Panasonic",
-    "series": "Lumix SZ",
-    "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_sz10",
-    "display_name": "Panasonic Lumix DMC-SZ10",
-    "brand": "Panasonic",
-    "series": "Lumix SZ",
-    "release_year": 2015,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_sz3",
-    "display_name": "Panasonic Lumix DMC-SZ3",
-    "brand": "Panasonic",
-    "series": "Lumix SZ",
-    "release_year": 2013,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_sz5",
-    "display_name": "Panasonic Lumix DMC-SZ5",
-    "brand": "Panasonic",
-    "series": "Lumix SZ",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-SZ5",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-SZ5",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-SZ5"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_sz7",
-    "display_name": "Panasonic Lumix DMC-SZ7",
-    "brand": "Panasonic",
-    "series": "Lumix SZ",
-    "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "panasonic_lumix_dmc_sz8",
     "display_name": "Panasonic Lumix DMC-SZ8",
     "brand": "Panasonic",
     "series": "Lumix SZ",
     "release_year": 2014,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_ts1",
-    "display_name": "Panasonic Lumix DMC-TS1",
-    "brand": "Panasonic",
-    "series": "Lumix TS/FT",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_ts10",
-    "display_name": "Panasonic Lumix DMC-TS10",
-    "brand": "Panasonic",
-    "series": "Lumix TS/FT",
-    "release_year": 2010,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_ts2",
-    "display_name": "Panasonic Lumix DMC-TS2",
-    "brand": "Panasonic",
-    "series": "Lumix TS/FT",
-    "release_year": 2010,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_ts20",
-    "display_name": "Panasonic Lumix DMC-TS20",
-    "brand": "Panasonic",
-    "series": "Lumix TS/FT",
-    "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_ts25",
-    "display_name": "Panasonic Lumix DMC-TS25",
-    "brand": "Panasonic",
-    "series": "Lumix TS/FT",
-    "release_year": 2013,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_ts3",
-    "display_name": "Panasonic Lumix DMC-TS3",
-    "brand": "Panasonic",
-    "series": "Lumix TS/FT",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-TS3",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-TS3",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-TS3"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_ts30",
-    "display_name": "Panasonic Lumix DMC-TS30",
-    "brand": "Panasonic",
-    "series": "Lumix TS/FT",
-    "release_year": 2015,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_ts4",
-    "display_name": "Panasonic Lumix DMC-TS4",
-    "brand": "Panasonic",
-    "series": "Lumix TS/FT",
-    "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_ts5",
-    "display_name": "Panasonic Lumix DMC-TS5",
-    "brand": "Panasonic",
-    "series": "Lumix TS/FT",
-    "release_year": 2013,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Panasonic catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
@@ -11444,20 +9918,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "panasonic_lumix_dc_zs80",
-    "display_name": "Panasonic Lumix DC-ZS80",
-    "brand": "Panasonic",
-    "series": "Lumix TZ/ZS",
-    "release_year": 2019,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "panasonic_lumix_dc_zs99",
     "display_name": "Panasonic Lumix DC-ZS99",
     "brand": "Panasonic",
@@ -11472,151 +9932,11 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "panasonic_lumix_dmc_tz5",
-    "display_name": "Panasonic Lumix DMC-TZ5",
-    "brand": "Panasonic",
-    "series": "Lumix TZ/ZS",
-    "release_year": 2010,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "panasonic_lumix_dmc_tz50",
     "display_name": "Panasonic Lumix DMC-TZ50",
     "brand": "Panasonic",
     "series": "Lumix TZ/ZS",
     "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_zs1",
-    "display_name": "Panasonic Lumix DMC-ZS1",
-    "brand": "Panasonic",
-    "series": "Lumix TZ/ZS",
-    "release_year": 2006,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_zs10",
-    "display_name": "Panasonic Lumix DMC-ZS10",
-    "brand": "Panasonic",
-    "series": "Lumix TZ/ZS",
-    "release_year": 2011,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_zs15",
-    "display_name": "Panasonic Lumix DMC-ZS15",
-    "brand": "Panasonic",
-    "series": "Lumix TZ/ZS",
-    "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_zs20",
-    "display_name": "Panasonic Lumix DMC-ZS20",
-    "brand": "Panasonic",
-    "series": "Lumix TZ/ZS",
-    "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_zs25",
-    "display_name": "Panasonic Lumix DMC-ZS25",
-    "brand": "Panasonic",
-    "series": "Lumix TZ/ZS",
-    "release_year": 2013,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_zs30",
-    "display_name": "Panasonic Lumix DMC-ZS30",
-    "brand": "Panasonic",
-    "series": "Lumix TZ/ZS",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-ZS30",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-TZ40",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-TZ40"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_zs45",
-    "display_name": "Panasonic Lumix DMC-ZS45",
-    "brand": "Panasonic",
-    "series": "Lumix TZ/ZS",
-    "release_year": 2015,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_zs7",
-    "display_name": "Panasonic Lumix DMC-ZS7",
-    "brand": "Panasonic",
-    "series": "Lumix TZ/ZS",
-    "release_year": 2010,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_zs8",
-    "display_name": "Panasonic Lumix DMC-ZS8",
-    "brand": "Panasonic",
-    "series": "Lumix TZ/ZS",
-    "release_year": 2011,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Panasonic catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",

@@ -36,6 +36,7 @@ Generated: 2026-05-25
 | Casio | Exilim V | 2 | 0 | 0 | 2 | 2 |
 | Casio | Exilim Z | 87 | 10 | 10 | 77 | 87 |
 | Casio | QV | 14 | 0 | 0 | 14 | 14 |
+| Fujifilm | FinePix | 26 | 26 | 26 | 0 | 26 |
 | Fujifilm | FinePix A | 23 | 3 | 2 | 20 | 23 |
 | Fujifilm | FinePix AV | 6 | 0 | 0 | 6 | 6 |
 | Fujifilm | FinePix F | 26 | 21 | 17 | 5 | 26 |
@@ -49,8 +50,9 @@ Generated: 2026-05-25
 | Fujifilm | FinePix T | 6 | 5 | 5 | 1 | 6 |
 | Fujifilm | FinePix XP | 14 | 14 | 14 | 0 | 14 |
 | Fujifilm | FinePix Z | 28 | 19 | 19 | 9 | 28 |
-| Fujifilm | X | 1 | 1 | 0 | 0 | 1 |
-| Fujifilm | X100 | 5 | 3 | 3 | 2 | 5 |
+| Fujifilm | X | 1 | 1 | 1 | 0 | 1 |
+| Fujifilm | X compact | 15 | 15 | 15 | 0 | 15 |
+| Fujifilm | X100 | 5 | 4 | 4 | 1 | 5 |
 | Fujifilm | XF compact | 1 | 1 | 1 | 0 | 1 |
 | GE | GE compact | 2 | 1 | 0 | 1 | 2 |
 | GE | Power Pro X | 1 | 1 | 0 | 0 | 1 |
@@ -111,30 +113,47 @@ Generated: 2026-05-25
 | Nikon | COOLPIX S | 70 | 40 | 38 | 30 | 70 |
 | Nikon | COOLPIX W | 3 | 3 | 3 | 0 | 3 |
 | OM System | Tough | 1 | 1 | 1 | 0 | 1 |
-| Olympus | C series | 60 | 14 | 0 | 46 | 60 |
-| Olympus | CAMEDIA series | 2 | 0 | 0 | 2 | 2 |
-| Olympus | FE series | 43 | 23 | 22 | 20 | 43 |
-| Olympus | SP series | 18 | 5 | 5 | 13 | 18 |
-| Olympus | SZ series | 7 | 5 | 5 | 2 | 7 |
+| Olympus | C series | 60 | 40 | 35 | 20 | 60 |
+| Olympus | CAMEDIA series | 2 | 1 | 1 | 1 | 2 |
+| Olympus | FE | 4 | 4 | 4 | 0 | 4 |
+| Olympus | FE series | 43 | 27 | 26 | 16 | 43 |
+| Olympus | SH | 7 | 7 | 7 | 0 | 7 |
+| Olympus | SP | 1 | 1 | 1 | 0 | 1 |
+| Olympus | SP series | 18 | 17 | 17 | 1 | 18 |
+| Olympus | STYLUS | 2 | 2 | 2 | 0 | 2 |
+| Olympus | SZ | 2 | 2 | 2 | 0 | 2 |
+| Olympus | SZ series | 7 | 6 | 6 | 1 | 7 |
 | Olympus | Stylus XZ | 1 | 1 | 1 | 0 | 1 |
 | Olympus | Stylus/mju Digital | 4 | 2 | 1 | 2 | 4 |
+| Olympus | TG | 5 | 5 | 5 | 0 | 5 |
 | Olympus | Tough | 1 | 1 | 1 | 0 | 1 |
 | Olympus | Tough/TG | 15 | 15 | 15 | 0 | 15 |
+| Olympus | VG | 4 | 4 | 4 | 0 | 4 |
 | Olympus | VG series | 4 | 3 | 3 | 1 | 4 |
+| Olympus | VH | 2 | 2 | 2 | 0 | 2 |
 | Olympus | VH series | 2 | 2 | 2 | 0 | 2 |
+| Olympus | VR | 2 | 2 | 2 | 0 | 2 |
 | Olympus | VR series | 4 | 1 | 1 | 3 | 4 |
 | Olympus | XZ series | 1 | 1 | 1 | 0 | 1 |
-| Panasonic | Lumix FP | 6 | 3 | 3 | 3 | 6 |
-| Panasonic | Lumix FS | 11 | 0 | 0 | 11 | 11 |
-| Panasonic | Lumix FX | 21 | 2 | 2 | 19 | 21 |
-| Panasonic | Lumix FZ | 26 | 6 | 6 | 20 | 26 |
-| Panasonic | Lumix LC | 9 | 0 | 0 | 9 | 9 |
+| Olympus | μ | 38 | 38 | 38 | 0 | 38 |
+| Panasonic | Lumix F | 3 | 3 | 3 | 0 | 3 |
+| Panasonic | Lumix FH | 13 | 13 | 13 | 0 | 13 |
+| Panasonic | Lumix FP | 6 | 6 | 6 | 0 | 6 |
+| Panasonic | Lumix FS | 11 | 9 | 9 | 2 | 11 |
+| Panasonic | Lumix FX | 27 | 23 | 23 | 4 | 27 |
+| Panasonic | Lumix FZ | 28 | 24 | 24 | 4 | 28 |
+| Panasonic | Lumix LC | 9 | 3 | 3 | 6 | 9 |
 | Panasonic | Lumix LF | 1 | 1 | 1 | 0 | 1 |
-| Panasonic | Lumix LX | 8 | 4 | 4 | 4 | 8 |
-| Panasonic | Lumix LZ | 11 | 1 | 0 | 10 | 11 |
-| Panasonic | Lumix SZ | 6 | 0 | 0 | 6 | 6 |
-| Panasonic | Lumix TS/FT | 11 | 1 | 1 | 10 | 11 |
-| Panasonic | Lumix TZ/ZS | 18 | 5 | 5 | 13 | 18 |
+| Panasonic | Lumix LX | 10 | 9 | 9 | 1 | 10 |
+| Panasonic | Lumix LZ | 11 | 2 | 1 | 9 | 11 |
+| Panasonic | Lumix S | 2 | 2 | 2 | 0 | 2 |
+| Panasonic | Lumix SZ | 7 | 6 | 6 | 1 | 7 |
+| Panasonic | Lumix TS/FT | 11 | 10 | 10 | 1 | 11 |
+| Panasonic | Lumix TZ | 2 | 2 | 2 | 0 | 2 |
+| Panasonic | Lumix TZ/ZS | 18 | 16 | 16 | 2 | 18 |
+| Panasonic | Lumix XS | 1 | 1 | 1 | 0 | 1 |
+| Panasonic | Lumix ZR | 2 | 2 | 2 | 0 | 2 |
+| Panasonic | Lumix ZS | 3 | 3 | 3 | 0 | 3 |
 | Panasonic | Lumix ZS/TZ | 1 | 1 | 1 | 0 | 1 |
 | Pentax | Optio | 87 | 3 | 0 | 84 | 87 |
 | Pentax | WG | 1 | 1 | 1 | 0 | 1 |
@@ -153,15 +172,23 @@ Generated: 2026-05-25
 | Sigma | DP | 10 | 1 | 1 | 9 | 10 |
 | Sigma | DP Merrill | 2 | 2 | 2 | 0 | 2 |
 | Sigma | dp Quattro | 4 | 4 | 4 | 0 | 4 |
+| Sony | Cyber-shot DSC-F | 3 | 3 | 3 | 0 | 3 |
+| Sony | Cyber-shot DSC-G | 2 | 2 | 2 | 0 | 2 |
 | Sony | Cyber-shot DSC-H | 16 | 12 | 11 | 4 | 16 |
 | Sony | Cyber-shot DSC-HX | 17 | 17 | 17 | 0 | 17 |
+| Sony | Cyber-shot DSC-L | 1 | 1 | 1 | 0 | 1 |
+| Sony | Cyber-shot DSC-N | 2 | 2 | 2 | 0 | 2 |
+| Sony | Cyber-shot DSC-P | 10 | 10 | 10 | 0 | 10 |
+| Sony | Cyber-shot DSC-R | 1 | 1 | 1 | 0 | 1 |
+| Sony | Cyber-shot DSC-RX | 1 | 1 | 1 | 0 | 1 |
 | Sony | Cyber-shot DSC-RX1 | 3 | 3 | 3 | 0 | 3 |
 | Sony | Cyber-shot DSC-RX10 | 4 | 4 | 4 | 0 | 4 |
 | Sony | Cyber-shot DSC-RX100 | 8 | 8 | 8 | 0 | 8 |
-| Sony | Cyber-shot DSC-T | 27 | 24 | 22 | 3 | 27 |
+| Sony | Cyber-shot DSC-T | 27 | 24 | 24 | 3 | 27 |
 | Sony | Cyber-shot DSC-TX | 11 | 10 | 10 | 1 | 11 |
-| Sony | Cyber-shot DSC-W | 58 | 37 | 35 | 21 | 58 |
-| Sony | Cyber-shot DSC-WX | 18 | 17 | 17 | 1 | 18 |
+| Sony | Cyber-shot DSC-V | 2 | 2 | 2 | 0 | 2 |
+| Sony | Cyber-shot DSC-W | 58 | 37 | 37 | 21 | 58 |
+| Sony | Cyber-shot DSC-WX | 20 | 19 | 19 | 1 | 20 |
 | Sony | Cyber-shot HX | 1 | 1 | 1 | 0 | 1 |
 | Sony | Cyber-shot TX | 2 | 2 | 2 | 0 | 2 |
 | Sony | Cyber-shot W | 1 | 1 | 1 | 0 | 1 |
@@ -415,7 +442,6 @@ Generated: 2026-05-25
 | Fujifilm | FinePix Z |  | Fujifilm FinePix Z800EXR | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix Z |  | Fujifilm FinePix Z900EXR | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | FinePix Z |  | Fujifilm FinePix Z91 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
-| Fujifilm | X100 |  | Fujifilm X100S | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | Fujifilm | X100 |  | Fujifilm X100T | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Fujifilm_digital_cameras |
 | GE | GE compact |  | GE G1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/General_Imaging |
 | HP | PhotoSmart |  | HP PhotoSmart 120 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Hewlett-Packard |
@@ -798,61 +824,32 @@ Generated: 2026-05-25
 | Nikon | COOLPIX S |  | Nikon COOLPIX S700 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX S |  | Nikon COOLPIX S8 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
 | Nikon | COOLPIX S |  | Nikon COOLPIX S9 | Checked source but exact model match was not confirmed. | https://camera-wiki.org/wiki/Nikon_Coolpix |
-| Olympus | C series | 2001 | Olympus C-100 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series | 2003 | Olympus C-150 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series |  | Olympus C-160 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_C-160 |
 | Olympus | C series | 2005 | Olympus C-170 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series | 2005 | Olympus C-180 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series | 2001 | Olympus C-200 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series | 2020 | Olympus C-2020 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series | 2000 | Olympus C-2040 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series | 2000 | Olympus C-2100 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series | 2002 | Olympus C-300 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series |  | Olympus C-3000 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_C-3000_Zoom |
-| Olympus | C series | 2000 | Olympus C-3030 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series | 2004 | Olympus C-310 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series | 2005 | Olympus C-315 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series | 2003 | Olympus C-350 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series | 2004 | Olympus C-360 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series | 2004 | Olympus C-370 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series |  | Olympus C-400 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series |  | Olympus C-4000 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_C-4000_Zoom |
-| Olympus | C series | 2001 | Olympus C-4040 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series | 2004 | Olympus C-460 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series |  | Olympus C-470 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_D-590z |
 | Olympus | C series | 2002 | Olympus C-50 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series | 2005 | Olympus C-500 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series | 2002 | Olympus C-5000 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series |  | Olympus C-5060 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_C-5060_WideZoom |
 | Olympus | C series | 2005 | Olympus C-55 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series |  | Olympus C-60 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_C-60_Zoom |
-| Olympus | C series |  | Olympus C-70 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_C-7000_Zoom |
-| Olympus | C series |  | Olympus C-700 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_C-700_Ultra_Zoom |
-| Olympus | C series |  | Olympus C-7070 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_C-7070_WideZoom |
-| Olympus | C series | 2002 | Olympus C-720 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series |  | Olympus C-725 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_C-725_Ultra_Zoom |
-| Olympus | C series | 2002 | Olympus C-730 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series | 2003 | Olympus C-740 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series |  | Olympus C-750 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_C-750_Ultra_Zoom |
-| Olympus | C series | 2004 | Olympus C-760 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series | 2004 | Olympus C-765 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series | 2004 | Olympus C-770 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series |  | Olympus C-800L | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_C-800L |
-| Olympus | C series | 2004 | Olympus C-8080 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series | 1998 | Olympus C-840L | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series | 1998 | Olympus C-900 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series | 1999 | Olympus C-920 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | C series | 2000 | Olympus C-960 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | C series | 2000 | Olympus C-990 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | CAMEDIA series |  | Olympus Camedia C-1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_Camedia_C-1 |
 | Olympus | CAMEDIA series | 2001 | Olympus Camedia C-2 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | FE series | 2005 | Olympus FE-100 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | FE series | 2005 | Olympus FE-110 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | FE series | 2006 | Olympus FE-120 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | FE series | 2006 | Olympus FE-130 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | FE series | 2006 | Olympus FE-140 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | FE series | 2006 | Olympus FE-170 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | FE series | 2006 | Olympus FE-180 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | FE series | 2008 | Olympus FE-20 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | FE series | 2007 | Olympus FE-210 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | FE series | 2009 | Olympus FE-25 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
@@ -863,135 +860,45 @@ Generated: 2026-05-25
 | Olympus | FE series |  | Olympus FE-35 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | FE series |  | Olympus FE-40 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | FE series |  | Olympus FE-4040 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_FE-4040 |
-| Olympus | FE series | 2009 | Olympus FE-46 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | FE series | 2010 | Olympus FE-47 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | FE series |  | Olympus FE-5000 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_FE-5010 |
 | Olympus | SP series | 2005 | Olympus SP-310 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | SP series | 2006 | Olympus SP-320 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | SP series | 2005 | Olympus SP-350 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | SP series | 2005 | Olympus SP-500UZ | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | SP series | 2006 | Olympus SP-510UZ | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | SP series | 2007 | Olympus SP-550UZ | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | SP series | 2007 | Olympus SP-560UZ | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | SP series | 2008 | Olympus SP-570UZ | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | SP series | 2009 | Olympus SP-590UZ | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | SP series | 2010 | Olympus SP-600UZ | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | SP series | 2011 | Olympus SP-610UZ | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | SP series | 2012 | Olympus SP-620UZ | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | SP series | 2012 | Olympus SP-820UZ | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | SZ series | 2012 | Olympus SZ-12 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Olympus | SZ series | 2012 | Olympus SZ-31MR iHS | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | Stylus/mju Digital | 2003 | Olympus Stylus 400 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_Stylus_%C2%B5_digital_cameras |
 | Olympus | Stylus/mju Digital | 2005 | Olympus Stylus 500 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus_Stylus_%C2%B5_digital_cameras |
 | Olympus | VG series | 2012 | Olympus VG-160 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | VR series |  | Olympus VR-3040 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | VR series | 2011 | Olympus VR-330 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
 | Olympus | VR series | 2012 | Olympus VR-340 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Olympus |
-| Panasonic | Lumix FP | 2011 | Panasonic Lumix DMC-FP5 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FP | 2011 | Panasonic Lumix DMC-FP7 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FP | 2009 | Panasonic Lumix DMC-FP8 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix FS | 2009 | Panasonic Lumix DMC-FS12 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FS | 2009 | Panasonic Lumix DMC-FS15 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FS | 2008 | Panasonic Lumix DMC-FS20 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FS | 2009 | Panasonic Lumix DMC-FS25 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FS | 2008 | Panasonic Lumix DMC-FS3 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FS | 2009 | Panasonic Lumix DMC-FS4 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FS | 2009 | Panasonic Lumix DMC-FS42 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FS | 2008 | Panasonic Lumix DMC-FS5 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FS | 2009 | Panasonic Lumix DMC-FS6 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix FS |  | Panasonic Lumix DMC-FS62 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FS62 |
-| Panasonic | Lumix FS |  | Panasonic Lumix DMC-FS7 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FS7 |
-| Panasonic | Lumix FX |  | Panasonic Lumix DMC-FX07 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FX07 |
-| Panasonic | Lumix FX | 2007 | Panasonic Lumix DMC-FX100 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FX | 2008 | Panasonic Lumix DMC-FX150 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FX | 2007 | Panasonic Lumix DMC-FX33 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FX | 2008 | Panasonic Lumix DMC-FX35 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FX | 2008 | Panasonic Lumix DMC-FX37 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FX | 2009 | Panasonic Lumix DMC-FX48 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FX |  | Panasonic Lumix DMC-FX50 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FX50 |
-| Panasonic | Lumix FX | 2008 | Panasonic Lumix DMC-FX500 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FX | 2009 | Panasonic Lumix DMC-FX580 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FX | 2009 | Panasonic Lumix DMC-FX65 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix FX | 2010 | Panasonic Lumix DMC-FX68 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix FX | 2013 | Panasonic Lumix DMC-FX70 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FX |  | Panasonic Lumix DMC-FX700 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FX700 |
-| Panasonic | Lumix FX | 2010 | Panasonic Lumix DMC-FX75 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix FX |  | Panasonic Lumix DMC-FX78 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FX |  | Panasonic Lumix DMC-FX8 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FX8 |
-| Panasonic | Lumix FX | 2005 | Panasonic Lumix DMC-FX9 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix FX | 2011 | Panasonic Lumix DMC-FX90 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix FZ | 2024 | Panasonic Lumix DC-FZ80D | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FZ |  | Panasonic Lumix DMC-FZ100 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FZ100 |
 | Panasonic | Lumix FZ | 2019 | Panasonic Lumix DMC-FZ1000II | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FZ | 2011 | Panasonic Lumix DMC-FZ150 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FZ | 2007 | Panasonic Lumix DMC-FZ18 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FZ |  | Panasonic Lumix DMC-FZ2 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_DMC-FZ2 |
-| Panasonic | Lumix FZ |  | Panasonic Lumix DMC-FZ20 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_DMC-FZ20 |
 | Panasonic | Lumix FZ | 2017 | Panasonic Lumix DMC-FZ2000 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FZ | 2008 | Panasonic Lumix DMC-FZ28 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FZ | 2004 | Panasonic Lumix DMC-FZ3 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FZ |  | Panasonic Lumix DMC-FZ30 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_DMC-FZ30 |
 | Panasonic | Lumix FZ | 2009 | Panasonic Lumix DMC-FZ38 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FZ | 2010 | Panasonic Lumix DMC-FZ40 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FZ | 2011 | Panasonic Lumix DMC-FZ47 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FZ |  | Panasonic Lumix DMC-FZ5 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_DMC-FZ5 |
-| Panasonic | Lumix FZ |  | Panasonic Lumix DMC-FZ50 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_DMC-FZ50 |
-| Panasonic | Lumix FZ | 2012 | Panasonic Lumix DMC-FZ60 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FZ |  | Panasonic Lumix DMC-FZ7 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_DMC-FZ7 |
-| Panasonic | Lumix FZ | 2013 | Panasonic Lumix DMC-FZ70 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix FZ |  | Panasonic Lumix DMC-FZ8 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FZ8 |
-| Panasonic | Lumix LC |  | Panasonic Lumix DMC-LC1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_DMC-LC1 |
 | Panasonic | Lumix LC |  | Panasonic Lumix DMC-LC20 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LC |  | Panasonic Lumix DMC-LC33 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix LC |  | Panasonic Lumix DMC-LC40 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_DMC-LC40 |
 | Panasonic | Lumix LC |  | Panasonic Lumix DMC-LC43 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix LC |  | Panasonic Lumix DMC-LC5 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-LC5 |
 | Panasonic | Lumix LC |  | Panasonic Lumix DMC-LC50 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LC |  | Panasonic Lumix DMC-LC70 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LC |  | Panasonic Lumix DMC-LC80 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LX | 2018 | Panasonic Lumix DC-LX100 II | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix LX |  | Panasonic Lumix DMC-LX1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_DMC-LX1 |
-| Panasonic | Lumix LX |  | Panasonic Lumix DMC-LX10 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix LX |  | Panasonic Lumix DMC-LX2 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_DMC-LX2 |
 | Panasonic | Lumix LZ | 2008 | Panasonic Lumix DMC-LZ10 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LZ | 2005 | Panasonic Lumix DMC-LZ2 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LZ | 2012 | Panasonic Lumix DMC-LZ20 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LZ | 2006 | Panasonic Lumix DMC-LZ3 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LZ | 2013 | Panasonic Lumix DMC-LZ30 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix LZ | 2014 | Panasonic Lumix DMC-LZ40 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LZ | 2006 | Panasonic Lumix DMC-LZ5 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LZ | 2007 | Panasonic Lumix DMC-LZ6 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LZ | 2008 | Panasonic Lumix DMC-LZ7 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix LZ | 2008 | Panasonic Lumix DMC-LZ8 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix SZ | 2012 | Panasonic Lumix DMC-SZ1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix SZ | 2015 | Panasonic Lumix DMC-SZ10 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix SZ | 2013 | Panasonic Lumix DMC-SZ3 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix SZ |  | Panasonic Lumix DMC-SZ5 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-SZ5 |
-| Panasonic | Lumix SZ | 2012 | Panasonic Lumix DMC-SZ7 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix SZ | 2014 | Panasonic Lumix DMC-SZ8 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TS/FT | 2009 | Panasonic Lumix DMC-TS1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TS/FT | 2010 | Panasonic Lumix DMC-TS10 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TS/FT | 2010 | Panasonic Lumix DMC-TS2 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TS/FT | 2012 | Panasonic Lumix DMC-TS20 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TS/FT | 2013 | Panasonic Lumix DMC-TS25 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TS/FT |  | Panasonic Lumix DMC-TS3 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-TS3 |
-| Panasonic | Lumix TS/FT | 2015 | Panasonic Lumix DMC-TS30 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TS/FT | 2012 | Panasonic Lumix DMC-TS4 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TS/FT | 2013 | Panasonic Lumix DMC-TS5 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix TS/FT | 2015 | Panasonic Lumix DMC-TS6 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TZ/ZS | 2019 | Panasonic Lumix DC-ZS80 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix TZ/ZS | 2024 | Panasonic Lumix DC-ZS99 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TZ/ZS | 2010 | Panasonic Lumix DMC-TZ5 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Panasonic | Lumix TZ/ZS | 2008 | Panasonic Lumix DMC-TZ50 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TZ/ZS | 2006 | Panasonic Lumix DMC-ZS1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TZ/ZS | 2011 | Panasonic Lumix DMC-ZS10 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TZ/ZS | 2012 | Panasonic Lumix DMC-ZS15 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TZ/ZS | 2012 | Panasonic Lumix DMC-ZS20 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TZ/ZS | 2013 | Panasonic Lumix DMC-ZS25 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TZ/ZS |  | Panasonic Lumix DMC-ZS30 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-TZ40 |
-| Panasonic | Lumix TZ/ZS | 2015 | Panasonic Lumix DMC-ZS45 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TZ/ZS | 2010 | Panasonic Lumix DMC-ZS7 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
-| Panasonic | Lumix TZ/ZS | 2011 | Panasonic Lumix DMC-ZS8 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Panasonic |
 | Pentax | Optio |  | Pentax Optio 230 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Pentax |
 | Pentax | Optio |  | Pentax Optio 30 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Pentax |
 | Pentax | Optio |  | Pentax Optio 330 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Pentax |

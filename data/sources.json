@@ -7893,6 +7893,15 @@
     "notes": "Fujifilm official NP-45S compatibility chart lists FinePix XP130 as compatible with rechargeable battery NP-45S."
   },
   {
+    "source_id": "fujifilm_fujifilm_np_45s_official_compatibility_https_www_fujifilm_x_com_global_products_accessories_np_45s",
+    "source_name": "Fujifilm NP-45S official compatibility",
+    "source_url": "https://www.fujifilm-x.com/global/products/accessories/np-45s/",
+    "source_type": "official_accessory_page",
+    "publisher": "Fujifilm",
+    "last_verified": "2026-05-25",
+    "notes": "FUJIFILM official NP-45S compatibility page lists FinePix Z950EXR as compatible."
+  },
+  {
     "source_id": "fujifilm_fujifilm_np_50_official_compatibility_chart_https_www_fujifilm_x_com_global_products_accessories_np_50",
     "source_name": "Fujifilm NP-50 Official Compatibility Chart",
     "source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
@@ -7900,6 +7909,15 @@
     "publisher": "Fujifilm",
     "last_verified": "2026-05-25",
     "notes": "Fujifilm official NP-50 compatibility information lists FinePix F505EXR as compatible with Li-ion battery NP-50."
+  },
+  {
+    "source_id": "fujifilm_fujifilm_np_50_official_compatibility_https_www_fujifilm_x_com_global_products_accessories_np_50",
+    "source_name": "Fujifilm NP-50 official compatibility",
+    "source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "source_type": "official_accessory_page",
+    "publisher": "Fujifilm",
+    "last_verified": "2026-05-25",
+    "notes": "FUJIFILM official NP-50 compatibility page lists FinePix F850EXR as compatible."
   },
   {
     "source_id": "fujifilm_fujifilm_np_50_official_compatibility_page_https_www_fujifilm_x_com_global_products_accessories_np_50",
@@ -7920,6 +7938,15 @@
     "notes": "Fujifilm official NP-95 compatibility chart lists FinePix F31fd as compatible with rechargeable battery NP-95."
   },
   {
+    "source_id": "fujifilm_fujifilm_np_95_official_compatibility_https_www_fujifilm_x_com_global_products_accessories_np_95",
+    "source_name": "Fujifilm NP-95 official compatibility",
+    "source_url": "https://www.fujifilm-x.com/global/products/accessories/np-95/",
+    "source_type": "official_accessory_page",
+    "publisher": "Fujifilm",
+    "last_verified": "2026-05-25",
+    "notes": "FUJIFILM official NP-95 compatibility page lists FinePix F31fd as compatible."
+  },
+  {
     "source_id": "fujifilm_fujifilm_np_w126_official_compatibility_chart_https_www_fujifilm_x_com_en_gb_support_compatibility_np_w126",
     "source_name": "Fujifilm NP-W126 Official Compatibility Chart",
     "source_url": "https://www.fujifilm-x.com/en-gb/support_compatibility/np-w126",
@@ -7927,6 +7954,15 @@
     "publisher": "Fujifilm",
     "last_verified": "2026-05-25",
     "notes": "Fujifilm official NP-W126 compatibility chart lists FinePix HS30EXR as compatible with rechargeable battery NP-W126."
+  },
+  {
+    "source_id": "fujifilm_fujifilm_np_w126s_official_compatibility_https_www_fujifilm_x_com_global_products_accessories_np_w126s",
+    "source_name": "Fujifilm NP-W126S official compatibility",
+    "source_url": "https://www.fujifilm-x.com/global/products/accessories/np-w126s/",
+    "source_type": "official_accessory_page",
+    "publisher": "Fujifilm",
+    "last_verified": "2026-05-25",
+    "notes": "FUJIFILM official NP-W126S compatibility page lists FinePix HS50EXR as compatible."
   },
   {
     "source_id": "fujifilm_fujifilm_x100v_online_manual_specifications_https_fujifilm_dsc_com_en_manual_x100v_technical_notes_spec_index_h",
@@ -9198,6 +9234,15 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "olympus_om_system_compact_camera_official_battery_compatibility_table_https_support_jp_omsystem_com_jp_support_cs_di_acc",
+    "source_name": "OM SYSTEM compact camera official battery compatibility table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "publisher": "Olympus",
+    "last_verified": "2026-05-25",
+    "notes": "OM SYSTEM official compact camera battery table lists AA battery support for C-1Zoom; quantity is not stated in the extracted row."
+  },
+  {
     "source_id": "olympus_om_system_official_compact_camera_battery_table_https_support_jp_omsystem_com_jp_support_cs_di_accm_di000409j_ht",
     "source_name": "OM SYSTEM Official Compact Camera Battery Table",
     "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
@@ -9358,6 +9403,15 @@
     "publisher": "Panasonic",
     "last_verified": "2026-05-25",
     "notes": "Panasonic official battery compatibility page: DC-TS7 battery part number is DMW-BCM13."
+  },
+  {
+    "source_id": "panasonic_panasonic_official_lumix_battery_compatibility_page_https_help_na_panasonic_com_answers_parts_and_accessories",
+    "source_name": "Panasonic official LUMIX battery compatibility page",
+    "source_url": "https://help.na.panasonic.com/answers/parts-and-accessories-what-battery-is-compatible-with-my-lumix-camera/",
+    "source_type": "official_accessory_page",
+    "publisher": "Panasonic",
+    "last_verified": "2026-05-25",
+    "notes": "Panasonic official LUMIX battery compatibility page identifies DMW-BCG10 as the battery part number for DMC-ZS8."
   },
   {
     "source_id": "panasonic_panasonic_support_charging_instructions_dc_zs70_https_help_na_panasonic_com_answers_how_to_charge_the_battery",
@@ -9685,12 +9739,12 @@
   },
   {
     "source_id": "sony_sony_cyber_shot_official_battery_compatibility_table_https_www_sony_jp_support_cyber_shot_accy_battery_html",
-    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_name": "Sony Cyber-shot official battery compatibility table",
     "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
     "source_type": "official_accessory_page",
     "publisher": "Sony",
     "last_verified": "2026-05-25",
-    "notes": "Sony official battery compatibility table: DSC-WX170 is compatible with NP-BN1."
+    "notes": "Sony official battery compatibility table lists DSC-N2 with compatible battery NP-FG1."
   },
   {
     "source_id": "sony_sony_dsc_h90_official_specifications_https_www_sony_es_electronics_support_compact_cameras_dsc_h_series_dsc_h90_spe",
