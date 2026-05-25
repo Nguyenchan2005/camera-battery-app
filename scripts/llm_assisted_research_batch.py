@@ -109,11 +109,29 @@ def all_camera_terms(candidate: dict[str, Any], aliases: list[str] | None = None
     terms = [candidate["display_name"], candidate["model"], *candidate.get("aliases", []), *(aliases or [])]
     for names in (candidate.get("regional_names") or {}).values():
         terms.extend(names)
+    identifier_patterns = [
+        r"\bDSC-[A-Z0-9-]+\b",
+        r"\b(?:DMC|DC)-[A-Z0-9-]+\b",
+        r"\bEX-[A-Z0-9-]+\b",
+    ]
+    identifier_text = " ".join(str(term) for term in terms if term)
+    for pattern in identifier_patterns:
+        terms.extend(re.findall(pattern, identifier_text, flags=re.I))
     return dedupe_aliases([term for term in terms if term])
 
 
 def source_confirms_camera(candidate: dict[str, Any], evidence: dict[str, Any]) -> bool:
-    return exact_model_match(candidate["model"], evidence["source_text"], all_camera_terms(candidate, evidence.get("aliases_found", [])))
+    terms = all_camera_terms(candidate, evidence.get("aliases_found", []))
+    if exact_model_match(candidate["model"], evidence["source_text"], terms):
+        return True
+    normalized_text = normalize_for_match(evidence["source_text"])
+    for term in terms:
+        normalized_identifier = normalize_for_match(term)
+        if not re.fullmatch(r"(?:dsc|dmc|dc|ex)\s+[a-z0-9]+", normalized_identifier):
+            continue
+        if re.search(r"(?<![a-z0-9])" + re.escape(normalized_identifier).replace(r"\ ", r"\s+") + r"(?![a-z0-9])", normalized_text):
+            return True
+    return False
 
 
 def source_confirms_battery(evidence: dict[str, Any]) -> bool:

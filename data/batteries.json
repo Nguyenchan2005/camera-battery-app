@@ -310,6 +310,16 @@
     "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
   },
   {
+    "battery_id": "fujifilm_np_45",
+    "brand": "Fujifilm",
+    "model": "NP-45",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
     "battery_id": "fujifilm_np_45s",
     "brand": "Fujifilm",
     "model": "NP-45S",
@@ -675,6 +685,16 @@
     "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
   },
   {
+    "battery_id": "olympus_li_12b",
+    "brand": "Olympus",
+    "model": "LI-12B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
     "battery_id": "olympus_li_42b",
     "brand": "Olympus",
     "model": "LI-42B",
@@ -693,6 +713,16 @@
     "voltage": null,
     "capacity_mah": null,
     "notes": "Added by popular compact verifier from explicit manual_battery_sources.json source text."
+  },
+  {
+    "battery_id": "olympus_li_70b",
+    "brand": "Olympus",
+    "model": "LI-70B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
   },
   {
     "battery_id": "olympus_li_90b",
@@ -715,6 +745,66 @@
     "notes": "OM System LI-92B accessory page lists 3.6 V and 1350 mAh."
   },
   {
+    "battery_id": "panasonic_cgas002a1b",
+    "brand": "Panasonic",
+    "model": "CGAS002A1B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
+    "battery_id": "panasonic_cgas004a1b",
+    "brand": "Panasonic",
+    "model": "CGAS004A1B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
+    "battery_id": "panasonic_cgas005a1b",
+    "brand": "Panasonic",
+    "model": "CGAS005A1B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
+    "battery_id": "panasonic_cgas007a1b",
+    "brand": "Panasonic",
+    "model": "CGAS007A1B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
+    "battery_id": "panasonic_dmw_bch7",
+    "brand": "Panasonic",
+    "model": "DMW-BCH7",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
+    "battery_id": "panasonic_dmw_bcj13",
+    "brand": "Panasonic",
+    "model": "DMW-BCJ13",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
     "battery_id": "panasonic_dmw_bcj13pp",
     "brand": "Panasonic",
     "model": "DMW-BCJ13PP",
@@ -725,9 +815,29 @@
     "notes": "Added by web-assisted verifier from an explicit source-backed battery mapping."
   },
   {
+    "battery_id": "panasonic_dmw_bcm13",
+    "brand": "Panasonic",
+    "model": "DMW-BCM13",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
     "battery_id": "panasonic_dmw_bcm13pp",
     "brand": "Panasonic",
     "model": "DMW-BCM13PP",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
+    "battery_id": "panasonic_dmw_bcn10",
+    "brand": "Panasonic",
+    "model": "DMW-BCN10",
     "aliases": [],
     "chemistry": "lithium-ion",
     "voltage": null,
@@ -823,6 +933,16 @@
     "voltage": 3.7,
     "capacity_mah": 700,
     "notes": "Samsung manual sources list 700 mAh or min 700 mAh depending model."
+  },
+  {
+    "battery_id": "samsung_bp88a",
+    "brand": "Samsung",
+    "model": "BP88A",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 3.7,
+    "capacity_mah": 880,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
   },
   {
     "battery_id": "samsung_bp_1410",
@@ -947,6 +1067,16 @@
     "notes": "Added by import_all_remaining.py; electrical details left blank unless source-backed."
   },
   {
+    "battery_id": "sony_np_fd1",
+    "brand": "Sony",
+    "model": "NP-FD1",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
     "battery_id": "sony_np_fe1",
     "brand": "Sony",
     "model": "NP-FE1",
@@ -960,6 +1090,16 @@
     "battery_id": "sony_np_fh50",
     "brand": "Sony",
     "model": "NP-FH50",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
+    "battery_id": "sony_np_fh50_5",
+    "brand": "Sony",
+    "model": "NP-FH50/5",
     "aliases": [],
     "chemistry": "lithium-ion",
     "voltage": null,

@@ -4,19 +4,19 @@ Generated: 2026-05-25
 
 ## Summary
 
-- Cameras: 614
-- Compatibility rows: 791
-- Cameras with at least one high-confidence verified battery row: 538
+- Cameras: 717
+- Compatibility rows: 894
+- Cameras with at least one high-confidence verified battery row: 640
 - Cameras with unknown battery mapping rows: 0
-- Cameras with aliases or regional names: 606
+- Cameras with aliases or regional names: 709
 
 ## Cameras By Brand
 
 | Brand | Cameras | High rows | Medium rows | Low rows |
 | --- | ---: | ---: | ---: | ---: |
 | Canon | 223 | 373 | 1 | 0 |
-| Casio | 10 | 11 | 0 | 0 |
-| Fujifilm | 91 | 77 | 14 | 0 |
+| Casio | 17 | 18 | 0 | 0 |
+| Fujifilm | 93 | 79 | 14 | 0 |
 | GE | 2 | 0 | 2 | 0 |
 | HP | 1 | 0 | 1 | 0 |
 | Kodak | 6 | 5 | 1 | 0 |
@@ -24,15 +24,15 @@ Generated: 2026-05-25
 | Konica Minolta | 6 | 1 | 4 | 1 |
 | Leica | 4 | 4 | 0 | 0 |
 | Minolta | 4 | 0 | 6 | 0 |
-| Nikon | 95 | 82 | 21 | 0 |
+| Nikon | 97 | 84 | 21 | 0 |
 | OM System | 1 | 1 | 0 | 0 |
-| Olympus | 35 | 19 | 22 | 0 |
-| Panasonic | 12 | 11 | 1 | 0 |
+| Olympus | 73 | 57 | 22 | 0 |
+| Panasonic | 24 | 23 | 1 | 0 |
 | Pentax | 4 | 1 | 4 | 0 |
 | Ricoh | 6 | 3 | 3 | 0 |
-| Samsung | 6 | 1 | 4 | 2 |
+| Samsung | 7 | 1 | 5 | 2 |
 | Sigma | 7 | 7 | 0 | 0 |
-| Sony | 98 | 100 | 5 | 0 |
+| Sony | 139 | 141 | 5 | 0 |
 | Vivitar | 1 | 0 | 1 | 0 |
 
 ## Manual Check List
@@ -120,6 +120,7 @@ Generated: 2026-05-25
 | Ricoh | Ricoh Caplio GX100 | uses_aaa | medium | https://camera-wiki.org/wiki/Ricoh_Caplio_GX100 |
 | Ricoh | Ricoh Caplio RR120 | uses_aa | medium | https://camera-wiki.org/wiki/Ricoh_Caplio_RR120 |
 | Ricoh | Ricoh G600 | uses_aaa | medium | https://camera-wiki.org/wiki/Ricoh_G600 |
+| Samsung | Samsung DV300F | fully_compatible | medium | https://www.manualslib.com/manual/412593/Samsung-Dv300f.html?page=143 |
 | Samsung | Samsung Digimax 240 | fully_compatible | medium | https://camera-wiki.org/wiki/Samsung_Digimax_240 |
 | Samsung | Samsung Digimax 240 | uses_aa | medium | https://camera-wiki.org/wiki/Samsung_Digimax_240 |
 | Samsung | Samsung PL120 | fully_compatible | low | https://www.manualslib.com/manual/144210/Samsung-Pl120.html?page=117 |

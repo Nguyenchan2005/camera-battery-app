@@ -4488,6 +4488,54 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "casio_exilim_ex_10",
+    "battery_id": "casio_np_130a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "CASIO official NP-130A page lists EX-10 as a compatible EXILIM digital camera for lithium-ion rechargeable battery NP-130A.",
+    "source_name": "CASIO NP-130A Official Compatibility Page",
+    "source_url": "https://www.casio.com/jp/digital-cameras/options/product.NP-130A/",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_100",
+    "battery_id": "casio_np_130a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "CASIO official NP-130A page lists EX-100 as a compatible EXILIM digital camera for lithium-ion rechargeable battery NP-130A.",
+    "source_name": "CASIO NP-130A Official Compatibility Page",
+    "source_url": "https://www.casio.com/jp/digital-cameras/options/product.NP-130A/",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_h30",
+    "battery_id": "casio_np_130a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "CASIO official NP-130A page lists EX-H30 as a compatible EXILIM digital camera for lithium-ion rechargeable battery NP-130A.",
+    "source_name": "CASIO NP-130A Official Compatibility Page",
+    "source_url": "https://www.casio.com/jp/digital-cameras/options/product.NP-130A/",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_zr100",
+    "battery_id": "casio_np_130a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "CASIO official NP-130A page lists EX-ZR100 as a compatible EXILIM digital camera for lithium-ion rechargeable battery NP-130A.",
+    "source_name": "CASIO NP-130A Official Compatibility Page",
+    "source_url": "https://www.casio.com/jp/digital-cameras/options/product.NP-130A/",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "casio_exilim_ex_zr1000",
     "battery_id": "casio_np_130",
     "status": "fully_compatible",
@@ -4512,6 +4560,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "casio_exilim_ex_zr1500",
+    "battery_id": "casio_np_130a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "CASIO official Power Requirements for EX-ZR1500: the rechargeable NP-130A lithium-ion battery that comes with the camera can be used to power the camera.",
+    "source_name": "CASIO EX-ZR1500 Official Power Requirements",
+    "source_url": "https://support.casio.com/en/support/answer.php?cid=001016019006&num=3&qid=62954",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "casio_exilim_ex_zr20",
     "battery_id": "casio_np_110",
     "status": "fully_compatible",
@@ -4531,6 +4591,18 @@
     "note": "Official user guide for Exilim EX-ZR200: Rechargeable lithium ion battery (NP-130) x1.",
     "source_name": "Casio EX-ZR200 Official User Guide",
     "source_url": "https://support.casio.com/storage/en/manual/pdf/EN/001/EXZR200_M29_FB_EN.pdf",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_zr2000",
+    "battery_id": "casio_np_130a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "CASIO official Power Requirements for EX-ZR2000: the rechargeable NP-130A lithium-ion battery that comes with the camera can be used to power the camera.",
+    "source_name": "CASIO EX-ZR2000 Official Power Requirements",
+    "source_url": "https://support.casio.com/en/support/answer.php?cid=001016022006&num=1&qid=69859",
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-25"
@@ -4616,6 +4688,18 @@
     "source_name": "Casio EX-ZR800 Official Power Requirements",
     "source_url": "https://support.casio.com/en/support/answer.php?cid=001016015006&num=1&qid=51747",
     "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_zr850",
+    "battery_id": "casio_np_130a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "CASIO official NP-130A page lists EX-ZR850 as a compatible EXILIM digital camera for lithium-ion rechargeable battery NP-130A.",
+    "source_name": "CASIO NP-130A Official Compatibility Page",
+    "source_url": "https://www.casio.com/jp/digital-cameras/options/product.NP-130A/",
+    "source_type": "official_accessory_page",
     "confidence": "high",
     "last_verified": "2026-05-25"
   },
@@ -4878,6 +4962,18 @@
     "quantity_required": 1,
     "note": "Fujifilm official NP-50 compatibility information lists FinePix F800EXR as compatible with Li-ion battery NP-50.",
     "source_name": "Fujifilm NP-50 Official Compatibility Chart",
+    "source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_f80exr",
+    "battery_id": "fujifilm_np_50",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "FUJIFILM official Li-ion battery NP-50 compatibility list includes FinePix F80EXR.",
+    "source_name": "FUJIFILM NP-50 Official Compatibility Page",
     "source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
     "source_type": "official_accessory_page",
     "confidence": "high",
@@ -5479,6 +5575,18 @@
     "note": "Fujifilm official NP-45S compatibility chart lists FinePix Z20fd as compatible with rechargeable battery NP-45S.",
     "source_name": "Fujifilm NP-45S Official Compatibility Chart",
     "source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_z250fd",
+    "battery_id": "fujifilm_np_45",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "FUJIFILM official NP-45 Compatibility Chart lists FinePix Z250fd as compatible with battery NP-45.",
+    "source_name": "FUJIFILM NP-45 Official Compatibility Chart",
+    "source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45",
     "source_type": "official_accessory_page",
     "confidence": "high",
     "last_verified": "2026-05-25"
@@ -6528,6 +6636,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "nikon_coolpix_p1",
+    "battery_id": "nikon_en_el8",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon official guide for COOLPIX P1 and COOLPIX P2 specifies EN-EL8 Rechargeable Li-ion Battery for COOLPIX P1.",
+    "source_name": "Nikon COOLPIX P1/P2 Official Manual",
+    "source_url": "https://www.nikonusa.com/pdf/manuals/coolpix/P1P2_en.pdf",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "nikon_coolpix_p1000",
     "battery_id": "nikon_en_el20a",
     "status": "fully_compatible",
@@ -6550,6 +6670,18 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "nikon_coolpix_p2",
+    "battery_id": "nikon_en_el8",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Nikon official guide for COOLPIX P1 and COOLPIX P2 specifies EN-EL8 Rechargeable Li-ion Battery for COOLPIX P2.",
+    "source_name": "Nikon COOLPIX P1/P2 Official Manual",
+    "source_url": "https://www.nikonusa.com/pdf/manuals/coolpix/P1P2_en.pdf",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "nikon_coolpix_p300",
@@ -7272,6 +7404,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "olympus_5000",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official μ-series battery table lists Olympus μ 5000 (μ-5000) with compatible lithium-ion battery LI-42B.",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "olympus_c_120",
     "battery_id": "generic_cr_v3",
     "status": "fully_compatible",
@@ -7524,6 +7668,318 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "olympus_fe_150",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-150 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_190",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-190 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_200",
+    "battery_id": "olympus_li_12b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-200 with lithium-ion battery LI-12B (also LI-10B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_230",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-230 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_240",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-240 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_250",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-250 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_280",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-280 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_290",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-290 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_300",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-300 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_3000",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-3000 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_3010",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-3010 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_320",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-320 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_330",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-330 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_350",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-350 Wide (Olympus FE-350) with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_360",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-360 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_4000",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-4000 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_4010",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-4010 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_4020",
+    "battery_id": "olympus_li_70b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-4020 with lithium-ion battery LI-70B.",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_4030",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-4030 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_4050",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-4050 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_5010",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-5010 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_5030",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official battery compatibility table lists FE-5030 with lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_sp_100ee",
+    "battery_id": "olympus_li_92b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official compact-camera battery table lists SP-100EE with compatible lithium-ion battery LI-92B.",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_sp_565uz",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": null,
+    "note": "OM SYSTEM official compact-camera battery table lists SP-565UZ as compatible with AA batteries; quantity is not stated in the table.",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_sp_700",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official compact-camera battery table lists SP-700 with compatible lithium-ion battery LI-42B (also LI-40B).",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_sp_800uz",
+    "battery_id": "olympus_li_50b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official compact-camera battery table lists SP-800UZ with compatible lithium-ion battery LI-50B.",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "olympus_sp_810uz",
     "battery_id": "olympus_li_50b",
     "status": "fully_compatible",
@@ -7558,6 +8014,66 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "olympus_sz_10",
+    "battery_id": "olympus_li_50b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official SZ-series battery table groups SZ-10 with compatible lithium-ion battery LI-50B.",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_sz_11",
+    "battery_id": "olympus_li_50b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official SZ-series battery table groups SZ-11 with compatible lithium-ion battery LI-50B.",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_sz_15",
+    "battery_id": "olympus_li_50b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official SZ-series battery table groups SZ-15 with compatible lithium-ion battery LI-50B.",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_sz_16",
+    "battery_id": "olympus_li_50b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official SZ-series battery table groups SZ-16 with compatible lithium-ion battery LI-50B.",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_sz_30mr",
+    "battery_id": "olympus_li_50b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official SZ-series battery table groups SZ-30MR with compatible lithium-ion battery LI-50B.",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "olympus_tg_1_ihs",
@@ -7752,6 +8268,78 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "olympus_vg_110",
+    "battery_id": "olympus_li_70b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official VG-series battery table groups VG-110 (D-700) with compatible lithium-ion battery LI-70B.",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_vg_120",
+    "battery_id": "olympus_li_70b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official VG-series battery table groups VG-120 with compatible lithium-ion battery LI-70B.",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_vg_145",
+    "battery_id": "olympus_li_70b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official compact-camera battery table lists VG-145 with compatible lithium-ion battery LI-70B.",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_vh_410",
+    "battery_id": "olympus_li_50b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official VH-series battery table groups VH-410 with compatible lithium-ion battery LI-50B.",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_vh_515",
+    "battery_id": "olympus_li_50b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official VH-series battery table groups VH-515 with compatible lithium-ion battery LI-50B.",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_vr_320",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "OM SYSTEM official compact-camera battery table lists VR-320 with compatible lithium-ion battery LI-42B.",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "olympus_xz_1",
     "battery_id": "olympus_li_50b",
     "status": "fully_compatible",
@@ -7788,6 +8376,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "panasonic_lumix_dc_ts7",
+    "battery_id": "panasonic_dmw_bcm13",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Panasonic official battery compatibility page: DC-TS7 battery part number is DMW-BCM13.",
+    "source_name": "Panasonic LUMIX Official Battery Parts Compatibility Page",
+    "source_url": "https://help.na.panasonic.com/answers/parts-and-accessories-what-battery-is-compatible-with-my-lumix-camera/",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "panasonic_lumix_dc_zs200_tz200",
     "battery_id": "panasonic_dmw_blg10",
     "status": "fully_compatible",
@@ -7808,6 +8408,90 @@
     "source_name": "Panasonic support charging instructions DC-ZS70",
     "source_url": "https://help.na.panasonic.com/answers/how-to-charge-the-battery-on-a-lumix-camera/",
     "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fp1",
+    "battery_id": "panasonic_dmw_bch7",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Panasonic official battery compatibility section for DMC-FP1, DMC-FP2, DMC-FP3: the battery for DMC-FP1 is part number DMW-BCH7.",
+    "source_name": "Panasonic LUMIX Official Battery Parts Compatibility Page",
+    "source_url": "https://help.na.panasonic.com/answers/parts-and-accessories-what-battery-is-compatible-with-my-lumix-camera/",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fp2",
+    "battery_id": "panasonic_dmw_bch7",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Panasonic official battery compatibility section for DMC-FP1, DMC-FP2, DMC-FP3: the battery for DMC-FP2 is part number DMW-BCH7.",
+    "source_name": "Panasonic LUMIX Official Battery Parts Compatibility Page",
+    "source_url": "https://help.na.panasonic.com/answers/parts-and-accessories-what-battery-is-compatible-with-my-lumix-camera/",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fp3",
+    "battery_id": "panasonic_dmw_bch7",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Panasonic official battery compatibility section for DMC-FP1, DMC-FP2, DMC-FP3: the battery for DMC-FP3 is part number DMW-BCH7.",
+    "source_name": "Panasonic LUMIX Official Battery Parts Compatibility Page",
+    "source_url": "https://help.na.panasonic.com/answers/parts-and-accessories-what-battery-is-compatible-with-my-lumix-camera/",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fx01",
+    "battery_id": "panasonic_cgas005a1b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Panasonic official battery compatibility page: DMC-FX01 battery part number is CGAS005A1B.",
+    "source_name": "Panasonic LUMIX Official Battery Parts Compatibility Page",
+    "source_url": "https://help.na.panasonic.com/answers/parts-and-accessories-what-battery-is-compatible-with-my-lumix-camera/",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fx7",
+    "battery_id": "panasonic_cgas004a1b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Panasonic official battery compatibility page: DMC-FX7 battery part number is CGAS004A1B.",
+    "source_name": "Panasonic LUMIX Official Battery Parts Compatibility Page",
+    "source_url": "https://help.na.panasonic.com/answers/parts-and-accessories-what-battery-is-compatible-with-my-lumix-camera/",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fz1",
+    "battery_id": "panasonic_cgas002a1b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Panasonic official battery compatibility section for DMC-FZ1, DMC-FZ10: the battery for DMC-FZ1 is part number CGAS002A1B.",
+    "source_name": "Panasonic LUMIX Official Battery Parts Compatibility Page",
+    "source_url": "https://help.na.panasonic.com/answers/parts-and-accessories-what-battery-is-compatible-with-my-lumix-camera/",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fz10",
+    "battery_id": "panasonic_cgas002a1b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Panasonic official battery compatibility section for DMC-FZ1, DMC-FZ10: the battery for DMC-FZ10 is part number CGAS002A1B.",
+    "source_name": "Panasonic LUMIX Official Battery Parts Compatibility Page",
+    "source_url": "https://help.na.panasonic.com/answers/parts-and-accessories-what-battery-is-compatible-with-my-lumix-camera/",
+    "source_type": "official_accessory_page",
     "confidence": "high",
     "last_verified": "2026-05-25"
   },
@@ -7848,6 +8532,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "panasonic_lumix_dmc_lf1",
+    "battery_id": "panasonic_dmw_bcn10",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Panasonic official battery compatibility page: DMC-LF1 battery part number is DMW-BCN10.",
+    "source_name": "Panasonic LUMIX Official Battery Parts Compatibility Page",
+    "source_url": "https://help.na.panasonic.com/answers/parts-and-accessories-what-battery-is-compatible-with-my-lumix-camera/",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "panasonic_lumix_dmc_lx100",
     "battery_id": "panasonic_dmw_blg10",
     "status": "fully_compatible",
@@ -7858,6 +8554,30 @@
     "source_type": "official_accessory_page",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_lx3",
+    "battery_id": "panasonic_dmw_bcj13",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Panasonic official battery compatibility section for DMC-LX2, DMC-LX3: the battery for DMC-LX3 is part number DMW-BCJ13.",
+    "source_name": "Panasonic LUMIX Official Battery Parts Compatibility Page",
+    "source_url": "https://help.na.panasonic.com/answers/parts-and-accessories-what-battery-is-compatible-with-my-lumix-camera/",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_lx5",
+    "battery_id": "panasonic_dmw_bcj13",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Panasonic official battery compatibility section for DMC-LX5: the battery for DMC-LX5 is part number DMW-BCJ13.",
+    "source_name": "Panasonic LUMIX Official Battery Parts Compatibility Page",
+    "source_url": "https://help.na.panasonic.com/answers/parts-and-accessories-what-battery-is-compatible-with-my-lumix-camera/",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "panasonic_lumix_dmc_lx7",
@@ -7882,6 +8602,18 @@
     "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_tz3",
+    "battery_id": "panasonic_cgas007a1b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Panasonic official battery compatibility section for DMC-TZ1, DMC-TZ2, DMC-TZ3: the battery for DMC-TZ3 is part number CGAS007A1B.",
+    "source_name": "Panasonic LUMIX Official Battery Parts Compatibility Page",
+    "source_url": "https://help.na.panasonic.com/answers/parts-and-accessories-what-battery-is-compatible-with-my-lumix-camera/",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "panasonic_lumix_dmc_zs100",
@@ -8076,6 +8808,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "samsung_dv300f",
+    "battery_id": "samsung_bp88a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Samsung DV300F Manual: Battery specifications - Model BP88A; lithium battery; capacity 880 mAh; voltage 3.7 V.",
+    "source_name": "Samsung DV300F User Manual mirror",
+    "source_url": "https://www.manualslib.com/manual/412593/Samsung-Dv300f.html?page=143",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "samsung_pl120",
     "battery_id": "samsung_bp70a",
     "status": "fully_compatible",
@@ -8220,6 +8964,30 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_h1",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": null,
+    "note": "Sony official battery compatibility table: DSC-H1 is compatible with NH-AA batteries; quantity is not stated.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_h10",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-H10 is compatible with NP-BG1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_h2",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -8230,6 +8998,18 @@
     "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_h3",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-H3 is compatible with NP-BG1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_h300",
@@ -8256,6 +9036,30 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_h5",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": null,
+    "note": "Sony official battery compatibility table: DSC-H5 is compatible with NH-AA batteries; quantity is not stated.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_h50",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-H50 is compatible with NP-BG1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_h55",
     "battery_id": "sony_np_bg1",
     "status": "fully_compatible",
@@ -8264,6 +9068,18 @@
     "source_name": "Sony Asia DSC-H55 Official Specification Sheet",
     "source_url": "https://www.sony-asia.com/corporate/resources/en_AP/pdf/Specification_Sheet_for_DSC-TX5_and_DSC-H55.pdf",
     "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_h7",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-H7 is compatible with NP-BG1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
     "confidence": "high",
     "last_verified": "2026-05-25"
   },
@@ -8288,6 +9104,30 @@
     "source_name": "Sony DSC-H90 Official Specifications",
     "source_url": "https://www.sony.es/electronics/support/compact-cameras-dsc-h-series/dsc-h90/specifications",
     "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx1",
+    "battery_id": "sony_np_fh50_5",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-HX1 is compatible with NP-FH50/5.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx100v",
+    "battery_id": "sony_np_fh50",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-HX100V is compatible with NP-FH50.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
     "confidence": "high",
     "last_verified": "2026-05-25"
   },
@@ -8388,6 +9228,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_hx5v",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-HX5V is compatible with NP-BG1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_hx60v",
     "battery_id": "sony_np_bx1",
     "status": "fully_compatible",
@@ -8395,6 +9247,18 @@
     "note": "Sony official NP-BX1 compatibility information lists DSC-HX60V as fully compatible with Battery / Power NP-BX1.",
     "source_name": "Sony NP-BX1 Official Compatibility Information",
     "source_url": "https://support.d-imaging.sony.co.jp/www/cscs/accessories/compatibility.php?area=gb&cat=1&lang=en&mdl=NP-BX1",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx7v",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-HX7V is compatible with NP-BG1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
     "last_verified": "2026-05-25"
@@ -8446,6 +9310,18 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx9v",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-HX9V is compatible with NP-BG1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_rx1",
@@ -8568,6 +9444,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_rx10_ii",
+    "battery_id": "sony_np_fw50",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-RX10M2 (Sony DSC-RX10 II) is compatible with NP-FW50.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_rx10_iii",
     "battery_id": "sony_np_fw50",
     "status": "fully_compatible",
@@ -8652,6 +9540,54 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_t11",
+    "battery_id": "sony_np_ft1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-T11 is compatible with NP-FT1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t110",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-T110 is compatible with NP-BN1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t2",
+    "battery_id": "sony_np_fd1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-T2 is compatible with NP-FD1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t20",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-T20 is compatible with NP-BG1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_t200",
     "battery_id": "sony_np_bd1",
     "status": "fully_compatible",
@@ -8670,6 +9606,18 @@
     "quantity_required": 1,
     "note": "Battery compatibility table: DSC-T3 compatible with NP-FT1; NP-FR1 not compatible; NP-FD1 not compatible.",
     "source_name": "Sony Cyber-shot battery compatibility table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t30",
+    "battery_id": "sony_np_fr1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-T30 is compatible with NP-FR1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
     "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
@@ -8698,6 +9646,18 @@
     "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t5",
+    "battery_id": "sony_np_ft1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-T5 is compatible with NP-FT1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_t50",
@@ -8808,6 +9768,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_t99",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-T99/T99D is compatible with NP-BN1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_tf1",
     "battery_id": "sony_np_bn1",
     "status": "fully_compatible",
@@ -8815,6 +9787,42 @@
     "note": "Sony official NP-BN1 compatibility information lists DSC-TF1 as compatible with rechargeable battery NP-BN1.",
     "source_name": "Sony NP-BN1 Official Compatibility Information",
     "source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_tx1",
+    "battery_id": "sony_np_fd1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-TX1 is compatible with NP-FD1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_tx10",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-TX10 is compatible with NP-BN1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_tx100v",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-TX100V is compatible with NP-BN1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
     "last_verified": "2026-05-25"
@@ -8868,6 +9876,30 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_tx300v",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-TX300V is compatible with NP-BN1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_tx5",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-TX5 is compatible with NP-BN1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_tx55",
     "battery_id": "sony_np_bn",
     "status": "fully_compatible",
@@ -8899,6 +9931,30 @@
     "note": "Sony official NP-BN1 compatibility information lists DSC-TX66 as compatible with rechargeable battery NP-BN1.",
     "source_name": "Sony NP-BN1 Official Compatibility Information",
     "source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_tx7",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-TX7 is compatible with NP-BN1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_tx9",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-TX9 is compatible with NP-BN1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
     "last_verified": "2026-05-25"
@@ -9072,6 +10128,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w30",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-W30 is compatible with NP-BG1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w300",
     "battery_id": "sony_np_bg1",
     "status": "fully_compatible",
@@ -9082,6 +10150,54 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w320",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-W320 is compatible with NP-BN1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w35",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-W35 is compatible with NP-BG1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w350",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-W350/W350D is compatible with NP-BN1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w380",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-W380 is compatible with NP-BN1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_w5",
@@ -9096,6 +10212,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w50",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-W50 is compatible with NP-BG1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w530",
     "battery_id": "sony_np_bn1",
     "status": "fully_compatible",
@@ -9104,6 +10232,18 @@
     "source_name": "Sony Japan DSC-W530 Official Specifications",
     "source_url": "https://www.sony.jp/cyber-shot/products/archive/DSC-W530/spec.html",
     "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w550",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-W550 is compatible with NP-BN1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
     "confidence": "high",
     "last_verified": "2026-05-25"
   },
@@ -9240,6 +10380,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w7",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": null,
+    "note": "Sony official battery compatibility table: DSC-W7 is compatible with NH-AA batteries; quantity is not stated.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w710",
     "battery_id": "sony_np_bn1",
     "status": "fully_compatible",
@@ -9259,6 +10411,18 @@
     "note": "Sony official NP-BN1 compatibility information lists DSC-W730 as compatible with rechargeable battery NP-BN1.",
     "source_name": "Sony NP-BN1 Official Compatibility Information",
     "source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w80",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-W80 is compatible with NP-BG1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
     "last_verified": "2026-05-25"
@@ -9300,6 +10464,30 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_wx1",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-WX1 is compatible with NP-BG1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_wx10",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-WX10 is compatible with NP-BG1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_wx100",
     "battery_id": "sony_np_bn",
     "status": "fully_compatible",
@@ -9336,6 +10524,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_wx170",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-WX170 is compatible with NP-BN1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_wx200",
     "battery_id": "sony_np_bn1",
     "status": "fully_compatible",
@@ -9360,6 +10560,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_wx30",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-WX30 is compatible with NP-BN1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_wx300",
     "battery_id": "sony_np_bx1",
     "status": "fully_compatible",
@@ -9382,6 +10594,18 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_wx5",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-WX5 is compatible with NP-BN1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_wx50",
@@ -9415,6 +10639,18 @@
     "note": "Sony official NP-BN1 compatibility information lists DSC-WX60 as compatible with rechargeable battery NP-BN1.",
     "source_name": "Sony NP-BN1 Official Compatibility Information",
     "source_url": "https://electronics.sony.com/imaging/imaging-accessories/imaging-compact-camera-accessories/p/npbn1",
+    "source_type": "official_accessory_page",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_wx7",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official battery compatibility table: DSC-WX7 is compatible with NP-BN1.",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
     "last_verified": "2026-05-25"

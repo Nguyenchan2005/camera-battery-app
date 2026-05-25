@@ -5486,6 +5486,86 @@
     "notes": ""
   },
   {
+    "camera_id": "casio_exilim_ex_10",
+    "brand": "Casio",
+    "series": "Exilim 1",
+    "model": "Exilim EX-10",
+    "display_name": "Casio Exilim EX-10",
+    "aliases": [
+      "Exilim EX-10"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-10"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "casio_exilim_ex_100",
+    "brand": "Casio",
+    "series": "Exilim 1",
+    "model": "Exilim EX-100",
+    "display_name": "Casio Exilim EX-100",
+    "aliases": [
+      "Exilim EX-100"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-100"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "casio_exilim_ex_h30",
+    "brand": "Casio",
+    "series": "Exilim H",
+    "model": "Exilim EX-H30",
+    "display_name": "Casio Exilim EX-H30",
+    "aliases": [
+      "Exilim EX-H30"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-H30"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "casio_exilim_ex_zr100",
+    "brand": "Casio",
+    "series": "Exilim Z",
+    "model": "Exilim EX-ZR100",
+    "display_name": "Casio Exilim EX-ZR100",
+    "aliases": [
+      "Exilim EX-ZR100"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-ZR100"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "casio_exilim_ex_zr1000",
     "brand": "Casio",
     "series": "Exilim High Speed",
@@ -5511,6 +5591,26 @@
     "regional_names": {
       "global": [
         "Casio Exilim EX-ZR1200"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "casio_exilim_ex_zr1500",
+    "brand": "Casio",
+    "series": "Exilim Z",
+    "model": "Exilim EX-ZR1500",
+    "display_name": "Casio Exilim EX-ZR1500",
+    "aliases": [
+      "Exilim EX-ZR1500"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-ZR1500"
       ]
     },
     "release_year": null,
@@ -5554,6 +5654,26 @@
       ]
     },
     "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "casio_exilim_ex_zr2000",
+    "brand": "Casio",
+    "series": "Exilim Z",
+    "model": "Exilim EX-ZR2000",
+    "display_name": "Casio Exilim EX-ZR2000",
+    "aliases": [
+      "Exilim EX-ZR2000"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-ZR2000"
+      ]
+    },
+    "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -5661,6 +5781,26 @@
       ]
     },
     "release_year": 2013,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "casio_exilim_ex_zr850",
+    "brand": "Casio",
+    "series": "Exilim Z",
+    "model": "Exilim EX-ZR850",
+    "display_name": "Casio Exilim EX-ZR850",
+    "aliases": [
+      "Exilim EX-ZR850"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-ZR850"
+      ]
+    },
+    "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -6098,6 +6238,26 @@
     "regional_names": {
       "global": [
         "Fujifilm FinePix F800EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_f80exr",
+    "brand": "Fujifilm",
+    "series": "FinePix F",
+    "model": "FinePix F80EXR",
+    "display_name": "Fujifilm FinePix F80EXR",
+    "aliases": [
+      "FUJIFILM FinePix F80EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix F80EXR"
       ]
     },
     "release_year": null,
@@ -7090,6 +7250,26 @@
     "regional_names": {
       "global": [
         "Fujifilm FinePix Z20fd"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_z250fd",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z250fd",
+    "display_name": "Fujifilm FinePix Z250fd",
+    "aliases": [
+      "FUJIFILM FinePix Z250fd"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z250fd"
       ]
     },
     "release_year": null,
@@ -8646,6 +8826,27 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "nikon_coolpix_p1",
+    "brand": "Nikon",
+    "series": "COOLPIX P",
+    "model": "COOLPIX P1",
+    "display_name": "Nikon COOLPIX P1",
+    "aliases": [
+      "Coolpix P1",
+      "P1"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX P1"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "nikon_coolpix_p1000",
     "brand": "Nikon",
     "series": "COOLPIX P",
@@ -8686,6 +8887,27 @@
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": ""
+  },
+  {
+    "camera_id": "nikon_coolpix_p2",
+    "brand": "Nikon",
+    "series": "COOLPIX P",
+    "model": "COOLPIX P2",
+    "display_name": "Nikon COOLPIX P2",
+    "aliases": [
+      "Coolpix P2",
+      "P2"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX P2"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "nikon_coolpix_p300",
@@ -9907,6 +10129,32 @@
     "notes": ""
   },
   {
+    "camera_id": "olympus_5000",
+    "brand": "Olympus",
+    "series": "Stylus/mju Digital",
+    "model": "μ 5000",
+    "display_name": "Olympus μ 5000",
+    "aliases": [
+      "Olympus μ 5000"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus μ 5000"
+      ],
+      "regional_aliases": [
+        "Olympus μ 5000"
+      ],
+      "research_aliases": [
+        "Olympus μ-5000"
+      ]
+    },
+    "release_year": 2009,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "olympus_c_120",
     "brand": "Olympus",
     "series": "C series",
@@ -10252,6 +10500,608 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "olympus_fe_150",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-150",
+    "display_name": "Olympus FE-150",
+    "aliases": [
+      "Olympus FE-150"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-150"
+      ],
+      "regional_aliases": [
+        "Olympus FE-150"
+      ]
+    },
+    "release_year": 2006,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_190",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-190",
+    "display_name": "Olympus FE-190",
+    "aliases": [
+      "Olympus FE-190"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-190"
+      ],
+      "regional_aliases": [
+        "Olympus FE-190"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_200",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-200",
+    "display_name": "Olympus FE-200",
+    "aliases": [
+      "Olympus FE-200"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-200"
+      ],
+      "regional_aliases": [
+        "Olympus FE-200"
+      ]
+    },
+    "release_year": 2006,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_230",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-230",
+    "display_name": "Olympus FE-230",
+    "aliases": [
+      "Olympus FE-230"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-230"
+      ],
+      "regional_aliases": [
+        "Olympus FE-230"
+      ]
+    },
+    "release_year": 2007,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_240",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-240",
+    "display_name": "Olympus FE-240",
+    "aliases": [
+      "Olympus FE-240"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-240"
+      ],
+      "regional_aliases": [
+        "Olympus FE-240"
+      ]
+    },
+    "release_year": 2007,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_250",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-250",
+    "display_name": "Olympus FE-250",
+    "aliases": [
+      "Olympus FE-250"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-250"
+      ],
+      "regional_aliases": [
+        "Olympus FE-250"
+      ]
+    },
+    "release_year": 2007,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_280",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-280",
+    "display_name": "Olympus FE-280",
+    "aliases": [
+      "Olympus FE-280"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-280"
+      ],
+      "regional_aliases": [
+        "Olympus FE-280"
+      ]
+    },
+    "release_year": 2007,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_290",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-290",
+    "display_name": "Olympus FE-290",
+    "aliases": [
+      "Olympus FE-290"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-290"
+      ],
+      "regional_aliases": [
+        "Olympus FE-290"
+      ]
+    },
+    "release_year": 2007,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_300",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-300",
+    "display_name": "Olympus FE-300",
+    "aliases": [
+      "Olympus FE-300"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-300"
+      ],
+      "regional_aliases": [
+        "Olympus FE-300"
+      ]
+    },
+    "release_year": 2007,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_3000",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-3000",
+    "display_name": "Olympus FE-3000",
+    "aliases": [
+      "Olympus FE-3000"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-3000"
+      ],
+      "regional_aliases": [
+        "Olympus FE-3000"
+      ]
+    },
+    "release_year": 2009,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_3010",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-3010",
+    "display_name": "Olympus FE-3010",
+    "aliases": [
+      "Olympus FE-3010"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-3010"
+      ],
+      "regional_aliases": [
+        "Olympus FE-3010"
+      ]
+    },
+    "release_year": 2009,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_320",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-320",
+    "display_name": "Olympus FE-320",
+    "aliases": [
+      "Olympus FE-320"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-320"
+      ],
+      "regional_aliases": [
+        "Olympus FE-320"
+      ]
+    },
+    "release_year": 2008,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_330",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-330",
+    "display_name": "Olympus FE-330",
+    "aliases": [
+      "Olympus FE-330"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-330"
+      ],
+      "regional_aliases": [
+        "Olympus FE-330"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_350",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-350",
+    "display_name": "Olympus FE-350",
+    "aliases": [
+      "Olympus FE-350",
+      "FE-350 Wide"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-350"
+      ],
+      "regional_aliases": [
+        "Olympus FE-350"
+      ],
+      "research_aliases": [
+        "FE-350 Wide"
+      ]
+    },
+    "release_year": 2008,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_360",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-360",
+    "display_name": "Olympus FE-360",
+    "aliases": [
+      "Olympus FE-360"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-360"
+      ],
+      "regional_aliases": [
+        "Olympus FE-360"
+      ]
+    },
+    "release_year": 2008,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_4000",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-4000",
+    "display_name": "Olympus FE-4000",
+    "aliases": [
+      "Olympus FE-4000"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-4000"
+      ],
+      "regional_aliases": [
+        "Olympus FE-4000"
+      ]
+    },
+    "release_year": 2009,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_4010",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-4010",
+    "display_name": "Olympus FE-4010",
+    "aliases": [
+      "Olympus FE-4010"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-4010"
+      ],
+      "regional_aliases": [
+        "Olympus FE-4010"
+      ]
+    },
+    "release_year": 2009,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_4020",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-4020",
+    "display_name": "Olympus FE-4020",
+    "aliases": [
+      "Olympus FE-4020"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-4020"
+      ],
+      "regional_aliases": [
+        "Olympus FE-4020"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_4030",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-4030",
+    "display_name": "Olympus FE-4030",
+    "aliases": [
+      "Olympus FE-4030"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-4030"
+      ],
+      "regional_aliases": [
+        "Olympus FE-4030"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_4050",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-4050",
+    "display_name": "Olympus FE-4050",
+    "aliases": [
+      "Olympus FE-4050"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-4050"
+      ],
+      "regional_aliases": [
+        "Olympus FE-4050"
+      ]
+    },
+    "release_year": 2010,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_5010",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-5010",
+    "display_name": "Olympus FE-5010",
+    "aliases": [
+      "Olympus FE-5010"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-5010"
+      ],
+      "regional_aliases": [
+        "Olympus FE-5010"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_5030",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-5030",
+    "display_name": "Olympus FE-5030",
+    "aliases": [
+      "Olympus FE-5030"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-5030"
+      ],
+      "regional_aliases": [
+        "Olympus FE-5030"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_sp_100ee",
+    "brand": "Olympus",
+    "series": "SP series",
+    "model": "SP-100EE",
+    "display_name": "Olympus SP-100EE",
+    "aliases": [
+      "Olympus SP-100EE"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus SP-100EE"
+      ],
+      "regional_aliases": [
+        "Olympus SP-100EE"
+      ]
+    },
+    "release_year": 2014,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_sp_565uz",
+    "brand": "Olympus",
+    "series": "SP series",
+    "model": "SP-565UZ",
+    "display_name": "Olympus SP-565UZ",
+    "aliases": [
+      "Olympus SP-565UZ"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus SP-565UZ"
+      ],
+      "regional_aliases": [
+        "Olympus SP-565UZ"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_sp_700",
+    "brand": "Olympus",
+    "series": "SP series",
+    "model": "SP-700",
+    "display_name": "Olympus SP-700",
+    "aliases": [
+      "Olympus SP-700"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus SP-700"
+      ],
+      "regional_aliases": [
+        "Olympus SP-700"
+      ]
+    },
+    "release_year": 2005,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_sp_800uz",
+    "brand": "Olympus",
+    "series": "SP series",
+    "model": "SP-800UZ",
+    "display_name": "Olympus SP-800UZ",
+    "aliases": [
+      "Olympus SP-800UZ"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus SP-800UZ"
+      ],
+      "regional_aliases": [
+        "Olympus SP-800UZ"
+      ]
+    },
+    "release_year": 2010,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "olympus_sp_810uz",
     "brand": "Olympus",
     "series": "SP series",
@@ -10312,6 +11162,121 @@
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": ""
+  },
+  {
+    "camera_id": "olympus_sz_10",
+    "brand": "Olympus",
+    "series": "SZ series",
+    "model": "SZ-10",
+    "display_name": "Olympus SZ-10",
+    "aliases": [
+      "Olympus SZ-10"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus SZ-10"
+      ],
+      "regional_aliases": [
+        "Olympus SZ-10"
+      ]
+    },
+    "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_sz_11",
+    "brand": "Olympus",
+    "series": "SZ series",
+    "model": "SZ-11",
+    "display_name": "Olympus SZ-11",
+    "aliases": [
+      "Olympus SZ-11"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus SZ-11"
+      ],
+      "regional_aliases": [
+        "Olympus SZ-11"
+      ]
+    },
+    "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_sz_15",
+    "brand": "Olympus",
+    "series": "SZ series",
+    "model": "SZ-15",
+    "display_name": "Olympus SZ-15",
+    "aliases": [
+      "Olympus SZ-15"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus SZ-15"
+      ],
+      "regional_aliases": [
+        "Olympus SZ-15"
+      ]
+    },
+    "release_year": 2013,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_sz_16",
+    "brand": "Olympus",
+    "series": "SZ series",
+    "model": "SZ-16",
+    "display_name": "Olympus SZ-16",
+    "aliases": [
+      "Olympus SZ-16"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus SZ-16"
+      ],
+      "regional_aliases": [
+        "Olympus SZ-16"
+      ]
+    },
+    "release_year": 2013,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_sz_30mr",
+    "brand": "Olympus",
+    "series": "SZ series",
+    "model": "SZ-30MR",
+    "display_name": "Olympus SZ-30MR",
+    "aliases": [
+      "Olympus SZ-30MR"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus SZ-30MR"
+      ],
+      "regional_aliases": [
+        "Olympus SZ-30MR"
+      ]
+    },
+    "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "olympus_tg_1_ihs",
@@ -10675,6 +11640,148 @@
     "notes": ""
   },
   {
+    "camera_id": "olympus_vg_110",
+    "brand": "Olympus",
+    "series": "VG series",
+    "model": "VG-110",
+    "display_name": "Olympus VG-110",
+    "aliases": [
+      "Olympus VG-110",
+      "D-700"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus VG-110"
+      ],
+      "regional_aliases": [
+        "Olympus VG-110"
+      ],
+      "research_aliases": [
+        "D-700"
+      ]
+    },
+    "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_vg_120",
+    "brand": "Olympus",
+    "series": "VG series",
+    "model": "VG-120",
+    "display_name": "Olympus VG-120",
+    "aliases": [
+      "Olympus VG-120"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus VG-120"
+      ],
+      "regional_aliases": [
+        "Olympus VG-120"
+      ]
+    },
+    "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_vg_145",
+    "brand": "Olympus",
+    "series": "VG series",
+    "model": "VG-145",
+    "display_name": "Olympus VG-145",
+    "aliases": [
+      "Olympus VG-145"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus VG-145"
+      ],
+      "regional_aliases": [
+        "Olympus VG-145"
+      ]
+    },
+    "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_vh_410",
+    "brand": "Olympus",
+    "series": "VH series",
+    "model": "VH-410",
+    "display_name": "Olympus VH-410",
+    "aliases": [
+      "Olympus VH-410"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus VH-410"
+      ],
+      "regional_aliases": [
+        "Olympus VH-410"
+      ]
+    },
+    "release_year": 2012,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_vh_515",
+    "brand": "Olympus",
+    "series": "VH series",
+    "model": "VH-515",
+    "display_name": "Olympus VH-515",
+    "aliases": [
+      "Olympus VH-515"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus VH-515"
+      ],
+      "regional_aliases": [
+        "Olympus VH-515"
+      ]
+    },
+    "release_year": 2012,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_vr_320",
+    "brand": "Olympus",
+    "series": "VR series",
+    "model": "VR-320",
+    "display_name": "Olympus VR-320",
+    "aliases": [
+      "Olympus VR-320"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus VR-320"
+      ],
+      "regional_aliases": [
+        "Olympus VR-320"
+      ]
+    },
+    "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "olympus_xz_1",
     "brand": "Olympus",
     "series": "XZ series",
@@ -10738,6 +11845,29 @@
     "notes": ""
   },
   {
+    "camera_id": "panasonic_lumix_dc_ts7",
+    "brand": "Panasonic",
+    "series": "Lumix TS/FT",
+    "model": "DC-TS7",
+    "display_name": "Panasonic Lumix DC-TS7",
+    "aliases": [
+      "DC-TS7"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DC-TS7"
+      ],
+      "regional_aliases": [
+        "DC-TS7"
+      ]
+    },
+    "release_year": 2018,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "panasonic_lumix_dc_zs200_tz200",
     "brand": "Panasonic",
     "series": "Lumix ZS/TZ",
@@ -10782,6 +11912,167 @@
     },
     "release_year": 2017,
     "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fp1",
+    "brand": "Panasonic",
+    "series": "Lumix FP",
+    "model": "DMC-FP1",
+    "display_name": "Panasonic Lumix DMC-FP1",
+    "aliases": [
+      "DMC-FP1"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-FP1"
+      ],
+      "regional_aliases": [
+        "DMC-FP1"
+      ]
+    },
+    "release_year": 2010,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fp2",
+    "brand": "Panasonic",
+    "series": "Lumix FP",
+    "model": "DMC-FP2",
+    "display_name": "Panasonic Lumix DMC-FP2",
+    "aliases": [
+      "DMC-FP2"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-FP2"
+      ],
+      "regional_aliases": [
+        "DMC-FP2"
+      ]
+    },
+    "release_year": 2010,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fp3",
+    "brand": "Panasonic",
+    "series": "Lumix FP",
+    "model": "DMC-FP3",
+    "display_name": "Panasonic Lumix DMC-FP3",
+    "aliases": [
+      "DMC-FP3"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-FP3"
+      ],
+      "regional_aliases": [
+        "DMC-FP3"
+      ]
+    },
+    "release_year": 2010,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fx01",
+    "brand": "Panasonic",
+    "series": "Lumix FX",
+    "model": "DMC-FX01",
+    "display_name": "Panasonic Lumix DMC-FX01",
+    "aliases": [
+      "DMC-FX01"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-FX01"
+      ],
+      "regional_aliases": [
+        "DMC-FX01"
+      ]
+    },
+    "release_year": 2006,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fx7",
+    "brand": "Panasonic",
+    "series": "Lumix FX",
+    "model": "DMC-FX7",
+    "display_name": "Panasonic Lumix DMC-FX7",
+    "aliases": [
+      "DMC-FX7"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-FX7"
+      ],
+      "regional_aliases": [
+        "DMC-FX7"
+      ]
+    },
+    "release_year": 2004,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fz1",
+    "brand": "Panasonic",
+    "series": "Lumix FZ",
+    "model": "DMC-FZ1",
+    "display_name": "Panasonic Lumix DMC-FZ1",
+    "aliases": [
+      "DMC-FZ1"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-FZ1"
+      ],
+      "regional_aliases": [
+        "DMC-FZ1"
+      ]
+    },
+    "release_year": 2002,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fz10",
+    "brand": "Panasonic",
+    "series": "Lumix FZ",
+    "model": "DMC-FZ10",
+    "display_name": "Panasonic Lumix DMC-FZ10",
+    "aliases": [
+      "DMC-FZ10"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-FZ10"
+      ],
+      "regional_aliases": [
+        "DMC-FZ10"
+      ]
+    },
+    "release_year": null,
+    "category": "bridge_superzoom",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
@@ -10849,6 +12140,29 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "panasonic_lumix_dmc_lf1",
+    "brand": "Panasonic",
+    "series": "Lumix LF",
+    "model": "DMC-LF1",
+    "display_name": "Panasonic Lumix DMC-LF1",
+    "aliases": [
+      "DMC-LF1"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-LF1"
+      ],
+      "regional_aliases": [
+        "DMC-LF1"
+      ]
+    },
+    "release_year": 2013,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "panasonic_lumix_dmc_lx100",
     "brand": "Panasonic",
     "series": "Lumix LX",
@@ -10863,6 +12177,52 @@
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": ""
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_lx3",
+    "brand": "Panasonic",
+    "series": "Lumix LX",
+    "model": "DMC-LX3",
+    "display_name": "Panasonic Lumix DMC-LX3",
+    "aliases": [
+      "DMC-LX3"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-LX3"
+      ],
+      "regional_aliases": [
+        "DMC-LX3"
+      ]
+    },
+    "release_year": null,
+    "category": "premium_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_lx5",
+    "brand": "Panasonic",
+    "series": "Lumix LX",
+    "model": "DMC-LX5",
+    "display_name": "Panasonic Lumix DMC-LX5",
+    "aliases": [
+      "DMC-LX5"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-LX5"
+      ],
+      "regional_aliases": [
+        "DMC-LX5"
+      ]
+    },
+    "release_year": null,
+    "category": "premium_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "panasonic_lumix_dmc_lx7",
@@ -10908,6 +12268,32 @@
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_tz3",
+    "brand": "Panasonic",
+    "series": "Lumix TZ/ZS",
+    "model": "DMC-TZ3",
+    "display_name": "Panasonic Lumix DMC-TZ3",
+    "aliases": [
+      "DMC-TZ3",
+      "DMC-ZS3"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-TZ3",
+        "Panasonic Lumix DMC-ZS3"
+      ],
+      "regional_aliases": [
+        "DMC-TZ3",
+        "DMC-ZS3"
+      ]
+    },
+    "release_year": null,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
@@ -11216,6 +12602,26 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "samsung_dv300f",
+    "brand": "Samsung",
+    "series": "DV",
+    "model": "DV300F",
+    "display_name": "Samsung DV300F",
+    "aliases": [
+      "DV300F"
+    ],
+    "regional_names": {
+      "global": [
+        "Samsung DV300F"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "samsung_pl120",
     "brand": "Samsung",
     "series": "PL",
@@ -11433,6 +12839,54 @@
     "notes": ""
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_h1",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-H",
+    "model": "DSC-H1",
+    "display_name": "Sony Cyber-shot DSC-H1",
+    "aliases": [
+      "DSC-H1",
+      "Cyber-shot DSC-H1"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-H1"
+      ],
+      "sony_code": [
+        "DSC-H1"
+      ]
+    },
+    "release_year": null,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_h10",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-H",
+    "model": "DSC-H10",
+    "display_name": "Sony Cyber-shot DSC-H10",
+    "aliases": [
+      "DSC-H10",
+      "Cyber-shot DSC-H10"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-H10"
+      ],
+      "sony_code": [
+        "DSC-H10"
+      ]
+    },
+    "release_year": 2008,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_h2",
     "brand": "Sony",
     "series": "Cyber-shot DSC-H",
@@ -11454,6 +12908,30 @@
     "category": "bridge_superzoom",
     "lens_type": "fixed_lens",
     "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_h3",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-H",
+    "model": "DSC-H3",
+    "display_name": "Sony Cyber-shot DSC-H3",
+    "aliases": [
+      "DSC-H3",
+      "Cyber-shot DSC-H3"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-H3"
+      ],
+      "sony_code": [
+        "DSC-H3"
+      ]
+    },
+    "release_year": 2007,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
@@ -11505,6 +12983,54 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_h5",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-H",
+    "model": "DSC-H5",
+    "display_name": "Sony Cyber-shot DSC-H5",
+    "aliases": [
+      "DSC-H5",
+      "Cyber-shot DSC-H5"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-H5"
+      ],
+      "sony_code": [
+        "DSC-H5"
+      ]
+    },
+    "release_year": 2006,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_h50",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-H",
+    "model": "DSC-H50",
+    "display_name": "Sony Cyber-shot DSC-H50",
+    "aliases": [
+      "DSC-H50",
+      "Cyber-shot DSC-H50"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-H50"
+      ],
+      "sony_code": [
+        "DSC-H50"
+      ]
+    },
+    "release_year": 2008,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_h55",
     "brand": "Sony",
     "series": "Cyber-shot DSC-H",
@@ -11528,6 +13054,30 @@
       ]
     },
     "release_year": 2010,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_h7",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-H",
+    "model": "DSC-H7",
+    "display_name": "Sony Cyber-shot DSC-H7",
+    "aliases": [
+      "DSC-H7",
+      "Cyber-shot DSC-H7"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-H7"
+      ],
+      "sony_code": [
+        "DSC-H7"
+      ]
+    },
+    "release_year": 2007,
     "category": "bridge_superzoom",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -11587,6 +13137,54 @@
     },
     "release_year": 2012,
     "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx1",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-HX",
+    "model": "DSC-HX1",
+    "display_name": "Sony Cyber-shot DSC-HX1",
+    "aliases": [
+      "DSC-HX1",
+      "Cyber-shot DSC-HX1"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-HX1"
+      ],
+      "sony_code": [
+        "DSC-HX1"
+      ]
+    },
+    "release_year": null,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx100v",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-HX",
+    "model": "DSC-HX100V",
+    "display_name": "Sony Cyber-shot DSC-HX100V",
+    "aliases": [
+      "DSC-HX100V",
+      "Cyber-shot DSC-HX100V"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-HX100V"
+      ],
+      "sony_code": [
+        "DSC-HX100V"
+      ]
+    },
+    "release_year": 2011,
+    "category": "travel_zoom",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
@@ -11804,6 +13402,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_hx5v",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-HX",
+    "model": "DSC-HX5V",
+    "display_name": "Sony Cyber-shot DSC-HX5V",
+    "aliases": [
+      "DSC-HX5V",
+      "Cyber-shot DSC-HX5V"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-HX5V"
+      ],
+      "sony_code": [
+        "DSC-HX5V"
+      ]
+    },
+    "release_year": null,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_hx60v",
     "brand": "Sony",
     "series": "Cyber-shot DSC-HX",
@@ -11822,6 +13444,30 @@
       ]
     },
     "release_year": 2014,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx7v",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-HX",
+    "model": "DSC-HX7V",
+    "display_name": "Sony Cyber-shot DSC-HX7V",
+    "aliases": [
+      "DSC-HX7V",
+      "Cyber-shot DSC-HX7V"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-HX7V"
+      ],
+      "sony_code": [
+        "DSC-HX7V"
+      ]
+    },
+    "release_year": null,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -11914,6 +13560,30 @@
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": ""
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx9v",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-HX",
+    "model": "DSC-HX9V",
+    "display_name": "Sony Cyber-shot DSC-HX9V",
+    "aliases": [
+      "DSC-HX9V",
+      "Cyber-shot DSC-HX9V"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-HX9V"
+      ],
+      "sony_code": [
+        "DSC-HX9V"
+      ]
+    },
+    "release_year": null,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "sony_cyber_shot_dsc_rx1",
@@ -12168,6 +13838,36 @@
     "notes": ""
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_rx10_ii",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-RX10",
+    "model": "DSC-RX10 II",
+    "display_name": "Sony Cyber-shot DSC-RX10 II",
+    "aliases": [
+      "DSC-RX10 II",
+      "Cyber-shot DSC-RX10 II",
+      "DSC-RX10M2",
+      "Sony RX10 II"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-RX10 II"
+      ],
+      "sony_code": [
+        "DSC-RX10 II"
+      ],
+      "research_aliases": [
+        "DSC-RX10M2",
+        "Sony RX10 II"
+      ]
+    },
+    "release_year": 2015,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_rx10_iii",
     "brand": "Sony",
     "series": "Cyber-shot DSC-RX10",
@@ -12339,6 +14039,102 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_t11",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-T11",
+    "display_name": "Sony Cyber-shot DSC-T11",
+    "aliases": [
+      "DSC-T11",
+      "Cyber-shot DSC-T11"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-T11"
+      ],
+      "sony_code": [
+        "DSC-T11"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t110",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-T110",
+    "display_name": "Sony Cyber-shot DSC-T110",
+    "aliases": [
+      "DSC-T110",
+      "Cyber-shot DSC-T110"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-T110"
+      ],
+      "sony_code": [
+        "DSC-T110"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t2",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-T2",
+    "display_name": "Sony Cyber-shot DSC-T2",
+    "aliases": [
+      "DSC-T2",
+      "Cyber-shot DSC-T2"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-T2"
+      ],
+      "sony_code": [
+        "DSC-T2"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t20",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-T20",
+    "display_name": "Sony Cyber-shot DSC-T20",
+    "aliases": [
+      "DSC-T20",
+      "Cyber-shot DSC-T20"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-T20"
+      ],
+      "sony_code": [
+        "DSC-T20"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_t200",
     "brand": "Sony",
     "series": "Cyber-shot DSC-T",
@@ -12387,6 +14183,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_t30",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-T30",
+    "display_name": "Sony Cyber-shot DSC-T30",
+    "aliases": [
+      "DSC-T30",
+      "Cyber-shot DSC-T30"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-T30"
+      ],
+      "sony_code": [
+        "DSC-T30"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_t300",
     "brand": "Sony",
     "series": "Cyber-shot DSC-T",
@@ -12426,6 +14246,30 @@
       ],
       "sony_code": [
         "DSC-T33"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_t5",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-T5",
+    "display_name": "Sony Cyber-shot DSC-T5",
+    "aliases": [
+      "DSC-T5",
+      "Cyber-shot DSC-T5"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-T5"
+      ],
+      "sony_code": [
+        "DSC-T5"
       ]
     },
     "release_year": null,
@@ -12651,6 +14495,34 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_t99",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-T99",
+    "display_name": "Sony Cyber-shot DSC-T99",
+    "aliases": [
+      "DSC-T99",
+      "Cyber-shot DSC-T99",
+      "DSC-T99D"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-T99"
+      ],
+      "sony_code": [
+        "DSC-T99"
+      ],
+      "research_aliases": [
+        "DSC-T99D"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_tf1",
     "brand": "Sony",
     "series": "Cyber-shot DSC-T",
@@ -12670,6 +14542,78 @@
     },
     "release_year": 2013,
     "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_tx1",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-TX",
+    "model": "DSC-TX1",
+    "display_name": "Sony Cyber-shot DSC-TX1",
+    "aliases": [
+      "DSC-TX1",
+      "Cyber-shot DSC-TX1"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-TX1"
+      ],
+      "sony_code": [
+        "DSC-TX1"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_tx10",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-TX",
+    "model": "DSC-TX10",
+    "display_name": "Sony Cyber-shot DSC-TX10",
+    "aliases": [
+      "DSC-TX10",
+      "Cyber-shot DSC-TX10"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-TX10"
+      ],
+      "sony_code": [
+        "DSC-TX10"
+      ]
+    },
+    "release_year": null,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_tx100v",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-TX",
+    "model": "DSC-TX100V",
+    "display_name": "Sony Cyber-shot DSC-TX100V",
+    "aliases": [
+      "DSC-TX100V",
+      "Cyber-shot DSC-TX100V"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-TX100V"
+      ],
+      "sony_code": [
+        "DSC-TX100V"
+      ]
+    },
+    "release_year": null,
+    "category": "waterproof_compact",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
@@ -12739,6 +14683,54 @@
     "notes": "Sony source lists NP-BN supplied and NP-BN1 optional."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_tx300v",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-TX",
+    "model": "DSC-TX300V",
+    "display_name": "Sony Cyber-shot DSC-TX300V",
+    "aliases": [
+      "DSC-TX300V",
+      "Cyber-shot DSC-TX300V"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-TX300V"
+      ],
+      "sony_code": [
+        "DSC-TX300V"
+      ]
+    },
+    "release_year": null,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_tx5",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-TX",
+    "model": "DSC-TX5",
+    "display_name": "Sony Cyber-shot DSC-TX5",
+    "aliases": [
+      "DSC-TX5",
+      "Cyber-shot DSC-TX5"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-TX5"
+      ],
+      "sony_code": [
+        "DSC-TX5"
+      ]
+    },
+    "release_year": null,
+    "category": "waterproof_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_tx55",
     "brand": "Sony",
     "series": "Cyber-shot TX",
@@ -12773,6 +14765,54 @@
       ]
     },
     "release_year": 2012,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_tx7",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-TX",
+    "model": "DSC-TX7",
+    "display_name": "Sony Cyber-shot DSC-TX7",
+    "aliases": [
+      "DSC-TX7",
+      "Cyber-shot DSC-TX7"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-TX7"
+      ],
+      "sony_code": [
+        "DSC-TX7"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_tx9",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-TX",
+    "model": "DSC-TX9",
+    "display_name": "Sony Cyber-shot DSC-TX9",
+    "aliases": [
+      "DSC-TX9",
+      "Cyber-shot DSC-TX9"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-TX9"
+      ],
+      "sony_code": [
+        "DSC-TX9"
+      ]
+    },
+    "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -13115,6 +15155,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w30",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W30",
+    "display_name": "Sony Cyber-shot DSC-W30",
+    "aliases": [
+      "DSC-W30",
+      "Cyber-shot DSC-W30"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W30"
+      ],
+      "sony_code": [
+        "DSC-W30"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w300",
     "brand": "Sony",
     "series": "Cyber-shot DSC-W",
@@ -13130,6 +15194,106 @@
       ],
       "sony_code": [
         "DSC-W300"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w320",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W320",
+    "display_name": "Sony Cyber-shot DSC-W320",
+    "aliases": [
+      "DSC-W320",
+      "Cyber-shot DSC-W320"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W320"
+      ],
+      "sony_code": [
+        "DSC-W320"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w35",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W35",
+    "display_name": "Sony Cyber-shot DSC-W35",
+    "aliases": [
+      "DSC-W35",
+      "Cyber-shot DSC-W35"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W35"
+      ],
+      "sony_code": [
+        "DSC-W35"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w350",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W350",
+    "display_name": "Sony Cyber-shot DSC-W350",
+    "aliases": [
+      "DSC-W350",
+      "Cyber-shot DSC-W350",
+      "DSC-W350D"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W350"
+      ],
+      "sony_code": [
+        "DSC-W350"
+      ],
+      "research_aliases": [
+        "DSC-W350D"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w380",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W380",
+    "display_name": "Sony Cyber-shot DSC-W380",
+    "aliases": [
+      "DSC-W380",
+      "Cyber-shot DSC-W380"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W380"
+      ],
+      "sony_code": [
+        "DSC-W380"
       ]
     },
     "release_year": null,
@@ -13163,6 +15327,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w50",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W50",
+    "display_name": "Sony Cyber-shot DSC-W50",
+    "aliases": [
+      "DSC-W50",
+      "Cyber-shot DSC-W50"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W50"
+      ],
+      "sony_code": [
+        "DSC-W50"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w530",
     "brand": "Sony",
     "series": "Cyber-shot DSC-W",
@@ -13186,6 +15374,30 @@
       ]
     },
     "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w550",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W550",
+    "display_name": "Sony Cyber-shot DSC-W550",
+    "aliases": [
+      "DSC-W550",
+      "Cyber-shot DSC-W550"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W550"
+      ],
+      "sony_code": [
+        "DSC-W550"
+      ]
+    },
+    "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -13365,6 +15577,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w7",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W7",
+    "display_name": "Sony Cyber-shot DSC-W7",
+    "aliases": [
+      "DSC-W7",
+      "Cyber-shot DSC-W7"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W7"
+      ],
+      "sony_code": [
+        "DSC-W7"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w710",
     "brand": "Sony",
     "series": "Cyber-shot DSC-W",
@@ -13407,6 +15643,30 @@
       ]
     },
     "release_year": 2013,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w80",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W80",
+    "display_name": "Sony Cyber-shot DSC-W80",
+    "aliases": [
+      "DSC-W80",
+      "Cyber-shot DSC-W80"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W80"
+      ],
+      "sony_code": [
+        "DSC-W80"
+      ]
+    },
+    "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -13477,6 +15737,54 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_wx1",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-WX",
+    "model": "DSC-WX1",
+    "display_name": "Sony Cyber-shot DSC-WX1",
+    "aliases": [
+      "DSC-WX1",
+      "Cyber-shot DSC-WX1"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-WX1"
+      ],
+      "sony_code": [
+        "DSC-WX1"
+      ]
+    },
+    "release_year": null,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_wx10",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-WX",
+    "model": "DSC-WX10",
+    "display_name": "Sony Cyber-shot DSC-WX10",
+    "aliases": [
+      "DSC-WX10",
+      "Cyber-shot DSC-WX10"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-WX10"
+      ],
+      "sony_code": [
+        "DSC-WX10"
+      ]
+    },
+    "release_year": null,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_wx100",
     "brand": "Sony",
     "series": "Cyber-shot DSC-WX",
@@ -13516,6 +15824,30 @@
       ],
       "sony_code": [
         "DSC-WX150"
+      ]
+    },
+    "release_year": 2012,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_wx170",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-WX",
+    "model": "DSC-WX170",
+    "display_name": "Sony Cyber-shot DSC-WX170",
+    "aliases": [
+      "DSC-WX170",
+      "Cyber-shot DSC-WX170"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-WX170"
+      ],
+      "sony_code": [
+        "DSC-WX170"
       ]
     },
     "release_year": 2012,
@@ -13573,6 +15905,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_wx30",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-WX",
+    "model": "DSC-WX30",
+    "display_name": "Sony Cyber-shot DSC-WX30",
+    "aliases": [
+      "DSC-WX30",
+      "Cyber-shot DSC-WX30"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-WX30"
+      ],
+      "sony_code": [
+        "DSC-WX30"
+      ]
+    },
+    "release_year": 2011,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_wx300",
     "brand": "Sony",
     "series": "Cyber-shot DSC-WX",
@@ -13615,6 +15971,30 @@
       ]
     },
     "release_year": 2014,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_wx5",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-WX",
+    "model": "DSC-WX5",
+    "display_name": "Sony Cyber-shot DSC-WX5",
+    "aliases": [
+      "DSC-WX5",
+      "Cyber-shot DSC-WX5"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-WX5"
+      ],
+      "sony_code": [
+        "DSC-WX5"
+      ]
+    },
+    "release_year": 2010,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -13687,6 +16067,30 @@
       ]
     },
     "release_year": 2013,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_wx7",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-WX",
+    "model": "DSC-WX7",
+    "display_name": "Sony Cyber-shot DSC-WX7",
+    "aliases": [
+      "DSC-WX7",
+      "Cyber-shot DSC-WX7"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-WX7"
+      ],
+      "sony_code": [
+        "DSC-WX7"
+      ]
+    },
+    "release_year": null,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",

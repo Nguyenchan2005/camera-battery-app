@@ -70,34 +70,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "casio_exilim_ex_10",
-    "display_name": "Casio Exilim EX-10",
-    "brand": "Casio",
-    "series": "Exilim 1",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Casio"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "casio_exilim_ex_100",
-    "display_name": "Casio Exilim EX-100",
-    "brand": "Casio",
-    "series": "Exilim 1",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Casio"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "casio_exilim_ex_fc100",
     "display_name": "Casio Exilim EX-FC100",
     "brand": "Casio",
@@ -254,20 +226,6 @@
   {
     "camera_id": "casio_exilim_ex_h20g",
     "display_name": "Casio Exilim EX-H20G",
-    "brand": "Casio",
-    "series": "Exilim H",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Casio"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "casio_exilim_ex_h30",
-    "display_name": "Casio Exilim EX-H30",
     "brand": "Casio",
     "series": "Exilim H",
     "release_year": null,
@@ -1652,53 +1610,11 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "casio_exilim_ex_zr100",
-    "display_name": "Casio Exilim EX-ZR100",
-    "brand": "Casio",
-    "series": "Exilim Z",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Casio"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "casio_exilim_ex_zr15",
     "display_name": "Casio Exilim EX-ZR15",
     "brand": "Casio",
     "series": "Exilim Z",
     "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Casio"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "casio_exilim_ex_zr1500",
-    "display_name": "Casio Exilim EX-ZR1500",
-    "brand": "Casio",
-    "series": "Exilim Z",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Casio"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "casio_exilim_ex_zr2000",
-    "display_name": "Casio Exilim EX-ZR2000",
-    "brand": "Casio",
-    "series": "Exilim Z",
-    "release_year": null,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Casio catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
@@ -1822,20 +1738,6 @@
   {
     "camera_id": "casio_exilim_ex_zr65",
     "display_name": "Casio Exilim EX-ZR65",
-    "brand": "Casio",
-    "series": "Exilim Z",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Casio"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "casio_exilim_ex_zr850",
-    "display_name": "Casio Exilim EX-ZR850",
     "brand": "Casio",
     "series": "Exilim Z",
     "release_year": null,
@@ -2677,21 +2579,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "fujifilm_finepix_f80exr",
-    "display_name": "Fujifilm FinePix F80EXR",
-    "brand": "Fujifilm",
-    "series": "FinePix F",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-      "https://dl.fujifilm-x.com/support/manual/f/fujifilm_f80exr_manual_01.pdf"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "fujifilm_finepix_hs10",
     "display_name": "Fujifilm FinePix HS10",
     "brand": "Fujifilm",
@@ -3461,20 +3348,6 @@
   {
     "camera_id": "fujifilm_finepix_z110",
     "display_name": "Fujifilm FinePix Z110",
-    "brand": "Fujifilm",
-    "series": "FinePix Z",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Fujifilm_digital_cameras"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "fujifilm_finepix_z250fd",
-    "display_name": "Fujifilm FinePix Z250fd",
     "brand": "Fujifilm",
     "series": "FinePix Z",
     "release_year": null,
@@ -8452,21 +8325,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "nikon_coolpix_p1",
-    "display_name": "Nikon COOLPIX P1",
-    "brand": "Nikon",
-    "series": "COOLPIX P",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Nikon COOLPIX P1",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix_P1_%26_P2",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix_P1_%26_P2",
-      "https://nij.nikon.com/products/lineup/compact/p1/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "nikon_coolpix_p100",
     "display_name": "Nikon COOLPIX P100",
     "brand": "Nikon",
@@ -8478,21 +8336,6 @@
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Nikon_Coolpix_P100",
       "https://nij.nikon.com/products/lineup/compact/p100/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_p2",
-    "display_name": "Nikon COOLPIX P2",
-    "brand": "Nikon",
-    "series": "COOLPIX P",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Nikon COOLPIX P2",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix_P1_%26_P2",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix_P1_%26_P2",
-      "https://nij.nikon.com/products/lineup/compact/p2/spec.html"
     ],
     "last_checked": "2026-05-24"
   },
@@ -9809,20 +9652,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_fe_150",
-    "display_name": "Olympus FE-150",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2006,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_fe_170",
     "display_name": "Olympus FE-170",
     "brand": "Olympus",
@@ -9851,39 +9680,11 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_fe_190",
-    "display_name": "Olympus FE-190",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus FE-190",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_FE-190_/_X-750",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus_FE-190_/_X-750"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_fe_20",
     "display_name": "Olympus FE-20",
     "brand": "Olympus",
     "series": "FE series",
     "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_200",
-    "display_name": "Olympus FE-200",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2006,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Olympus catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
@@ -9907,53 +9708,11 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_fe_230",
-    "display_name": "Olympus FE-230",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2007,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_240",
-    "display_name": "Olympus FE-240",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2007,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_fe_25",
     "display_name": "Olympus FE-25",
     "brand": "Olympus",
     "series": "FE series",
     "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_250",
-    "display_name": "Olympus FE-250",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2007,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Olympus catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
@@ -9991,109 +9750,11 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_fe_280",
-    "display_name": "Olympus FE-280",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2007,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_290",
-    "display_name": "Olympus FE-290",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2007,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_300",
-    "display_name": "Olympus FE-300",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2007,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_3000",
-    "display_name": "Olympus FE-3000",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_3010",
-    "display_name": "Olympus FE-3010",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_fe_310",
     "display_name": "Olympus FE-310",
     "brand": "Olympus",
     "series": "FE series",
     "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_320",
-    "display_name": "Olympus FE-320",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_330",
-    "display_name": "Olympus FE-330",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": null,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Olympus catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
@@ -10131,34 +9792,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_fe_350",
-    "display_name": "Olympus FE-350",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_360",
-    "display_name": "Olympus FE-360",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_fe_40",
     "display_name": "Olympus FE-40",
     "brand": "Olympus",
@@ -10173,62 +9806,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_fe_4000",
-    "display_name": "Olympus FE-4000",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_4010",
-    "display_name": "Olympus FE-4010",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_4020",
-    "display_name": "Olympus FE-4020",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus FE-4020",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_FE-4020",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus_FE-4020"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_4030",
-    "display_name": "Olympus FE-4030",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus FE-4030",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_FE-5030",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus_FE-5030"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_fe_4040",
     "display_name": "Olympus FE-4040",
     "brand": "Olympus",
@@ -10239,20 +9816,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_FE-4040",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Olympus_FE-4040"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_4050",
-    "display_name": "Olympus FE-4050",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2010,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
     ],
     "last_checked": "2026-05-24"
   },
@@ -10295,48 +9858,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_FE-5010",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Olympus_FE-5010"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_5010",
-    "display_name": "Olympus FE-5010",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus FE-5010",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_FE-5010",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus_FE-5010"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_fe_5030",
-    "display_name": "Olympus FE-5030",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus FE-5030",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_FE-5030",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus_FE-5030"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sp_100ee",
-    "display_name": "Olympus SP-100EE",
-    "brand": "Olympus",
-    "series": "SP series",
-    "release_year": 2014,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
     ],
     "last_checked": "2026-05-24"
   },
@@ -10439,20 +9960,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_sp_565uz",
-    "display_name": "Olympus SP-565UZ",
-    "brand": "Olympus",
-    "series": "SP series",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus SP-565UZ",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_SP-565UZ",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus_SP-565UZ"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_sp_570uz",
     "display_name": "Olympus SP-570UZ",
     "brand": "Olympus",
@@ -10523,34 +10030,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_sp_700",
-    "display_name": "Olympus SP-700",
-    "brand": "Olympus",
-    "series": "SP series",
-    "release_year": 2005,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sp_800uz",
-    "display_name": "Olympus SP-800UZ",
-    "brand": "Olympus",
-    "series": "SP series",
-    "release_year": 2010,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_sp_820uz",
     "display_name": "Olympus SP-820UZ",
     "brand": "Olympus",
@@ -10565,81 +10044,11 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_sz_10",
-    "display_name": "Olympus SZ-10",
-    "brand": "Olympus",
-    "series": "SZ series",
-    "release_year": 2011,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sz_11",
-    "display_name": "Olympus SZ-11",
-    "brand": "Olympus",
-    "series": "SZ series",
-    "release_year": 2011,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_sz_12",
     "display_name": "Olympus SZ-12",
     "brand": "Olympus",
     "series": "SZ series",
     "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sz_15",
-    "display_name": "Olympus SZ-15",
-    "brand": "Olympus",
-    "series": "SZ series",
-    "release_year": 2013,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sz_16",
-    "display_name": "Olympus SZ-16",
-    "brand": "Olympus",
-    "series": "SZ series",
-    "release_year": 2013,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_sz_30mr",
-    "display_name": "Olympus SZ-30MR",
-    "brand": "Olympus",
-    "series": "SZ series",
-    "release_year": 2011,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Olympus catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
@@ -10691,94 +10100,10 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_5000",
-    "display_name": "Olympus μ 5000",
-    "brand": "Olympus",
-    "series": "Stylus/mju Digital",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus Stylus/mju digital catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_Stylus_%C2%B5_digital_cameras",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus_Stylus_%C2%B5_digital_cameras"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_vg_110",
-    "display_name": "Olympus VG-110",
-    "brand": "Olympus",
-    "series": "VG series",
-    "release_year": 2011,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_vg_120",
-    "display_name": "Olympus VG-120",
-    "brand": "Olympus",
-    "series": "VG series",
-    "release_year": 2011,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_vg_145",
-    "display_name": "Olympus VG-145",
-    "brand": "Olympus",
-    "series": "VG series",
-    "release_year": 2011,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_vg_160",
     "display_name": "Olympus VG-160",
     "brand": "Olympus",
     "series": "VG series",
-    "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_vh_410",
-    "display_name": "Olympus VH-410",
-    "brand": "Olympus",
-    "series": "VH series",
-    "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_vh_515",
-    "display_name": "Olympus VH-515",
-    "brand": "Olympus",
-    "series": "VH series",
     "release_year": 2012,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Olympus catalog",
@@ -10794,20 +10119,6 @@
     "brand": "Olympus",
     "series": "VR series",
     "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_vr_320",
-    "display_name": "Olympus VR-320",
-    "brand": "Olympus",
-    "series": "VR series",
-    "release_year": 2011,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Olympus catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
@@ -10841,48 +10152,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fp1",
-    "display_name": "Panasonic Lumix DMC-FP1",
-    "brand": "Panasonic",
-    "series": "Lumix FP",
-    "release_year": 2010,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fp2",
-    "display_name": "Panasonic Lumix DMC-FP2",
-    "brand": "Panasonic",
-    "series": "Lumix FP",
-    "release_year": 2010,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fp3",
-    "display_name": "Panasonic Lumix DMC-FP3",
-    "brand": "Panasonic",
-    "series": "Lumix FP",
-    "release_year": 2010,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
     ],
     "last_checked": "2026-05-24"
   },
@@ -11083,20 +10352,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "panasonic_lumix_dmc_fx01",
-    "display_name": "Panasonic Lumix DMC-FX01",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": 2006,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "panasonic_lumix_dmc_fx07",
     "display_name": "Panasonic Lumix DMC-FX07",
     "brand": "Panasonic",
@@ -11265,20 +10520,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "panasonic_lumix_dmc_fx7",
-    "display_name": "Panasonic Lumix DMC-FX7",
-    "brand": "Panasonic",
-    "series": "Lumix FX",
-    "release_year": 2004,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "panasonic_lumix_dmc_fx70",
     "display_name": "Panasonic Lumix DMC-FX70",
     "brand": "Panasonic",
@@ -11387,34 +10628,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fz1",
-    "display_name": "Panasonic Lumix DMC-FZ1",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": 2002,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_fz10",
-    "display_name": "Panasonic Lumix DMC-FZ10",
-    "brand": "Panasonic",
-    "series": "Lumix FZ",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-FZ10",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_DMC-FZ10",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_DMC-FZ10"
     ],
     "last_checked": "2026-05-24"
   },
@@ -11811,20 +11024,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "panasonic_lumix_dmc_lf1",
-    "display_name": "Panasonic Lumix DMC-LF1",
-    "brand": "Panasonic",
-    "series": "Lumix LF",
-    "release_year": 2013,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "panasonic_lumix_dc_lx100_ii",
     "display_name": "Panasonic Lumix DC-LX100 II",
     "brand": "Panasonic",
@@ -11877,34 +11076,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_DMC-LX2",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Panasonic_DMC-LX2"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_lx3",
-    "display_name": "Panasonic Lumix DMC-LX3",
-    "brand": "Panasonic",
-    "series": "Lumix LX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-LX3",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-LX3",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-LX3"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_lx5",
-    "display_name": "Panasonic Lumix DMC-LX5",
-    "brand": "Panasonic",
-    "series": "Lumix LX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-LX5",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_DMC-LX5",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_DMC-LX5"
     ],
     "last_checked": "2026-05-24"
   },
@@ -12133,20 +11304,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "panasonic_lumix_dc_ts7",
-    "display_name": "Panasonic Lumix DC-TS7",
-    "brand": "Panasonic",
-    "series": "Lumix TS/FT",
-    "release_year": 2018,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "panasonic_lumix_dmc_ts1",
     "display_name": "Panasonic Lumix DMC-TS1",
     "brand": "Panasonic",
@@ -12311,20 +11468,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Panasonic"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "panasonic_lumix_dmc_tz3",
-    "display_name": "Panasonic Lumix DMC-TZ3",
-    "brand": "Panasonic",
-    "series": "Lumix TZ/ZS",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Panasonic Lumix DMC-ZS3",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-TZ7",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-TZ7"
     ],
     "last_checked": "2026-05-24"
   },
@@ -14387,20 +13530,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "samsung_dv300f",
-    "display_name": "Samsung DV300F",
-    "brand": "Samsung",
-    "series": "DV",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "samsung_digimax_101",
     "display_name": "Samsung Digimax 101",
     "brand": "Samsung",
@@ -16081,34 +15210,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_h1",
-    "display_name": "Sony Cyber-shot DSC-H1",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-H",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony Cyber-shot DSC-H1",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony_DSC-H1",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony_DSC-H1"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_h10",
-    "display_name": "Sony Cyber-shot DSC-H10",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-H",
-    "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_h100",
     "display_name": "Sony Cyber-shot DSC-H100",
     "brand": "Sony",
@@ -16153,62 +15254,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_h3",
-    "display_name": "Sony Cyber-shot DSC-H3",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-H",
-    "release_year": 2007,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_h5",
-    "display_name": "Sony Cyber-shot DSC-H5",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-H",
-    "release_year": 2006,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_h50",
-    "display_name": "Sony Cyber-shot DSC-H50",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-H",
-    "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_h7",
-    "display_name": "Sony Cyber-shot DSC-H7",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-H",
-    "release_year": 2007,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_h9",
     "display_name": "Sony Cyber-shot DSC-H9",
     "brand": "Sony",
@@ -16223,179 +15268,8 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_hx1",
-    "display_name": "Sony Cyber-shot DSC-HX1",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-HX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony Cyber-shot DSC-HX1",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony_Cybershot_DSC-HX1",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony_Cybershot_DSC-HX1"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_hx100v",
-    "display_name": "Sony Cyber-shot DSC-HX100V",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-HX",
-    "release_year": 2011,
-    "reason": "Battery source check failed: TimeoutError: The read operation timed out",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dschx-series/dsc-hx100v/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_hx5v",
-    "display_name": "Sony Cyber-shot DSC-HX5V",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-HX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_hx7v",
-    "display_name": "Sony Cyber-shot DSC-HX7V",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-HX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_hx9v",
-    "display_name": "Sony Cyber-shot DSC-HX9V",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-HX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_rx10_ii",
-    "display_name": "Sony Cyber-shot DSC-RX10 II",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-RX10",
-    "release_year": 2015,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dscrx-series/dsc-rx10ii/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_t11",
-    "display_name": "Sony Cyber-shot DSC-T11",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-T",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_t110",
-    "display_name": "Sony Cyber-shot DSC-T110",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-T",
-    "release_year": null,
-    "reason": "Battery source check failed: TimeoutError: The read operation timed out",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dsct-series/dsc-t110/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_t2",
-    "display_name": "Sony Cyber-shot DSC-T2",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-T",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_t20",
-    "display_name": "Sony Cyber-shot DSC-T20",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-T",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_t25",
     "display_name": "Sony Cyber-shot DSC-T25",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-T",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_t30",
-    "display_name": "Sony Cyber-shot DSC-T30",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-T",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_t5",
-    "display_name": "Sony Cyber-shot DSC-T5",
     "brand": "Sony",
     "series": "Cyber-shot DSC-T",
     "release_year": null,
@@ -16436,122 +15310,8 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_t99",
-    "display_name": "Sony Cyber-shot DSC-T99",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-T",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_tx1",
-    "display_name": "Sony Cyber-shot DSC-TX1",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-TX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_tx10",
-    "display_name": "Sony Cyber-shot DSC-TX10",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-TX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_tx100v",
-    "display_name": "Sony Cyber-shot DSC-TX100V",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-TX",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dsctx-series/dsc-tx100v/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_tx300v",
-    "display_name": "Sony Cyber-shot DSC-TX300V",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-TX",
-    "release_year": null,
-    "reason": "Battery source check failed: TimeoutError: The read operation timed out",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dsctx-series/dsc-tx300v/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_tx5",
-    "display_name": "Sony Cyber-shot DSC-TX5",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-TX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_tx7",
-    "display_name": "Sony Cyber-shot DSC-TX7",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-TX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_tx77",
     "display_name": "Sony Cyber-shot DSC-TX77",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-TX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_tx9",
-    "display_name": "Sony Cyber-shot DSC-TX9",
     "brand": "Sony",
     "series": "Cyber-shot DSC-TX",
     "release_year": null,
@@ -16681,20 +15441,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_w30",
-    "display_name": "Sony Cyber-shot DSC-W30",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_w310",
     "display_name": "Sony Cyber-shot DSC-W310",
     "brand": "Sony",
@@ -16710,21 +15456,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_w320",
-    "display_name": "Sony Cyber-shot DSC-W320",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w320/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_w330",
     "display_name": "Sony Cyber-shot DSC-W330",
     "brand": "Sony",
@@ -16736,35 +15467,6 @@
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Sony",
       "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w330/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_w35",
-    "display_name": "Sony Cyber-shot DSC-W35",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_w350",
-    "display_name": "Sony Cyber-shot DSC-W350",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w350/specifications"
     ],
     "last_checked": "2026-05-24"
   },
@@ -16799,37 +15501,8 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_w380",
-    "display_name": "Sony Cyber-shot DSC-W380",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w380/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_w40",
     "display_name": "Sony Cyber-shot DSC-W40",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_w50",
-    "display_name": "Sony Cyber-shot DSC-W50",
     "brand": "Sony",
     "series": "Cyber-shot DSC-W",
     "release_year": null,
@@ -16886,21 +15559,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_w550",
-    "display_name": "Sony Cyber-shot DSC-W550",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": null,
-    "reason": "Battery source check failed: TimeoutError: The read operation timed out",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w550/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_w560",
     "display_name": "Sony Cyber-shot DSC-W560",
     "brand": "Sony",
@@ -16931,36 +15589,8 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_w7",
-    "display_name": "Sony Cyber-shot DSC-W7",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_w70",
     "display_name": "Sony Cyber-shot DSC-W70",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_w80",
-    "display_name": "Sony Cyber-shot DSC-W80",
     "brand": "Sony",
     "series": "Cyber-shot DSC-W",
     "release_year": null,
@@ -16991,91 +15621,6 @@
     "display_name": "Sony Cyber-shot DSC-W90",
     "brand": "Sony",
     "series": "Cyber-shot DSC-W",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_wx1",
-    "display_name": "Sony Cyber-shot DSC-WX1",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-WX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony Cyber-shot DSC-WX1",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony_DSC-WX1",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony_DSC-WX1"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_wx10",
-    "display_name": "Sony Cyber-shot DSC-WX10",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-WX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony Cyber-shot DSC-WX10",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony_DSC-WX10",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony_DSC-WX10"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_wx170",
-    "display_name": "Sony Cyber-shot DSC-WX170",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-WX",
-    "release_year": 2012,
-    "reason": "Battery source check failed: TimeoutError: The read operation timed out",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dscwx-series/dsc-wx170/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_wx30",
-    "display_name": "Sony Cyber-shot DSC-WX30",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-WX",
-    "release_year": 2011,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_wx5",
-    "display_name": "Sony Cyber-shot DSC-WX5",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-WX",
-    "release_year": 2010,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_wx7",
-    "display_name": "Sony Cyber-shot DSC-WX7",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-WX",
     "release_year": null,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Sony catalog",

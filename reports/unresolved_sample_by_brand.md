@@ -33,8 +33,6 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 
 | Camera | Series | Source | Reason |
 | --- | --- | --- | --- |
-| Casio Exilim EX-10 | Exilim 1 | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
-| Casio Exilim EX-100 | Exilim 1 | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-FC100 | Exilim F | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-FC150 | Exilim F | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-FC200S | Exilim F | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
@@ -47,68 +45,19 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 | Casio Exilim EX-H10 | Exilim H | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-H15 | Exilim H | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-H20G | Exilim H | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
-| Casio Exilim EX-H30 | Exilim H | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-H5 | Exilim H | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-H50 | Exilim H | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-H60 | Exilim H | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-J10 | Exilim J | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-M1 | Exilim M | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
-
-## Olympus
-
-| Camera | Series | Source | Reason |
-| --- | --- | --- | --- |
-| Olympus C-100 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-150 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-160 | C series | https://camera-wiki.org/wiki/Olympus_C-160 | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-170 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-180 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-200 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-2020 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-2040 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-2100 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-300 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-3000 | C series | https://camera-wiki.org/wiki/Olympus_C-3000_Zoom | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-3030 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-310 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-315 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-350 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-360 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-370 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-400 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-4000 | C series | https://camera-wiki.org/wiki/Olympus_C-4000_Zoom | Camera existence confirmed, battery not yet source-verified |
-| Olympus C-4040 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
-
-## Panasonic
-
-| Camera | Series | Source | Reason |
-| --- | --- | --- | --- |
-| Panasonic Lumix DMC-FP1 | Lumix FP | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FP2 | Lumix FP | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FP3 | Lumix FP | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FP5 | Lumix FP | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FP7 | Lumix FP | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FP8 | Lumix FP | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FS12 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FS15 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FS20 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FS25 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FS3 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FS4 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FS42 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FS5 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FS6 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FS62 | Lumix FS | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FS62 | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FS7 | Lumix FS | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FS7 | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FX01 | Lumix FX | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FX07 | Lumix FX | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FX07 | Camera existence confirmed, battery not yet source-verified |
-| Panasonic Lumix DMC-FX100 | Lumix FX | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Casio Exilim EX-M2 | Exilim M | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
+| Casio Exilim EX-M20 | Exilim M | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
+| Casio Exilim EX-MR1 | Exilim M | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 
 ## Samsung
 
 | Camera | Series | Source | Reason |
 | --- | --- | --- | --- |
-| Samsung DV300F | DV | https://camera-wiki.org/wiki/Samsung | Camera existence confirmed, battery not yet source-verified |
 | Samsung Digimax 101 | Digimax | https://camera-wiki.org/wiki/Samsung | Camera existence confirmed, battery not yet source-verified |
 | Samsung Digimax 130 | Digimax | https://camera-wiki.org/wiki/Samsung | Camera existence confirmed, battery not yet source-verified |
 | Samsung Digimax 200 | Digimax | https://camera-wiki.org/wiki/Samsung | Camera existence confirmed, battery not yet source-verified |
@@ -128,6 +77,32 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 | Samsung Digimax 420 | Digimax | https://camera-wiki.org/wiki/Samsung | Camera existence confirmed, battery not yet source-verified |
 | Samsung Digimax 430 | Digimax | https://camera-wiki.org/wiki/Samsung | Camera existence confirmed, battery not yet source-verified |
 | Samsung Digimax 50DUO | Digimax | https://camera-wiki.org/wiki/Samsung | Camera existence confirmed, battery not yet source-verified |
+| Samsung Digimax 530 | Digimax | https://camera-wiki.org/wiki/Samsung | Camera existence confirmed, battery not yet source-verified |
+
+## Panasonic
+
+| Camera | Series | Source | Reason |
+| --- | --- | --- | --- |
+| Panasonic Lumix DMC-FP5 | Lumix FP | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FP7 | Lumix FP | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FP8 | Lumix FP | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FS12 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FS15 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FS20 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FS25 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FS3 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FS4 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FS42 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FS5 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FS6 | Lumix FS | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FS62 | Lumix FS | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FS62 | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FS7 | Lumix FS | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FS7 | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FX07 | Lumix FX | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-FX07 | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FX100 | Lumix FX | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FX150 | Lumix FX | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FX33 | Lumix FX | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FX35 | Lumix FX | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
+| Panasonic Lumix DMC-FX37 | Lumix FX | https://camera-wiki.org/wiki/Panasonic | Camera existence confirmed, battery not yet source-verified |
 
 ## Fujifilm
 
@@ -179,6 +154,31 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 | Nikon COOLPIX 800 | COOLPIX 8 | https://camera-wiki.org/wiki/Nikon_Coolpix_800 | Camera existence confirmed, battery not yet source-verified |
 | Nikon COOLPIX 8400 | COOLPIX 8 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
 
+## Olympus
+
+| Camera | Series | Source | Reason |
+| --- | --- | --- | --- |
+| Olympus C-100 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-150 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-160 | C series | https://camera-wiki.org/wiki/Olympus_C-160 | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-170 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-180 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-200 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-2020 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-2040 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-2100 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-300 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-3000 | C series | https://camera-wiki.org/wiki/Olympus_C-3000_Zoom | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-3030 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-310 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-315 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-350 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-360 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-370 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-400 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-4000 | C series | https://camera-wiki.org/wiki/Olympus_C-4000_Zoom | Camera existence confirmed, battery not yet source-verified |
+| Olympus C-4040 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
+
 ## Pentax
 
 | Camera | Series | Source | Reason |
@@ -203,31 +203,6 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 | Pentax Optio E10 | Optio | https://camera-wiki.org/wiki/Pentax | Camera existence confirmed, battery not yet source-verified |
 | Pentax Optio E20 | Optio | https://camera-wiki.org/wiki/Pentax | Camera existence confirmed, battery not yet source-verified |
 | Pentax Optio E30 | Optio | https://camera-wiki.org/wiki/Pentax | Camera existence confirmed, battery not yet source-verified |
-
-## Sony
-
-| Camera | Series | Source | Reason |
-| --- | --- | --- | --- |
-| Sony Cyber-shot DSC-H1 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony_DSC-H1 | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H10 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H100 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-H20 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H200 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-H3 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H5 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H50 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H7 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H9 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-HX1 | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony_Cybershot_DSC-HX1 | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-HX100V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-HX5V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-HX7V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-HX9V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-RX10 II | Cyber-shot DSC-RX10 | https://camera-wiki.org/wiki/Sony | Checked source but no explicit battery/power mapping was extracted. |
-| Sony Cyber-shot DSC-T11 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-T110 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-T2 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-T20 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
 
 ## HP
 
@@ -278,6 +253,31 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 | Ricoh Caplio Pro G3 | Caplio | https://camera-wiki.org/wiki/Ricoh | Camera existence confirmed, battery not yet source-verified |
 | Ricoh Caplio R1 | Caplio | https://camera-wiki.org/wiki/Ricoh | Camera existence confirmed, battery not yet source-verified |
 | Ricoh Caplio R1S | Caplio | https://camera-wiki.org/wiki/Ricoh | Camera existence confirmed, battery not yet source-verified |
+
+## Sony
+
+| Camera | Series | Source | Reason |
+| --- | --- | --- | --- |
+| Sony Cyber-shot DSC-H100 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-H20 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-H200 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-H9 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-T25 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-T66 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-T75 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-TX77 | Cyber-shot DSC-TX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-W100 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-W115 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-W12 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-W125 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-W15 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-W17 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-W215 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-W275 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-W310 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Checked source but no explicit battery/power mapping was extracted. |
+| Sony Cyber-shot DSC-W330 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-W360 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-W370 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
 
 ## Leica
 

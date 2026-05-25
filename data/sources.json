@@ -7569,6 +7569,24 @@
     "notes": "Casio official power requirements for Exilim EX-ZR1200: Rechargeable NP-130 lithium-ion battery can be used to power the camera."
   },
   {
+    "source_id": "casio_casio_ex_zr1500_official_power_requirements_https_support_casio_com_en_support_answer_php_cid_001016019006_and_num",
+    "source_name": "CASIO EX-ZR1500 Official Power Requirements",
+    "source_url": "https://support.casio.com/en/support/answer.php?cid=001016019006&num=3&qid=62954",
+    "source_type": "official_manual",
+    "publisher": "Casio",
+    "last_verified": "2026-05-25",
+    "notes": "CASIO official Power Requirements for EX-ZR1500: the rechargeable NP-130A lithium-ion battery that comes with the camera can be used to power the camera."
+  },
+  {
+    "source_id": "casio_casio_ex_zr2000_official_power_requirements_https_support_casio_com_en_support_answer_php_cid_001016022006_and_num",
+    "source_name": "CASIO EX-ZR2000 Official Power Requirements",
+    "source_url": "https://support.casio.com/en/support/answer.php?cid=001016022006&num=1&qid=69859",
+    "source_type": "official_manual",
+    "publisher": "Casio",
+    "last_verified": "2026-05-25",
+    "notes": "CASIO official Power Requirements for EX-ZR2000: the rechargeable NP-130A lithium-ion battery that comes with the camera can be used to power the camera."
+  },
+  {
     "source_id": "casio_casio_ex_zr200_official_user_guide_https_support_casio_com_storage_en_manual_pdf_en_001_exzr200_m29_fb_en_pdf",
     "source_name": "Casio EX-ZR200 Official User Guide",
     "source_url": "https://support.casio.com/storage/en/manual/pdf/EN/001/EXZR200_M29_FB_EN.pdf",
@@ -7639,6 +7657,15 @@
     "publisher": "Casio",
     "last_verified": "2026-05-25",
     "notes": "Casio official power requirements for Exilim EX-ZR800: Rechargeable NP-130 lithium-ion battery can be used to power the camera."
+  },
+  {
+    "source_id": "casio_casio_np_130a_official_compatibility_page_https_www_casio_com_jp_digital_cameras_options_product_np_130a",
+    "source_name": "CASIO NP-130A Official Compatibility Page",
+    "source_url": "https://www.casio.com/jp/digital-cameras/options/product.NP-130A/",
+    "source_type": "official_accessory_page",
+    "publisher": "Casio",
+    "last_verified": "2026-05-25",
+    "notes": "CASIO official NP-130A page lists EX-ZR850 as a compatible EXILIM digital camera for lithium-ion rechargeable battery NP-130A."
   },
   {
     "source_id": "fujifilm_camera_wiki_fujifilm_finepix_a201_https_camera_wiki_org_wiki_fujifilm_finepix_a201",
@@ -7848,6 +7875,15 @@
     "notes": "Fujifilm official NP-40 compatibility chart lists FinePix Z3 as compatible with rechargeable battery NP-40."
   },
   {
+    "source_id": "fujifilm_fujifilm_np_45_official_compatibility_chart_https_www_fujifilm_x_com_en_us_support_compatibility_np_45",
+    "source_name": "FUJIFILM NP-45 Official Compatibility Chart",
+    "source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45",
+    "source_type": "official_accessory_page",
+    "publisher": "Fujifilm",
+    "last_verified": "2026-05-25",
+    "notes": "FUJIFILM official NP-45 Compatibility Chart lists FinePix Z250fd as compatible with battery NP-45."
+  },
+  {
     "source_id": "fujifilm_fujifilm_np_45s_official_compatibility_chart_https_www_fujifilm_x_com_en_us_support_compatibility_np_45s",
     "source_name": "Fujifilm NP-45S Official Compatibility Chart",
     "source_url": "https://www.fujifilm-x.com/en-us/support_compatibility/np-45s",
@@ -7864,6 +7900,15 @@
     "publisher": "Fujifilm",
     "last_verified": "2026-05-25",
     "notes": "Fujifilm official NP-50 compatibility information lists FinePix F505EXR as compatible with Li-ion battery NP-50."
+  },
+  {
+    "source_id": "fujifilm_fujifilm_np_50_official_compatibility_page_https_www_fujifilm_x_com_global_products_accessories_np_50",
+    "source_name": "FUJIFILM NP-50 Official Compatibility Page",
+    "source_url": "https://www.fujifilm-x.com/global/products/accessories/np-50/",
+    "source_type": "official_accessory_page",
+    "publisher": "Fujifilm",
+    "last_verified": "2026-05-25",
+    "notes": "FUJIFILM official Li-ion battery NP-50 compatibility list includes FinePix F80EXR."
   },
   {
     "source_id": "fujifilm_fujifilm_np_95_official_compatibility_chart_https_www_fujifilm_x_com_en_gb_support_compatibility_np_95",
@@ -8278,6 +8323,15 @@
     "publisher": "Nikon",
     "last_verified": "2026-05-24",
     "notes": "Backfilled source registry entry from an existing compatibility row."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_p1_p2_official_manual_https_www_nikonusa_com_pdf_manuals_coolpix_p1p2_en_pdf",
+    "source_name": "Nikon COOLPIX P1/P2 Official Manual",
+    "source_url": "https://www.nikonusa.com/pdf/manuals/coolpix/P1P2_en.pdf",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "Nikon official guide for COOLPIX P1 and COOLPIX P2 specifies EN-EL8 Rechargeable Li-ion Battery for COOLPIX P2."
   },
   {
     "source_id": "nikon_nikon_coolpix_p300_manual_https_www_nikonusa_com_pdf_manuals_noprint_p300_ennoprint_pdf",
@@ -9144,6 +9198,15 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "olympus_om_system_official_compact_camera_battery_table_https_support_jp_omsystem_com_jp_support_cs_di_accm_di000409j_ht",
+    "source_name": "OM SYSTEM Official Compact Camera Battery Table",
+    "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
+    "source_type": "official_accessory_page",
+    "publisher": "Olympus",
+    "last_verified": "2026-05-25",
+    "notes": "OM SYSTEM official battery compatibility table lists FE-4050 with lithium-ion battery LI-42B (also LI-40B)."
+  },
+  {
     "source_id": "olympus_om_system_tough_tg_6_specifications_https_jp_omsystem_com_product_compact_tg6_spec_html",
     "source_name": "OM System Tough TG-6 specifications",
     "source_url": "https://jp.omsystem.com/product/compact/tg6/spec.html",
@@ -9288,6 +9351,15 @@
     "notes": "Panasonic official DMW-BLG10 battery specifications list DMC-ZS60 among compatible models for Li-ion Battery DMW-BLG10."
   },
   {
+    "source_id": "panasonic_panasonic_lumix_official_battery_parts_compatibility_page_https_help_na_panasonic_com_answers_parts_and_access",
+    "source_name": "Panasonic LUMIX Official Battery Parts Compatibility Page",
+    "source_url": "https://help.na.panasonic.com/answers/parts-and-accessories-what-battery-is-compatible-with-my-lumix-camera/",
+    "source_type": "official_accessory_page",
+    "publisher": "Panasonic",
+    "last_verified": "2026-05-25",
+    "notes": "Panasonic official battery compatibility page: DC-TS7 battery part number is DMW-BCM13."
+  },
+  {
     "source_id": "panasonic_panasonic_support_charging_instructions_dc_zs70_https_help_na_panasonic_com_answers_how_to_charge_the_battery",
     "source_name": "Panasonic support charging instructions DC-ZS70",
     "source_url": "https://help.na.panasonic.com/answers/how-to-charge-the-battery-on-a-lumix-camera/",
@@ -9421,6 +9493,15 @@
     "publisher": "Samsung",
     "last_verified": "2026-05-24",
     "notes": "Backfilled source registry entry from an existing compatibility row."
+  },
+  {
+    "source_id": "samsung_samsung_dv300f_user_manual_mirror_https_www_manualslib_com_manual_412593_samsung_dv300f_html_page_143",
+    "source_name": "Samsung DV300F User Manual mirror",
+    "source_url": "https://www.manualslib.com/manual/412593/Samsung-Dv300f.html?page=143",
+    "source_type": "manual_mirror",
+    "publisher": "Samsung",
+    "last_verified": "2026-05-25",
+    "notes": "Samsung DV300F Manual: Battery specifications - Model BP88A; lithium battery; capacity 880 mAh; voltage 3.7 V."
   },
   {
     "source_id": "samsung_samsung_mobile_press_wb350f_specifications_https_www_samsungmobilepress_com_articles_samsung_smart_camera_wb350f",
@@ -9601,6 +9682,15 @@
     "publisher": "Sony",
     "last_verified": "2026-05-25",
     "notes": "Battery compatibility table: DSC-T3 compatible with NP-FT1; NP-FR1 not compatible; NP-FD1 not compatible."
+  },
+  {
+    "source_id": "sony_sony_cyber_shot_official_battery_compatibility_table_https_www_sony_jp_support_cyber_shot_accy_battery_html",
+    "source_name": "Sony Cyber-shot Official Battery Compatibility Table",
+    "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
+    "source_type": "official_accessory_page",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony official battery compatibility table: DSC-WX170 is compatible with NP-BN1."
   },
   {
     "source_id": "sony_sony_dsc_h90_official_specifications_https_www_sony_es_electronics_support_compact_cameras_dsc_h_series_dsc_h90_spe",

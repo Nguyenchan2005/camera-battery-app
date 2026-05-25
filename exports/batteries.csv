@@ -30,6 +30,7 @@ casio_np_130a,Casio,NP-130A,[],lithium-ion,,1800,Casio FAQ lists rated capacity 
 fujifilm_np_120,Fujifilm,NP-120,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 fujifilm_np_140,Fujifilm,NP-140,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 fujifilm_np_40,Fujifilm,NP-40,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
+fujifilm_np_45,Fujifilm,NP-45,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 fujifilm_np_45s,Fujifilm,NP-45S,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 fujifilm_np_50,Fujifilm,NP-50,[],lithium-ion,3.6,,Voltage confirmed in FinePix REAL 3D W3 manual snippet.
 fujifilm_np_70,Fujifilm,NP-70,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
@@ -64,12 +65,22 @@ nikon_en_el5,Nikon,EN-EL5,[],lithium-ion,,,Added by Phase 3 unresolved verifier;
 nikon_en_el7,Nikon,EN-EL7,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 nikon_en_el8,Nikon,EN-EL8,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 olympus_li_10b,Olympus,LI-10B,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
+olympus_li_12b,Olympus,LI-12B,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 olympus_li_42b,Olympus,LI-42B,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 olympus_li_50b,Olympus,LI-50B,[],lithium-ion,,,Added by popular compact verifier from explicit manual_battery_sources.json source text.
+olympus_li_70b,Olympus,LI-70B,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 olympus_li_90b,Olympus,LI-90B,[],lithium-ion,,,
 olympus_li_92b,Olympus / OM System,LI-92B,[],lithium-ion,3.6,1350,OM System LI-92B accessory page lists 3.6 V and 1350 mAh.
+panasonic_cgas002a1b,Panasonic,CGAS002A1B,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
+panasonic_cgas004a1b,Panasonic,CGAS004A1B,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
+panasonic_cgas005a1b,Panasonic,CGAS005A1B,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
+panasonic_cgas007a1b,Panasonic,CGAS007A1B,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
+panasonic_dmw_bch7,Panasonic,DMW-BCH7,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
+panasonic_dmw_bcj13,Panasonic,DMW-BCJ13,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 panasonic_dmw_bcj13pp,Panasonic,DMW-BCJ13PP,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
+panasonic_dmw_bcm13,Panasonic,DMW-BCM13,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 panasonic_dmw_bcm13pp,Panasonic,DMW-BCM13PP,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
+panasonic_dmw_bcn10,Panasonic,DMW-BCN10,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 panasonic_dmw_blc12,Panasonic,DMW-BLC12,"[""DMW-BLC12PP"", ""DMW-BLC12E""]",lithium-ion,7.2,1200,Panasonic FZ1000 support page lists DMW-BLC12PP 7.2 V / 1200 mAh.
 panasonic_dmw_blc12pp,Panasonic,DMW-BLC12PP,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 panasonic_dmw_blg10,Panasonic,DMW-BLG10,"[""DMW-BLG10PP"", ""DMW-BLG10E""]",lithium-ion,7.2,1025,Capacity/voltage confirmed by Panasonic/B&H sources.
@@ -78,6 +89,7 @@ panasonic_dmw_bmb9,Panasonic,DMW-BMB9,"[""DMW-BMB9E""]",lithium-ion,7.2,895,Pana
 pentax_d_li92,Pentax,D-LI92,[],lithium-ion,,,Added by import_all_remaining.py; electrical details left blank unless source-backed.
 ricoh_db_110,Ricoh,DB-110,[],lithium-ion,3.6,1350,WG-6 manual snippet lists 3.6 V / 1350 mAh.
 samsung_bp70a,Samsung,BP70A,"[""BP-70A""]",lithium-ion,3.7,700,Samsung manual sources list 700 mAh or min 700 mAh depending model.
+samsung_bp88a,Samsung,BP88A,[],lithium-ion,3.7,880,Added from reviewed LLM-assisted research evidence with a recorded source.
 samsung_bp_1410,Samsung,BP-1410,"[""BP1410""]",lithium-ion,,,
 samsung_slb_10a,Samsung,SLB-10A,[],lithium-ion,,,
 samsung_slb_11a,Samsung,SLB-11A,[],lithium-ion,3.8,1130,Added from reviewed LLM-assisted research evidence with a recorded source.
@@ -90,8 +102,10 @@ sony_np_bk1,Sony,NP-BK1,[],lithium-ion,,,Added by Phase 3 unresolved verifier; e
 sony_np_bn,Sony,NP-BN,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 sony_np_bn1,Sony,NP-BN1,[],lithium-ion,,,Listed by Sony as optional battery on some NP-BN cameras.
 sony_np_bx1,Sony,NP-BX1,[],lithium-ion,,,Added by import_all_remaining.py; electrical details left blank unless source-backed.
+sony_np_fd1,Sony,NP-FD1,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 sony_np_fe1,Sony,NP-FE1,[],lithium-ion,,,Added by popular compact verifier from explicit manual_battery_sources.json source text.
 sony_np_fh50,Sony,NP-FH50,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
+sony_np_fh50_5,Sony,NP-FH50/5,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 sony_np_fr1,Sony,NP-FR1,[],lithium-ion,,,Added by popular compact verifier from explicit manual_battery_sources.json source text.
 sony_np_ft1,Sony,NP-FT1,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 sony_np_fw50,Sony,NP-FW50,[],lithium-ion,,,Added by import_all_remaining.py; electrical details left blank unless source-backed.
