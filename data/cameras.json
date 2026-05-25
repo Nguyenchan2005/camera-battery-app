@@ -492,6 +492,27 @@
     "notes": ""
   },
   {
+    "camera_id": "canon_powershot_a3000_is",
+    "brand": "Canon",
+    "series": "PowerShot A",
+    "model": "A3000 IS",
+    "display_name": "PowerShot A3000 IS",
+    "aliases": [],
+    "regional_names": {
+      "americas": [
+        "PowerShot A3000 IS"
+      ],
+      "europe_asia_oceania": [
+        "PowerShot A3000 IS"
+      ]
+    },
+    "release_year": 2010,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": ""
+  },
+  {
     "camera_id": "canon_powershot_a310",
     "brand": "Canon",
     "series": "PowerShot A",
@@ -861,6 +882,27 @@
       ]
     },
     "release_year": 2009,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": ""
+  },
+  {
+    "camera_id": "canon_powershot_a490",
+    "brand": "Canon",
+    "series": "PowerShot A",
+    "model": "A490",
+    "display_name": "PowerShot A490",
+    "aliases": [],
+    "regional_names": {
+      "americas": [
+        "PowerShot A490"
+      ],
+      "europe_asia_oceania": [
+        "PowerShot A490"
+      ]
+    },
+    "release_year": 2010,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "aa",
@@ -2872,6 +2914,30 @@
     "aliases": [],
     "regional_names": {},
     "release_year": 2014,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": ""
+  },
+  {
+    "camera_id": "canon_powershot_n2",
+    "brand": "Canon",
+    "series": "PowerShot N",
+    "model": "N2",
+    "display_name": "PowerShot N2",
+    "aliases": [],
+    "regional_names": {
+      "japan": [
+        "PowerShot N2"
+      ],
+      "americas": [
+        "PowerShot N2"
+      ],
+      "europe_asia_oceania": [
+        "PowerShot N2"
+      ]
+    },
+    "release_year": 2015,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -5400,6 +5466,30 @@
     "notes": ""
   },
   {
+    "camera_id": "canon_powershot_sx70_hs",
+    "brand": "Canon",
+    "series": "PowerShot SX",
+    "model": "SX70 HS",
+    "display_name": "PowerShot SX70 HS",
+    "aliases": [],
+    "regional_names": {
+      "japan": [
+        "PowerShot SX70 HS"
+      ],
+      "americas": [
+        "PowerShot SX70 HS"
+      ],
+      "europe_asia_oceania": [
+        "PowerShot SX70 HS"
+      ]
+    },
+    "release_year": 2018,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": ""
+  },
+  {
     "camera_id": "canon_powershot_sx710_hs",
     "brand": "Canon",
     "series": "PowerShot SX",
@@ -5763,6 +5853,26 @@
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "casio_exilim_ex_z10",
+    "brand": "Casio",
+    "series": "Exilim Z",
+    "model": "Exilim EX-Z10",
+    "display_name": "Casio Exilim EX-Z10",
+    "aliases": [
+      "Exilim EX-Z10"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-Z10"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
@@ -6327,6 +6437,46 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "fujifilm_finepix_a101",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A101",
+    "display_name": "Fujifilm FinePix A101",
+    "aliases": [
+      "FUJIFILM FinePix A101"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A101"
+      ]
+    },
+    "release_year": 2001,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_a120",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A120",
+    "display_name": "Fujifilm FinePix A120",
+    "aliases": [
+      "FUJIFILM FinePix A120"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A120"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "fujifilm_finepix_a150",
     "brand": "Fujifilm",
     "series": "FinePix A",
@@ -6387,6 +6537,46 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "fujifilm_finepix_a203",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A203",
+    "display_name": "Fujifilm FinePix A203",
+    "aliases": [
+      "FUJIFILM FinePix A203"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A203"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_a204",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A204",
+    "display_name": "Fujifilm FinePix A204",
+    "aliases": [
+      "FUJIFILM FinePix A204"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A204"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "fujifilm_finepix_a205",
     "brand": "Fujifilm",
     "series": "FinePix A",
@@ -6398,6 +6588,406 @@
     "regional_names": {
       "global": [
         "Fujifilm FinePix A205"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_a210",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A210",
+    "display_name": "Fujifilm FinePix A210",
+    "aliases": [
+      "FUJIFILM FinePix A210"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A210"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_a303",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A303",
+    "display_name": "Fujifilm FinePix A303",
+    "aliases": [
+      "FUJIFILM FinePix A303"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A303"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_a330",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A330",
+    "display_name": "Fujifilm FinePix A330",
+    "aliases": [
+      "FUJIFILM FinePix A330"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A330"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_a340",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A340",
+    "display_name": "Fujifilm FinePix A340",
+    "aliases": [
+      "FUJIFILM FinePix A340"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A340"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_a345",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A345",
+    "display_name": "Fujifilm FinePix A345",
+    "aliases": [
+      "FUJIFILM FinePix A345"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A345"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_a350",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A350",
+    "display_name": "Fujifilm FinePix A350",
+    "aliases": [
+      "FUJIFILM FinePix A350"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A350"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_a400",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A400",
+    "display_name": "Fujifilm FinePix A400",
+    "aliases": [
+      "FUJIFILM FinePix A400"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A400"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_a500",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A500",
+    "display_name": "Fujifilm FinePix A500",
+    "aliases": [
+      "FUJIFILM FinePix A500"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A500"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_a600",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A600",
+    "display_name": "Fujifilm FinePix A600",
+    "aliases": [
+      "FUJIFILM FinePix A600"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A600"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_a610",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A610",
+    "display_name": "Fujifilm FinePix A610",
+    "aliases": [
+      "FUJIFILM FinePix A610"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A610"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_a800",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A800",
+    "display_name": "Fujifilm FinePix A800",
+    "aliases": [
+      "FUJIFILM FinePix A800"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A800"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_a820",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A820",
+    "display_name": "Fujifilm FinePix A820",
+    "aliases": [
+      "FUJIFILM FinePix A820"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A820"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_a850",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A850",
+    "display_name": "Fujifilm FinePix A850",
+    "aliases": [
+      "FUJIFILM FinePix A850"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A850"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_a920",
+    "brand": "Fujifilm",
+    "series": "FinePix A",
+    "model": "FinePix A920",
+    "display_name": "Fujifilm FinePix A920",
+    "aliases": [
+      "FUJIFILM FinePix A920"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix A920"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_av100",
+    "brand": "Fujifilm",
+    "series": "FinePix AV",
+    "model": "FinePix AV100",
+    "display_name": "Fujifilm FinePix AV100",
+    "aliases": [
+      "FUJIFILM FinePix AV100"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix AV100"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_av150",
+    "brand": "Fujifilm",
+    "series": "FinePix AV",
+    "model": "FinePix AV150",
+    "display_name": "Fujifilm FinePix AV150",
+    "aliases": [
+      "FUJIFILM FinePix AV150"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix AV150"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_av200",
+    "brand": "Fujifilm",
+    "series": "FinePix AV",
+    "model": "FinePix AV200",
+    "display_name": "Fujifilm FinePix AV200",
+    "aliases": [
+      "FUJIFILM FinePix AV200"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix AV200"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_av230",
+    "brand": "Fujifilm",
+    "series": "FinePix AV",
+    "model": "FinePix AV230",
+    "display_name": "Fujifilm FinePix AV230",
+    "aliases": [
+      "FUJIFILM FinePix AV230"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix AV230"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_av250",
+    "brand": "Fujifilm",
+    "series": "FinePix AV",
+    "model": "FinePix AV250",
+    "display_name": "Fujifilm FinePix AV250",
+    "aliases": [
+      "FUJIFILM FinePix AV250"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix AV250"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_av280",
+    "brand": "Fujifilm",
+    "series": "FinePix AV",
+    "model": "FinePix AV280",
+    "display_name": "Fujifilm FinePix AV280",
+    "aliases": [
+      "FUJIFILM FinePix AV280"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix AV280"
       ]
     },
     "release_year": null,
@@ -7640,6 +8230,26 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "fujifilm_finepix_s3000",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S3000",
+    "display_name": "Fujifilm FinePix S3000",
+    "aliases": [
+      "FUJIFILM FinePix S3000"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S3000"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "fujifilm_finepix_s304",
     "brand": "Fujifilm",
     "series": "FinePix S",
@@ -7651,6 +8261,126 @@
     "regional_names": {
       "global": [
         "Fujifilm FinePix S304"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s3100",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S3100",
+    "display_name": "Fujifilm FinePix S3100",
+    "aliases": [
+      "FUJIFILM FinePix S3100"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S3100"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s3200",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S3200",
+    "display_name": "Fujifilm FinePix S3200",
+    "aliases": [
+      "FUJIFILM FinePix S3200"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S3200"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s3300",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S3300",
+    "display_name": "Fujifilm FinePix S3300",
+    "aliases": [
+      "FUJIFILM FinePix S3300"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S3300"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s3400",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S3400",
+    "display_name": "Fujifilm FinePix S3400",
+    "aliases": [
+      "FUJIFILM FinePix S3400"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S3400"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s4000",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S4000",
+    "display_name": "Fujifilm FinePix S4000",
+    "aliases": [
+      "FUJIFILM FinePix S4000"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S4000"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s4200",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S4200",
+    "display_name": "Fujifilm FinePix S4200",
+    "aliases": [
+      "FUJIFILM FinePix S4200"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S4200"
       ]
     },
     "release_year": null,
@@ -7674,6 +8404,26 @@
       ]
     },
     "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s4800",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S4800",
+    "display_name": "Fujifilm FinePix S4800",
+    "aliases": [
+      "FUJIFILM FinePix S4800"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S4800"
+      ]
+    },
+    "release_year": 2013,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "aa",
@@ -7720,6 +8470,26 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "fujifilm_finepix_s5200",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S5200",
+    "display_name": "Fujifilm FinePix S5200",
+    "aliases": [
+      "FUJIFILM FinePix S5200"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S5200"
+      ]
+    },
+    "release_year": 2005,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "fujifilm_finepix_s5500",
     "brand": "Fujifilm",
     "series": "FinePix S",
@@ -7760,6 +8530,26 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "fujifilm_finepix_s6800",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S6800",
+    "display_name": "Fujifilm FinePix S6800",
+    "aliases": [
+      "FUJIFILM FinePix S6800"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S6800"
+      ]
+    },
+    "release_year": 2013,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "fujifilm_finepix_s7000",
     "brand": "Fujifilm",
     "series": "FinePix S",
@@ -7780,6 +8570,126 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "fujifilm_finepix_s8000fd",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S8000fd",
+    "display_name": "Fujifilm FinePix S8000fd",
+    "aliases": [
+      "FUJIFILM FinePix S8000fd"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S8000fd"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s8200",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S8200",
+    "display_name": "Fujifilm FinePix S8200",
+    "aliases": [
+      "FUJIFILM FinePix S8200"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S8200"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s8300",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S8300",
+    "display_name": "Fujifilm FinePix S8300",
+    "aliases": [
+      "FUJIFILM FinePix S8300"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S8300"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s8400w",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S8400W",
+    "display_name": "Fujifilm FinePix S8400W",
+    "aliases": [
+      "FUJIFILM FinePix S8400W"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S8400W"
+      ]
+    },
+    "release_year": 2013,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s8500",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S8500",
+    "display_name": "Fujifilm FinePix S8500",
+    "aliases": [
+      "FUJIFILM FinePix S8500"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S8500"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s8600",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S8600",
+    "display_name": "Fujifilm FinePix S8600",
+    "aliases": [
+      "FUJIFILM FinePix S8600"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S8600"
+      ]
+    },
+    "release_year": 2014,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "fujifilm_finepix_s9600",
     "brand": "Fujifilm",
     "series": "FinePix S",
@@ -7791,6 +8701,26 @@
     "regional_names": {
       "global": [
         "Fujifilm FinePix S9600"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s9900w",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S9900W",
+    "display_name": "Fujifilm FinePix S9900W",
+    "aliases": [
+      "FUJIFILM FinePix S9900W"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S9900W"
       ]
     },
     "release_year": null,
@@ -9131,6 +10061,126 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "kodak_easyshare_c142",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C142",
+    "display_name": "Kodak EasyShare C142",
+    "aliases": [
+      "Kodak Easyshare C142"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C142"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c143",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C143",
+    "display_name": "Kodak EasyShare C143",
+    "aliases": [
+      "Kodak Easyshare C143"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C143"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c180",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C180",
+    "display_name": "Kodak EasyShare C180",
+    "aliases": [
+      "Kodak Easyshare C180"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C180"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c182",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C182",
+    "display_name": "Kodak EasyShare C182",
+    "aliases": [
+      "Kodak Easyshare C182"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C182"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c183",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C183",
+    "display_name": "Kodak EasyShare C183",
+    "aliases": [
+      "Kodak Easyshare C183"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C183"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c190",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C190",
+    "display_name": "Kodak EasyShare C190",
+    "aliases": [
+      "Kodak Easyshare C190"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C190"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "kodak_easyshare_c195",
     "brand": "Kodak",
     "series": "EasyShare C",
@@ -9145,6 +10195,226 @@
     "lens_type": "fixed_lens",
     "battery_system": "aa",
     "notes": ""
+  },
+  {
+    "camera_id": "kodak_easyshare_c300",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C300",
+    "display_name": "Kodak EasyShare C300",
+    "aliases": [
+      "Kodak Easyshare C300"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C300"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c310",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C310",
+    "display_name": "Kodak EasyShare C310",
+    "aliases": [
+      "Kodak Easyshare C310"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C310"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c315",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C315",
+    "display_name": "Kodak EasyShare C315",
+    "aliases": [
+      "Kodak Easyshare C315"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C315"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c330",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C330",
+    "display_name": "Kodak EasyShare C330",
+    "aliases": [
+      "Kodak Easyshare C330"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C330"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c340",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C340",
+    "display_name": "Kodak EasyShare C340",
+    "aliases": [
+      "Kodak Easyshare C340"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C340"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c360",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C360",
+    "display_name": "Kodak EasyShare C360",
+    "aliases": [
+      "Kodak Easyshare C360"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C360"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c433",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C433",
+    "display_name": "Kodak EasyShare C433",
+    "aliases": [
+      "Kodak Easyshare C433"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C433"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c503",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C503",
+    "display_name": "Kodak EasyShare C503",
+    "aliases": [
+      "Kodak Easyshare C503"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C503"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c513",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C513",
+    "display_name": "Kodak EasyShare C513",
+    "aliases": [
+      "Kodak Easyshare C513"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C513"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c530",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C530",
+    "display_name": "Kodak EasyShare C530",
+    "aliases": [
+      "Kodak Easyshare C530"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C530"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c533",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C533",
+    "display_name": "Kodak EasyShare C533",
+    "aliases": [
+      "Kodak Easyshare C533"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C533"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "kodak_easyshare_c603",
@@ -9227,6 +10497,46 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "kodak_easyshare_c663",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C663",
+    "display_name": "Kodak EasyShare C663",
+    "aliases": [
+      "Kodak Easyshare C663"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C663"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c703",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C703",
+    "display_name": "Kodak EasyShare C703",
+    "aliases": [
+      "Kodak Easyshare C703"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C703"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "kodak_easyshare_c713",
     "brand": "Kodak",
     "series": "EasyShare C",
@@ -9238,6 +10548,286 @@
     "regional_names": {
       "global": [
         "Kodak EasyShare C713"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c743",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C743",
+    "display_name": "Kodak EasyShare C743",
+    "aliases": [
+      "Kodak Easyshare C743"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C743"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c763",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C763",
+    "display_name": "Kodak EasyShare C763",
+    "aliases": [
+      "Kodak Easyshare C763"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C763"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c875",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C875",
+    "display_name": "Kodak EasyShare C875",
+    "aliases": [
+      "Kodak Easyshare C875"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C875"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_c913",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C913",
+    "display_name": "Kodak EasyShare C913",
+    "aliases": [
+      "Kodak Easyshare C913"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C913"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cd1013",
+    "brand": "Kodak",
+    "series": "EasyShare CD",
+    "model": "EasyShare CD1013",
+    "display_name": "Kodak EasyShare CD1013",
+    "aliases": [
+      "Kodak Easyshare CD1013"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CD1013"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cd14",
+    "brand": "Kodak",
+    "series": "EasyShare CD",
+    "model": "EasyShare CD14",
+    "display_name": "Kodak EasyShare CD14",
+    "aliases": [
+      "Kodak Easyshare CD14"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CD14"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cd153",
+    "brand": "Kodak",
+    "series": "EasyShare CD",
+    "model": "EasyShare CD153",
+    "display_name": "Kodak EasyShare CD153",
+    "aliases": [
+      "Kodak Easyshare CD153"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CD153"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cd22",
+    "brand": "Kodak",
+    "series": "EasyShare CD",
+    "model": "EasyShare CD22",
+    "display_name": "Kodak EasyShare CD22",
+    "aliases": [
+      "Kodak Easyshare CD22"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CD22"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cd24",
+    "brand": "Kodak",
+    "series": "EasyShare CD",
+    "model": "EasyShare CD24",
+    "display_name": "Kodak EasyShare CD24",
+    "aliases": [
+      "Kodak Easyshare CD24"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CD24"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cd33",
+    "brand": "Kodak",
+    "series": "EasyShare CD",
+    "model": "EasyShare CD33",
+    "display_name": "Kodak EasyShare CD33",
+    "aliases": [
+      "Kodak Easyshare CD33"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CD33"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cd40",
+    "brand": "Kodak",
+    "series": "EasyShare CD",
+    "model": "EasyShare CD40",
+    "display_name": "Kodak EasyShare CD40",
+    "aliases": [
+      "Kodak Easyshare CD40"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CD40"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cd43",
+    "brand": "Kodak",
+    "series": "EasyShare CD",
+    "model": "EasyShare CD43",
+    "display_name": "Kodak EasyShare CD43",
+    "aliases": [
+      "Kodak Easyshare CD43"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CD43"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cd44",
+    "brand": "Kodak",
+    "series": "EasyShare CD",
+    "model": "EasyShare CD44",
+    "display_name": "Kodak EasyShare CD44",
+    "aliases": [
+      "Kodak Easyshare CD44"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CD44"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cd50",
+    "brand": "Kodak",
+    "series": "EasyShare CD",
+    "model": "EasyShare CD50",
+    "display_name": "Kodak EasyShare CD50",
+    "aliases": [
+      "Kodak Easyshare CD50"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CD50"
       ]
     },
     "release_year": null,
@@ -9267,6 +10857,346 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "kodak_easyshare_cd80",
+    "brand": "Kodak",
+    "series": "EasyShare CD",
+    "model": "EasyShare CD80",
+    "display_name": "Kodak EasyShare CD80",
+    "aliases": [
+      "Kodak Easyshare CD80"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CD80"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cd82",
+    "brand": "Kodak",
+    "series": "EasyShare CD",
+    "model": "EasyShare CD82",
+    "display_name": "Kodak EasyShare CD82",
+    "aliases": [
+      "Kodak Easyshare CD82"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CD82"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cd83",
+    "brand": "Kodak",
+    "series": "EasyShare CD",
+    "model": "EasyShare CD83",
+    "display_name": "Kodak EasyShare CD83",
+    "aliases": [
+      "Kodak Easyshare CD83"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CD83"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cd90",
+    "brand": "Kodak",
+    "series": "EasyShare CD",
+    "model": "EasyShare CD90",
+    "display_name": "Kodak EasyShare CD90",
+    "aliases": [
+      "Kodak Easyshare CD90"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CD90"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cd93",
+    "brand": "Kodak",
+    "series": "EasyShare CD",
+    "model": "EasyShare CD93",
+    "display_name": "Kodak EasyShare CD93",
+    "aliases": [
+      "Kodak Easyshare CD93"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CD93"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cx4200",
+    "brand": "Kodak",
+    "series": "EasyShare CX",
+    "model": "EasyShare CX4200",
+    "display_name": "Kodak EasyShare CX4200",
+    "aliases": [
+      "Kodak Easyshare CX4200"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CX4200"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cx4210",
+    "brand": "Kodak",
+    "series": "EasyShare CX",
+    "model": "EasyShare CX4210",
+    "display_name": "Kodak EasyShare CX4210",
+    "aliases": [
+      "Kodak Easyshare CX4210"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CX4210"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cx4230",
+    "brand": "Kodak",
+    "series": "EasyShare CX",
+    "model": "EasyShare CX4230",
+    "display_name": "Kodak EasyShare CX4230",
+    "aliases": [
+      "Kodak Easyshare CX4230"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CX4230"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cx4300",
+    "brand": "Kodak",
+    "series": "EasyShare CX",
+    "model": "EasyShare CX4300",
+    "display_name": "Kodak EasyShare CX4300",
+    "aliases": [
+      "Kodak Easyshare CX4300"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CX4300"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cx4310",
+    "brand": "Kodak",
+    "series": "EasyShare CX",
+    "model": "EasyShare CX4310",
+    "display_name": "Kodak EasyShare CX4310",
+    "aliases": [
+      "Kodak Easyshare CX4310"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CX4310"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cx6200",
+    "brand": "Kodak",
+    "series": "EasyShare CX",
+    "model": "EasyShare CX6200",
+    "display_name": "Kodak EasyShare CX6200",
+    "aliases": [
+      "Kodak Easyshare CX6200"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CX6200"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cx6230",
+    "brand": "Kodak",
+    "series": "EasyShare CX",
+    "model": "EasyShare CX6230",
+    "display_name": "Kodak EasyShare CX6230",
+    "aliases": [
+      "Kodak Easyshare CX6230"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CX6230"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cx6330",
+    "brand": "Kodak",
+    "series": "EasyShare CX",
+    "model": "EasyShare CX6330",
+    "display_name": "Kodak EasyShare CX6330",
+    "aliases": [
+      "Kodak Easyshare CX6330"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CX6330"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cx6445",
+    "brand": "Kodak",
+    "series": "EasyShare CX",
+    "model": "EasyShare CX6445",
+    "display_name": "Kodak EasyShare CX6445",
+    "aliases": [
+      "Kodak Easyshare CX6445"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CX6445"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cx7220",
+    "brand": "Kodak",
+    "series": "EasyShare CX",
+    "model": "EasyShare CX7220",
+    "display_name": "Kodak EasyShare CX7220",
+    "aliases": [
+      "Kodak Easyshare CX7220"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CX7220"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cx7300",
+    "brand": "Kodak",
+    "series": "EasyShare CX",
+    "model": "EasyShare CX7300",
+    "display_name": "Kodak EasyShare CX7300",
+    "aliases": [
+      "Kodak Easyshare CX7300"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CX7300"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cx7310",
+    "brand": "Kodak",
+    "series": "EasyShare CX",
+    "model": "EasyShare CX7310",
+    "display_name": "Kodak EasyShare CX7310",
+    "aliases": [
+      "Kodak Easyshare CX7310"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CX7310"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "kodak_easyshare_cx7330",
     "brand": "Kodak",
     "series": "EasyShare CX",
@@ -9278,6 +11208,66 @@
     "regional_names": {
       "global": [
         "Kodak EasyShare CX7330"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cx7430",
+    "brand": "Kodak",
+    "series": "EasyShare CX",
+    "model": "EasyShare CX7430",
+    "display_name": "Kodak EasyShare CX7430",
+    "aliases": [
+      "Kodak Easyshare CX7430"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CX7430"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cx7525",
+    "brand": "Kodak",
+    "series": "EasyShare CX",
+    "model": "EasyShare CX7525",
+    "display_name": "Kodak EasyShare CX7525",
+    "aliases": [
+      "Kodak Easyshare CX7525"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CX7525"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "kodak_easyshare_cx7530",
+    "brand": "Kodak",
+    "series": "EasyShare CX",
+    "model": "EasyShare CX7530",
+    "display_name": "Kodak EasyShare CX7530",
+    "aliases": [
+      "Kodak Easyshare CX7530"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare CX7530"
       ]
     },
     "release_year": null,
@@ -10544,6 +12534,48 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "nikon_coolpix_l1",
+    "brand": "Nikon",
+    "series": "COOLPIX L",
+    "model": "COOLPIX L1",
+    "display_name": "Nikon COOLPIX L1",
+    "aliases": [
+      "Coolpix L1",
+      "L1"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX L1"
+      ]
+    },
+    "release_year": 2005,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_l10",
+    "brand": "Nikon",
+    "series": "COOLPIX L",
+    "model": "COOLPIX L10",
+    "display_name": "Nikon COOLPIX L10",
+    "aliases": [
+      "Coolpix L10",
+      "L10"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX L10"
+      ]
+    },
+    "release_year": 2007,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "nikon_coolpix_l100",
     "brand": "Nikon",
     "series": "COOLPIX L",
@@ -10559,6 +12591,27 @@
       ]
     },
     "release_year": 2009,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_l11",
+    "brand": "Nikon",
+    "series": "COOLPIX L",
+    "model": "COOLPIX L11",
+    "display_name": "Nikon COOLPIX L11",
+    "aliases": [
+      "Coolpix L11",
+      "L11"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX L11"
+      ]
+    },
+    "release_year": 2007,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "aa",
@@ -10586,6 +12639,27 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "nikon_coolpix_l12",
+    "brand": "Nikon",
+    "series": "COOLPIX L",
+    "model": "COOLPIX L12",
+    "display_name": "Nikon COOLPIX L12",
+    "aliases": [
+      "Coolpix L12",
+      "L12"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX L12"
+      ]
+    },
+    "release_year": 2007,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "nikon_coolpix_l120",
     "brand": "Nikon",
     "series": "COOLPIX L",
@@ -10601,6 +12675,48 @@
       ]
     },
     "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_l14",
+    "brand": "Nikon",
+    "series": "COOLPIX L",
+    "model": "COOLPIX L14",
+    "display_name": "Nikon COOLPIX L14",
+    "aliases": [
+      "Coolpix L14",
+      "L14"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX L14"
+      ]
+    },
+    "release_year": 2007,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_l15",
+    "brand": "Nikon",
+    "series": "COOLPIX L",
+    "model": "COOLPIX L15",
+    "display_name": "Nikon COOLPIX L15",
+    "aliases": [
+      "Coolpix L15",
+      "L15"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX L15"
+      ]
+    },
+    "release_year": 2007,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "aa",
@@ -10706,6 +12822,27 @@
       ]
     },
     "release_year": 2009,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_l21",
+    "brand": "Nikon",
+    "series": "COOLPIX L",
+    "model": "COOLPIX L21",
+    "display_name": "Nikon COOLPIX L21",
+    "aliases": [
+      "Coolpix L21",
+      "L21"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX L21"
+      ]
+    },
+    "release_year": 2010,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "aa",
@@ -10859,6 +12996,27 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "nikon_coolpix_l29",
+    "brand": "Nikon",
+    "series": "COOLPIX L",
+    "model": "COOLPIX L29",
+    "display_name": "Nikon COOLPIX L29",
+    "aliases": [
+      "Coolpix L29",
+      "L29"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX L29"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "nikon_coolpix_l3",
     "brand": "Nikon",
     "series": "COOLPIX L",
@@ -10997,6 +13155,27 @@
     "regional_names": {
       "global": [
         "COOLPIX L5"
+      ]
+    },
+    "release_year": 2006,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_l6",
+    "brand": "Nikon",
+    "series": "COOLPIX L",
+    "model": "COOLPIX L6",
+    "display_name": "Nikon COOLPIX L6",
+    "aliases": [
+      "Coolpix L6",
+      "L6"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX L6"
       ]
     },
     "release_year": 2006,
@@ -13514,6 +15693,29 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "olympus_c_150",
+    "brand": "Olympus",
+    "series": "C series",
+    "model": "C-150",
+    "display_name": "Olympus C-150",
+    "aliases": [
+      "Olympus C-150"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus C-150"
+      ],
+      "regional_aliases": [
+        "Olympus C-150"
+      ]
+    },
+    "release_year": 2003,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "olympus_c_160",
     "brand": "Olympus",
     "series": "C series",
@@ -13531,6 +15733,29 @@
       ]
     },
     "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_c_170",
+    "brand": "Olympus",
+    "series": "C series",
+    "model": "C-170",
+    "display_name": "Olympus C-170",
+    "aliases": [
+      "Olympus C-170"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus C-170"
+      ],
+      "regional_aliases": [
+        "Olympus C-170"
+      ]
+    },
+    "release_year": 2005,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "aa",
@@ -13859,6 +16084,52 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "olympus_c_310",
+    "brand": "Olympus",
+    "series": "C series",
+    "model": "C-310",
+    "display_name": "Olympus C-310",
+    "aliases": [
+      "Olympus C-310"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus C-310"
+      ],
+      "regional_aliases": [
+        "Olympus C-310"
+      ]
+    },
+    "release_year": 2004,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_c_315",
+    "brand": "Olympus",
+    "series": "C series",
+    "model": "C-315",
+    "display_name": "Olympus C-315",
+    "aliases": [
+      "Olympus C-315"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus C-315"
+      ],
+      "regional_aliases": [
+        "Olympus C-315"
+      ]
+    },
+    "release_year": 2005,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "olympus_c_350",
     "brand": "Olympus",
     "series": "C series",
@@ -13876,6 +16147,52 @@
       ]
     },
     "release_year": 2003,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_c_360",
+    "brand": "Olympus",
+    "series": "C series",
+    "model": "C-360",
+    "display_name": "Olympus C-360",
+    "aliases": [
+      "Olympus C-360"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus C-360"
+      ],
+      "regional_aliases": [
+        "Olympus C-360"
+      ]
+    },
+    "release_year": 2004,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_c_370",
+    "brand": "Olympus",
+    "series": "C series",
+    "model": "C-370",
+    "display_name": "Olympus C-370",
+    "aliases": [
+      "Olympus C-370"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus C-370"
+      ],
+      "regional_aliases": [
+        "Olympus C-370"
+      ]
+    },
+    "release_year": 2004,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "aa",
@@ -14447,6 +16764,29 @@
     "notes": "Added from an official manufacturer battery compatibility table for a recognized fixed-lens compact family; release year remains unverified."
   },
   {
+    "camera_id": "olympus_fe_100",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-100",
+    "display_name": "Olympus FE-100",
+    "aliases": [
+      "Olympus FE-100"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-100"
+      ],
+      "regional_aliases": [
+        "Olympus FE-100"
+      ]
+    },
+    "release_year": 2005,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "olympus_fe_110",
     "brand": "Olympus",
     "series": "FE series",
@@ -14493,6 +16833,75 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "olympus_fe_120",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-120",
+    "display_name": "Olympus FE-120",
+    "aliases": [
+      "Olympus FE-120"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-120"
+      ],
+      "regional_aliases": [
+        "Olympus FE-120"
+      ]
+    },
+    "release_year": 2006,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_130",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-130",
+    "display_name": "Olympus FE-130",
+    "aliases": [
+      "Olympus FE-130"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-130"
+      ],
+      "regional_aliases": [
+        "Olympus FE-130"
+      ]
+    },
+    "release_year": 2006,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_140",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-140",
+    "display_name": "Olympus FE-140",
+    "aliases": [
+      "Olympus FE-140"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-140"
+      ],
+      "regional_aliases": [
+        "Olympus FE-140"
+      ]
+    },
+    "release_year": 2006,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "olympus_fe_150",
     "brand": "Olympus",
     "series": "FE series",
@@ -14513,6 +16922,29 @@
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_170",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-170",
+    "display_name": "Olympus FE-170",
+    "aliases": [
+      "Olympus FE-170"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-170"
+      ],
+      "regional_aliases": [
+        "Olympus FE-170"
+      ]
+    },
+    "release_year": 2006,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
@@ -14582,6 +17014,29 @@
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_210",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-210",
+    "display_name": "Olympus FE-210",
+    "aliases": [
+      "Olympus FE-210"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-210"
+      ],
+      "regional_aliases": [
+        "Olympus FE-210"
+      ]
+    },
+    "release_year": 2007,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
@@ -14669,6 +17124,29 @@
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_270",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-270",
+    "display_name": "Olympus FE-270",
+    "aliases": [
+      "Olympus FE-270"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-270"
+      ],
+      "regional_aliases": [
+        "Olympus FE-270"
+      ]
+    },
+    "release_year": 2007,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
@@ -14784,6 +17262,29 @@
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_fe_310",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-310",
+    "display_name": "Olympus FE-310",
+    "aliases": [
+      "Olympus FE-310"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-310"
+      ],
+      "regional_aliases": [
+        "Olympus FE-310"
+      ]
+    },
+    "release_year": 2008,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
@@ -18202,6 +20703,29 @@
     "notes": ""
   },
   {
+    "camera_id": "panasonic_lumix_dmc_fz1000ii",
+    "brand": "Panasonic",
+    "series": "Lumix FZ",
+    "model": "DMC-FZ1000II",
+    "display_name": "Panasonic Lumix DMC-FZ1000II",
+    "aliases": [
+      "DMC-FZ1000II"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-FZ1000II"
+      ],
+      "regional_aliases": [
+        "DMC-FZ1000II"
+      ]
+    },
+    "release_year": 2019,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "panasonic_lumix_dmc_fz150",
     "brand": "Panasonic",
     "series": "Lumix FZ",
@@ -18317,6 +20841,29 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "panasonic_lumix_dmc_fz2000",
+    "brand": "Panasonic",
+    "series": "Lumix FZ",
+    "model": "DMC-FZ2000",
+    "display_name": "Panasonic Lumix DMC-FZ2000",
+    "aliases": [
+      "DMC-FZ2000"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-FZ2000"
+      ],
+      "regional_aliases": [
+        "DMC-FZ2000"
+      ]
+    },
+    "release_year": 2017,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "panasonic_lumix_dmc_fz28",
     "brand": "Panasonic",
     "series": "Lumix FZ",
@@ -18425,6 +20972,29 @@
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": "Added from an official manufacturer battery compatibility table for a recognized fixed-lens compact family; release year remains unverified."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fz38",
+    "brand": "Panasonic",
+    "series": "Lumix FZ",
+    "model": "DMC-FZ38",
+    "display_name": "Panasonic Lumix DMC-FZ38",
+    "aliases": [
+      "DMC-FZ38"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-FZ38"
+      ],
+      "regional_aliases": [
+        "DMC-FZ38"
+      ]
+    },
+    "release_year": 2009,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "panasonic_lumix_dmc_fz4",
@@ -18892,6 +21462,75 @@
       ]
     },
     "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_lz10",
+    "brand": "Panasonic",
+    "series": "Lumix LZ",
+    "model": "DMC-LZ10",
+    "display_name": "Panasonic Lumix DMC-LZ10",
+    "aliases": [
+      "DMC-LZ10"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-LZ10"
+      ],
+      "regional_aliases": [
+        "DMC-LZ10"
+      ]
+    },
+    "release_year": 2008,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_lz2",
+    "brand": "Panasonic",
+    "series": "Lumix LZ",
+    "model": "DMC-LZ2",
+    "display_name": "Panasonic Lumix DMC-LZ2",
+    "aliases": [
+      "DMC-LZ2"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-LZ2"
+      ],
+      "regional_aliases": [
+        "DMC-LZ2"
+      ]
+    },
+    "release_year": 2005,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_lz20",
+    "brand": "Panasonic",
+    "series": "Lumix LZ",
+    "model": "DMC-LZ20",
+    "display_name": "Panasonic Lumix DMC-LZ20",
+    "aliases": [
+      "DMC-LZ20"
+    ],
+    "regional_names": {
+      "global": [
+        "Panasonic Lumix DMC-LZ20"
+      ],
+      "regional_aliases": [
+        "DMC-LZ20"
+      ]
+    },
+    "release_year": 2012,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "aa",
@@ -22872,6 +25511,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_t75",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-T",
+    "model": "DSC-T75",
+    "display_name": "Sony Cyber-shot DSC-T75",
+    "aliases": [
+      "DSC-T75",
+      "Cyber-shot DSC-T75"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-T75"
+      ],
+      "sony_code": [
+        "DSC-T75"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_t77",
     "brand": "Sony",
     "series": "Cyber-shot DSC-T",
@@ -23358,6 +26021,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w100",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W100",
+    "display_name": "Sony Cyber-shot DSC-W100",
+    "aliases": [
+      "DSC-W100",
+      "Cyber-shot DSC-W100"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W100"
+      ],
+      "sony_code": [
+        "DSC-W100"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w110",
     "brand": "Sony",
     "series": "Cyber-shot DSC-W",
@@ -23382,6 +26069,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w115",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W115",
+    "display_name": "Sony Cyber-shot DSC-W115",
+    "aliases": [
+      "DSC-W115",
+      "Cyber-shot DSC-W115"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W115"
+      ],
+      "sony_code": [
+        "DSC-W115"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w120",
     "brand": "Sony",
     "series": "Cyber-shot DSC-W",
@@ -23397,6 +26108,30 @@
       ],
       "sony_code": [
         "DSC-W120"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w125",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W125",
+    "display_name": "Sony Cyber-shot DSC-W125",
+    "aliases": [
+      "DSC-W125",
+      "Cyber-shot DSC-W125"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W125"
+      ],
+      "sony_code": [
+        "DSC-W125"
       ]
     },
     "release_year": null,
@@ -23574,6 +26309,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w215",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W215",
+    "display_name": "Sony Cyber-shot DSC-W215",
+    "aliases": [
+      "DSC-W215",
+      "Cyber-shot DSC-W215"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W215"
+      ],
+      "sony_code": [
+        "DSC-W215"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w220",
     "brand": "Sony",
     "series": "Cyber-shot DSC-W",
@@ -23637,6 +26396,30 @@
       ],
       "sony_code": [
         "DSC-W270"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w275",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W275",
+    "display_name": "Sony Cyber-shot DSC-W275",
+    "aliases": [
+      "DSC-W275",
+      "Cyber-shot DSC-W275"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W275"
+      ],
+      "sony_code": [
+        "DSC-W275"
       ]
     },
     "release_year": null,
@@ -23866,6 +26649,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w370",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W370",
+    "display_name": "Sony Cyber-shot DSC-W370",
+    "aliases": [
+      "DSC-W370",
+      "Cyber-shot DSC-W370"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W370"
+      ],
+      "sony_code": [
+        "DSC-W370"
+      ]
+    },
+    "release_year": 2010,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w380",
     "brand": "Sony",
     "series": "Cyber-shot DSC-W",
@@ -23881,6 +26688,30 @@
       ],
       "sony_code": [
         "DSC-W380"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w40",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W40",
+    "display_name": "Sony Cyber-shot DSC-W40",
+    "aliases": [
+      "DSC-W40",
+      "Cyber-shot DSC-W40"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W40"
+      ],
+      "sony_code": [
+        "DSC-W40"
       ]
     },
     "release_year": null,
@@ -24009,6 +26840,30 @@
       ]
     },
     "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w55",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W55",
+    "display_name": "Sony Cyber-shot DSC-W55",
+    "aliases": [
+      "DSC-W55",
+      "Cyber-shot DSC-W55"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W55"
+      ],
+      "sony_code": [
+        "DSC-W55"
+      ]
+    },
+    "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -24284,6 +27139,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w70",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W70",
+    "display_name": "Sony Cyber-shot DSC-W70",
+    "aliases": [
+      "DSC-W70",
+      "Cyber-shot DSC-W70"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W70"
+      ],
+      "sony_code": [
+        "DSC-W70"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w710",
     "brand": "Sony",
     "series": "Cyber-shot DSC-W",
@@ -24414,6 +27293,54 @@
       ]
     },
     "release_year": 2014,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w85",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W85",
+    "display_name": "Sony Cyber-shot DSC-W85",
+    "aliases": [
+      "DSC-W85",
+      "Cyber-shot DSC-W85"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W85"
+      ],
+      "sony_code": [
+        "DSC-W85"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w90",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W90",
+    "display_name": "Sony Cyber-shot DSC-W90",
+    "aliases": [
+      "DSC-W90",
+      "Cyber-shot DSC-W90"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W90"
+      ],
+      "sony_code": [
+        "DSC-W90"
+      ]
+    },
+    "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",

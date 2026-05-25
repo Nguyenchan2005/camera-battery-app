@@ -30,6 +30,16 @@
     "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
   },
   {
+    "battery_id": "canon_lp_e12",
+    "brand": "Canon",
+    "model": "LP-E12",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
     "battery_id": "canon_nb_10l",
     "brand": "Canon",
     "model": "NB-10L",
@@ -990,6 +1000,16 @@
     "battery_id": "panasonic_cgas007a1b",
     "brand": "Panasonic",
     "model": "CGAS007A1B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
+    "battery_id": "panasonic_cgr_s006",
+    "brand": "Panasonic",
+    "model": "CGR-S006",
     "aliases": [],
     "chemistry": "lithium-ion",
     "voltage": null,

@@ -4,35 +4,35 @@ Generated: 2026-05-25
 
 ## Summary
 
-- Cameras: 1145
-- Compatibility rows: 1603
+- Cameras: 1285
+- Compatibility rows: 1743
 - Cameras with at least one high-confidence verified battery row: 1005
 - Cameras with unknown battery mapping rows: 0
-- Cameras with aliases or regional names: 1137
+- Cameras with aliases or regional names: 1277
 
 ## Cameras By Brand
 
 | Brand | Cameras | High rows | Medium rows | Low rows |
 | --- | ---: | ---: | ---: | ---: |
-| Canon | 223 | 373 | 1 | 0 |
-| Casio | 42 | 24 | 20 | 0 |
-| Fujifilm | 145 | 173 | 24 | 0 |
+| Canon | 227 | 373 | 5 | 0 |
+| Casio | 43 | 24 | 21 | 0 |
+| Fujifilm | 186 | 173 | 65 | 0 |
 | GE | 2 | 0 | 2 | 0 |
 | HP | 1 | 0 | 1 | 0 |
-| Kodak | 24 | 12 | 12 | 0 |
+| Kodak | 77 | 12 | 65 | 0 |
 | Kodak PIXPRO | 2 | 2 | 0 | 0 |
 | Konica Minolta | 6 | 1 | 4 | 1 |
 | Leica | 4 | 4 | 0 | 0 |
 | Minolta | 4 | 0 | 6 | 0 |
-| Nikon | 144 | 117 | 35 | 0 |
+| Nikon | 153 | 117 | 44 | 0 |
 | OM System | 1 | 1 | 0 | 0 |
-| Olympus | 185 | 267 | 23 | 0 |
-| Panasonic | 136 | 149 | 1 | 0 |
+| Olympus | 199 | 267 | 37 | 0 |
+| Panasonic | 142 | 149 | 7 | 0 |
 | Pentax | 4 | 1 | 4 | 0 |
 | Ricoh | 12 | 9 | 3 | 0 |
 | Samsung | 28 | 1 | 26 | 2 |
 | Sigma | 7 | 7 | 0 | 0 |
-| Sony | 174 | 291 | 5 | 0 |
+| Sony | 186 | 291 | 17 | 0 |
 | Vivitar | 1 | 0 | 1 | 0 |
 
 ## Manual Check List
@@ -40,6 +40,10 @@ Generated: 2026-05-25
 | Brand | Camera | Status | Confidence | Source |
 | --- | --- | --- | --- | --- |
 | Canon | Canon PowerShot S100 Digital ELPH | fully_compatible | medium | https://www.manualslib.com/manual/24771/Canon-Powershot-S100-Digital-Elph.html |
+| Canon | PowerShot A3000 IS | fully_compatible | medium | https://www.dpreview.com/products/canon/compacts/canon_a3000is/specifications |
+| Canon | PowerShot A490 | uses_aa | medium | https://www.dpreview.com/products/canon/compacts/canon_a490/specifications |
+| Canon | PowerShot N2 | fully_compatible | medium | https://www.dpreview.com/products/canon/compacts/canon_n2/specifications |
+| Canon | PowerShot SX70 HS | fully_compatible | medium | https://www.dpreview.com/products/canon/compacts/canon_sx70hs/specifications |
 | Casio | Casio Exilim EX-FC150 | fully_compatible | medium | https://safe-manuals.com/user-manual/casio/ex-fc150 |
 | Casio | Casio Exilim EX-FC200S | fully_compatible | medium | https://safe-manuals.com/user-manual/casio/ex-fc200s |
 | Casio | Casio Exilim EX-FH20 | uses_aa | medium | https://safe-manuals.com/user-manual/casio/ex-fh20 |
@@ -47,6 +51,7 @@ Generated: 2026-05-25
 | Casio | Casio Exilim EX-G1 | fully_compatible | medium | https://safe-manuals.com/user-manual/casio/ex-g1 |
 | Casio | Casio Exilim EX-H5 | fully_compatible | medium | https://safe-manuals.com/user-manual/casio/ex-h5 |
 | Casio | Casio Exilim EX-H50 | fully_compatible | medium | https://safe-manuals.com/user-manual/casio/ex-h50 |
+| Casio | Casio Exilim EX-Z10 | uses_aa | medium | https://www.dpreview.com/products/casio/compacts/casio_exz10/specifications |
 | Casio | Casio Exilim EX-Z100 | fully_compatible | medium | https://safe-manuals.com/user-manual/casio/ex-z100 |
 | Casio | Casio Exilim EX-Z1000 | fully_compatible | medium | https://safe-manuals.com/user-manual/casio/ex-z1000 |
 | Casio | Casio Exilim EX-Z1050 | fully_compatible | medium | https://safe-manuals.com/user-manual/casio/ex-z1050 |
@@ -60,9 +65,33 @@ Generated: 2026-05-25
 | Casio | Casio Exilim EX-Z270 | fully_compatible | medium | https://safe-manuals.com/user-manual/casio/ex-z270 |
 | Casio | Casio Exilim EX-Z280 | fully_compatible | medium | https://safe-manuals.com/user-manual/casio/ex-z280 |
 | Casio | Casio Exilim EX-Z300 | fully_compatible | medium | https://safe-manuals.com/user-manual/casio/ex-z300 |
+| Fujifilm | Fujifilm FinePix A101 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa101/specifications |
+| Fujifilm | Fujifilm FinePix A120 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa120/specifications |
 | Fujifilm | Fujifilm FinePix A200 | uses_aa | medium | https://safe-manuals.com/user-manual/fujifilm/finepix-a200 |
 | Fujifilm | Fujifilm FinePix A201 | uses_aa | medium | https://camera-wiki.org/wiki/Fujifilm_FinePix_A201 |
+| Fujifilm | Fujifilm FinePix A203 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa203/specifications |
+| Fujifilm | Fujifilm FinePix A204 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa204/specifications |
 | Fujifilm | Fujifilm FinePix A205 | uses_aa | medium | https://safe-manuals.com/user-manual/fujifilm/finepix-a205 |
+| Fujifilm | Fujifilm FinePix A210 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa210/specifications |
+| Fujifilm | Fujifilm FinePix A303 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa303/specifications |
+| Fujifilm | Fujifilm FinePix A330 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa330/specifications |
+| Fujifilm | Fujifilm FinePix A340 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa340/specifications |
+| Fujifilm | Fujifilm FinePix A345 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa345/specifications |
+| Fujifilm | Fujifilm FinePix A350 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa350/specifications |
+| Fujifilm | Fujifilm FinePix A400 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa400/specifications |
+| Fujifilm | Fujifilm FinePix A500 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa500/specifications |
+| Fujifilm | Fujifilm FinePix A600 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa600/specifications |
+| Fujifilm | Fujifilm FinePix A610 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa610/specifications |
+| Fujifilm | Fujifilm FinePix A800 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa800/specifications |
+| Fujifilm | Fujifilm FinePix A820 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa820/specifications |
+| Fujifilm | Fujifilm FinePix A850 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa850/specifications |
+| Fujifilm | Fujifilm FinePix A920 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa920/specifications |
+| Fujifilm | Fujifilm FinePix AV100 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav100/specifications |
+| Fujifilm | Fujifilm FinePix AV150 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav150/specifications |
+| Fujifilm | Fujifilm FinePix AV200 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav200/specifications |
+| Fujifilm | Fujifilm FinePix AV230 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav230/specifications |
+| Fujifilm | Fujifilm FinePix AV250 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav250/specifications |
+| Fujifilm | Fujifilm FinePix AV280 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav280/specifications |
 | Fujifilm | Fujifilm FinePix F10 | fully_compatible | medium | https://camera-wiki.org/wiki/Fujifilm_FinePix_F10/F11 |
 | Fujifilm | Fujifilm FinePix F20 | fully_compatible | medium | https://safe-manuals.com/user-manual/fujifilm/finepix-f20 |
 | Fujifilm | Fujifilm FinePix F40fd | fully_compatible | medium | https://camera-wiki.org/wiki/Fuji_FinePix_F40fd |
@@ -72,14 +101,31 @@ Generated: 2026-05-25
 | Fujifilm | Fujifilm FinePix F700 | fully_compatible | medium | https://camera-wiki.org/wiki/Fujifilm_FinePix_F700 |
 | Fujifilm | Fujifilm FinePix S1500 | uses_aa | medium | https://safe-manuals.com/user-manual/fujifilm/finepix-s1500 |
 | Fujifilm | Fujifilm FinePix S1600 | uses_aa | medium | https://safe-manuals.com/user-manual/fujifilm/finepix-s1600 |
+| Fujifilm | Fujifilm FinePix S3000 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3000/specifications |
 | Fujifilm | Fujifilm FinePix S304 | uses_aa | medium | https://camera-wiki.org/wiki/Fujifilm_FinePix_S304 |
+| Fujifilm | Fujifilm FinePix S3100 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3100/specifications |
+| Fujifilm | Fujifilm FinePix S3200 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3200/specifications |
+| Fujifilm | Fujifilm FinePix S3300 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3300/specifications |
+| Fujifilm | Fujifilm FinePix S3400 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3400/specifications |
+| Fujifilm | Fujifilm FinePix S4000 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs4000/specifications |
+| Fujifilm | Fujifilm FinePix S4200 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs4200/specifications |
 | Fujifilm | Fujifilm FinePix S4400 Zoom | uses_aa | medium | https://camera-wiki.org/wiki/Fuji_FinePix_S4400_Zoom |
+| Fujifilm | Fujifilm FinePix S4800 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs4800/specifications |
 | Fujifilm | Fujifilm FinePix S5000 Zoom | uses_aa | medium | https://camera-wiki.org/wiki/Fujifilm_FinePix_S5000_Zoom |
 | Fujifilm | Fujifilm FinePix S5100 Zoom | uses_aa | medium | https://camera-wiki.org/wiki/Fujifilm_FinePix_S5100_Zoom |
+| Fujifilm | Fujifilm FinePix S5200 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs5200/specifications |
 | Fujifilm | Fujifilm FinePix S5500 | uses_aa | medium | https://camera-wiki.org/wiki/Fujifilm_FinePix_S5100_Zoom |
 | Fujifilm | Fujifilm FinePix S6000 | uses_aa | medium | https://camera-wiki.org/wiki/Fuji_FinePix_S6000/S6500fd |
+| Fujifilm | Fujifilm FinePix S6800 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs6800/specifications |
 | Fujifilm | Fujifilm FinePix S7000 | uses_aa | medium | https://camera-wiki.org/wiki/Fujifilm_FinePix_S7000 |
+| Fujifilm | Fujifilm FinePix S8000fd | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8000fd/specifications |
+| Fujifilm | Fujifilm FinePix S8200 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8200/specifications |
+| Fujifilm | Fujifilm FinePix S8300 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8300/specifications |
+| Fujifilm | Fujifilm FinePix S8400W | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8400w/specifications |
+| Fujifilm | Fujifilm FinePix S8500 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8500/specifications |
+| Fujifilm | Fujifilm FinePix S8600 | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8600/specifications |
 | Fujifilm | Fujifilm FinePix S9600 | uses_aa | medium | https://camera-wiki.org/wiki/Fujifilm_FinePix_S9600 |
+| Fujifilm | Fujifilm FinePix S9900W | uses_aa | medium | https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s9900w/specifications |
 | Fujifilm | Fujifilm FinePix Z1000EXR | fully_compatible | medium | https://safe-manuals.com/user-manual/fujifilm/finepix-z1000exr |
 | Fujifilm | Fujifilm FinePix Z110 | fully_compatible | medium | https://safe-manuals.com/user-manual/fujifilm/finepix-z110 |
 | Fujifilm | Fujifilm FinePix Z31 | fully_compatible | medium | https://safe-manuals.com/user-manual/fujifilm/finepix-z31 |
@@ -87,8 +133,61 @@ Generated: 2026-05-25
 | GE | GE Power Pro X500 | uses_aa | medium | https://www.manualslib.com/manual/251306/Ge-X500.html |
 | GE | GE X5 | uses_aa | medium | https://camera-wiki.org/wiki/GE_X5 |
 | HP | HP PhotoSmart 945 | uses_aa | medium | https://camera-wiki.org/wiki/HP_PhotoSmart_945 |
+| Kodak | Kodak EasyShare C142 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c142/specifications |
+| Kodak | Kodak EasyShare C143 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c143/specifications |
+| Kodak | Kodak EasyShare C180 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c180/specifications |
+| Kodak | Kodak EasyShare C182 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c182/specifications |
+| Kodak | Kodak EasyShare C183 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c183/specifications |
+| Kodak | Kodak EasyShare C190 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c190/specifications |
+| Kodak | Kodak EasyShare C300 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c300/specifications |
+| Kodak | Kodak EasyShare C310 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c310/specifications |
+| Kodak | Kodak EasyShare C315 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c315/specifications |
+| Kodak | Kodak EasyShare C330 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c330/specifications |
+| Kodak | Kodak EasyShare C340 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c340/specifications |
+| Kodak | Kodak EasyShare C360 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c360/specifications |
+| Kodak | Kodak EasyShare C433 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c433/specifications |
+| Kodak | Kodak EasyShare C503 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c503/specifications |
+| Kodak | Kodak EasyShare C513 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c513/specifications |
+| Kodak | Kodak EasyShare C530 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c530/specifications |
+| Kodak | Kodak EasyShare C533 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c533/specifications |
 | Kodak | Kodak EasyShare C613 | uses_aa | medium | https://www.manualslib.com/manual/89231/Kodak-Easyshare-C613.html |
 | Kodak | Kodak EasyShare C653 | uses_aa | medium | https://www.manualslib.com/manual/3586927/Kodak-Easyshare-C653.html?page=66 |
+| Kodak | Kodak EasyShare C663 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c663/specifications |
+| Kodak | Kodak EasyShare C703 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c703/specifications |
+| Kodak | Kodak EasyShare C743 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c743/specifications |
+| Kodak | Kodak EasyShare C763 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c763/specifications |
+| Kodak | Kodak EasyShare C875 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c875/specifications |
+| Kodak | Kodak EasyShare C913 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_c913/specifications |
+| Kodak | Kodak EasyShare CD1013 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cd1013/specifications |
+| Kodak | Kodak EasyShare CD14 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cd14/specifications |
+| Kodak | Kodak EasyShare CD153 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cd153/specifications |
+| Kodak | Kodak EasyShare CD22 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cd22/specifications |
+| Kodak | Kodak EasyShare CD24 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cd24/specifications |
+| Kodak | Kodak EasyShare CD33 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cd33/specifications |
+| Kodak | Kodak EasyShare CD40 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cd40/specifications |
+| Kodak | Kodak EasyShare CD43 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cd43/specifications |
+| Kodak | Kodak EasyShare CD44 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cd44/specifications |
+| Kodak | Kodak EasyShare CD50 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cd50/specifications |
+| Kodak | Kodak EasyShare CD80 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cd80/specifications |
+| Kodak | Kodak EasyShare CD82 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cd82/specifications |
+| Kodak | Kodak EasyShare CD83 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cd83/specifications |
+| Kodak | Kodak EasyShare CD90 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cd90/specifications |
+| Kodak | Kodak EasyShare CD93 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cd93/specifications |
+| Kodak | Kodak EasyShare CX4200 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cx4200/specifications |
+| Kodak | Kodak EasyShare CX4210 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cx4210/specifications |
+| Kodak | Kodak EasyShare CX4230 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cx4230/specifications |
+| Kodak | Kodak EasyShare CX4300 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cx4300/specifications |
+| Kodak | Kodak EasyShare CX4310 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cx4310/specifications |
+| Kodak | Kodak EasyShare CX6200 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cx6200/specifications |
+| Kodak | Kodak EasyShare CX6230 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cx6230/specifications |
+| Kodak | Kodak EasyShare CX6330 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cx6330/specifications |
+| Kodak | Kodak EasyShare CX6445 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cx6445/specifications |
+| Kodak | Kodak EasyShare CX7220 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cx7220/specifications |
+| Kodak | Kodak EasyShare CX7300 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cx7300/specifications |
+| Kodak | Kodak EasyShare CX7310 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cx7310/specifications |
+| Kodak | Kodak EasyShare CX7430 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cx7430/specifications |
+| Kodak | Kodak EasyShare CX7525 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cx7525/specifications |
+| Kodak | Kodak EasyShare CX7530 | uses_aa | medium | https://www.dpreview.com/products/kodak/compacts/kodak_cx7530/specifications |
 | Kodak | Kodak EasyShare Z1012 IS | fully_compatible | medium | https://safe-manuals.com/user-manual/kodak/easyshare-z1012-is |
 | Kodak | Kodak EasyShare Z1015 IS | fully_compatible | medium | https://safe-manuals.com/user-manual/kodak/easyshare-z1015-is |
 | Kodak | Kodak EasyShare Z1085 IS | fully_compatible | medium | https://safe-manuals.com/user-manual/kodak/easyshare-z1085-is |
@@ -131,7 +230,16 @@ Generated: 2026-05-25
 | Nikon | Nikon COOLPIX 950 | uses_aa | medium | https://camera-wiki.org/wiki/Nikon_Coolpix_950 |
 | Nikon | Nikon COOLPIX 990 | uses_aa | medium | https://camera-wiki.org/wiki/Nikon_Coolpix_950 |
 | Nikon | Nikon COOLPIX 995 | uses_aa | medium | https://camera-wiki.org/wiki/Nikon_Coolpix_995 |
+| Nikon | Nikon COOLPIX L1 | uses_aa | medium | https://www.dpreview.com/products/nikon/compacts/nikon_cpl1/specifications |
+| Nikon | Nikon COOLPIX L10 | uses_aa | medium | https://www.dpreview.com/products/nikon/compacts/nikon_cpl10/specifications |
+| Nikon | Nikon COOLPIX L11 | uses_aa | medium | https://www.dpreview.com/products/nikon/compacts/nikon_cpl11/specifications |
+| Nikon | Nikon COOLPIX L12 | uses_aa | medium | https://www.dpreview.com/products/nikon/compacts/nikon_cpl12/specifications |
+| Nikon | Nikon COOLPIX L14 | uses_aa | medium | https://www.dpreview.com/products/nikon/compacts/nikon_cpl14/specifications |
+| Nikon | Nikon COOLPIX L15 | uses_aa | medium | https://www.dpreview.com/products/nikon/compacts/nikon_cpl15/specifications |
+| Nikon | Nikon COOLPIX L21 | uses_aa | medium | https://www.dpreview.com/products/nikon/compacts/nikon_cpl21/specifications |
+| Nikon | Nikon COOLPIX L29 | uses_aa | medium | https://www.dpreview.com/products/nikon/compacts/nikon_cpl29/specifications |
 | Nikon | Nikon COOLPIX L5 | uses_aa | medium | https://safe-manuals.com/user-manual/nikon/coolpix-l5 |
+| Nikon | Nikon COOLPIX L6 | uses_aa | medium | https://www.dpreview.com/products/nikon/compacts/nikon_cpl6/specifications |
 | Nikon | Nikon COOLPIX P4 | fully_compatible | medium | https://safe-manuals.com/user-manual/nikon/coolpix-p4 |
 | Nikon | Nikon COOLPIX S230 | fully_compatible | medium | https://safe-manuals.com/user-manual/nikon/coolpix-s230 |
 | Nikon | Nikon COOLPIX S2600 | fully_compatible | medium | https://safe-manuals.com/user-manual/nikon/coolpix-s2600 |
@@ -147,7 +255,9 @@ Generated: 2026-05-25
 | Nikon | Nikon COOLPIX S640 | fully_compatible | medium | https://safe-manuals.com/user-manual/nikon/coolpix-s640 |
 | Olympus | Olympus C-120 | fully_compatible | medium | https://camera-wiki.org/wiki/Olympus_D-380 |
 | Olympus | Olympus C-1400XL | uses_aa | medium | https://camera-wiki.org/wiki/Olympus_D-620L_/_C-1400XL |
+| Olympus | Olympus C-150 | uses_aa | medium | https://www.dpreview.com/products/olympus/compacts/oly_c150/specifications |
 | Olympus | Olympus C-160 | uses_aa | medium | https://safe-manuals.com/user-manual/olympus/c-160 |
+| Olympus | Olympus C-170 | uses_aa | medium | https://www.dpreview.com/products/olympus/compacts/oly_c170/specifications |
 | Olympus | Olympus C-2 | fully_compatible | medium | https://camera-wiki.org/wiki/Olympus_C-220_Zoom |
 | Olympus | Olympus C-2 | uses_aa | medium | https://camera-wiki.org/wiki/Olympus_C-220_Zoom |
 | Olympus | Olympus C-2000 | uses_aa | medium | https://camera-wiki.org/wiki/Olympus_C-2000_Zoom |
@@ -160,15 +270,33 @@ Generated: 2026-05-25
 | Olympus | Olympus C-3020 | uses_aa | medium | https://camera-wiki.org/wiki/Olympus_C-3020_Zoom |
 | Olympus | Olympus C-3040 | fully_compatible | medium | https://camera-wiki.org/wiki/Olympus_C-3040_Zoom |
 | Olympus | Olympus C-3040 | uses_aa | medium | https://camera-wiki.org/wiki/Olympus_C-3040_Zoom |
+| Olympus | Olympus C-310 | uses_aa | medium | https://www.dpreview.com/products/olympus/compacts/oly_c310/specifications |
+| Olympus | Olympus C-315 | uses_aa | medium | https://www.dpreview.com/products/olympus/compacts/oly_c315/specifications |
+| Olympus | Olympus C-360 | uses_aa | medium | https://www.dpreview.com/products/olympus/compacts/oly_c360/specifications |
+| Olympus | Olympus C-370 | uses_aa | medium | https://www.dpreview.com/products/olympus/compacts/oly_c370/specifications |
 | Olympus | Olympus C-40 | fully_compatible | medium | https://camera-wiki.org/wiki/Olympus_C-40_Zoom |
 | Olympus | Olympus C-40 | uses_aa | medium | https://camera-wiki.org/wiki/Olympus_C-40_Zoom |
 | Olympus | Olympus C-480 | uses_aa | medium | https://camera-wiki.org/wiki/Olympus_C-480_Zoom |
 | Olympus | Olympus C-5050 | uses_aa | medium | https://camera-wiki.org/wiki/Olympus_C-5050_Zoom |
 | Olympus | Olympus C-830L | uses_aa | medium | https://camera-wiki.org/wiki/Olympus_C-830L |
 | Olympus | Olympus C-860L | uses_aa | medium | https://camera-wiki.org/wiki/Olympus_C-860L |
+| Olympus | Olympus FE-100 | uses_aa | medium | https://www.dpreview.com/products/olympus/compacts/oly_fe100/specifications |
 | Olympus | Olympus FE-115 | uses_aa | medium | https://camera-wiki.org/wiki/Olympus_FE-115_/_X-715 |
+| Olympus | Olympus FE-120 | uses_aa | medium | https://www.dpreview.com/products/olympus/compacts/oly_fe120/specifications |
+| Olympus | Olympus FE-130 | uses_aa | medium | https://www.dpreview.com/products/olympus/compacts/oly_fe130/specifications |
+| Olympus | Olympus FE-140 | uses_aa | medium | https://www.dpreview.com/products/olympus/compacts/oly_fe140/specifications |
+| Olympus | Olympus FE-170 | uses_aa | medium | https://www.dpreview.com/products/olympus/compacts/oly_fe170/specifications |
+| Olympus | Olympus FE-210 | uses_aa | medium | https://www.dpreview.com/products/olympus/compacts/oly_fe210/specifications |
+| Olympus | Olympus FE-270 | uses_aa | medium | https://www.dpreview.com/products/olympus/compacts/oly_fe270/specifications |
+| Olympus | Olympus FE-310 | uses_aa | medium | https://www.dpreview.com/products/olympus/compacts/oly_fe310/specifications |
 | Olympus | Olympus Stylus 410 | fully_compatible | medium | https://camera-wiki.org/wiki/Olympus_Stylus_410 |
+| Panasonic | Panasonic Lumix DMC-FZ1000II | fully_compatible | medium | https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz1000ii/specifications |
+| Panasonic | Panasonic Lumix DMC-FZ2000 | fully_compatible | medium | https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz2500/specifications |
+| Panasonic | Panasonic Lumix DMC-FZ38 | fully_compatible | medium | https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz35/specifications |
 | Panasonic | Panasonic Lumix DMC-LZ1 | uses_aa | medium | https://camera-wiki.org/wiki/Panasonic_Lumix_DMC-LZ1 |
+| Panasonic | Panasonic Lumix DMC-LZ10 | uses_aa | medium | https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclz10/specifications |
+| Panasonic | Panasonic Lumix DMC-LZ2 | uses_aa | medium | https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclz2/specifications |
+| Panasonic | Panasonic Lumix DMC-LZ20 | uses_aa | medium | https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclz20/specifications |
 | Pentax | Pentax Optio 330GS | uses_aa | medium | https://camera-wiki.org/wiki/Pentax_Optio_330GS |
 | Pentax | Pentax Optio 33L | uses_aa | medium | https://camera-wiki.org/wiki/Pentax_Optio_33L |
 | Pentax | Pentax Optio 33WR | fully_compatible | medium | https://camera-wiki.org/wiki/Pentax_Optio_33WR |
@@ -206,7 +334,19 @@ Generated: 2026-05-25
 | Samsung | Samsung WB750 | fully_compatible | medium | https://safe-manuals.com/user-manual/samsung/wb750 |
 | Sony | Sony Cyber-shot DSC-H2 | uses_aa | medium | https://camera-wiki.org/wiki/Sony_DSC-H2 |
 | Sony | Sony Cyber-shot DSC-T33 | fully_compatible | medium | https://camera-wiki.org/wiki/Sony_DSC-T33 |
+| Sony | Sony Cyber-shot DSC-T75 | fully_compatible | medium | https://www.dpreview.com/products/sony/compacts/sony_dsct75/specifications |
 | Sony | Sony Cyber-shot DSC-T9 | fully_compatible | medium | https://camera-wiki.org/wiki/Sony_DSC-T9 |
 | Sony | Sony Cyber-shot DSC-W1 | uses_aa | medium | https://camera-wiki.org/wiki/Sony_DSC-W1 |
+| Sony | Sony Cyber-shot DSC-W100 | fully_compatible | medium | https://www.dpreview.com/products/sony/compacts/sony_dscw100/specifications |
+| Sony | Sony Cyber-shot DSC-W115 | fully_compatible | medium | https://www.dpreview.com/products/sony/compacts/sony_dscw115/specifications |
+| Sony | Sony Cyber-shot DSC-W125 | fully_compatible | medium | https://www.dpreview.com/products/sony/compacts/sony_dscw125/specifications |
+| Sony | Sony Cyber-shot DSC-W215 | fully_compatible | medium | https://www.dpreview.com/products/sony/compacts/sony_dscw215/specifications |
+| Sony | Sony Cyber-shot DSC-W275 | fully_compatible | medium | https://www.dpreview.com/products/sony/compacts/sony_dscw275/specifications |
+| Sony | Sony Cyber-shot DSC-W370 | fully_compatible | medium | https://www.dpreview.com/products/sony/compacts/sony_dscw370/specifications |
+| Sony | Sony Cyber-shot DSC-W40 | fully_compatible | medium | https://www.dpreview.com/products/sony/compacts/sony_dscw40/specifications |
 | Sony | Sony Cyber-shot DSC-W5 | uses_aa | medium | https://camera-wiki.org/wiki/Sony_DSC-W5 |
+| Sony | Sony Cyber-shot DSC-W55 | fully_compatible | medium | https://www.dpreview.com/products/sony/compacts/sony_dscw55/specifications |
+| Sony | Sony Cyber-shot DSC-W70 | fully_compatible | medium | https://www.dpreview.com/products/sony/compacts/sony_dscw70/specifications |
+| Sony | Sony Cyber-shot DSC-W85 | fully_compatible | medium | https://www.dpreview.com/products/sony/compacts/sony_dscw85/specifications |
+| Sony | Sony Cyber-shot DSC-W90 | fully_compatible | medium | https://www.dpreview.com/products/sony/compacts/sony_dscw90/specifications |
 | Vivitar | Vivitar ViviCam 5385 | uses_aa | medium | https://www.manualslib.com/manual/336693/Vivitar-Vivicam-5385.html |

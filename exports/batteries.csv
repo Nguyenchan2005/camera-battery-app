@@ -2,6 +2,7 @@ battery_id,brand,model,aliases,chemistry,voltage,capacity_mah,notes
 canon_bp_511,Canon,BP-511,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
 canon_bp_511a,Canon,BP-511A,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
 canon_bp_512,Canon,BP-512,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
+canon_lp_e12,Canon,LP-E12,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 canon_nb_10l,Canon,NB-10L,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
 canon_nb_11l,Canon,NB-11L,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
 canon_nb_11lh,Canon,NB-11LH,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
@@ -96,6 +97,7 @@ panasonic_cgas002a1b,Panasonic,CGAS002A1B,[],lithium-ion,,,Added from reviewed L
 panasonic_cgas004a1b,Panasonic,CGAS004A1B,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 panasonic_cgas005a1b,Panasonic,CGAS005A1B,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 panasonic_cgas007a1b,Panasonic,CGAS007A1B,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
+panasonic_cgr_s006,Panasonic,CGR-S006,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 panasonic_cgrs006a1b,Panasonic,CGRS006A1B,[],lithium-ion,,,Added from an official bulk compatibility extraction.
 panasonic_cgrs602a1b,Panasonic,CGRS602A1B,[],lithium-ion,,,Added from an official bulk compatibility extraction.
 panasonic_dmw_bcf10,Panasonic,DMW-BCF10,[],lithium-ion,,,Added from an official bulk compatibility extraction.

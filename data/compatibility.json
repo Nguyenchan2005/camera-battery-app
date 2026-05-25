@@ -480,6 +480,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "canon_powershot_a3000_is",
+    "battery_id": "canon_nb_8l",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for PowerShot A3000 IS: Battery description: NB-8L rechargeable lithium-ion battery.",
+    "source_name": "DPReview PowerShot A3000 IS specifications",
+    "source_url": "https://www.dpreview.com/products/canon/compacts/canon_a3000is/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "canon_powershot_a310",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -802,6 +814,18 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "canon_powershot_a490",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for PowerShot A490: Battery description: 2 x AA batteries (Alkaline or NiMH)",
+    "source_name": "DPReview PowerShot A490 specifications",
+    "source_url": "https://www.dpreview.com/products/canon/compacts/canon_a490/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "canon_powershot_a495",
@@ -2302,6 +2326,18 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "canon_powershot_n2",
+    "battery_id": "canon_nb_9l",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for PowerShot N2: Battery description: NB-9L lithium-ion battery.",
+    "source_name": "DPReview PowerShot N2 specifications",
+    "source_url": "https://www.dpreview.com/products/canon/compacts/canon_n2/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "canon_powershot_s10",
@@ -4416,6 +4452,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "canon_powershot_sx70_hs",
+    "battery_id": "canon_lp_e12",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for PowerShot SX70 HS: Battery description: LP-E12 lithium-ion battery & charger.",
+    "source_name": "DPReview PowerShot SX70 HS specifications",
+    "source_url": "https://www.dpreview.com/products/canon/compacts/canon_sx70hs/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "canon_powershot_sx710_hs",
     "battery_id": "canon_nb_6lh",
     "status": "fully_compatible",
@@ -4652,6 +4700,18 @@
     "source_name": "Casio EX-H50 User Manual mirror",
     "source_url": "https://safe-manuals.com/user-manual/casio/ex-h50",
     "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_z10",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Casio Exilim EX-Z10: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Casio Exilim EX-Z10 specifications",
+    "source_url": "https://www.dpreview.com/products/casio/compacts/casio_exz10/specifications",
+    "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-25"
   },
@@ -5028,6 +5088,30 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "fujifilm_finepix_a101",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A101: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A101 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa101/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a120",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A120: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A120 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa120/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "fujifilm_finepix_a150",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -5064,6 +5148,30 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "fujifilm_finepix_a203",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A203: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A203 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa203/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a204",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A204: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A204 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa204/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "fujifilm_finepix_a205",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -5072,6 +5180,246 @@
     "source_name": "Fujifilm FinePix A205 User Manual mirror",
     "source_url": "https://safe-manuals.com/user-manual/fujifilm/finepix-a205",
     "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a210",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A210: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A210 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa210/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a303",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A303: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A303 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa303/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a330",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A330: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A330 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa330/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a340",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A340: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A340 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa340/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a345",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A345: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A345 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa345/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a350",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A350: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A350 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa350/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a400",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A400: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A400 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa400/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a500",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A500: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A500 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa500/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a600",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A600: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A600 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa600/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a610",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A610: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A610 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa610/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a800",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A800: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A800 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa800/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a820",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A820: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A820 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa820/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a850",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A850: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A850 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa850/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_a920",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix A920: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix A920 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa920/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_av100",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix AV100: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix AV100 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav100/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_av150",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix AV150: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix AV150 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav150/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_av200",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix AV200: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix AV200 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav200/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_av230",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix AV230: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix AV230 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav230/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_av250",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix AV250: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix AV250 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav250/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_av280",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Fujifilm FinePix AV280: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix AV280 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav280/specifications",
+    "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-25"
   },
@@ -6036,6 +6384,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "fujifilm_finepix_s3000",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S3000: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S3000 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3000/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "fujifilm_finepix_s304",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -6048,6 +6408,78 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "fujifilm_finepix_s3100",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S3100: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S3100 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3100/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s3200",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S3200: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S3200 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3200/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s3300",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S3300: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S3300 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3300/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s3400",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S3400: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S3400 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3400/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s4000",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S4000: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S4000 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs4000/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s4200",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S4200: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S4200 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs4200/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "fujifilm_finepix_s4400_zoom",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -6058,6 +6490,18 @@
     "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s4800",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S4800: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S4800 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs4800/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "fujifilm_finepix_s5000_zoom",
@@ -6084,6 +6528,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "fujifilm_finepix_s5200",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S5200: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S5200 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs5200/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "fujifilm_finepix_s5500",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -6108,6 +6564,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "fujifilm_finepix_s6800",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S6800: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S6800 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs6800/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "fujifilm_finepix_s7000",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -6120,6 +6588,78 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "fujifilm_finepix_s8000fd",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S8000fd: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S8000fd specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8000fd/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s8200",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S8200: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S8200 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8200/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s8300",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S8300: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S8300 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8300/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s8400w",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S8400W: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S8400W specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8400w/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s8500",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S8500: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S8500 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8500/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s8600",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 3,
+    "note": "DPReview specifications for Fujifilm FinePix S8600: Battery description: 3 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S8600 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8600/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "fujifilm_finepix_s9600",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -6130,6 +6670,18 @@
     "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s9900w",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S9900W: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S9900W specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s9900w/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "fujifilm_finepix_t200",
@@ -7416,6 +7968,78 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "kodak_easyshare_c142",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C142: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C142 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c142/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c143",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C143: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C143 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c143/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c180",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C180: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C180 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c180/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c182",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C182: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C182 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c182/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c183",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C183: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C183 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c183/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c190",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C190: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C190 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c190/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "kodak_easyshare_c195",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -7426,6 +8050,138 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "kodak_easyshare_c300",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C300: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C300 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c300/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c310",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C310: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C310 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c310/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c315",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C315: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C315 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c315/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c330",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C330: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C330 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c330/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c340",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C340: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C340 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c340/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c360",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C360: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C360 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c360/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c433",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C433: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C433 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c433/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c503",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C503: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C503 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c503/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c513",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C513: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C513 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c513/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c530",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C530: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C530 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c530/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c533",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C533: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C533 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c533/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "kodak_easyshare_c603",
@@ -7476,6 +8232,30 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "kodak_easyshare_c663",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C663: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C663 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c663/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c703",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C703: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C703 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c703/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "kodak_easyshare_c713",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -7485,6 +8265,174 @@
     "source_url": "https://resources.kodak.com/support/pdf/en/manuals/urg00775/C713_C813_CD703_UG_GLB_en.pdf",
     "source_type": "official_manual",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c743",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C743: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C743 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c743/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c763",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C763: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C763 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c763/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c875",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C875: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C875 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c875/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_c913",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare C913: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare C913 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c913/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cd1013",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CD1013: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CD1013 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cd1013/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cd14",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CD14: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CD14 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cd14/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cd153",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CD153: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CD153 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cd153/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cd22",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CD22: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CD22 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cd22/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cd24",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CD24: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CD24 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cd24/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cd33",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CD33: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CD33 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cd33/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cd40",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CD40: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CD40 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cd40/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cd43",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CD43: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CD43 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cd43/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cd44",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CD44: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CD44 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cd44/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cd50",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CD50: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CD50 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cd50/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -7500,6 +8448,210 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "kodak_easyshare_cd80",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CD80: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CD80 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cd80/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cd82",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CD82: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CD82 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cd82/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cd83",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CD83: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CD83 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cd83/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cd90",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CD90: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CD90 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cd90/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cd93",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CD93: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CD93 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cd93/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cx4200",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CX4200: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CX4200 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cx4200/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cx4210",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CX4210: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CX4210 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cx4210/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cx4230",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CX4230: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CX4230 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cx4230/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cx4300",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CX4300: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CX4300 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cx4300/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cx4310",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CX4310: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CX4310 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cx4310/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cx6200",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CX6200: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CX6200 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cx6200/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cx6230",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CX6230: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CX6230 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cx6230/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cx6330",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CX6330: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CX6330 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cx6330/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cx6445",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CX6445: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CX6445 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cx6445/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cx7220",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CX7220: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CX7220 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cx7220/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cx7300",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CX7300: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CX7300 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cx7300/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cx7310",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CX7310: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CX7310 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cx7310/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "kodak_easyshare_cx7330",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -7509,6 +8661,42 @@
     "source_url": "https://resources.kodak.com/support/pdf/en/manuals/urg00239/CX7330_GLB_en.pdf",
     "source_type": "official_manual",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cx7430",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CX7430: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CX7430 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cx7430/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cx7525",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CX7525: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CX7525 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cx7525/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "kodak_easyshare_cx7530",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Kodak EasyShare CX7530: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Kodak EasyShare CX7530 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_cx7530/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -8376,6 +9564,30 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "nikon_coolpix_l1",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Nikon COOLPIX L1: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Nikon COOLPIX L1 specifications",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl1/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "nikon_coolpix_l10",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Nikon COOLPIX L10: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Nikon COOLPIX L10 specifications",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl10/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "nikon_coolpix_l100",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -8385,6 +9597,18 @@
     "source_url": "https://www.nikonusa.com/p/coolpix-l100/26170/overview",
     "source_type": "official_manual",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "nikon_coolpix_l11",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Nikon COOLPIX L11: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Nikon COOLPIX L11 specifications",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl11/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -8400,6 +9624,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "nikon_coolpix_l12",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Nikon COOLPIX L12: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Nikon COOLPIX L12 specifications",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl12/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "nikon_coolpix_l120",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -8410,6 +9646,30 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "nikon_coolpix_l14",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Nikon COOLPIX L14: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Nikon COOLPIX L14 specifications",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl14/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "nikon_coolpix_l15",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Nikon COOLPIX L15: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Nikon COOLPIX L15 specifications",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl15/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "nikon_coolpix_l16",
@@ -8469,6 +9729,18 @@
     "source_url": "https://www.nikonusa.com/pdf/manuals/coolpix/L20L19EN.pdf",
     "source_type": "official_manual",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "nikon_coolpix_l21",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Nikon COOLPIX L21: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Nikon COOLPIX L21 specifications",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl21/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -8556,6 +9828,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "nikon_coolpix_l29",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Nikon COOLPIX L29: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Nikon COOLPIX L29 specifications",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl29/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "nikon_coolpix_l3",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -8636,6 +9920,18 @@
     "source_name": "Nikon COOLPIX L5 User Manual mirror",
     "source_url": "https://safe-manuals.com/user-manual/nikon/coolpix-l5",
     "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "nikon_coolpix_l6",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Nikon COOLPIX L6: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Nikon COOLPIX L6 specifications",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl6/specifications",
+    "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-25"
   },
@@ -10464,6 +11760,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "olympus_c_150",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Olympus C-150: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Olympus C-150 specifications",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_c150/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "olympus_c_160",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -10472,6 +11780,18 @@
     "source_name": "Olympus C-160 User Manual mirror",
     "source_url": "https://safe-manuals.com/user-manual/olympus/c-160",
     "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_c_170",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Olympus C-170: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Olympus C-170 specifications",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_c170/specifications",
+    "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-25"
   },
@@ -10764,6 +12084,30 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "olympus_c_310",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Olympus C-310: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Olympus C-310 specifications",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_c310/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_c_315",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Olympus C-315: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Olympus C-315 specifications",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_c315/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "olympus_c_350",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -10773,6 +12117,30 @@
     "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_c_360",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Olympus C-360: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Olympus C-360 specifications",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_c360/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_c_370",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Olympus C-370: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Olympus C-370 specifications",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_c370/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -11292,6 +12660,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "olympus_fe_100",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Olympus FE-100: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Olympus FE-100 specifications",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe100/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "olympus_fe_110",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -11316,6 +12696,42 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "olympus_fe_120",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Olympus FE-120: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Olympus FE-120 specifications",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe120/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_130",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Olympus FE-130: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Olympus FE-130 specifications",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe130/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_140",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Olympus FE-140: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Olympus FE-140 specifications",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe140/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "olympus_fe_150",
     "battery_id": "olympus_li_40b",
     "status": "fully_compatible",
@@ -11337,6 +12753,18 @@
     "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_170",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Olympus FE-170: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Olympus FE-170 specifications",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe170/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -11397,6 +12825,18 @@
     "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_210",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Olympus FE-210: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Olympus FE-210 specifications",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe210/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -11493,6 +12933,18 @@
     "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_270",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Olympus FE-270: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Olympus FE-270 specifications",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe270/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -11613,6 +13065,18 @@
     "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_fe_310",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Olympus FE-310: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Olympus FE-310 specifications",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe310/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -14064,6 +15528,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "panasonic_lumix_dmc_fz1000ii",
+    "battery_id": "panasonic_dmw_blc12",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Panasonic Lumix DMC-FZ1000II: Battery description: DMW-BLC12 lithium-ion battery.",
+    "source_name": "DPReview Panasonic Lumix DMC-FZ1000II specifications",
+    "source_url": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz1000ii/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "panasonic_lumix_dmc_fz150",
     "battery_id": "panasonic_dmw_bmb9",
     "status": "fully_compatible",
@@ -14136,6 +15612,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "panasonic_lumix_dmc_fz2000",
+    "battery_id": "panasonic_dmw_blc12",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Panasonic Lumix DMC-FZ2000: Battery description: DMW-BLC12 lithium-ion battery.",
+    "source_name": "DPReview Panasonic Lumix DMC-FZ2000 specifications",
+    "source_url": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz2500/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "panasonic_lumix_dmc_fz28",
     "battery_id": "panasonic_cgrs006a1b",
     "status": "fully_compatible",
@@ -14205,6 +15693,18 @@
     "source_url": "https://help.na.panasonic.com/answers/parts-and-accessories-what-battery-is-compatible-with-my-lumix-camera/",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_fz38",
+    "battery_id": "panasonic_cgr_s006",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Panasonic Lumix DMC-FZ38: Battery description: CGR-S006 lithium-ion battery.",
+    "source_name": "DPReview Panasonic Lumix DMC-FZ38 specifications",
+    "source_url": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz35/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -14482,6 +15982,42 @@
     "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_lz10",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Panasonic Lumix DMC-LZ10: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Panasonic Lumix DMC-LZ10 specifications",
+    "source_url": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclz10/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_lz2",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Panasonic Lumix DMC-LZ2: Battery description: 2 x AA batteries.",
+    "source_name": "DPReview Panasonic Lumix DMC-LZ2 specifications",
+    "source_url": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclz2/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_lz20",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Panasonic Lumix DMC-LZ20: Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Panasonic Lumix DMC-LZ20 specifications",
+    "source_url": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclz20/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "panasonic_lumix_dmc_lz40",
@@ -17292,6 +18828,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_t75",
+    "battery_id": "sony_np_bd1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Sony Cyber-shot DSC-T75: Battery description: NP-BD1 / NP-FD1 InfoLithium.",
+    "source_name": "DPReview Sony Cyber-shot DSC-T75 specifications",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dsct75/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_t77",
     "battery_id": "sony_np_bd1",
     "status": "fully_compatible",
@@ -17760,6 +19308,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w100",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Sony Cyber-shot DSC-W100: Battery: InfoLithium NP-BG1.",
+    "source_name": "DPReview Sony Cyber-shot DSC-W100 specifications",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw100/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w110",
     "battery_id": "sony_np_bg1",
     "status": "fully_compatible",
@@ -17796,6 +19356,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w115",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Sony Cyber-shot DSC-W115: Battery: NP-BG1 battery.",
+    "source_name": "DPReview Sony Cyber-shot DSC-W115 specifications",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw115/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w120",
     "battery_id": "sony_np_bg1",
     "status": "fully_compatible",
@@ -17829,6 +19401,18 @@
     "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w125",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Sony Cyber-shot DSC-W125: Battery: NP-BG1 Lithium-ion.",
+    "source_name": "DPReview Sony Cyber-shot DSC-W125 specifications",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw125/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -17976,6 +19560,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w215",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Sony Cyber-shot DSC-W215: Battery: NP-BG1 Lithium-ion.",
+    "source_name": "DPReview Sony Cyber-shot DSC-W215 specifications",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw215/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w220",
     "battery_id": "sony_np_bg1",
     "status": "fully_compatible",
@@ -18057,6 +19653,18 @@
     "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w275",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Sony Cyber-shot DSC-W275: Battery: NP-BG1.",
+    "source_name": "DPReview Sony Cyber-shot DSC-W275 specifications",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw275/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -18216,6 +19824,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w370",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Sony Cyber-shot DSC-W370: Battery description: NP-BN1 lithium-ion battery.",
+    "source_name": "DPReview Sony Cyber-shot DSC-W370 specifications",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw370/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w380",
     "battery_id": "sony_np_bn1",
     "status": "fully_compatible",
@@ -18225,6 +19845,18 @@
     "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w40",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Sony Cyber-shot DSC-W40: Battery description: InfoLithium NP-BG1 battery.",
+    "source_name": "DPReview Sony Cyber-shot DSC-W40 specifications",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw40/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -18321,6 +19953,18 @@
     "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w55",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Sony Cyber-shot DSC-W55: Battery: NP-BG1 Lithium-ion battery.",
+    "source_name": "DPReview Sony Cyber-shot DSC-W55 specifications",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw55/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -18552,6 +20196,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_w70",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Sony Cyber-shot DSC-W70: Battery: InfoLithium NP-BG1.",
+    "source_name": "DPReview Sony Cyber-shot DSC-W70 specifications",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw70/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_w710",
     "battery_id": "sony_np_bn1",
     "status": "fully_compatible",
@@ -18705,6 +20361,30 @@
     "source_url": "https://www.sony.jp/support/cyber-shot/accy/battery.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w85",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Sony Cyber-shot DSC-W85: Battery: NP-BG1 battery.",
+    "source_name": "DPReview Sony Cyber-shot DSC-W85 specifications",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw85/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w90",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Sony Cyber-shot DSC-W90: Battery: NP-BG1 Lithium-ion.",
+    "source_name": "DPReview Sony Cyber-shot DSC-W90 specifications",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw90/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {

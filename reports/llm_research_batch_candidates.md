@@ -9,16 +9,16 @@ The agent researches sources outside this script. The script only validates reco
 
 | Metric | Before | After | Delta |
 | --- | ---: | ---: | ---: |
-| verified_cameras | 1006 | 1006 | 0 |
-| unresolved_models | 987 | 987 | 0 |
-| compatibility_rows | 1463 | 1463 | 0 |
-| batteries | 130 | 130 | 0 |
+| verified_cameras | 1145 | 1285 | 140 |
+| unresolved_models | 848 | 708 | -140 |
+| compatibility_rows | 1603 | 1743 | 140 |
+| batteries | 146 | 148 | 2 |
 | candidates | 1993 | 1993 | 0 |
-| suggestions | 1 | 1 | 0 |
+| suggestions | 0 | 0 | 0 |
 
-- Priority tasks selected: 100
-- Evidence records reviewed in selected batch: 1
-- Promoted in this run: 0
+- Priority tasks selected: 200
+- Evidence records reviewed in selected batch: 141
+- Promoted in this run: 140
 - Suggestions added in this run: 0
 
 ## Research Decisions
@@ -26,6 +26,146 @@ The agent researches sources outside this script. The script only validates reco
 | Camera | Current/apply status | Proposed battery | Evidence level | Source | Source text | Decision | Reason |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Panasonic Lumix DMC-ZS50 | already_verified | DMW-BCM13PP | verified_high | official_manual: https://help.panasonic.ca/viewing/ALL/DMC-ZS50PC/OI/sqt0613-eng/sqt0613-eng.pdf | Panasonic DMC-ZS50 / DMC-TZ70 Basic Owner's Manual: The battery that can be used with this unit is DMW-BCM13PP. | promote_verified | verified_high source satisfies promotion policy. |
+| PowerShot A3000 IS | applied | NB-8L | verified_medium | trusted_database: https://www.dpreview.com/products/canon/compacts/canon_a3000is/specifications | DPReview specifications for PowerShot A3000 IS: Battery description: NB-8L rechargeable lithium-ion battery. | promote_verified | verified_medium source satisfies promotion policy. |
+| PowerShot A490 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/canon/compacts/canon_a490/specifications | DPReview specifications for PowerShot A490: Battery description: 2 x AA batteries (Alkaline or NiMH) | promote_verified | verified_medium source satisfies promotion policy. |
+| PowerShot N2 | applied | NB-9L | verified_medium | trusted_database: https://www.dpreview.com/products/canon/compacts/canon_n2/specifications | DPReview specifications for PowerShot N2: Battery description: NB-9L lithium-ion battery. | promote_verified | verified_medium source satisfies promotion policy. |
+| PowerShot SX70 HS | applied | LP-E12 | verified_medium | trusted_database: https://www.dpreview.com/products/canon/compacts/canon_sx70hs/specifications | DPReview specifications for PowerShot SX70 HS: Battery description: LP-E12 lithium-ion battery & charger. | promote_verified | verified_medium source satisfies promotion policy. |
+| Sony Cyber-shot DSC-W40 | applied | NP-BG1 | verified_medium | trusted_database: https://www.dpreview.com/products/sony/compacts/sony_dscw40/specifications | DPReview specifications for Sony Cyber-shot DSC-W40: Battery description: InfoLithium NP-BG1 battery. | promote_verified | verified_medium source satisfies promotion policy. |
+| Sony Cyber-shot DSC-W55 | applied | NP-BG1 | verified_medium | trusted_database: https://www.dpreview.com/products/sony/compacts/sony_dscw55/specifications | DPReview specifications for Sony Cyber-shot DSC-W55: Battery: NP-BG1 Lithium-ion battery. | promote_verified | verified_medium source satisfies promotion policy. |
+| Sony Cyber-shot DSC-W70 | applied | NP-BG1 | verified_medium | trusted_database: https://www.dpreview.com/products/sony/compacts/sony_dscw70/specifications | DPReview specifications for Sony Cyber-shot DSC-W70: Battery: InfoLithium NP-BG1. | promote_verified | verified_medium source satisfies promotion policy. |
+| Sony Cyber-shot DSC-W85 | applied | NP-BG1 | verified_medium | trusted_database: https://www.dpreview.com/products/sony/compacts/sony_dscw85/specifications | DPReview specifications for Sony Cyber-shot DSC-W85: Battery: NP-BG1 battery. | promote_verified | verified_medium source satisfies promotion policy. |
+| Sony Cyber-shot DSC-W90 | applied | NP-BG1 | verified_medium | trusted_database: https://www.dpreview.com/products/sony/compacts/sony_dscw90/specifications | DPReview specifications for Sony Cyber-shot DSC-W90: Battery: NP-BG1 Lithium-ion. | promote_verified | verified_medium source satisfies promotion policy. |
+| Sony Cyber-shot DSC-W100 | applied | NP-BG1 | verified_medium | trusted_database: https://www.dpreview.com/products/sony/compacts/sony_dscw100/specifications | DPReview specifications for Sony Cyber-shot DSC-W100: Battery: InfoLithium NP-BG1. | promote_verified | verified_medium source satisfies promotion policy. |
+| Sony Cyber-shot DSC-W115 | applied | NP-BG1 | verified_medium | trusted_database: https://www.dpreview.com/products/sony/compacts/sony_dscw115/specifications | DPReview specifications for Sony Cyber-shot DSC-W115: Battery: NP-BG1 battery. | promote_verified | verified_medium source satisfies promotion policy. |
+| Sony Cyber-shot DSC-W125 | applied | NP-BG1 | verified_medium | trusted_database: https://www.dpreview.com/products/sony/compacts/sony_dscw125/specifications | DPReview specifications for Sony Cyber-shot DSC-W125: Battery: NP-BG1 Lithium-ion. | promote_verified | verified_medium source satisfies promotion policy. |
+| Sony Cyber-shot DSC-W215 | applied | NP-BG1 | verified_medium | trusted_database: https://www.dpreview.com/products/sony/compacts/sony_dscw215/specifications | DPReview specifications for Sony Cyber-shot DSC-W215: Battery: NP-BG1 Lithium-ion. | promote_verified | verified_medium source satisfies promotion policy. |
+| Sony Cyber-shot DSC-W275 | applied | NP-BG1 | verified_medium | trusted_database: https://www.dpreview.com/products/sony/compacts/sony_dscw275/specifications | DPReview specifications for Sony Cyber-shot DSC-W275: Battery: NP-BG1. | promote_verified | verified_medium source satisfies promotion policy. |
+| Sony Cyber-shot DSC-W370 | applied | NP-BN1 | verified_medium | trusted_database: https://www.dpreview.com/products/sony/compacts/sony_dscw370/specifications | DPReview specifications for Sony Cyber-shot DSC-W370: Battery description: NP-BN1 lithium-ion battery. | promote_verified | verified_medium source satisfies promotion policy. |
+| Sony Cyber-shot DSC-T75 | applied | NP-BD1 | verified_medium | trusted_database: https://www.dpreview.com/products/sony/compacts/sony_dsct75/specifications | DPReview specifications for Sony Cyber-shot DSC-T75: Battery description: NP-BD1 / NP-FD1 InfoLithium. | promote_verified | verified_medium source satisfies promotion policy. |
+| Nikon COOLPIX L1 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/nikon/compacts/nikon_cpl1/specifications | DPReview specifications for Nikon COOLPIX L1: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Nikon COOLPIX L10 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/nikon/compacts/nikon_cpl10/specifications | DPReview specifications for Nikon COOLPIX L10: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Nikon COOLPIX L11 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/nikon/compacts/nikon_cpl11/specifications | DPReview specifications for Nikon COOLPIX L11: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Nikon COOLPIX L12 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/nikon/compacts/nikon_cpl12/specifications | DPReview specifications for Nikon COOLPIX L12: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Nikon COOLPIX L14 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/nikon/compacts/nikon_cpl14/specifications | DPReview specifications for Nikon COOLPIX L14: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Nikon COOLPIX L15 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/nikon/compacts/nikon_cpl15/specifications | DPReview specifications for Nikon COOLPIX L15: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Nikon COOLPIX L21 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/nikon/compacts/nikon_cpl21/specifications | DPReview specifications for Nikon COOLPIX L21: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Nikon COOLPIX L29 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/nikon/compacts/nikon_cpl29/specifications | DPReview specifications for Nikon COOLPIX L29: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Nikon COOLPIX L6 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/nikon/compacts/nikon_cpl6/specifications | DPReview specifications for Nikon COOLPIX L6: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A101 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa101/specifications | DPReview specifications for Fujifilm FinePix A101: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A120 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa120/specifications | DPReview specifications for Fujifilm FinePix A120: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A203 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa203/specifications | DPReview specifications for Fujifilm FinePix A203: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A204 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa204/specifications | DPReview specifications for Fujifilm FinePix A204: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A210 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa210/specifications | DPReview specifications for Fujifilm FinePix A210: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A303 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa303/specifications | DPReview specifications for Fujifilm FinePix A303: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A330 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa330/specifications | DPReview specifications for Fujifilm FinePix A330: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A340 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa340/specifications | DPReview specifications for Fujifilm FinePix A340: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A345 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa345/specifications | DPReview specifications for Fujifilm FinePix A345: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A350 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa350/specifications | DPReview specifications for Fujifilm FinePix A350: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A400 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa400/specifications | DPReview specifications for Fujifilm FinePix A400: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A500 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa500/specifications | DPReview specifications for Fujifilm FinePix A500: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A600 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa600/specifications | DPReview specifications for Fujifilm FinePix A600: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A610 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa610/specifications | DPReview specifications for Fujifilm FinePix A610: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A800 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa800/specifications | DPReview specifications for Fujifilm FinePix A800: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A820 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa820/specifications | DPReview specifications for Fujifilm FinePix A820: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A850 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa850/specifications | DPReview specifications for Fujifilm FinePix A850: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix A920 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa920/specifications | DPReview specifications for Fujifilm FinePix A920: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix AV100 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav100/specifications | DPReview specifications for Fujifilm FinePix AV100: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix AV150 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav150/specifications | DPReview specifications for Fujifilm FinePix AV150: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix AV200 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav200/specifications | DPReview specifications for Fujifilm FinePix AV200: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix AV230 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav230/specifications | DPReview specifications for Fujifilm FinePix AV230: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix AV250 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav250/specifications | DPReview specifications for Fujifilm FinePix AV250: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix AV280 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav280/specifications | DPReview specifications for Fujifilm FinePix AV280: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S3000 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3000/specifications | DPReview specifications for Fujifilm FinePix S3000: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S3100 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3100/specifications | DPReview specifications for Fujifilm FinePix S3100: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S3200 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3200/specifications | DPReview specifications for Fujifilm FinePix S3200: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S3300 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3300/specifications | DPReview specifications for Fujifilm FinePix S3300: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S3400 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3400/specifications | DPReview specifications for Fujifilm FinePix S3400: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S4000 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs4000/specifications | DPReview specifications for Fujifilm FinePix S4000: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S4200 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs4200/specifications | DPReview specifications for Fujifilm FinePix S4200: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S4800 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs4800/specifications | DPReview specifications for Fujifilm FinePix S4800: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S5200 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs5200/specifications | DPReview specifications for Fujifilm FinePix S5200: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S6800 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs6800/specifications | DPReview specifications for Fujifilm FinePix S6800: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S8000fd | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8000fd/specifications | DPReview specifications for Fujifilm FinePix S8000fd: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S8200 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8200/specifications | DPReview specifications for Fujifilm FinePix S8200: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S8300 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8300/specifications | DPReview specifications for Fujifilm FinePix S8300: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S8400W | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8400w/specifications | DPReview specifications for Fujifilm FinePix S8400W: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S8500 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8500/specifications | DPReview specifications for Fujifilm FinePix S8500: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S8600 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8600/specifications | DPReview specifications for Fujifilm FinePix S8600: Battery description: 3 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Fujifilm FinePix S9900W | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s9900w/specifications | DPReview specifications for Fujifilm FinePix S9900W: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Olympus C-150 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/olympus/compacts/oly_c150/specifications | DPReview specifications for Olympus C-150: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Olympus C-170 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/olympus/compacts/oly_c170/specifications | DPReview specifications for Olympus C-170: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Olympus C-310 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/olympus/compacts/oly_c310/specifications | DPReview specifications for Olympus C-310: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Olympus C-315 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/olympus/compacts/oly_c315/specifications | DPReview specifications for Olympus C-315: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Olympus C-360 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/olympus/compacts/oly_c360/specifications | DPReview specifications for Olympus C-360: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Olympus C-370 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/olympus/compacts/oly_c370/specifications | DPReview specifications for Olympus C-370: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Olympus FE-100 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/olympus/compacts/oly_fe100/specifications | DPReview specifications for Olympus FE-100: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Olympus FE-120 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/olympus/compacts/oly_fe120/specifications | DPReview specifications for Olympus FE-120: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Olympus FE-130 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/olympus/compacts/oly_fe130/specifications | DPReview specifications for Olympus FE-130: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Olympus FE-140 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/olympus/compacts/oly_fe140/specifications | DPReview specifications for Olympus FE-140: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Olympus FE-170 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/olympus/compacts/oly_fe170/specifications | DPReview specifications for Olympus FE-170: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Olympus FE-210 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/olympus/compacts/oly_fe210/specifications | DPReview specifications for Olympus FE-210: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Olympus FE-270 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/olympus/compacts/oly_fe270/specifications | DPReview specifications for Olympus FE-270: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Olympus FE-310 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/olympus/compacts/oly_fe310/specifications | DPReview specifications for Olympus FE-310: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Panasonic Lumix DMC-FZ1000II | applied | DMW-BLC12 | verified_medium | trusted_database: https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz1000ii/specifications | DPReview specifications for Panasonic Lumix DMC-FZ1000II: Battery description: DMW-BLC12 lithium-ion battery. | promote_verified | verified_medium source satisfies promotion policy. |
+| Panasonic Lumix DMC-FZ2000 | applied | DMW-BLC12 | verified_medium | trusted_database: https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz2500/specifications | DPReview specifications for Panasonic Lumix DMC-FZ2000: Battery description: DMW-BLC12 lithium-ion battery. | promote_verified | verified_medium source satisfies promotion policy. |
+| Panasonic Lumix DMC-FZ38 | applied | CGR-S006 | verified_medium | trusted_database: https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz35/specifications | DPReview specifications for Panasonic Lumix DMC-FZ38: Battery description: CGR-S006 lithium-ion battery. | promote_verified | verified_medium source satisfies promotion policy. |
+| Panasonic Lumix DMC-LZ2 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclz2/specifications | DPReview specifications for Panasonic Lumix DMC-LZ2: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Panasonic Lumix DMC-LZ10 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclz10/specifications | DPReview specifications for Panasonic Lumix DMC-LZ10: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Panasonic Lumix DMC-LZ20 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclz20/specifications | DPReview specifications for Panasonic Lumix DMC-LZ20: Battery description: 4 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Casio Exilim EX-Z10 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/casio/compacts/casio_exz10/specifications | DPReview specifications for Casio Exilim EX-Z10: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C142 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c142/specifications | DPReview specifications for Kodak EasyShare C142: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C143 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c143/specifications | DPReview specifications for Kodak EasyShare C143: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C180 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c180/specifications | DPReview specifications for Kodak EasyShare C180: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C182 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c182/specifications | DPReview specifications for Kodak EasyShare C182: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C183 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c183/specifications | DPReview specifications for Kodak EasyShare C183: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C190 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c190/specifications | DPReview specifications for Kodak EasyShare C190: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C300 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c300/specifications | DPReview specifications for Kodak EasyShare C300: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C310 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c310/specifications | DPReview specifications for Kodak EasyShare C310: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C315 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c315/specifications | DPReview specifications for Kodak EasyShare C315: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C330 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c330/specifications | DPReview specifications for Kodak EasyShare C330: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C340 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c340/specifications | DPReview specifications for Kodak EasyShare C340: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C360 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c360/specifications | DPReview specifications for Kodak EasyShare C360: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C433 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c433/specifications | DPReview specifications for Kodak EasyShare C433: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C503 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c503/specifications | DPReview specifications for Kodak EasyShare C503: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C513 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c513/specifications | DPReview specifications for Kodak EasyShare C513: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C530 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c530/specifications | DPReview specifications for Kodak EasyShare C530: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C533 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c533/specifications | DPReview specifications for Kodak EasyShare C533: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C663 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c663/specifications | DPReview specifications for Kodak EasyShare C663: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C703 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c703/specifications | DPReview specifications for Kodak EasyShare C703: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C743 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c743/specifications | DPReview specifications for Kodak EasyShare C743: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C763 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c763/specifications | DPReview specifications for Kodak EasyShare C763: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C875 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c875/specifications | DPReview specifications for Kodak EasyShare C875: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare C913 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_c913/specifications | DPReview specifications for Kodak EasyShare C913: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CD1013 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cd1013/specifications | DPReview specifications for Kodak EasyShare CD1013: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CD14 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cd14/specifications | DPReview specifications for Kodak EasyShare CD14: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CD153 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cd153/specifications | DPReview specifications for Kodak EasyShare CD153: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CD22 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cd22/specifications | DPReview specifications for Kodak EasyShare CD22: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CD24 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cd24/specifications | DPReview specifications for Kodak EasyShare CD24: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CD33 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cd33/specifications | DPReview specifications for Kodak EasyShare CD33: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CD40 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cd40/specifications | DPReview specifications for Kodak EasyShare CD40: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CD43 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cd43/specifications | DPReview specifications for Kodak EasyShare CD43: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CD44 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cd44/specifications | DPReview specifications for Kodak EasyShare CD44: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CD50 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cd50/specifications | DPReview specifications for Kodak EasyShare CD50: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CD80 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cd80/specifications | DPReview specifications for Kodak EasyShare CD80: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CD82 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cd82/specifications | DPReview specifications for Kodak EasyShare CD82: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CD83 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cd83/specifications | DPReview specifications for Kodak EasyShare CD83: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CD90 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cd90/specifications | DPReview specifications for Kodak EasyShare CD90: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CD93 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cd93/specifications | DPReview specifications for Kodak EasyShare CD93: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CX4200 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cx4200/specifications | DPReview specifications for Kodak EasyShare CX4200: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CX4210 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cx4210/specifications | DPReview specifications for Kodak EasyShare CX4210: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CX4230 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cx4230/specifications | DPReview specifications for Kodak EasyShare CX4230: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CX4300 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cx4300/specifications | DPReview specifications for Kodak EasyShare CX4300: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CX4310 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cx4310/specifications | DPReview specifications for Kodak EasyShare CX4310: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CX6200 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cx6200/specifications | DPReview specifications for Kodak EasyShare CX6200: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CX6230 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cx6230/specifications | DPReview specifications for Kodak EasyShare CX6230: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CX6330 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cx6330/specifications | DPReview specifications for Kodak EasyShare CX6330: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CX6445 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cx6445/specifications | DPReview specifications for Kodak EasyShare CX6445: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CX7220 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cx7220/specifications | DPReview specifications for Kodak EasyShare CX7220: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CX7300 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cx7300/specifications | DPReview specifications for Kodak EasyShare CX7300: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CX7310 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cx7310/specifications | DPReview specifications for Kodak EasyShare CX7310: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CX7430 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cx7430/specifications | DPReview specifications for Kodak EasyShare CX7430: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CX7525 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cx7525/specifications | DPReview specifications for Kodak EasyShare CX7525: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
+| Kodak EasyShare CX7530 | applied | AA | verified_medium | trusted_database: https://www.dpreview.com/products/kodak/compacts/kodak_cx7530/specifications | DPReview specifications for Kodak EasyShare CX7530: Battery description: 2 x AA batteries. | promote_verified | verified_medium source satisfies promotion policy. |
 
 ## Initial Test Cases
 
@@ -51,11 +191,11 @@ The agent researches sources outside this script. The script only validates reco
 | Camera | Brand | Search queries prepared | Reason |
 | --- | --- | ---: | --- |
 | Sony Cyber-shot DSC-T25 | Sony | 15 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Nikon COOLPIX P100 | Nikon | 14 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Fujifilm FinePix F20 | Fujifilm | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Nikon COOLPIX P3 | Nikon | 14 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Fujifilm FinePix F401 | Fujifilm | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Panasonic Lumix DC-FZ80D | Panasonic | 12 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Olympus Stylus 400 | Olympus | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Samsung ST100 | Samsung | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Samsung ST500 | Samsung | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Casio Exilim EX-ZR10 | Casio | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Kodak EasyShare C1013 | Kodak | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Pentax Optio 230 | Pentax | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
@@ -66,111 +206,71 @@ The agent researches sources outside this script. The script only validates reco
 | Leica C-Lux | Leica | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Sigma DP0 | Sigma | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Sony Cyber-shot DSC-T66 | Sony | 15 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Nikon COOLPIX P3 | Nikon | 14 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Fujifilm FinePix F401 | Fujifilm | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Nikon COOLPIX P50 | Nikon | 14 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Fujifilm FinePix F601 Zoom | Fujifilm | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Panasonic Lumix DC-LX100 II | Panasonic | 12 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Olympus Stylus 500 | Olympus | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Samsung ST30 | Samsung | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Casio Exilim EX-ZR15 | Casio | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Samsung ST550 | Samsung | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Casio Exilim EX-ZR2100 | Casio | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Kodak EasyShare C122 | Kodak | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Pentax Optio 30 | Pentax | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Ricoh CX1 | Ricoh | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Ricoh Caplio 300G | Ricoh | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | HP PhotoSmart 210 | HP | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | MINOLTA DiMAGE G500 | Minolta | 12 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Konica Minolta DiMAGE A200 | Konica Minolta | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Leica C-Lux 1 | Leica | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Sigma DP1 | Sigma | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Sony Cyber-shot DSC-T75 | Sony | 15 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Nikon COOLPIX P4 | Nikon | 14 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Fujifilm FinePix F470 | Fujifilm | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Sony Cyber-shot DSC-TX77 | Sony | 15 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Nikon COOLPIX P530 | Nikon | 14 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Fujifilm FinePix HS10 | Fujifilm | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Panasonic Lumix DC-ZS99 | Panasonic | 12 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Olympus C-150 | Olympus | 10 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Samsung ST500 | Samsung | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Casio Exilim EX-ZR2100 | Casio | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Olympus C-180 | Olympus | 10 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Samsung ST6500 | Samsung | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Casio Exilim EX-ZR3000 | Casio | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Kodak EasyShare C123 | Kodak | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Pentax Optio 330 | Pentax | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Ricoh CX2 | Ricoh | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Ricoh Caplio 400G Wide | Ricoh | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | HP PhotoSmart 215 | HP | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Minolta DiMAGE E201 | Minolta | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Konica Minolta DiMAGE E40 | Konica Minolta | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Leica C-Lux 2 | Leica | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Sigma DP1m | Sigma | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Sony Cyber-shot DSC-TX77 | Sony | 15 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Nikon COOLPIX P50 | Nikon | 14 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Fujifilm FinePix F480 | Fujifilm | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Panasonic Lumix DMC-FZ1000II | Panasonic | 12 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Olympus C-160 | Olympus | 10 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Samsung ST5000 | Samsung | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Casio Exilim EX-ZR3000 | Casio | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Kodak EasyShare C142 | Kodak | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Sony Cyber-shot DSC-H9 | Sony | 15 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Nikon COOLPIX P80 | Nikon | 14 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Fujifilm FinePix HS35EXR | Fujifilm | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Panasonic Lumix DMC-TZ50 | Panasonic | 12 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Olympus C-4000 | Olympus | 10 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Samsung ST700 | Samsung | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Casio Exilim EX-ZR3500 | Casio | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Kodak EasyShare C1450 | Kodak | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Pentax Optio 33LF | Pentax | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Ricoh CX3 | Ricoh | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
+| Ricoh Caplio 500G Wide | Ricoh | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | HP PhotoSmart 315 | HP | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Minolta DiMAGE E203 | Minolta | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Konica Minolta DiMAGE E50 | Konica Minolta | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 | Leica C-Lux 3 | Leica | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Sigma DP1s | Sigma | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Sony Cyber-shot DSC-WX9 | Sony | 15 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Nikon COOLPIX P5000 | Nikon | 14 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Fujifilm FinePix F601 Zoom | Fujifilm | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Panasonic Lumix DMC-FZ2000 | Panasonic | 12 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Olympus C-170 | Olympus | 10 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Samsung ST550 | Samsung | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Casio Exilim EX-ZR3500 | Casio | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Kodak EasyShare C143 | Kodak | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Pentax Optio 430 | Pentax | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Ricoh CX4 | Ricoh | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| HP PhotoSmart 318 | HP | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Minolta DiMAGE E223 | Minolta | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Konica Minolta DiMAGE E500 | Konica Minolta | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Leica D-Lux | Leica | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Sigma DP2 | Sigma | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Sony Cyber-shot DSC-H100 | Sony | 15 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Nikon COOLPIX P530 | Nikon | 14 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Fujifilm FinePix A101 | Fujifilm | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Panasonic Lumix DMC-FZ38 | Panasonic | 12 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Olympus C-180 | Olympus | 10 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Samsung ST5500 | Samsung | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Casio Exilim EX-ZR3600 | Casio | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Kodak EasyShare C1450 | Kodak | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Pentax Optio 43WR | Pentax | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Ricoh CX5 | Ricoh | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| HP PhotoSmart 320 | HP | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Minolta DiMAGE E323 | Minolta | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Konica Minolta DiMAGE G530 | Konica Minolta | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Leica D-Lux 2 | Leica | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Sigma DP2m | Sigma | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Sony Cyber-shot DSC-H20 | Sony | 15 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Nikon COOLPIX P60 | Nikon | 14 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Fujifilm FinePix A120 | Fujifilm | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Panasonic Lumix DMC-TZ50 | Panasonic | 12 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Olympus C-310 | Olympus | 10 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Samsung ST600 | Samsung | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Casio Exilim EX-ZR50 | Casio | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Kodak EasyShare C15 | Kodak | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
-| Pentax Optio 450 | Pentax | 11 | Research task generated; no reviewed battery evidence recorded in this batch. |
 
 ## Twenty Popular Models Still Unresolved
 
 | Camera | Brand | Current reason |
 | --- | --- | --- |
-| Sony Cyber-shot DSC-T25 | Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-T25 | Sony | Direct research attempted; charger-only battery type reference is insufficient. |
 | Sony Cyber-shot DSC-T66 | Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-T75 | Sony | Camera existence confirmed, battery not yet source-verified |
 | Sony Cyber-shot DSC-TX77 | Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-WX9 | Sony | Camera existence confirmed, battery not yet source-verified |
-| Nikon COOLPIX P100 | Nikon | Checked source but no explicit battery/power mapping was extracted. |
 | Nikon COOLPIX P3 | Nikon | Checked source but no explicit battery/power mapping was extracted. |
-| Nikon COOLPIX P4 | Nikon | Checked source but no explicit battery/power mapping was extracted. |
 | Nikon COOLPIX P50 | Nikon | Checked source but exact model match was not confirmed. |
-| Nikon COOLPIX P5000 | Nikon | Checked source but no explicit battery/power mapping was extracted. |
 | Nikon COOLPIX P530 | Nikon | Checked source but exact model match was not confirmed. |
-| Nikon COOLPIX P60 | Nikon | Checked source but exact model match was not confirmed. |
 | Nikon COOLPIX P80 | Nikon | Checked source but exact model match was not confirmed. |
 | Nikon COOLPIX P90 | Nikon | Checked source but exact model match was not confirmed. |
-| Nikon COOLPIX S02 | Nikon | Checked source but no explicit battery/power mapping was extracted. |
-| Nikon COOLPIX S10 | Nikon | Checked source but no explicit battery/power mapping was extracted. |
 | Nikon COOLPIX S2 | Nikon | Checked source but no explicit battery/power mapping was extracted. |
-| Nikon COOLPIX S200 | Nikon | Checked source but exact model match was not confirmed. |
-| Nikon COOLPIX S210 | Nikon | Checked source but exact model match was not confirmed. |
 | Nikon COOLPIX S220 | Nikon | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX S3 | Nikon | Checked source but no explicit battery/power mapping was extracted. |
+| Nikon COOLPIX S4 | Nikon | Checked source but no explicit battery/power mapping was extracted. |
+| Nikon COOLPIX S5300 | Nikon | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX S560 | Nikon | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX S60 | Nikon | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX S660 | Nikon | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX S7 | Nikon | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX S700 | Nikon | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX S8 | Nikon | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX S9 | Nikon | Checked source but exact model match was not confirmed. |

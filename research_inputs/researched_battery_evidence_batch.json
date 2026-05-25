@@ -1,0 +1,906 @@
+[
+  {
+    "camera_model": "PowerShot A3000 IS",
+    "brand": "Canon",
+    "battery_model": "NB-8L",
+    "evidence_text": "Battery description: NB-8L rechargeable lithium-ion battery.",
+    "source_url": "https://www.dpreview.com/products/canon/compacts/canon_a3000is/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "PowerShot A490",
+    "brand": "Canon",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries (Alkaline or NiMH)",
+    "source_url": "https://www.dpreview.com/products/canon/compacts/canon_a490/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "PowerShot N2",
+    "brand": "Canon",
+    "battery_model": "NB-9L",
+    "evidence_text": "Battery description: NB-9L lithium-ion battery.",
+    "source_url": "https://www.dpreview.com/products/canon/compacts/canon_n2/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "PowerShot SX70 HS",
+    "brand": "Canon",
+    "battery_model": "LP-E12",
+    "evidence_text": "Battery description: LP-E12 lithium-ion battery & charger.",
+    "source_url": "https://www.dpreview.com/products/canon/compacts/canon_sx70hs/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W40",
+    "brand": "Sony",
+    "battery_model": "NP-BG1",
+    "evidence_text": "Battery description: InfoLithium NP-BG1 battery.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw40/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W55",
+    "brand": "Sony",
+    "battery_model": "NP-BG1",
+    "evidence_text": "Battery: NP-BG1 Lithium-ion battery.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw55/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W70",
+    "brand": "Sony",
+    "battery_model": "NP-BG1",
+    "evidence_text": "Battery: InfoLithium NP-BG1.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw70/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W85",
+    "brand": "Sony",
+    "battery_model": "NP-BG1",
+    "evidence_text": "Battery: NP-BG1 battery.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw85/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W90",
+    "brand": "Sony",
+    "battery_model": "NP-BG1",
+    "evidence_text": "Battery: NP-BG1 Lithium-ion.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw90/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W100",
+    "brand": "Sony",
+    "battery_model": "NP-BG1",
+    "evidence_text": "Battery: InfoLithium NP-BG1.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw100/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W115",
+    "brand": "Sony",
+    "battery_model": "NP-BG1",
+    "evidence_text": "Battery: NP-BG1 battery.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw115/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W125",
+    "brand": "Sony",
+    "battery_model": "NP-BG1",
+    "evidence_text": "Battery: NP-BG1 Lithium-ion.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw125/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W215",
+    "brand": "Sony",
+    "battery_model": "NP-BG1",
+    "evidence_text": "Battery: NP-BG1 Lithium-ion.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw215/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W275",
+    "brand": "Sony",
+    "battery_model": "NP-BG1",
+    "evidence_text": "Battery: NP-BG1.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw275/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W310",
+    "brand": "Sony",
+    "battery_model": "NP-BN1",
+    "evidence_text": "Battery description: NP-BN1 lithium-ion battery.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw310/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W330",
+    "brand": "Sony",
+    "battery_model": "NP-BN1",
+    "evidence_text": "Battery description: NP-BN1 lithium-ion battery.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw330/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W360",
+    "brand": "Sony",
+    "battery_model": "NP-BN1",
+    "evidence_text": "Battery description: NP-BN1 lithium-ion battery.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw360/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W370",
+    "brand": "Sony",
+    "battery_model": "NP-BN1",
+    "evidence_text": "Battery description: NP-BN1 lithium-ion battery.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw370/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W510",
+    "brand": "Sony",
+    "battery_model": "NP-BN1",
+    "evidence_text": "Battery description: NP-BN1 lithium-ion battery.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw510/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W520",
+    "brand": "Sony",
+    "battery_model": "NP-BN1",
+    "evidence_text": "Battery description: NP-BN1 lithium-ion battery.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw520/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W560",
+    "brand": "Sony",
+    "battery_model": "NP-BN1",
+    "evidence_text": "Battery description: NP-BN1 lithium-ion battery.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw560/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-W580",
+    "brand": "Sony",
+    "battery_model": "NP-BN1",
+    "evidence_text": "Battery description: NP-BN1 lithium-ion battery.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dscw580/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Sony Cyber-shot DSC-T75",
+    "brand": "Sony",
+    "battery_model": "NP-BD1",
+    "evidence_text": "Battery description: NP-BD1 / NP-FD1 InfoLithium.",
+    "source_url": "https://www.dpreview.com/products/sony/compacts/sony_dsct75/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Nikon COOLPIX L1",
+    "brand": "Nikon",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl1/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Nikon COOLPIX L10",
+    "brand": "Nikon",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl10/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Nikon COOLPIX L11",
+    "brand": "Nikon",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl11/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Nikon COOLPIX L12",
+    "brand": "Nikon",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl12/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Nikon COOLPIX L14",
+    "brand": "Nikon",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl14/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Nikon COOLPIX L15",
+    "brand": "Nikon",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl15/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Nikon COOLPIX L21",
+    "brand": "Nikon",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl21/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Nikon COOLPIX L29",
+    "brand": "Nikon",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl29/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Nikon COOLPIX L6",
+    "brand": "Nikon",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl6/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Nikon COOLPIX L100",
+    "brand": "Nikon",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl100/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Nikon COOLPIX L110",
+    "brand": "Nikon",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl110/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Nikon COOLPIX L310",
+    "brand": "Nikon",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl310/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Nikon COOLPIX L320",
+    "brand": "Nikon",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl320/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Nikon COOLPIX L330",
+    "brand": "Nikon",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpl330/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A101",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa101/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A120",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa120/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A203",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa203/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A204",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa204/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A210",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa210/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A303",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa303/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A330",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa330/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A340",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa340/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A345",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa345/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A350",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa350/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A400",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa400/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A500",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa500/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A600",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa600/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A610",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa610/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A800",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa800/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A820",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa820/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A850",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa850/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix A920",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixa920/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix AV100",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav100/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix AV150",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav150/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix AV200",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav200/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix AV230",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav230/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix AV250",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav250/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix AV280",
+    "brand": "Fujifilm",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixav280/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S3000",
+    "brand": "Fujifilm",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3000/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S3100",
+    "brand": "Fujifilm",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3100/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S3200",
+    "brand": "Fujifilm",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3200/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S3300",
+    "brand": "Fujifilm",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3300/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S3400",
+    "brand": "Fujifilm",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs3400/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S4000",
+    "brand": "Fujifilm",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs4000/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S4200",
+    "brand": "Fujifilm",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs4200/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S4800",
+    "brand": "Fujifilm",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs4800/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S5200",
+    "brand": "Fujifilm",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs5200/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S6800",
+    "brand": "Fujifilm",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs6800/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S8000fd",
+    "brand": "Fujifilm",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8000fd/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S8200",
+    "brand": "Fujifilm",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8200/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S8300",
+    "brand": "Fujifilm",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8300/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S8400W",
+    "brand": "Fujifilm",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8400w/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S8500",
+    "brand": "Fujifilm",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8500/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S8600",
+    "brand": "Fujifilm",
+    "battery_model": "3 x AA",
+    "evidence_text": "Battery description: 3 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8600/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Fujifilm FinePix S9900W",
+    "brand": "Fujifilm",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s9900w/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Olympus C-150",
+    "brand": "Olympus",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_c150/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Olympus C-170",
+    "brand": "Olympus",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_c170/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Olympus C-310",
+    "brand": "Olympus",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_c310/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Olympus C-315",
+    "brand": "Olympus",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_c315/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Olympus C-360",
+    "brand": "Olympus",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_c360/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Olympus C-370",
+    "brand": "Olympus",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_c370/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Olympus FE-100",
+    "brand": "Olympus",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe100/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Olympus FE-120",
+    "brand": "Olympus",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe120/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Olympus FE-130",
+    "brand": "Olympus",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe130/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Olympus FE-140",
+    "brand": "Olympus",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe140/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Olympus FE-170",
+    "brand": "Olympus",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe170/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Olympus FE-210",
+    "brand": "Olympus",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe210/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Olympus FE-270",
+    "brand": "Olympus",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe270/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Olympus FE-310",
+    "brand": "Olympus",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe310/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Panasonic Lumix DMC-FZ1000II",
+    "brand": "Panasonic",
+    "battery_model": "DMW-BLC12",
+    "evidence_text": "Battery description: DMW-BLC12 lithium-ion battery.",
+    "source_url": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz1000ii/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Panasonic Lumix DMC-FZ2000",
+    "brand": "Panasonic",
+    "battery_model": "DMW-BLC12",
+    "evidence_text": "Battery description: DMW-BLC12 lithium-ion battery.",
+    "source_url": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz2500/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Panasonic Lumix DMC-FZ38",
+    "brand": "Panasonic",
+    "battery_model": "CGR-S006",
+    "evidence_text": "Battery description: CGR-S006 lithium-ion battery.",
+    "source_url": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfz35/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Panasonic Lumix DMC-LZ2",
+    "brand": "Panasonic",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclz2/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Panasonic Lumix DMC-LZ10",
+    "brand": "Panasonic",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclz10/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Panasonic Lumix DMC-LZ20",
+    "brand": "Panasonic",
+    "battery_model": "4 x AA",
+    "evidence_text": "Battery description: 4 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmclz20/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Casio Exilim EX-Z10",
+    "brand": "Casio",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/casio/compacts/casio_exz10/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Casio Exilim EX-Z110",
+    "brand": "Casio",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/casio/compacts/casio_exz110/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Casio Exilim EX-Z120",
+    "brand": "Casio",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/casio/compacts/casio_exz120/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Kodak EasyShare C142",
+    "brand": "Kodak",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c142/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Kodak EasyShare C143",
+    "brand": "Kodak",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c143/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Kodak EasyShare C180",
+    "brand": "Kodak",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c180/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Kodak EasyShare C182",
+    "brand": "Kodak",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c182/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Kodak EasyShare C183",
+    "brand": "Kodak",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c183/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Kodak EasyShare C190",
+    "brand": "Kodak",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c190/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Kodak EasyShare C300",
+    "brand": "Kodak",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c300/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Kodak EasyShare C310",
+    "brand": "Kodak",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c310/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Kodak EasyShare C315",
+    "brand": "Kodak",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c315/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Kodak EasyShare C330",
+    "brand": "Kodak",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c330/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Kodak EasyShare C340",
+    "brand": "Kodak",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c340/specifications",
+    "confidence": "high"
+  },
+  {
+    "camera_model": "Kodak EasyShare C360",
+    "brand": "Kodak",
+    "battery_model": "2 x AA",
+    "evidence_text": "Battery description: 2 x AA batteries.",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c360/specifications",
+    "confidence": "high"
+  }
+]
