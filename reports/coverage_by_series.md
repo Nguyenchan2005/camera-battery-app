@@ -55,7 +55,7 @@ Generated: 2026-05-25
 | GE | GE compact | 2 | 1 | 0 | 1 | 2 |
 | GE | Power Pro X | 1 | 1 | 0 | 0 | 1 |
 | HP | PhotoSmart | 67 | 1 | 0 | 66 | 67 |
-| Kodak | EasyShare C | 37 | 3 | 3 | 34 | 37 |
+| Kodak | EasyShare C | 37 | 4 | 3 | 33 | 37 |
 | Kodak | EasyShare CD | 16 | 0 | 0 | 16 | 16 |
 | Kodak | EasyShare CX | 16 | 0 | 0 | 16 | 16 |
 | Kodak | EasyShare DX | 14 | 0 | 0 | 14 | 14 |
@@ -134,7 +134,7 @@ Generated: 2026-05-25
 | Panasonic | Lumix LZ | 11 | 1 | 0 | 10 | 11 |
 | Panasonic | Lumix SZ | 6 | 0 | 0 | 6 | 6 |
 | Panasonic | Lumix TS/FT | 11 | 0 | 0 | 11 | 11 |
-| Panasonic | Lumix TZ/ZS | 17 | 3 | 3 | 14 | 17 |
+| Panasonic | Lumix TZ/ZS | 18 | 4 | 4 | 14 | 18 |
 | Panasonic | Lumix ZS/TZ | 1 | 1 | 1 | 0 | 1 |
 | Pentax | Optio | 87 | 3 | 0 | 84 | 87 |
 | Pentax | WG | 1 | 1 | 1 | 0 | 1 |
@@ -149,18 +149,18 @@ Generated: 2026-05-25
 | Samsung | NV | 12 | 0 | 0 | 12 | 12 |
 | Samsung | PL | 8 | 1 | 0 | 7 | 7 |
 | Samsung | ST | 16 | 1 | 0 | 15 | 16 |
-| Samsung | WB | 11 | 2 | 1 | 9 | 10 |
+| Samsung | WB | 11 | 3 | 1 | 8 | 10 |
 | Sigma | DP | 10 | 1 | 1 | 9 | 10 |
 | Sigma | DP Merrill | 2 | 2 | 2 | 0 | 2 |
 | Sigma | dp Quattro | 4 | 4 | 4 | 0 | 4 |
-| Sony | Cyber-shot DSC-H | 16 | 3 | 2 | 13 | 16 |
-| Sony | Cyber-shot DSC-HX | 17 | 8 | 8 | 9 | 17 |
+| Sony | Cyber-shot DSC-H | 16 | 6 | 5 | 10 | 16 |
+| Sony | Cyber-shot DSC-HX | 17 | 12 | 12 | 5 | 17 |
 | Sony | Cyber-shot DSC-RX1 | 3 | 3 | 3 | 0 | 3 |
-| Sony | Cyber-shot DSC-RX10 | 4 | 2 | 2 | 2 | 4 |
+| Sony | Cyber-shot DSC-RX10 | 4 | 3 | 3 | 1 | 4 |
 | Sony | Cyber-shot DSC-RX100 | 8 | 8 | 8 | 0 | 8 |
 | Sony | Cyber-shot DSC-T | 27 | 17 | 15 | 10 | 27 |
 | Sony | Cyber-shot DSC-TX | 11 | 3 | 3 | 8 | 11 |
-| Sony | Cyber-shot DSC-W | 58 | 26 | 24 | 32 | 58 |
+| Sony | Cyber-shot DSC-W | 58 | 28 | 26 | 30 | 58 |
 | Sony | Cyber-shot DSC-WX | 18 | 11 | 11 | 7 | 18 |
 | Sony | Cyber-shot HX | 1 | 1 | 1 | 0 | 1 |
 | Sony | Cyber-shot TX | 2 | 2 | 2 | 0 | 2 |
@@ -518,7 +518,6 @@ Generated: 2026-05-25
 | Kodak | EasyShare C |  | Kodak EasyShare C513 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
 | Kodak | EasyShare C |  | Kodak EasyShare C530 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
 | Kodak | EasyShare C |  | Kodak EasyShare C533 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
-| Kodak | EasyShare C |  | Kodak EasyShare C613 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
 | Kodak | EasyShare C |  | Kodak EasyShare C653 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
 | Kodak | EasyShare C |  | Kodak EasyShare C663 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
 | Kodak | EasyShare C |  | Kodak EasyShare C703 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Kodak |
@@ -1294,7 +1293,6 @@ Generated: 2026-05-25
 | Samsung | ST |  | Samsung ST90 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
 | Samsung | ST |  | Samsung ST93 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
 | Samsung | ST |  | Samsung ST95 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
-| Samsung | WB |  | Samsung WB1000 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
 | Samsung | WB |  | Samsung WB2000 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
 | Samsung | WB |  | Samsung WB210 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
 | Samsung | WB |  | Samsung WB550 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Samsung |
@@ -1320,21 +1318,13 @@ Generated: 2026-05-25
 | Sony | Cyber-shot DSC-H | 2007 | Sony Cyber-shot DSC-H3 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-H | 2006 | Sony Cyber-shot DSC-H5 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-H | 2008 | Sony Cyber-shot DSC-H50 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-H | 2010 | Sony Cyber-shot DSC-H55 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-H | 2007 | Sony Cyber-shot DSC-H7 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-H | 2011 | Sony Cyber-shot DSC-H70 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-H | 2007 | Sony Cyber-shot DSC-H9 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-H | 2012 | Sony Cyber-shot DSC-H90 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-HX |  | Sony Cyber-shot DSC-HX1 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony_Cybershot_DSC-HX1 |
 | Sony | Cyber-shot DSC-HX | 2011 | Sony Cyber-shot DSC-HX100V | Battery source check failed: TimeoutError: The read operation timed out | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-HX | 2012 | Sony Cyber-shot DSC-HX10V | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-HX | 2012 | Sony Cyber-shot DSC-HX200V | Battery source check failed: TimeoutError: The read operation timed out | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-HX | 2012 | Sony Cyber-shot DSC-HX20V | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-HX | 2012 | Sony Cyber-shot DSC-HX30V | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-HX |  | Sony Cyber-shot DSC-HX5V | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-HX |  | Sony Cyber-shot DSC-HX7V | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-HX |  | Sony Cyber-shot DSC-HX9V | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-RX10 | 2013 | Sony Cyber-shot DSC-RX10 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-RX10 | 2015 | Sony Cyber-shot DSC-RX10 II | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T11 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-T |  | Sony Cyber-shot DSC-T110 | Battery source check failed: TimeoutError: The read operation timed out | https://camera-wiki.org/wiki/Sony |
@@ -1375,11 +1365,9 @@ Generated: 2026-05-25
 | Sony | Cyber-shot DSC-W |  | Sony Cyber-shot DSC-W50 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-W | 2011 | Sony Cyber-shot DSC-W510 | Battery source check failed: TimeoutError: The read operation timed out | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-W |  | Sony Cyber-shot DSC-W520 | Checked source but no explicit battery/power mapping was extracted. | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-W | 2011 | Sony Cyber-shot DSC-W530 | Battery source check failed: TimeoutError: The read operation timed out | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-W |  | Sony Cyber-shot DSC-W55 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-W |  | Sony Cyber-shot DSC-W550 | Battery source check failed: TimeoutError: The read operation timed out | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-W | 2011 | Sony Cyber-shot DSC-W560 | Battery source check failed: TimeoutError: The read operation timed out | https://camera-wiki.org/wiki/Sony |
-| Sony | Cyber-shot DSC-W | 2011 | Sony Cyber-shot DSC-W570 | Battery source check failed: TimeoutError: The read operation timed out | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-W |  | Sony Cyber-shot DSC-W580 | Battery source check failed: TimeoutError: The read operation timed out | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-W |  | Sony Cyber-shot DSC-W7 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |
 | Sony | Cyber-shot DSC-W |  | Sony Cyber-shot DSC-W70 | Camera existence confirmed, battery not yet source-verified | https://camera-wiki.org/wiki/Sony |

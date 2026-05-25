@@ -71,6 +71,15 @@ test("shows weak battery suggestions separately from verified compatibility", as
   await expect(page.getByTestId("battery-suggested-matches")).toContainText("chua xac minh");
 });
 
+test("finds researched Samsung TL320 alias as verified WB1000 with SLB-11A", async ({ page }) => {
+  await openApp(page);
+  await fillSearch(page, "Samsung TL320");
+  await page.getByTestId("search-result-camera-samsung_wb1000").click();
+  await expect(page.getByTestId("result-camera")).toBeVisible();
+  await expect(page.getByTestId("compat-card-samsung_slb_11a-fully_compatible")).toBeVisible();
+  await expect(page.getByText("pin da xac minh")).toBeVisible();
+});
+
 test("search unknown model returns not found state", async ({ page }) => {
   await openApp(page);
   await submitSearch(page, "Definitely Not A Compact Camera 9999XYZ");

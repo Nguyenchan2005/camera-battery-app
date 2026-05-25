@@ -5772,6 +5772,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "kodak_easyshare_c613",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "Kodak EasyShare C613 User Manual: Power - (2) Kodak oxy-alkaline digital camera batteries AA; (2) Kodak Ni-MH rechargeable digital camera batteries AA; Kodak Ni-MH rechargeable digital camera battery KAA2HR.",
+    "source_name": "Kodak EasyShare C613 User Manual text mirror",
+    "source_url": "https://www.manualslib.com/manual/89231/Kodak-Easyshare-C613.html",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "kodak_easyshare_c643",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -7884,6 +7896,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "panasonic_lumix_dmc_zs50",
+    "battery_id": "panasonic_dmw_bcm13pp",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Panasonic DMC-ZS50 / DMC-TZ70 Basic Owner's Manual: The battery that can be used with this unit is DMW-BCM13PP.",
+    "source_name": "Panasonic DMC-ZS50 / DMC-TZ70 Official Basic Owner's Manual",
+    "source_url": "https://help.panasonic.ca/viewing/ALL/DMC-ZS50PC/OI/sqt0613-eng/sqt0613-eng.pdf",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "panasonic_lumix_dmc_zs60",
     "battery_id": "panasonic_dmw_blg10",
     "status": "fully_compatible",
@@ -8076,6 +8100,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "samsung_wb1000",
+    "battery_id": "samsung_slb_11a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Samsung WB1000 User Manual: Power source - Rechargeable battery: Lithium-ion battery (SLB-11A, 1,130 mAh). Battery specifications: Mode SLB-11A, Type Lithium-ion battery, Cell capacity 1,130 mAh, Voltage 3.8 V.",
+    "source_name": "Samsung WB1000 User Manual text mirror",
+    "source_url": "https://manualzz.com/doc/49237037/samsung-wb1000-user-manual",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "samsung_wb2200f",
     "battery_id": "samsung_bp_1410",
     "status": "fully_compatible",
@@ -8220,6 +8256,78 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_h55",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official DSC-H55 specification sheet: Battery / AC adaptor - NP-BG1 3.6 V / AC-LS5 4.2 V.",
+    "source_name": "Sony Asia DSC-H55 Official Specification Sheet",
+    "source_url": "https://www.sony-asia.com/corporate/resources/en_AP/pdf/Specification_Sheet_for_DSC-TX5_and_DSC-H55.pdf",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_h70",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony official specification sheet: DSC-H70 supplied accessories include Rechargeable Battery Pack NP-BG1.",
+    "source_name": "Sony Asia DSC-H70 Official Specification Sheet",
+    "source_url": "https://www.sony-asia.com/corporate/resources/en_AP/pdf/specsheet_CES2011Cyber-shot_CCD.pdf",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_h90",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony DSC-H90 official specifications: Supplied battery NP-BG1.",
+    "source_name": "Sony DSC-H90 Official Specifications",
+    "source_url": "https://www.sony.es/electronics/support/compact-cameras-dsc-h-series/dsc-h90/specifications",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx10v",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony DSC-HX10V official specifications: Rechargeable Battery Pack NP-BG1.",
+    "source_name": "Sony DSC-HX10V Official Specifications",
+    "source_url": "https://www.sony-asia.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx10v/specifications",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx200v",
+    "battery_id": "sony_np_fh50",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony DSC-HX200V official specifications: Supplied rechargeable battery NP-FH50.",
+    "source_name": "Sony DSC-HX200V Official Specifications",
+    "source_url": "https://www.sony.fr/electronics/support/compact-cameras-dsc-hx-series/dsc-hx200v/specifications",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx20v",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony firmware instructions for DSC-HX20V: Things to be prepared - Fully charged rechargeable battery pack NP-BG1 (supplied).",
+    "source_name": "Sony DSC-HX20V Official Firmware Preparation Page",
+    "source_url": "https://www.sony-asia.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx20v/downloads/Y0014762",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_hx300",
     "battery_id": "sony_np_bx1",
     "status": "fully_compatible",
@@ -8227,6 +8335,18 @@
     "note": "Sony official specifications for DSC-HX300: Supplied Battery - Rechargeable Battery Pack NP-BX1.",
     "source_name": "Sony DSC-HX300 Official Specifications",
     "source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx300/specifications",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx30v",
+    "battery_id": "sony_np_bg1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony DSC-HX30V Specifications: Rechargeable Battery Pack NP-BG1.",
+    "source_name": "Sony DSC-HX30V Official Specifications",
+    "source_url": "https://www.sony-asia.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx30v/specifications",
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-25"
@@ -8338,6 +8458,18 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_rx10",
+    "battery_id": "sony_np_fw50",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony DSC-RX10 Specifications: Supplied Battery - Rechargeable Battery Pack NP-FW50.",
+    "source_name": "Sony DSC-RX10 Official Specifications",
+    "source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-rx-series/dsc-rx10/specifications",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_rx100",
@@ -8962,6 +9094,30 @@
     "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w530",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony DSC-W530 official specifications: Battery system NP-BN1; supplied accessory Rechargeable Battery Pack NP-BN1.",
+    "source_name": "Sony Japan DSC-W530 Official Specifications",
+    "source_url": "https://www.sony.jp/cyber-shot/products/archive/DSC-W530/spec.html",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w570",
+    "battery_id": "sony_np_bn1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Sony DSC-W570 official specifications: Battery system NP-BN1; supplied accessory Rechargeable Battery Pack NP-BN1.",
+    "source_name": "Sony Japan DSC-W570 Official Specifications",
+    "source_url": "https://www.sony.jp/cyber-shot/products/archive/DSC-W570/spec.html",
+    "source_type": "official_manual",
+    "confidence": "high",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_w610",

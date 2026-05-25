@@ -87,6 +87,30 @@ describe("database loader, search, and source-backed lookup", () => {
     }
   });
 
+  it("searches researched Samsung regional alias and returns verified SLB-11A", () => {
+    for (const query of ["Samsung WB1000", "Samsung TL320", "VLUU WB1000"]) {
+      const result = db.searchAll(query, 5);
+      expect(result[0]?.id, query).toBe("samsung_wb1000");
+      const lookup = db.lookupFromMatch(result[0]);
+      expect(lookup.kind, query).toBe("camera");
+      if (lookup.kind === "camera") {
+        expect(lookup.compatibility.some((row) => row.battery_id === "samsung_slb_11a"), query).toBe(true);
+      }
+    }
+  });
+
+  it("searches the corrected Panasonic TZ70 / ZS50 regional pair", () => {
+    for (const query of ["Panasonic TZ70", "Panasonic ZS50"]) {
+      const result = db.searchAll(query, 5);
+      expect(result[0]?.id, query).toBe("panasonic_lumix_dmc_zs50");
+      const lookup = db.lookupFromMatch(result[0]);
+      expect(lookup.kind, query).toBe("camera");
+      if (lookup.kind === "camera") {
+        expect(lookup.compatibility.some((row) => row.battery_id === "panasonic_dmw_bcm13pp"), query).toBe(true);
+      }
+    }
+  });
+
   it("searches common brand/model shorthand aliases across major brands", () => {
     const cases = [
       ["sony t900", "sony_cyber_shot_dsc_t900"],

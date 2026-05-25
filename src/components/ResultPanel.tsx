@@ -189,7 +189,7 @@ function CameraResult({
         >
           Them may nay vao kho
         </button>
-        <Badge tone="green">verified</Badge>
+        <Badge tone="green">pin da xac minh</Badge>
         <Badge tone="blue">{result.camera.brand}</Badge>
         <Badge tone="gray">{result.camera.category}</Badge>
         {inInventory.length ? <Badge tone="green">co pin trong kho cua ban</Badge> : <Badge tone="gray">chua co pin phu hop trong kho</Badge>}

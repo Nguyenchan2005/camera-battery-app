@@ -1,0 +1,362 @@
+[
+  {
+    "camera_id": "samsung_wb1000",
+    "display_name": "Samsung WB1000",
+    "brand": "Samsung",
+    "aliases_found": ["VLUU WB1000", "Samsung TL320", "TL320"],
+    "battery_model": "SLB-11A",
+    "battery_brand": "Samsung",
+    "chemistry": "lithium-ion",
+    "voltage": 3.8,
+    "capacity_mah": 1130,
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "evidence_level": "verified_medium",
+    "source_type": "manual_mirror",
+    "source_name": "Samsung WB1000 User Manual text mirror",
+    "source_url": "https://manualzz.com/doc/49237037/samsung-wb1000-user-manual",
+    "source_text": "Samsung WB1000 User Manual: Power source - Rechargeable battery: Lithium-ion battery (SLB-11A, 1,130 mAh). Battery specifications: Mode SLB-11A, Type Lithium-ion battery, Cell capacity 1,130 mAh, Voltage 3.8 V.",
+    "cross_sources": [
+      {
+        "source_name": "Samsung official WB1000 support page",
+        "source_url": "https://www.samsung.com/ee/support/model/EC-WB1000BPBRU/",
+        "source_text": "Samsung support provides the WB1000_English.pdf user manual for Samsung WB1000."
+      },
+      {
+        "source_name": "DPReview Samsung TL320 (WB1000) specifications",
+        "source_url": "https://www.dpreview.com/products/samsung/compacts/samsung_tl320/specifications",
+        "source_text": "Samsung TL320 (WB1000) identifies TL320 as the regional equivalent name."
+      }
+    ],
+    "decision": "promote_verified",
+    "notes": "Readable manual mirror provides exact battery specification; official Samsung support confirms the model manual, and DPReview confirms the TL320 alias."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_rx10",
+    "display_name": "Sony Cyber-shot DSC-RX10",
+    "brand": "Sony",
+    "aliases_found": ["Sony RX10", "DSC-RX10"],
+    "battery_model": "NP-FW50",
+    "battery_brand": "Sony",
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "evidence_level": "verified_high",
+    "source_type": "official_manual",
+    "source_name": "Sony DSC-RX10 Official Specifications",
+    "source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-rx-series/dsc-rx10/specifications",
+    "source_text": "Sony DSC-RX10 Specifications: Supplied Battery - Rechargeable Battery Pack NP-FW50.",
+    "cross_sources": [],
+    "decision": "promote_verified",
+    "notes": "Sony official specifications explicitly name the supplied battery pack."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx30v",
+    "display_name": "Sony Cyber-shot DSC-HX30V",
+    "brand": "Sony",
+    "aliases_found": ["Sony HX30V", "DSC-HX30V"],
+    "battery_model": "NP-BG1",
+    "battery_brand": "Sony",
+    "chemistry": "lithium-ion",
+    "voltage": 3.6,
+    "capacity_mah": 960,
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "evidence_level": "verified_high",
+    "source_type": "official_manual",
+    "source_name": "Sony DSC-HX30V Official Specifications",
+    "source_url": "https://www.sony-asia.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx30v/specifications",
+    "source_text": "Sony DSC-HX30V Specifications: Rechargeable Battery Pack NP-BG1.",
+    "cross_sources": [
+      {
+        "source_name": "Sony NP-BG1 Official Specifications",
+        "source_url": "https://www.sony-asia.com/electronics/support/camera-camcorder-accessories-batteries-chargers/np-bg1/specifications",
+        "source_text": "Sony NP-BG1 Specifications: DC 3.6 V, 960 mAh, 3.4 Wh."
+      }
+    ],
+    "decision": "promote_verified",
+    "notes": "Sony official camera specification names NP-BG1; official battery specifications support electrical fields."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w530",
+    "display_name": "Sony Cyber-shot DSC-W530",
+    "brand": "Sony",
+    "aliases_found": ["Sony W530", "DSC-W530"],
+    "battery_model": "NP-BN1",
+    "battery_brand": "Sony",
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "evidence_level": "verified_high",
+    "source_type": "official_manual",
+    "source_name": "Sony Japan DSC-W530 Official Specifications",
+    "source_url": "https://www.sony.jp/cyber-shot/products/archive/DSC-W530/spec.html",
+    "source_text": "Sony DSC-W530 official specifications: Battery system NP-BN1; supplied accessory Rechargeable Battery Pack NP-BN1.",
+    "cross_sources": [],
+    "decision": "promote_verified",
+    "notes": "Sony Japan official product archive specifies NP-BN1."
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_zs50",
+    "display_name": "Panasonic Lumix DMC-ZS50",
+    "brand": "Panasonic",
+    "aliases_found": ["DMC-ZS50", "DMC-TZ70", "Panasonic Lumix DMC-TZ70", "Lumix TZ70", "Lumix ZS50"],
+    "battery_model": "DMW-BCM13PP",
+    "battery_brand": "Panasonic",
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "evidence_level": "verified_high",
+    "source_type": "official_manual",
+    "source_name": "Panasonic DMC-ZS50 / DMC-TZ70 Official Basic Owner's Manual",
+    "source_url": "https://help.panasonic.ca/viewing/ALL/DMC-ZS50PC/OI/sqt0613-eng/sqt0613-eng.pdf",
+    "source_text": "Panasonic DMC-ZS50 / DMC-TZ70 Basic Owner's Manual: The battery that can be used with this unit is DMW-BCM13PP.",
+    "cross_sources": [
+      {
+        "source_name": "DPReview Panasonic DMC-ZS50 (DMC-TZ70) specifications",
+        "source_url": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs50/specifications",
+        "source_text": "Panasonic Lumix DMC-ZS50 (Lumix DMC-TZ70) confirms the regional model pair."
+      }
+    ],
+    "decision": "promote_verified",
+    "notes": "Official manual names both regional models and the battery; this creates the previously missing correct candidate.",
+    "candidate_patch": {
+      "camera_id": "panasonic_lumix_dmc_zs50",
+      "brand": "Panasonic",
+      "series": "Lumix TZ/ZS",
+      "model": "DMC-ZS50",
+      "display_name": "Panasonic Lumix DMC-ZS50",
+      "aliases": ["DMC-ZS50", "DMC-TZ70"],
+      "regional_names": {
+        "us": ["Panasonic Lumix DMC-ZS50", "DMC-ZS50"],
+        "global": ["Panasonic Lumix DMC-TZ70", "DMC-TZ70"]
+      },
+      "release_year": 2015,
+      "category": "travel_zoom",
+      "lens_type": "fixed_lens",
+      "battery_system": "unknown",
+      "notes": "Candidate and regional alias confirmed from Panasonic official DMC-ZS50 / DMC-TZ70 manual.",
+      "candidate_source_name": "Panasonic DMC-ZS50 / DMC-TZ70 Official Basic Owner's Manual",
+      "candidate_source_url": "https://help.panasonic.ca/viewing/ALL/DMC-ZS50PC/OI/sqt0613-eng/sqt0613-eng.pdf",
+      "candidate_source_type": "official_manual",
+      "candidate_batch": "llm_assisted_research_batch",
+      "candidate_status": "unresolved"
+    },
+    "alias_corrections": [
+      {
+        "camera_id": "panasonic_lumix_dmc_tz50",
+        "remove_aliases": ["DMC-ZS50", "Panasonic Lumix DMC-ZS50"]
+      }
+    ]
+  },
+  {
+    "camera_id": "kodak_easyshare_c613",
+    "display_name": "Kodak EasyShare C613",
+    "brand": "Kodak",
+    "aliases_found": [],
+    "battery_model": "AA",
+    "battery_brand": "Generic",
+    "chemistry": "various",
+    "voltage": null,
+    "capacity_mah": null,
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "evidence_level": "verified_medium",
+    "source_type": "manual_mirror",
+    "source_name": "Kodak EasyShare C613 User Manual text mirror",
+    "source_url": "https://www.manualslib.com/manual/89231/Kodak-Easyshare-C613.html",
+    "source_text": "Kodak EasyShare C613 User Manual: Power - (2) Kodak oxy-alkaline digital camera batteries AA; (2) Kodak Ni-MH rechargeable digital camera batteries AA; Kodak Ni-MH rechargeable digital camera battery KAA2HR.",
+    "cross_sources": [
+      {
+        "source_name": "DPReview Kodak EasyShare C613 specifications",
+        "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c613/specifications",
+        "source_text": "Battery description: AA (2) batteries (NiMH recommended)."
+      }
+    ],
+    "decision": "promote_verified",
+    "notes": "Manual mirror explicitly states two AA cells; DPReview independently agrees."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w570",
+    "display_name": "Sony Cyber-shot DSC-W570",
+    "brand": "Sony",
+    "aliases_found": ["Sony W570", "DSC-W570"],
+    "battery_model": "NP-BN1",
+    "battery_brand": "Sony",
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "evidence_level": "verified_high",
+    "source_type": "official_manual",
+    "source_name": "Sony Japan DSC-W570 Official Specifications",
+    "source_url": "https://www.sony.jp/cyber-shot/products/archive/DSC-W570/spec.html",
+    "source_text": "Sony DSC-W570 official specifications: Battery system NP-BN1; supplied accessory Rechargeable Battery Pack NP-BN1.",
+    "cross_sources": [],
+    "decision": "promote_verified",
+    "notes": "Sony official product archive explicitly identifies NP-BN1."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx200v",
+    "display_name": "Sony Cyber-shot DSC-HX200V",
+    "brand": "Sony",
+    "aliases_found": ["Sony HX200V", "DSC-HX200V"],
+    "battery_model": "NP-FH50",
+    "battery_brand": "Sony",
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "evidence_level": "verified_high",
+    "source_type": "official_manual",
+    "source_name": "Sony DSC-HX200V Official Specifications",
+    "source_url": "https://www.sony.fr/electronics/support/compact-cameras-dsc-hx-series/dsc-hx200v/specifications",
+    "source_text": "Sony DSC-HX200V official specifications: Supplied rechargeable battery NP-FH50.",
+    "cross_sources": [],
+    "decision": "promote_verified",
+    "notes": "Sony official support specification explicitly names NP-FH50."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_h90",
+    "display_name": "Sony Cyber-shot DSC-H90",
+    "brand": "Sony",
+    "aliases_found": ["Sony H90", "DSC-H90"],
+    "battery_model": "NP-BG1",
+    "battery_brand": "Sony",
+    "chemistry": "lithium-ion",
+    "voltage": 3.6,
+    "capacity_mah": 960,
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "evidence_level": "verified_high",
+    "source_type": "official_manual",
+    "source_name": "Sony DSC-H90 Official Specifications",
+    "source_url": "https://www.sony.es/electronics/support/compact-cameras-dsc-h-series/dsc-h90/specifications",
+    "source_text": "Sony DSC-H90 official specifications: Supplied battery NP-BG1.",
+    "cross_sources": [
+      {
+        "source_name": "Sony NP-BG1 Official Specifications",
+        "source_url": "https://www.sony-asia.com/electronics/support/camera-camcorder-accessories-batteries-chargers/np-bg1/specifications",
+        "source_text": "Sony NP-BG1 Specifications: DC 3.6 V, 960 mAh, 3.4 Wh."
+      }
+    ],
+    "decision": "promote_verified",
+    "notes": "Sony official support specification identifies NP-BG1."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx20v",
+    "display_name": "Sony Cyber-shot DSC-HX20V",
+    "brand": "Sony",
+    "aliases_found": ["Sony HX20V", "DSC-HX20V"],
+    "battery_model": "NP-BG1",
+    "battery_brand": "Sony",
+    "chemistry": "lithium-ion",
+    "voltage": 3.6,
+    "capacity_mah": 960,
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "evidence_level": "verified_high",
+    "source_type": "official_manual",
+    "source_name": "Sony DSC-HX20V Official Firmware Preparation Page",
+    "source_url": "https://www.sony-asia.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx20v/downloads/Y0014762",
+    "source_text": "Sony firmware instructions for DSC-HX20V: Things to be prepared - Fully charged rechargeable battery pack NP-BG1 (supplied).",
+    "cross_sources": [
+      {
+        "source_name": "Sony NP-BG1 Official Specifications",
+        "source_url": "https://www.sony-asia.com/electronics/support/camera-camcorder-accessories-batteries-chargers/np-bg1/specifications",
+        "source_text": "Sony NP-BG1 Specifications: DC 3.6 V, 960 mAh, 3.4 Wh."
+      }
+    ],
+    "decision": "promote_verified",
+    "notes": "Official update instructions identify NP-BG1 as the supplied battery for exact model."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx10v",
+    "display_name": "Sony Cyber-shot DSC-HX10V",
+    "brand": "Sony",
+    "aliases_found": ["Sony HX10V", "DSC-HX10V"],
+    "battery_model": "NP-BG1",
+    "battery_brand": "Sony",
+    "chemistry": "lithium-ion",
+    "voltage": 3.6,
+    "capacity_mah": 960,
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "evidence_level": "verified_high",
+    "source_type": "official_manual",
+    "source_name": "Sony DSC-HX10V Official Specifications",
+    "source_url": "https://www.sony-asia.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx10v/specifications",
+    "source_text": "Sony DSC-HX10V official specifications: Rechargeable Battery Pack NP-BG1.",
+    "cross_sources": [
+      {
+        "source_name": "Sony NP-BG1 Official Specifications",
+        "source_url": "https://www.sony-asia.com/electronics/support/camera-camcorder-accessories-batteries-chargers/np-bg1/specifications",
+        "source_text": "Sony NP-BG1 Specifications: DC 3.6 V, 960 mAh, 3.4 Wh."
+      }
+    ],
+    "decision": "promote_verified",
+    "notes": "Sony official specifications explicitly identify NP-BG1."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_h70",
+    "display_name": "Sony Cyber-shot DSC-H70",
+    "brand": "Sony",
+    "aliases_found": ["Sony H70", "DSC-H70"],
+    "battery_model": "NP-BG1",
+    "battery_brand": "Sony",
+    "chemistry": "lithium-ion",
+    "voltage": 3.6,
+    "capacity_mah": 960,
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "evidence_level": "verified_high",
+    "source_type": "official_manual",
+    "source_name": "Sony Asia DSC-H70 Official Specification Sheet",
+    "source_url": "https://www.sony-asia.com/corporate/resources/en_AP/pdf/specsheet_CES2011Cyber-shot_CCD.pdf",
+    "source_text": "Sony official specification sheet: DSC-H70 supplied accessories include Rechargeable Battery Pack NP-BG1.",
+    "cross_sources": [
+      {
+        "source_name": "Sony NP-BG1 Official Specifications",
+        "source_url": "https://www.sony-asia.com/electronics/support/camera-camcorder-accessories-batteries-chargers/np-bg1/specifications",
+        "source_text": "Sony NP-BG1 Specifications: DC 3.6 V, 960 mAh, 3.4 Wh."
+      }
+    ],
+    "decision": "promote_verified",
+    "notes": "Sony official specification sheet identifies supplied battery NP-BG1."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_h55",
+    "display_name": "Sony Cyber-shot DSC-H55",
+    "brand": "Sony",
+    "aliases_found": ["Sony H55", "DSC-H55"],
+    "battery_model": "NP-BG1",
+    "battery_brand": "Sony",
+    "chemistry": "lithium-ion",
+    "voltage": 3.6,
+    "capacity_mah": 960,
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "evidence_level": "verified_high",
+    "source_type": "official_manual",
+    "source_name": "Sony Asia DSC-H55 Official Specification Sheet",
+    "source_url": "https://www.sony-asia.com/corporate/resources/en_AP/pdf/Specification_Sheet_for_DSC-TX5_and_DSC-H55.pdf",
+    "source_text": "Sony official DSC-H55 specification sheet: Battery / AC adaptor - NP-BG1 3.6 V / AC-LS5 4.2 V.",
+    "cross_sources": [
+      {
+        "source_name": "Sony NP-BG1 Official Specifications",
+        "source_url": "https://www.sony-asia.com/electronics/support/camera-camcorder-accessories-batteries-chargers/np-bg1/specifications",
+        "source_text": "Sony NP-BG1 Specifications: DC 3.6 V, 960 mAh, 3.4 Wh."
+      }
+    ],
+    "decision": "promote_verified",
+    "notes": "Sony official specification sheet identifies NP-BG1 in the camera power field."
+  }
+]

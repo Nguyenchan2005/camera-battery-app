@@ -4901,20 +4901,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "kodak_easyshare_c613",
-    "display_name": "Kodak EasyShare C613",
-    "brand": "Kodak",
-    "series": "EasyShare C",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Kodak catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Kodak"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "kodak_easyshare_c653",
     "display_name": "Kodak EasyShare C653",
     "brand": "Kodak",
@@ -15857,20 +15843,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "samsung_wb1000",
-    "display_name": "Samsung WB1000",
-    "brand": "Samsung",
-    "series": "WB",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "samsung_wb2000",
     "display_name": "Samsung WB2000",
     "brand": "Samsung",
@@ -16223,20 +16195,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_h55",
-    "display_name": "Sony Cyber-shot DSC-H55",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-H",
-    "release_year": 2010,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_h7",
     "display_name": "Sony Cyber-shot DSC-H7",
     "brand": "Sony",
@@ -16251,39 +16209,11 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_h70",
-    "display_name": "Sony Cyber-shot DSC-H70",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-H",
-    "release_year": 2011,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_h9",
     "display_name": "Sony Cyber-shot DSC-H9",
     "brand": "Sony",
     "series": "Cyber-shot DSC-H",
     "release_year": 2007,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_h90",
-    "display_name": "Sony Cyber-shot DSC-H90",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-H",
-    "release_year": 2012,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Sony catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
@@ -16322,63 +16252,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_hx10v",
-    "display_name": "Sony Cyber-shot DSC-HX10V",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-HX",
-    "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_hx200v",
-    "display_name": "Sony Cyber-shot DSC-HX200V",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-HX",
-    "release_year": 2012,
-    "reason": "Battery source check failed: TimeoutError: The read operation timed out",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dschx-series/dsc-hx200v/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_hx20v",
-    "display_name": "Sony Cyber-shot DSC-HX20V",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-HX",
-    "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_hx30v",
-    "display_name": "Sony Cyber-shot DSC-HX30V",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-HX",
-    "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_hx5v",
     "display_name": "Sony Cyber-shot DSC-HX5V",
     "brand": "Sony",
@@ -16412,20 +16285,6 @@
     "brand": "Sony",
     "series": "Cyber-shot DSC-HX",
     "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_rx10",
-    "display_name": "Sony Cyber-shot DSC-RX10",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-RX10",
-    "release_year": 2013,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Sony catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
@@ -17013,21 +16872,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_w530",
-    "display_name": "Sony Cyber-shot DSC-W530",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": 2011,
-    "reason": "Battery source check failed: TimeoutError: The read operation timed out",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w530/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_w55",
     "display_name": "Sony Cyber-shot DSC-W55",
     "brand": "Sony",
@@ -17068,21 +16912,6 @@
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Sony",
       "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w560/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_w570",
-    "display_name": "Sony Cyber-shot DSC-W570",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": 2011,
-    "reason": "Battery source check failed: TimeoutError: The read operation timed out",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w570/specifications"
     ],
     "last_checked": "2026-05-24"
   },

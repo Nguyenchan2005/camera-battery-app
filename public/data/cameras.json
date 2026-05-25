@@ -7570,6 +7570,26 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "kodak_easyshare_c613",
+    "brand": "Kodak",
+    "series": "EasyShare C",
+    "model": "EasyShare C613",
+    "display_name": "Kodak EasyShare C613",
+    "aliases": [
+      "Kodak Easyshare C613"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare C613"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "kodak_easyshare_c643",
     "brand": "Kodak",
     "series": "EasyShare C",
@@ -10916,6 +10936,42 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "panasonic_lumix_dmc_zs50",
+    "brand": "Panasonic",
+    "series": "Lumix TZ/ZS",
+    "model": "DMC-ZS50",
+    "display_name": "Panasonic Lumix DMC-ZS50",
+    "aliases": [
+      "DMC-ZS50",
+      "DMC-TZ70",
+      "Panasonic Lumix DMC-TZ70",
+      "Lumix TZ70",
+      "Lumix ZS50"
+    ],
+    "regional_names": {
+      "us": [
+        "Panasonic Lumix DMC-ZS50",
+        "DMC-ZS50"
+      ],
+      "global": [
+        "Panasonic Lumix DMC-TZ70",
+        "DMC-TZ70"
+      ],
+      "research_aliases": [
+        "DMC-ZS50",
+        "DMC-TZ70",
+        "Panasonic Lumix DMC-TZ70",
+        "Lumix TZ70",
+        "Lumix ZS50"
+      ]
+    },
+    "release_year": 2015,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate and regional alias confirmed from Panasonic official DMC-ZS50 / DMC-TZ70 manual."
+  },
+  {
     "camera_id": "panasonic_lumix_dmc_zs60",
     "brand": "Panasonic",
     "series": "Lumix TZ/ZS",
@@ -11191,6 +11247,34 @@
     "notes": ""
   },
   {
+    "camera_id": "samsung_wb1000",
+    "brand": "Samsung",
+    "series": "WB",
+    "model": "WB1000",
+    "display_name": "Samsung WB1000",
+    "aliases": [
+      "WB1000",
+      "VLUU WB1000",
+      "Samsung TL320",
+      "TL320"
+    ],
+    "regional_names": {
+      "global": [
+        "Samsung WB1000"
+      ],
+      "research_aliases": [
+        "VLUU WB1000",
+        "Samsung TL320",
+        "TL320"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "samsung_wb2200f",
     "brand": "Samsung",
     "series": "WB",
@@ -11421,6 +11505,180 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "sony_cyber_shot_dsc_h55",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-H",
+    "model": "DSC-H55",
+    "display_name": "Sony Cyber-shot DSC-H55",
+    "aliases": [
+      "DSC-H55",
+      "Cyber-shot DSC-H55",
+      "Sony H55"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-H55"
+      ],
+      "sony_code": [
+        "DSC-H55"
+      ],
+      "research_aliases": [
+        "Sony H55",
+        "DSC-H55"
+      ]
+    },
+    "release_year": 2010,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_h70",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-H",
+    "model": "DSC-H70",
+    "display_name": "Sony Cyber-shot DSC-H70",
+    "aliases": [
+      "DSC-H70",
+      "Cyber-shot DSC-H70",
+      "Sony H70"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-H70"
+      ],
+      "sony_code": [
+        "DSC-H70"
+      ],
+      "research_aliases": [
+        "Sony H70",
+        "DSC-H70"
+      ]
+    },
+    "release_year": 2011,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_h90",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-H",
+    "model": "DSC-H90",
+    "display_name": "Sony Cyber-shot DSC-H90",
+    "aliases": [
+      "DSC-H90",
+      "Cyber-shot DSC-H90",
+      "Sony H90"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-H90"
+      ],
+      "sony_code": [
+        "DSC-H90"
+      ],
+      "research_aliases": [
+        "Sony H90",
+        "DSC-H90"
+      ]
+    },
+    "release_year": 2012,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx10v",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-HX",
+    "model": "DSC-HX10V",
+    "display_name": "Sony Cyber-shot DSC-HX10V",
+    "aliases": [
+      "DSC-HX10V",
+      "Cyber-shot DSC-HX10V",
+      "Sony HX10V"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-HX10V"
+      ],
+      "sony_code": [
+        "DSC-HX10V"
+      ],
+      "research_aliases": [
+        "Sony HX10V",
+        "DSC-HX10V"
+      ]
+    },
+    "release_year": 2012,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx200v",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-HX",
+    "model": "DSC-HX200V",
+    "display_name": "Sony Cyber-shot DSC-HX200V",
+    "aliases": [
+      "DSC-HX200V",
+      "Cyber-shot DSC-HX200V",
+      "Sony HX200V"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-HX200V"
+      ],
+      "sony_code": [
+        "DSC-HX200V"
+      ],
+      "research_aliases": [
+        "Sony HX200V",
+        "DSC-HX200V"
+      ]
+    },
+    "release_year": 2012,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx20v",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-HX",
+    "model": "DSC-HX20V",
+    "display_name": "Sony Cyber-shot DSC-HX20V",
+    "aliases": [
+      "DSC-HX20V",
+      "Cyber-shot DSC-HX20V",
+      "Sony HX20V"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-HX20V"
+      ],
+      "sony_code": [
+        "DSC-HX20V"
+      ],
+      "research_aliases": [
+        "Sony HX20V",
+        "DSC-HX20V"
+      ]
+    },
+    "release_year": 2012,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "sony_cyber_shot_dsc_hx300",
     "brand": "Sony",
     "series": "Cyber-shot DSC-HX",
@@ -11439,6 +11697,35 @@
       ]
     },
     "release_year": 2013,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_hx30v",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-HX",
+    "model": "DSC-HX30V",
+    "display_name": "Sony Cyber-shot DSC-HX30V",
+    "aliases": [
+      "DSC-HX30V",
+      "Cyber-shot DSC-HX30V",
+      "Sony HX30V"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-HX30V"
+      ],
+      "sony_code": [
+        "DSC-HX30V"
+      ],
+      "research_aliases": [
+        "Sony HX30V",
+        "DSC-HX30V"
+      ]
+    },
+    "release_year": 2012,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -11651,6 +11938,35 @@
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": ""
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_rx10",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-RX10",
+    "model": "DSC-RX10",
+    "display_name": "Sony Cyber-shot DSC-RX10",
+    "aliases": [
+      "DSC-RX10",
+      "Cyber-shot DSC-RX10",
+      "Sony RX10"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-RX10"
+      ],
+      "sony_code": [
+        "DSC-RX10"
+      ],
+      "research_aliases": [
+        "Sony RX10",
+        "DSC-RX10"
+      ]
+    },
+    "release_year": 2013,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "sony_cyber_shot_dsc_rx100",
@@ -12844,6 +13160,64 @@
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w530",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W530",
+    "display_name": "Sony Cyber-shot DSC-W530",
+    "aliases": [
+      "DSC-W530",
+      "Cyber-shot DSC-W530",
+      "Sony W530"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W530"
+      ],
+      "sony_code": [
+        "DSC-W530"
+      ],
+      "research_aliases": [
+        "Sony W530",
+        "DSC-W530"
+      ]
+    },
+    "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "sony_cyber_shot_dsc_w570",
+    "brand": "Sony",
+    "series": "Cyber-shot DSC-W",
+    "model": "DSC-W570",
+    "display_name": "Sony Cyber-shot DSC-W570",
+    "aliases": [
+      "DSC-W570",
+      "Cyber-shot DSC-W570",
+      "Sony W570"
+    ],
+    "regional_names": {
+      "global": [
+        "Sony Cyber-shot DSC-W570"
+      ],
+      "sony_code": [
+        "DSC-W570"
+      ],
+      "research_aliases": [
+        "Sony W570",
+        "DSC-W570"
+      ]
+    },
+    "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {

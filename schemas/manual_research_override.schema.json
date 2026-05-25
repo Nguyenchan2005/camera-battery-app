@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Manual Research Override Collection",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "camera_query",
+      "camera_id",
+      "battery_model",
+      "source_url",
+      "source_name",
+      "source_type",
+      "source_text",
+      "decision"
+    ],
+    "properties": {
+      "camera_query": { "type": "string", "minLength": 1 },
+      "camera_id": { "type": "string", "minLength": 1 },
+      "battery_model": { "type": "string", "minLength": 1 },
+      "chemistry": { "type": ["string", "null"] },
+      "voltage": { "type": ["number", "null"] },
+      "capacity_mah": { "type": ["integer", "null"], "minimum": 0 },
+      "source_url": { "type": "string", "format": "uri" },
+      "source_name": { "type": "string", "minLength": 1 },
+      "source_type": {
+        "enum": ["official_manual", "official_accessory_page", "trusted_database", "manual_mirror", "retailer", "third_party_chart", "unknown"]
+      },
+      "source_text": { "type": "string", "minLength": 1 },
+      "decision": { "enum": ["promote_verified", "add_suggestion", "unresolved"] },
+      "aliases": { "type": "array", "items": { "type": "string" } },
+      "notes": { "type": "string" }
+    }
+  }
+}

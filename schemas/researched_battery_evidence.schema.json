@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Researched Battery Evidence Collection",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "camera_id",
+      "display_name",
+      "brand",
+      "aliases_found",
+      "battery_model",
+      "battery_brand",
+      "evidence_level",
+      "source_type",
+      "source_name",
+      "source_url",
+      "source_text",
+      "cross_sources",
+      "decision",
+      "notes"
+    ],
+    "properties": {
+      "camera_id": { "type": "string", "minLength": 1 },
+      "display_name": { "type": "string", "minLength": 1 },
+      "brand": { "type": "string", "minLength": 1 },
+      "aliases_found": { "type": "array", "items": { "type": "string" } },
+      "battery_model": { "type": "string", "minLength": 1 },
+      "battery_brand": { "type": "string", "minLength": 1 },
+      "chemistry": { "type": ["string", "null"] },
+      "voltage": { "type": ["number", "null"] },
+      "capacity_mah": { "type": ["integer", "null"], "minimum": 0 },
+      "status": {
+        "enum": ["fully_compatible", "partially_compatible", "uses_aa", "uses_aaa", "built_in_battery"]
+      },
+      "quantity_required": { "type": ["integer", "null"], "minimum": 1 },
+      "evidence_level": {
+        "enum": ["verified_high", "verified_medium", "suggestion_medium", "suggestion_low", "unresolved"]
+      },
+      "source_type": {
+        "enum": ["official_manual", "official_accessory_page", "trusted_database", "manual_mirror", "retailer", "third_party_chart", "unknown"]
+      },
+      "source_name": { "type": "string", "minLength": 1 },
+      "source_url": { "type": "string", "format": "uri" },
+      "source_text": { "type": "string", "minLength": 1 },
+      "cross_sources": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["source_name", "source_url", "source_text"],
+          "properties": {
+            "source_name": { "type": "string", "minLength": 1 },
+            "source_url": { "type": "string", "format": "uri" },
+            "source_text": { "type": "string", "minLength": 1 }
+          }
+        }
+      },
+      "decision": { "enum": ["promote_verified", "add_suggestion", "unresolved"] },
+      "notes": { "type": "string" }
+    }
+  }
+}

@@ -725,6 +725,16 @@
     "notes": "Added by web-assisted verifier from an explicit source-backed battery mapping."
   },
   {
+    "battery_id": "panasonic_dmw_bcm13pp",
+    "brand": "Panasonic",
+    "model": "DMW-BCM13PP",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
     "battery_id": "panasonic_dmw_blc12",
     "brand": "Panasonic",
     "model": "DMW-BLC12",
@@ -837,6 +847,16 @@
     "notes": ""
   },
   {
+    "battery_id": "samsung_slb_11a",
+    "brand": "Samsung",
+    "model": "SLB-11A",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 3.8,
+    "capacity_mah": 1130,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
     "battery_id": "sigma_bp_31",
     "brand": "Sigma",
     "model": "BP-31",
@@ -882,8 +902,8 @@
     "model": "NP-BG1",
     "aliases": [],
     "chemistry": "lithium-ion",
-    "voltage": null,
-    "capacity_mah": null,
+    "voltage": 3.6,
+    "capacity_mah": 960,
     "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
   },
   {
@@ -935,6 +955,16 @@
     "voltage": null,
     "capacity_mah": null,
     "notes": "Added by popular compact verifier from explicit manual_battery_sources.json source text."
+  },
+  {
+    "battery_id": "sony_np_fh50",
+    "brand": "Sony",
+    "model": "NP-FH50",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
   },
   {
     "battery_id": "sony_np_fr1",

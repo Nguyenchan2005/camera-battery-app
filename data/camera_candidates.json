@@ -17918,13 +17918,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Kodak catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "kodak_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "kodak_easyshare_c643",
@@ -35931,17 +35931,14 @@
     "model": "DMC-TZ50",
     "display_name": "Panasonic Lumix DMC-TZ50",
     "aliases": [
-      "DMC-TZ50",
-      "DMC-ZS50"
+      "DMC-TZ50"
     ],
     "regional_names": {
       "global": [
-        "Panasonic Lumix DMC-TZ50",
-        "Panasonic Lumix DMC-ZS50"
+        "Panasonic Lumix DMC-TZ50"
       ],
       "regional_aliases": [
-        "DMC-TZ50",
-        "DMC-ZS50"
+        "DMC-TZ50"
       ]
     },
     "release_year": 2008,
@@ -36195,6 +36192,47 @@
     "candidate_source_type": "trusted_database",
     "candidate_batch": "panasonic_camera_wiki_catalog_phase2",
     "candidate_status": "unresolved"
+  },
+  {
+    "camera_id": "panasonic_lumix_dmc_zs50",
+    "brand": "Panasonic",
+    "series": "Lumix TZ/ZS",
+    "model": "DMC-ZS50",
+    "display_name": "Panasonic Lumix DMC-ZS50",
+    "aliases": [
+      "DMC-ZS50",
+      "DMC-TZ70",
+      "Panasonic Lumix DMC-TZ70",
+      "Lumix TZ70",
+      "Lumix ZS50"
+    ],
+    "regional_names": {
+      "us": [
+        "Panasonic Lumix DMC-ZS50",
+        "DMC-ZS50"
+      ],
+      "global": [
+        "Panasonic Lumix DMC-TZ70",
+        "DMC-TZ70"
+      ],
+      "research_aliases": [
+        "DMC-ZS50",
+        "DMC-TZ70",
+        "Panasonic Lumix DMC-TZ70",
+        "Lumix TZ70",
+        "Lumix ZS50"
+      ]
+    },
+    "release_year": 2015,
+    "category": "travel_zoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate and regional alias confirmed from Panasonic official DMC-ZS50 / DMC-TZ70 manual.",
+    "candidate_source_name": "Panasonic DMC-ZS50 / DMC-TZ70 Official Basic Owner's Manual",
+    "candidate_source_url": "https://help.panasonic.ca/viewing/ALL/DMC-ZS50PC/OI/sqt0613-eng/sqt0613-eng.pdf",
+    "candidate_source_type": "official_manual",
+    "candidate_batch": "llm_assisted_research_batch",
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "panasonic_lumix_dmc_zs100",
@@ -42693,23 +42731,31 @@
     "model": "WB1000",
     "display_name": "Samsung WB1000",
     "aliases": [
-      "WB1000"
+      "WB1000",
+      "VLUU WB1000",
+      "Samsung TL320",
+      "TL320"
     ],
     "regional_names": {
       "global": [
         "Samsung WB1000"
+      ],
+      "research_aliases": [
+        "VLUU WB1000",
+        "Samsung TL320",
+        "TL320"
       ]
     },
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Samsung catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "samsung_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "samsung_wb2000",
@@ -43637,7 +43683,8 @@
     "display_name": "Sony Cyber-shot DSC-H55",
     "aliases": [
       "DSC-H55",
-      "Cyber-shot DSC-H55"
+      "Cyber-shot DSC-H55",
+      "Sony H55"
     ],
     "regional_names": {
       "global": [
@@ -43645,18 +43692,22 @@
       ],
       "sony_code": [
         "DSC-H55"
+      ],
+      "research_aliases": [
+        "Sony H55",
+        "DSC-H55"
       ]
     },
     "release_year": 2010,
     "category": "bridge_superzoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Sony catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_h70",
@@ -43666,7 +43717,8 @@
     "display_name": "Sony Cyber-shot DSC-H70",
     "aliases": [
       "DSC-H70",
-      "Cyber-shot DSC-H70"
+      "Cyber-shot DSC-H70",
+      "Sony H70"
     ],
     "regional_names": {
       "global": [
@@ -43674,18 +43726,22 @@
       ],
       "sony_code": [
         "DSC-H70"
+      ],
+      "research_aliases": [
+        "Sony H70",
+        "DSC-H70"
       ]
     },
     "release_year": 2011,
     "category": "bridge_superzoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Sony catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_h90",
@@ -43695,7 +43751,8 @@
     "display_name": "Sony Cyber-shot DSC-H90",
     "aliases": [
       "DSC-H90",
-      "Cyber-shot DSC-H90"
+      "Cyber-shot DSC-H90",
+      "Sony H90"
     ],
     "regional_names": {
       "global": [
@@ -43703,18 +43760,22 @@
       ],
       "sony_code": [
         "DSC-H90"
+      ],
+      "research_aliases": [
+        "Sony H90",
+        "DSC-H90"
       ]
     },
     "release_year": 2012,
     "category": "bridge_superzoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Sony catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_h200",
@@ -43956,7 +44017,8 @@
     "display_name": "Sony Cyber-shot DSC-HX10V",
     "aliases": [
       "DSC-HX10V",
-      "Cyber-shot DSC-HX10V"
+      "Cyber-shot DSC-HX10V",
+      "Sony HX10V"
     ],
     "regional_names": {
       "global": [
@@ -43964,18 +44026,22 @@
       ],
       "sony_code": [
         "DSC-HX10V"
+      ],
+      "research_aliases": [
+        "Sony HX10V",
+        "DSC-HX10V"
       ]
     },
     "release_year": 2012,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Sony catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_hx200v",
@@ -43985,7 +44051,8 @@
     "display_name": "Sony Cyber-shot DSC-HX200V",
     "aliases": [
       "DSC-HX200V",
-      "Cyber-shot DSC-HX200V"
+      "Cyber-shot DSC-HX200V",
+      "Sony HX200V"
     ],
     "regional_names": {
       "global": [
@@ -43993,18 +44060,22 @@
       ],
       "sony_code": [
         "DSC-HX200V"
+      ],
+      "research_aliases": [
+        "Sony HX200V",
+        "DSC-HX200V"
       ]
     },
     "release_year": 2012,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Sony catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_hx20v",
@@ -44014,7 +44085,8 @@
     "display_name": "Sony Cyber-shot DSC-HX20V",
     "aliases": [
       "DSC-HX20V",
-      "Cyber-shot DSC-HX20V"
+      "Cyber-shot DSC-HX20V",
+      "Sony HX20V"
     ],
     "regional_names": {
       "global": [
@@ -44022,18 +44094,22 @@
       ],
       "sony_code": [
         "DSC-HX20V"
+      ],
+      "research_aliases": [
+        "Sony HX20V",
+        "DSC-HX20V"
       ]
     },
     "release_year": 2012,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Sony catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_hx30v",
@@ -44043,7 +44119,8 @@
     "display_name": "Sony Cyber-shot DSC-HX30V",
     "aliases": [
       "DSC-HX30V",
-      "Cyber-shot DSC-HX30V"
+      "Cyber-shot DSC-HX30V",
+      "Sony HX30V"
     ],
     "regional_names": {
       "global": [
@@ -44051,18 +44128,22 @@
       ],
       "sony_code": [
         "DSC-HX30V"
+      ],
+      "research_aliases": [
+        "Sony HX30V",
+        "DSC-HX30V"
       ]
     },
     "release_year": 2012,
     "category": "travel_zoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Sony catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_hx300",
@@ -44452,7 +44533,8 @@
     "display_name": "Sony Cyber-shot DSC-RX10",
     "aliases": [
       "DSC-RX10",
-      "Cyber-shot DSC-RX10"
+      "Cyber-shot DSC-RX10",
+      "Sony RX10"
     ],
     "regional_names": {
       "global": [
@@ -44460,18 +44542,22 @@
       ],
       "sony_code": [
         "DSC-RX10"
+      ],
+      "research_aliases": [
+        "Sony RX10",
+        "DSC-RX10"
       ]
     },
     "release_year": 2013,
     "category": "bridge_superzoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Sony catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_rx10_ii",
@@ -47214,7 +47300,8 @@
     "display_name": "Sony Cyber-shot DSC-W530",
     "aliases": [
       "DSC-W530",
-      "Cyber-shot DSC-W530"
+      "Cyber-shot DSC-W530",
+      "Sony W530"
     ],
     "regional_names": {
       "global": [
@@ -47222,18 +47309,22 @@
       ],
       "sony_code": [
         "DSC-W530"
+      ],
+      "research_aliases": [
+        "Sony W530",
+        "DSC-W530"
       ]
     },
     "release_year": 2011,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Sony catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_w560",
@@ -47272,7 +47363,8 @@
     "display_name": "Sony Cyber-shot DSC-W570",
     "aliases": [
       "DSC-W570",
-      "Cyber-shot DSC-W570"
+      "Cyber-shot DSC-W570",
+      "Sony W570"
     ],
     "regional_names": {
       "global": [
@@ -47280,18 +47372,22 @@
       ],
       "sony_code": [
         "DSC-W570"
+      ],
+      "research_aliases": [
+        "Sony W570",
+        "DSC-W570"
       ]
     },
     "release_year": 2011,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Sony catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "sony_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sony_cyber_shot_dsc_w610",

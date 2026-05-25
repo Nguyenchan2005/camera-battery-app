@@ -216,18 +216,18 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 | Sony Cyber-shot DSC-H3 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
 | Sony Cyber-shot DSC-H5 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
 | Sony Cyber-shot DSC-H50 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H55 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
 | Sony Cyber-shot DSC-H7 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H70 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
 | Sony Cyber-shot DSC-H9 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H90 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
 | Sony Cyber-shot DSC-HX1 | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony_Cybershot_DSC-HX1 | Camera existence confirmed, battery not yet source-verified |
 | Sony Cyber-shot DSC-HX100V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-HX10V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-HX200V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-HX20V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-HX30V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
 | Sony Cyber-shot DSC-HX5V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-HX7V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-HX9V | Cyber-shot DSC-HX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-RX10 II | Cyber-shot DSC-RX10 | https://camera-wiki.org/wiki/Sony | Checked source but no explicit battery/power mapping was extracted. |
+| Sony Cyber-shot DSC-T11 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-T110 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-T2 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-T20 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
 
 ## HP
 

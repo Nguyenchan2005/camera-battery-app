@@ -21,6 +21,7 @@ import type {
 type SearchIndexItem = {
   type: SearchEntityType;
   id: string;
+  brand: string;
   label: string;
   subtitle: string;
   terms: string[];
@@ -913,6 +914,7 @@ function makeCameraSearchItem(
   return {
     type,
     id: camera.camera_id,
+    brand: canonicalBrand(camera.brand),
     label: camera.display_name,
     subtitle: `${camera.brand} · ${camera.series}${camera.release_year ? ` · ${camera.release_year}` : ""}`,
     terms,
@@ -929,6 +931,7 @@ function makeBatterySearchItem(battery: Battery): SearchIndexItem {
   return {
     type: "battery",
     id: battery.battery_id,
+    brand: canonicalBrand(battery.brand),
     label: battery.model,
     subtitle: `${battery.brand}${battery.chemistry ? ` · ${battery.chemistry}` : ""}`,
     terms,
@@ -1026,6 +1029,38 @@ function reasonFromFuseResult(result: { matches?: readonly { key?: string }[] })
   return "fuzzy match";
 }
 
+function canonicalBrand(value: string): string {
+  const normalized = normalizeText(value).toLowerCase();
+  if (/\b(?:fuji|fujifilm)\b/.test(normalized)) return "fujifilm";
+  if (/\bkonica\s+minolta\b/.test(normalized)) return "konica minolta";
+  if (/\bom\s+system\b/.test(normalized)) return "om system";
+  return normalized;
+}
+
+function requestedBrandFromQuery(query: string): string | null {
+  const normalized = normalizeText(query).toLowerCase();
+  const namedBrands: Array<[RegExp, string]> = [
+    [/\bkonica\s+minolta\b/, "konica minolta"],
+    [/\bom\s+system\b/, "om system"],
+    [/\b(?:fuji|fujifilm)\b/, "fujifilm"],
+    [/\bpanasonic\b/, "panasonic"],
+    [/\bsamsung\b/, "samsung"],
+    [/\bsony\b/, "sony"],
+    [/\bnikon\b/, "nikon"],
+    [/\bolympus\b/, "olympus"],
+    [/\bcasio\b/, "casio"],
+    [/\bkodak\b/, "kodak"],
+    [/\bpentax\b/, "pentax"],
+    [/\bricoh\b/, "ricoh"],
+    [/\bleica\b/, "leica"],
+    [/\bsigma\b/, "sigma"],
+    [/\bminolta\b/, "minolta"],
+    [/\bcanon\b/, "canon"],
+    [/\bhp\b/, "hp"],
+  ];
+  return namedBrands.find(([pattern]) => pattern.test(normalized))?.[1] ?? null;
+}
+
 function runSearch(fuse: Fuse<SearchIndexItem>, items: SearchIndexItem[], query: string, limit: number): SearchMatch[] {
   const cleaned = cleanQuery(query);
   if (!cleaned || compactToken(cleaned).length < 2) {
@@ -1047,6 +1082,8 @@ function runSearch(fuse: Fuse<SearchIndexItem>, items: SearchIndexItem[], query:
   });
 
   const byKey = new Map<string, SearchMatch>();
+  const itemBrands = new Map(items.map((item) => [`${item.type}:${item.id}`, item.brand]));
+  const requestedBrand = requestedBrandFromQuery(cleaned);
   for (const match of [...exactMatches, ...containsMatches, ...fuzzyMatches]) {
     const key = `${match.type}:${match.id}`;
     const previous = byKey.get(key);
@@ -1056,6 +1093,10 @@ function runSearch(fuse: Fuse<SearchIndexItem>, items: SearchIndexItem[], query:
   }
 
   return [...byKey.values()]
-    .sort((a, b) => Number(b.exact) - Number(a.exact) || a.score - b.score || a.label.localeCompare(b.label))
+    .sort((a, b) => {
+      const aBrandMatch = requestedBrand && itemBrands.get(`${a.type}:${a.id}`) === requestedBrand ? 1 : 0;
+      const bBrandMatch = requestedBrand && itemBrands.get(`${b.type}:${b.id}`) === requestedBrand ? 1 : 0;
+      return bBrandMatch - aBrandMatch || Number(b.exact) - Number(a.exact) || a.score - b.score || a.label.localeCompare(b.label);
+    })
     .slice(0, limit);
 }

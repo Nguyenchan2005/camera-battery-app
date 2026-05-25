@@ -7947,6 +7947,15 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "kodak_dpreview_kodak_easyshare_c613_specifications_https_www_dpreview_com_products_kodak_compacts_kodak_c613_specificati",
+    "source_name": "DPReview Kodak EasyShare C613 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_c613/specifications",
+    "source_type": "trusted_database",
+    "publisher": "Kodak",
+    "last_verified": "2026-05-25",
+    "notes": "Battery description: AA (2) batteries (NiMH recommended)."
+  },
+  {
     "source_id": "kodak_kodak_easyshare_c195_extended_user_guide_https_resources_kodak_com_support_pdf_en_manuals_urg01134_c195_xug_glb_en",
     "source_name": "Kodak EasyShare C195 extended user guide",
     "source_url": "https://resources.kodak.com/support/pdf/en/manuals/urg01134/C195_xUG_GLB_en.pdf",
@@ -7954,6 +7963,15 @@
     "publisher": "Kodak",
     "last_verified": "2026-05-24",
     "notes": "Backfilled source registry entry from an existing compatibility row."
+  },
+  {
+    "source_id": "kodak_kodak_easyshare_c613_user_manual_text_mirror_https_www_manualslib_com_manual_89231_kodak_easyshare_c613_html",
+    "source_name": "Kodak EasyShare C613 User Manual text mirror",
+    "source_url": "https://www.manualslib.com/manual/89231/Kodak-Easyshare-C613.html",
+    "source_type": "manual_mirror",
+    "publisher": "Kodak",
+    "last_verified": "2026-05-25",
+    "notes": "Kodak EasyShare C613 User Manual: Power - (2) Kodak oxy-alkaline digital camera batteries AA; (2) Kodak Ni-MH rechargeable digital camera batteries AA; Kodak Ni-MH rechargeable digital camera battery KAA2HR."
   },
   {
     "source_id": "kodak_kodak_easyshare_c643_c603_official_user_guide_https_resources_kodak_com_support_pdf_en_manuals_urg00531_c643_c603",
@@ -9180,6 +9198,15 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "panasonic_dpreview_panasonic_dmc_zs50_dmc_tz70_specifications_https_www_dpreview_com_products_panasonic_compacts_panason",
+    "source_name": "DPReview Panasonic DMC-ZS50 (DMC-TZ70) specifications",
+    "source_url": "https://www.dpreview.com/products/panasonic/compacts/panasonic_dmczs50/specifications",
+    "source_type": "trusted_database",
+    "publisher": "Panasonic",
+    "last_verified": "2026-05-25",
+    "notes": "Panasonic Lumix DMC-ZS50 (Lumix DMC-TZ70) confirms the regional model pair."
+  },
+  {
     "source_id": "panasonic_panasonic_battery_charging_support_article_https_help_na_panasonic_com_answers_how_to_charge_the_battery_on_a",
     "source_name": "Panasonic battery charging support article",
     "source_url": "https://help.na.panasonic.com/answers/how-to-charge-the-battery-on-a-lumix-camera",
@@ -9223,6 +9250,15 @@
     "publisher": "Panasonic",
     "last_verified": "2026-05-25",
     "notes": "Official operating instructions for DMC-LX7: Battery Pack DMW-BCJ13PP."
+  },
+  {
+    "source_id": "panasonic_panasonic_dmc_zs50_dmc_tz70_official_basic_owner_s_manual_https_help_panasonic_ca_viewing_all_dmc_zs50pc_oi_sq",
+    "source_name": "Panasonic DMC-ZS50 / DMC-TZ70 Official Basic Owner's Manual",
+    "source_url": "https://help.panasonic.ca/viewing/ALL/DMC-ZS50PC/OI/sqt0613-eng/sqt0613-eng.pdf",
+    "source_type": "official_manual",
+    "publisher": "Panasonic",
+    "last_verified": "2026-05-25",
+    "notes": "Panasonic DMC-ZS50 / DMC-TZ70 Basic Owner's Manual: The battery that can be used with this unit is DMW-BCM13PP."
   },
   {
     "source_id": "panasonic_panasonic_dmw_blg10_accessory_page_https_shop_panasonic_com_products_rechargable_lithium_ion_battery_dmw_blg10",
@@ -9369,6 +9405,15 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "samsung_dpreview_samsung_tl320_wb1000_specifications_https_www_dpreview_com_products_samsung_compacts_samsung_tl320_spec",
+    "source_name": "DPReview Samsung TL320 (WB1000) specifications",
+    "source_url": "https://www.dpreview.com/products/samsung/compacts/samsung_tl320/specifications",
+    "source_type": "trusted_database",
+    "publisher": "Samsung",
+    "last_verified": "2026-05-25",
+    "notes": "Samsung TL320 (WB1000) identifies TL320 as the regional equivalent name."
+  },
+  {
     "source_id": "samsung_dpreview_samsung_wb2200f_specifications_https_www_dpreview_com_products_samsung_compacts_samsung_wb2200f_specifi",
     "source_name": "DPReview Samsung WB2200F specifications",
     "source_url": "https://www.dpreview.com/products/samsung/compacts/samsung_wb2200f/specifications",
@@ -9387,6 +9432,15 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "samsung_samsung_official_wb1000_support_page_https_www_samsung_com_ee_support_model_ec_wb1000bpbru",
+    "source_name": "Samsung official WB1000 support page",
+    "source_url": "https://www.samsung.com/ee/support/model/EC-WB1000BPBRU/",
+    "source_type": "trusted_database",
+    "publisher": "Samsung",
+    "last_verified": "2026-05-25",
+    "notes": "Samsung support provides the WB1000_English.pdf user manual for Samsung WB1000."
+  },
+  {
     "source_id": "samsung_samsung_pl120_user_manual_mirror_https_www_manualslib_com_manual_144210_samsung_pl120_html_page_117",
     "source_name": "Samsung PL120 user manual mirror",
     "source_url": "https://www.manualslib.com/manual/144210/Samsung-Pl120.html?page=117",
@@ -9403,6 +9457,15 @@
     "publisher": "Samsung",
     "last_verified": "2026-05-24",
     "notes": "Backfilled source registry entry from an existing compatibility row."
+  },
+  {
+    "source_id": "samsung_samsung_wb1000_user_manual_text_mirror_https_manualzz_com_doc_49237037_samsung_wb1000_user_manual",
+    "source_name": "Samsung WB1000 User Manual text mirror",
+    "source_url": "https://manualzz.com/doc/49237037/samsung-wb1000-user-manual",
+    "source_type": "manual_mirror",
+    "publisher": "Samsung",
+    "last_verified": "2026-05-25",
+    "notes": "Samsung WB1000 User Manual: Power source - Rechargeable battery: Lithium-ion battery (SLB-11A, 1,130 mAh). Battery specifications: Mode SLB-11A, Type Lithium-ion battery, Cell capacity 1,130 mAh, Voltage 3.8 V."
   },
   {
     "source_id": "sigma_sigma_bp_41_accessory_page_https_www_sigmaphoto_com_li_ion_battery_bp_41_for_dp_merrill_cameras",
@@ -9504,6 +9567,24 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "sony_sony_asia_dsc_h55_official_specification_sheet_https_www_sony_asia_com_corporate_resources_en_ap_pdf_specification",
+    "source_name": "Sony Asia DSC-H55 Official Specification Sheet",
+    "source_url": "https://www.sony-asia.com/corporate/resources/en_AP/pdf/Specification_Sheet_for_DSC-TX5_and_DSC-H55.pdf",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony official DSC-H55 specification sheet: Battery / AC adaptor - NP-BG1 3.6 V / AC-LS5 4.2 V."
+  },
+  {
+    "source_id": "sony_sony_asia_dsc_h70_official_specification_sheet_https_www_sony_asia_com_corporate_resources_en_ap_pdf_specsheet_ces2",
+    "source_name": "Sony Asia DSC-H70 Official Specification Sheet",
+    "source_url": "https://www.sony-asia.com/corporate/resources/en_AP/pdf/specsheet_CES2011Cyber-shot_CCD.pdf",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony official specification sheet: DSC-H70 supplied accessories include Rechargeable Battery Pack NP-BG1."
+  },
+  {
     "source_id": "sony_sony_asia_dsc_t10_specifications_https_www_sony_asia_com_electronics_support_compact_cameras_dsc_t_series_dsc_t10_s",
     "source_name": "Sony Asia DSC-T10 specifications",
     "source_url": "https://www.sony-asia.com/electronics/support/compact-cameras-dsc-t-series/dsc-t10/specifications",
@@ -9522,6 +9603,42 @@
     "notes": "Battery compatibility table: DSC-T3 compatible with NP-FT1; NP-FR1 not compatible; NP-FD1 not compatible."
   },
   {
+    "source_id": "sony_sony_dsc_h90_official_specifications_https_www_sony_es_electronics_support_compact_cameras_dsc_h_series_dsc_h90_spe",
+    "source_name": "Sony DSC-H90 Official Specifications",
+    "source_url": "https://www.sony.es/electronics/support/compact-cameras-dsc-h-series/dsc-h90/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-H90 official specifications: Supplied battery NP-BG1."
+  },
+  {
+    "source_id": "sony_sony_dsc_hx10v_official_specifications_https_www_sony_asia_com_electronics_support_compact_cameras_dsc_hx_series_ds",
+    "source_name": "Sony DSC-HX10V Official Specifications",
+    "source_url": "https://www.sony-asia.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx10v/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-HX10V official specifications: Rechargeable Battery Pack NP-BG1."
+  },
+  {
+    "source_id": "sony_sony_dsc_hx200v_official_specifications_https_www_sony_fr_electronics_support_compact_cameras_dsc_hx_series_dsc_hx2",
+    "source_name": "Sony DSC-HX200V Official Specifications",
+    "source_url": "https://www.sony.fr/electronics/support/compact-cameras-dsc-hx-series/dsc-hx200v/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-HX200V official specifications: Supplied rechargeable battery NP-FH50."
+  },
+  {
+    "source_id": "sony_sony_dsc_hx20v_official_firmware_preparation_page_https_www_sony_asia_com_electronics_support_compact_cameras_dsc_h",
+    "source_name": "Sony DSC-HX20V Official Firmware Preparation Page",
+    "source_url": "https://www.sony-asia.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx20v/downloads/Y0014762",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony firmware instructions for DSC-HX20V: Things to be prepared - Fully charged rechargeable battery pack NP-BG1 (supplied)."
+  },
+  {
     "source_id": "sony_sony_dsc_hx300_official_specifications_https_www_sony_com_electronics_support_compact_cameras_dsc_hx_series_dsc_hx3",
     "source_name": "Sony DSC-HX300 Official Specifications",
     "source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx300/specifications",
@@ -9529,6 +9646,15 @@
     "publisher": "Sony",
     "last_verified": "2026-05-25",
     "notes": "Sony official specifications for DSC-HX300: Supplied Battery - Rechargeable Battery Pack NP-BX1."
+  },
+  {
+    "source_id": "sony_sony_dsc_hx30v_official_specifications_https_www_sony_asia_com_electronics_support_compact_cameras_dsc_hx_series_ds",
+    "source_name": "Sony DSC-HX30V Official Specifications",
+    "source_url": "https://www.sony-asia.com/electronics/support/compact-cameras-dsc-hx-series/dsc-hx30v/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-HX30V Specifications: Rechargeable Battery Pack NP-BG1."
   },
   {
     "source_id": "sony_sony_dsc_hx50v_official_specifications_https_www_sony_com_electronics_support_compact_cameras_dsc_hx_series_dsc_hx5",
@@ -9565,6 +9691,15 @@
     "publisher": "Sony",
     "last_verified": "2026-05-25",
     "notes": "Sony official specifications for DSC-HX95: Supplied Battery - Rechargeable Battery Pack NP-BX1."
+  },
+  {
+    "source_id": "sony_sony_dsc_rx10_official_specifications_https_www_sony_com_electronics_support_compact_cameras_dsc_rx_series_dsc_rx10",
+    "source_name": "Sony DSC-RX10 Official Specifications",
+    "source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-rx-series/dsc-rx10/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-RX10 Specifications: Supplied Battery - Rechargeable Battery Pack NP-FW50."
   },
   {
     "source_id": "sony_sony_dsc_t7_read_this_first_manual_https_www_sony_jp_cyber_shot_emdown_data_t7_first_pdf",
@@ -9765,6 +9900,24 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "sony_sony_japan_dsc_w530_official_specifications_https_www_sony_jp_cyber_shot_products_archive_dsc_w530_spec_html",
+    "source_name": "Sony Japan DSC-W530 Official Specifications",
+    "source_url": "https://www.sony.jp/cyber-shot/products/archive/DSC-W530/spec.html",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-W530 official specifications: Battery system NP-BN1; supplied accessory Rechargeable Battery Pack NP-BN1."
+  },
+  {
+    "source_id": "sony_sony_japan_dsc_w570_official_specifications_https_www_sony_jp_cyber_shot_products_archive_dsc_w570_spec_html",
+    "source_name": "Sony Japan DSC-W570 Official Specifications",
+    "source_url": "https://www.sony.jp/cyber-shot/products/archive/DSC-W570/spec.html",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-W570 official specifications: Battery system NP-BN1; supplied accessory Rechargeable Battery Pack NP-BN1."
+  },
+  {
     "source_id": "sony_sony_japan_zv_1_ii_specifications_https_www_sony_jp_vlogcam_products_zv_1m2_spec",
     "source_name": "Sony Japan ZV-1 II specifications",
     "source_url": "https://www.sony.jp/vlogcam/products/ZV-1M2/spec/",
@@ -9781,6 +9934,15 @@
     "publisher": "Sony",
     "last_verified": "2026-05-24",
     "notes": "Backfilled source registry entry from an existing compatibility row."
+  },
+  {
+    "source_id": "sony_sony_np_bg1_official_specifications_https_www_sony_asia_com_electronics_support_camera_camcorder_accessories_batter",
+    "source_name": "Sony NP-BG1 Official Specifications",
+    "source_url": "https://www.sony-asia.com/electronics/support/camera-camcorder-accessories-batteries-chargers/np-bg1/specifications",
+    "source_type": "trusted_database",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony NP-BG1 Specifications: DC 3.6 V, 960 mAh, 3.4 Wh."
   },
   {
     "source_id": "sony_sony_np_bn1_official_compatibility_information_https_electronics_sony_com_imaging_imaging_accessories_imaging_compa",

@@ -29,6 +29,12 @@ Files:
   cameras; these rows are not verified compatibility mappings.
 - `data/web_assisted_battery_evidence.json` - reviewed web evidence input for
   official/manual promotions and clearly separated suggestions.
+- `data/researched_battery_evidence.json` - per-model manual research evidence
+  recorded after source review, with aliases, battery fields, short source text,
+  decision, and supporting links.
+- `data/manual_research_overrides.json` - optional user-provided reviewed
+  evidence accepted only when camera, battery, source URL, and source text are
+  supplied.
 - `schemas/*.schema.json` - machine-readable JSON schemas.
 - `scripts/import_all_remaining.py` - source-backed master importer for
   non-Canon brands. It can be rerun and rolls back a single failed brand
@@ -45,6 +51,11 @@ Files:
 - `scripts/web_assisted_battery_verifier.py` - Phase Data 6 verifier with
   `--dry-run` and `--apply`; official/manual evidence may promote mappings,
   while retailer evidence can only create an unverified suggestion.
+- `scripts/llm_assisted_research_batch.py` - Phase Data 7 queue/report/apply
+  workflow for manually researched per-model evidence; the agent researches
+  sources, while the script only validates and applies recorded evidence.
+- `scripts/research_one_camera.py` - prints reviewed evidence and a proposed
+  database change for one named camera or alias.
 - `scripts/verifiers/verify_*.py` - brand-specific Phase 3 battery verifiers.
 - `scripts/validate_and_export.py` - validates JSON, writes CSV, and builds the
   coverage reports.
@@ -81,12 +92,20 @@ py -3 scripts\import_all_remaining.py
 py -3 scripts\verify_unresolved_batteries.py
 py -3 scripts\web_assisted_battery_verifier.py --dry-run
 py -3 scripts\web_assisted_battery_verifier.py --apply
+py -3 scripts\llm_assisted_research_batch.py --limit 50 --dry-run
+py -3 scripts\llm_assisted_research_batch.py --limit 50 --apply
+py -3 scripts\research_one_camera.py "Samsung WB1000"
 py -3 scripts\validate_and_export.py
 ```
 
 The current data is source-backed and has a broad candidate catalog, but battery
 coverage is intentionally conservative. A camera stays unresolved until a source
 explicitly confirms its battery or power source.
+
+Phase Data 7 does not allow the app or a script to infer batteries. Manual
+research is written to `data/researched_battery_evidence.json`, and promotion is
+allowed only when its recorded source URL and evidence text meet the high/medium
+source policy. Weak findings remain in `battery_suggestions.json`.
 
 ## Web App MVP
 

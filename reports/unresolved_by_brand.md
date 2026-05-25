@@ -4,15 +4,15 @@ Generated: 2026-05-25
 
 | Brand | Unresolved models |
 | --- | ---: |
-| Kodak | 171 |
+| Kodak | 170 |
 | Casio | 153 |
 | Olympus | 127 |
 | Panasonic | 117 |
-| Samsung | 113 |
+| Samsung | 112 |
 | Fujifilm | 96 |
 | Nikon | 93 |
 | Pentax | 84 |
-| Sony | 82 |
+| Sony | 72 |
 | HP | 66 |
 | Ricoh | 52 |
 | Leica | 26 |
@@ -391,7 +391,6 @@ Generated: 2026-05-25
 - Kodak EasyShare C513 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C530 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C533 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
-- Kodak EasyShare C613 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C653 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C663 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C703 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
@@ -1194,7 +1193,6 @@ Generated: 2026-05-25
 - Samsung ST90 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST93 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST95 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
-- Samsung WB1000 (WB): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung WB2000 (WB): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung WB210 (WB): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung WB550 (WB): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
@@ -1226,21 +1224,13 @@ Generated: 2026-05-25
 - Sony Cyber-shot DSC-H3 (Cyber-shot DSC-H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-H5 (Cyber-shot DSC-H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-H50 (Cyber-shot DSC-H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-H55 (Cyber-shot DSC-H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-H7 (Cyber-shot DSC-H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-H70 (Cyber-shot DSC-H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-H9 (Cyber-shot DSC-H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-H90 (Cyber-shot DSC-H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-HX1 (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony_Cybershot_DSC-HX1
 - Sony Cyber-shot DSC-HX100V (Cyber-shot DSC-HX): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-HX10V (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-HX200V (Cyber-shot DSC-HX): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-HX20V (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-HX30V (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-HX5V (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-HX7V (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-HX9V (Cyber-shot DSC-HX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-RX10 (Cyber-shot DSC-RX10): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-RX10 II (Cyber-shot DSC-RX10): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-T11 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-T110 (Cyber-shot DSC-T): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
@@ -1281,11 +1271,9 @@ Generated: 2026-05-25
 - Sony Cyber-shot DSC-W50 (Cyber-shot DSC-W): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W510 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W520 (Cyber-shot DSC-W): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-W530 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W55 (Cyber-shot DSC-W): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W550 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W560 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-W570 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W580 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W7 (Cyber-shot DSC-W): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W70 (Cyber-shot DSC-W): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
