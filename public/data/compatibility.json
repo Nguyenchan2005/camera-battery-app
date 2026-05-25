@@ -4620,6 +4620,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "casio_exilim_ex_fh25",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Casio Exilim EX-FH25: Battery description: 4 x AA batteries (NiMH, alkaline battery).",
+    "source_name": "DPReview Casio Exilim EX-FH25 specifications",
+    "source_url": "https://www.dpreview.com/products/casio/compacts/casio_exfh25/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "casio_exilim_ex_fs10",
     "battery_id": "casio_np_60",
     "status": "fully_compatible",
@@ -4668,6 +4680,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "casio_exilim_ex_h20g",
+    "battery_id": "casio_np_90",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Casio Exilim EX-H20G: Battery description: Lithium-Ion NP-90 battery and charger.",
+    "source_name": "DPReview Casio Exilim EX-H20G specifications",
+    "source_url": "https://www.dpreview.com/products/casio/compacts/casio_exh20g/specification",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "casio_exilim_ex_h30",
     "battery_id": "casio_np_130a",
     "status": "fully_compatible",
@@ -4700,6 +4724,18 @@
     "source_name": "Casio EX-H50 User Manual mirror",
     "source_url": "https://safe-manuals.com/user-manual/casio/ex-h50",
     "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_p700",
+    "battery_id": "casio_np_40",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview review for Casio Exilim EX-P700: The battery used is the NP-40 Lithium-Ion rechargeable, 1230 mAh at 3.7 V.",
+    "source_name": "DPReview Casio EXILIM Pro EX-P700 review",
+    "source_url": "https://www.dpreview.com/reviews/casioexp700/3",
+    "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-25"
   },
@@ -4760,6 +4796,18 @@
     "source_name": "Casio EX-Z1080 User Manual mirror",
     "source_url": "https://safe-manuals.com/user-manual/casio/ex-z1080",
     "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "casio_exilim_ex_z120",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Casio Exilim EX-Z120: Battery description: AA (2) batteries (NiMH included).",
+    "source_name": "DPReview Casio Exilim EX-Z120 specifications",
+    "source_url": "https://www.dpreview.com/products/casio/compacts/casio_exz120/specifications",
+    "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-25"
   },
@@ -5760,6 +5808,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "fujifilm_finepix_hs10",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix HS10 (FinePix HS11): Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix HS10 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_hs10/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "fujifilm_finepix_hs30exr",
     "battery_id": "fujifilm_np_w126",
     "status": "fully_compatible",
@@ -5781,6 +5841,18 @@
     "source_url": "https://www.fujifilm-x.com/global/products/accessories/np-w126s/",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_hs35exr",
+    "battery_id": "fujifilm_np_w126",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Fujifilm FinePix HS35EXR: Battery description: Li-ion NP-W126 battery and charger.",
+    "source_name": "DPReview Fujifilm FinePix HS35EXR specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_hs35exr/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -6324,6 +6396,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "fujifilm_finepix_real_3d_w1",
+    "battery_id": "fujifilm_np_95",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Fujifilm FinePix Real 3D W1: Battery description: Lithium-ion NP-95 rechargeable battery and charger.",
+    "source_name": "DPReview Fujifilm FinePix Real 3D W1 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_w1/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "fujifilm_finepix_real_3d_w3",
     "battery_id": "fujifilm_np_50",
     "status": "fully_compatible",
@@ -6334,6 +6418,30 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s1",
+    "battery_id": "fujifilm_np_85",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Fujifilm FinePix S1: Battery description: NP-85 lithium-ion battery and charger.",
+    "source_name": "DPReview Fujifilm FinePix S1 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s1/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s1000fd",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S1000fd: Battery description: AA (4) batteries (NiMH recommended).",
+    "source_name": "DPReview Fujifilm FinePix S1000fd specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs1000fd/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "fujifilm_finepix_s100fs",
@@ -6372,6 +6480,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "fujifilm_finepix_s1800",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S1800 (FinePix S1880): Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S1800 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s1800/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "fujifilm_finepix_s200exr",
     "battery_id": "fujifilm_np_140",
     "status": "fully_compatible",
@@ -6381,6 +6501,30 @@
     "source_url": "https://www.fujifilm-x.com/en-us/support/compatibility/accessories/np-140/",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s2800hd",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S2800HD (FinePix S2900HD): Battery description: 4 x AA batteries.",
+    "source_name": "DPReview Fujifilm FinePix S2800HD specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s2800hd/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s2950",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S2950 (FinePix S2990): Battery: AA; Battery description: 4 x Alkaline batteries.",
+    "source_name": "DPReview Fujifilm FinePix S2950 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_s2950/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -6655,6 +6799,30 @@
     "note": "DPReview specifications for Fujifilm FinePix S8600: Battery description: 3 x AA batteries.",
     "source_name": "DPReview Fujifilm FinePix S8600 specifications",
     "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs8600/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s9000",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Fujifilm FinePix S9000 Zoom (FinePix S9500): Battery description: AA NiMH (4) batteries included.",
+    "source_name": "DPReview Fujifilm FinePix S9000/S9500 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs9000z/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "fujifilm_finepix_s9500",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for FinePix S9500 (Fujifilm FinePix S9000 Zoom): Battery description: AA NiMH (4) batteries included.",
+    "source_name": "DPReview Fujifilm FinePix S9000/S9500 specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fuji_finepixs9000z/specifications",
     "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-25"
@@ -7572,6 +7740,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "fujifilm_finepix_z900exr",
+    "battery_id": "fujifilm_np_45a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Fujifilm FinePix Z900EXR: Battery description: Lithium-ion NP-45A battery and charger.",
+    "source_name": "DPReview Fujifilm FinePix Z900EXR specifications",
+    "source_url": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_z900exr/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "fujifilm_finepix_z909exr",
     "battery_id": "fujifilm_np_45s",
     "status": "fully_compatible",
@@ -7956,6 +8136,30 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "hp_photosmart_620",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for HP PhotoSmart 620: Battery description: AA (4) batteries (NiMH recommended).",
+    "source_name": "DPReview HP PhotoSmart 620 specifications",
+    "source_url": "https://www.dpreview.com/products/hp/compacts/hp_620/specification",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "hp_photosmart_850",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for HP PhotoSmart 850: Battery description: AA (4) batteries (NiMH recommended).",
+    "source_name": "DPReview HP PhotoSmart 850 specifications",
+    "source_url": "https://www.dpreview.com/products/hp/compacts/hp_850/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "hp_photosmart_945",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -7966,6 +8170,18 @@
     "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "hp_photosmart_m425",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for HP PhotoSmart M425: Battery description: AA (2) batteries (NiMH recommended).",
+    "source_name": "DPReview HP PhotoSmart M425 specifications",
+    "source_url": "https://www.dpreview.com/products/hp/compacts/hp_m425/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "kodak_easyshare_c142",
@@ -8892,6 +9108,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "kodak_easyshare_z981",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 4,
+    "note": "DPReview specifications for Kodak EasyShare Z981: Battery description: AA (4) batteries (NiMH rechargeable batteries).",
+    "source_name": "DPReview Kodak EasyShare Z981 specifications",
+    "source_url": "https://www.dpreview.com/products/kodak/compacts/kodak_z981/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "kodak_pixpro_az528",
     "battery_id": "kodak_lb_060",
     "status": "fully_compatible",
@@ -9022,6 +9250,18 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "leica_v_lux_3",
+    "battery_id": "leica_bp_dc9",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Leica V-Lux 3: Battery description: Lithium-Ion BP-DC 9 rechargeable battery and charger.",
+    "source_name": "DPReview Leica V-Lux 3 specifications",
+    "source_url": "https://www.dpreview.com/products/leica/compacts/leica_vlux3/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "leica_v_lux_5",
@@ -9286,6 +9526,18 @@
     "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "nikon_coolpix_775",
+    "battery_id": "nikon_en_el1",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Nikon COOLPIX 775: Battery description: Nikon EN-EL1 Lithium-Ion and charger included.",
+    "source_name": "DPReview Nikon COOLPIX 775 specifications",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cp775/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "nikon_coolpix_8700",
@@ -10188,6 +10440,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "nikon_coolpix_p530",
+    "battery_id": "nikon_en_el5",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Nikon COOLPIX P530: Battery description: Lithium-ion EN-EL5.",
+    "source_name": "DPReview Nikon COOLPIX P530 specifications",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp530/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "nikon_coolpix_p60",
     "battery_id": "generic_aa",
     "status": "uses_aa",
@@ -10282,6 +10546,30 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "nikon_coolpix_p80",
+    "battery_id": "nikon_en_el5",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Nikon COOLPIX P80: Battery description: Nikon EN-EL5 Lithium-Ion and charger.",
+    "source_name": "DPReview Nikon COOLPIX P80 specifications",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp80/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "nikon_coolpix_p90",
+    "battery_id": "nikon_en_el5",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Nikon COOLPIX P90: Battery description: Nikon EN-EL5 Lithium-Ion and charger.",
+    "source_name": "DPReview Nikon COOLPIX P90 specifications",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cpp90/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "nikon_coolpix_p900",
@@ -10389,6 +10677,18 @@
     "source_url": "https://www.nikonusa.com/en/nikon-products/product-archive/compact-digital-cameras/coolpix-s210.html",
     "source_type": "official_manual",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "nikon_coolpix_s220",
+    "battery_id": "nikon_en_el10",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Nikon COOLPIX S220: Battery description: Nikon EN-EL10 Lithium-ion battery and charger.",
+    "source_name": "DPReview Nikon COOLPIX S220 specifications",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cps220/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -10704,6 +11004,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "nikon_coolpix_s60",
+    "battery_id": "nikon_en_el10",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Nikon COOLPIX S60: Battery description: Nikon EN-EL10 Lithium-Ion and charger.",
+    "source_name": "DPReview Nikon COOLPIX S60 specifications",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cps60/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "nikon_coolpix_s600",
     "battery_id": "nikon_en_el10",
     "status": "fully_compatible",
@@ -10857,6 +11169,18 @@
     "source_url": "https://www.nikonusa.com/p/en-el12-rechargeable-li-ion-battery/25780/overview",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "nikon_coolpix_s700",
+    "battery_id": "nikon_en_el10",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Nikon COOLPIX S700: Battery description: Lithium-Ion EN-EL10 and charger.",
+    "source_name": "DPReview Nikon COOLPIX S700 specifications",
+    "source_url": "https://www.dpreview.com/products/nikon/compacts/nikon_cps700/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -13128,6 +13452,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "olympus_fe_340",
+    "battery_id": "olympus_li_42b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Olympus FE-340 (C-560): Battery description: Lithium-Ion LI-42B and charger.",
+    "source_name": "DPReview Olympus FE-340 (C-560) specifications",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_fe340/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "olympus_fe_350",
     "battery_id": "olympus_li_40b",
     "status": "fully_compatible",
@@ -14553,6 +14889,18 @@
     "source_url": "https://support.jp.omsystem.com/jp/support/cs/DI/AccM/DI000409J.html",
     "source_type": "official_accessory_page",
     "confidence": "high",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "olympus_vg_160",
+    "battery_id": "olympus_li_70b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Olympus VG-160: Battery description: Lithium-ion rechargeable LI-70B battery and charger.",
+    "source_name": "DPReview Olympus VG-160 specifications",
+    "source_url": "https://www.dpreview.com/products/olympus/compacts/oly_vg160/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
     "last_verified": "2026-05-25"
   },
   {
@@ -16620,6 +16968,54 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "pentax_optio_e70",
+    "battery_id": "generic_aa",
+    "status": "uses_aa",
+    "quantity_required": 2,
+    "note": "DPReview specifications for Pentax Optio E70: Battery description: 2 x AA alkaline, lithium or NiMH batteries.",
+    "source_name": "DPReview Pentax Optio E70 specifications",
+    "source_url": "https://www.dpreview.com/products/pentax/compacts/pentax_optioe70/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "pentax_optio_i_10",
+    "battery_id": "pentax_d_li92",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Pentax Optio I-10: Battery description: Lithium-Ion D-LI92 rechargeable battery and charger.",
+    "source_name": "DPReview Pentax Optio I-10 specifications",
+    "source_url": "https://www.dpreview.com/products/pentax/compacts/pentax_optioi10/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "pentax_optio_m50",
+    "battery_id": "pentax_d_li78",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Pentax Optio M50: Battery description: Lithium-Ion D-LI78 and charger.",
+    "source_name": "DPReview Pentax Optio M50 specifications",
+    "source_url": "https://www.dpreview.com/products/pentax/compacts/pentax_optiom50/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "pentax_optio_w60",
+    "battery_id": "pentax_d_li78",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Pentax Optio W60: Battery description: Lithium-Ion D-LI78 and charger.",
+    "source_name": "DPReview Pentax Optio W60 specifications",
+    "source_url": "https://www.dpreview.com/products/pentax/compacts/pentax_optiow60/specification",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "pentax_wg_90",
     "battery_id": "pentax_d_li92",
     "status": "fully_compatible",
@@ -16836,6 +17232,18 @@
     "last_verified": "2026-05-24"
   },
   {
+    "camera_id": "samsung_pl150",
+    "battery_id": "samsung_slb_07b",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Samsung TL210 (Samsung PL150): Battery description: Lithium-Ion SLB-07B rechargeable battery and charger.",
+    "source_name": "DPReview Samsung TL210 (PL150) specifications",
+    "source_url": "https://www.dpreview.com/products/samsung/compacts/samsung_tl210/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "samsung_pl170",
     "battery_id": "samsung_bp70a",
     "status": "fully_compatible",
@@ -16867,6 +17275,18 @@
     "note": "Samsung PL200 specifications. Power source: Rechargeable battery: BP70A, 740mAh.",
     "source_name": "Samsung PL200 Manual (ManualsLib mirror)",
     "source_url": "https://www.manualslib.com/manual/261687/Samsung-Pl200.html?page=93",
+    "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "samsung_pl210",
+    "battery_id": "samsung_bp85a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "Samsung PL210 User Manual: Battery specifications: Model BP85A; Type Lithium-ion battery; 850 mAh; 3.7 V.",
+    "source_name": "ManualsLib Samsung PL210 User Manual",
+    "source_url": "https://www.manualslib.com/manual/267829/Samsung-Samsung-Pl210.html?page=96",
     "source_type": "manual_mirror",
     "confidence": "medium",
     "last_verified": "2026-05-25"
@@ -16920,6 +17340,18 @@
     "last_verified": "2026-05-25"
   },
   {
+    "camera_id": "samsung_st500",
+    "battery_id": "samsung_slb_07a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Samsung TL220 (Samsung ST500): Battery description: Lithium-Ion SLB-07A rechargeable battery and charger.",
+    "source_name": "DPReview Samsung TL220 (ST500) specifications",
+    "source_url": "https://www.dpreview.com/products/samsung/compacts/samsung_st500/specifications",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
     "camera_id": "samsung_st5000",
     "battery_id": "samsung_slb_11a",
     "status": "fully_compatible",
@@ -16928,6 +17360,18 @@
     "source_name": "Samsung ST5000 User Manual mirror",
     "source_url": "https://safe-manuals.com/user-manual/samsung/st5000",
     "source_type": "manual_mirror",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
+  },
+  {
+    "camera_id": "samsung_st550",
+    "battery_id": "samsung_slb_07a",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview specifications for Samsung TL225 (Samsung ST550): Battery description: Lithium-Ion SLB-07A rechargeable battery and charger.",
+    "source_name": "DPReview Samsung TL225 (ST550) specifications",
+    "source_url": "https://www.dpreview.com/products/samsung/compacts/samsung_st550/specifications",
+    "source_type": "trusted_database",
     "confidence": "medium",
     "last_verified": "2026-05-25"
   },
@@ -17170,6 +17614,18 @@
     "source_type": "official_manual",
     "confidence": "high",
     "last_verified": "2026-05-24"
+  },
+  {
+    "camera_id": "sigma_dp2",
+    "battery_id": "sigma_bp_31",
+    "status": "fully_compatible",
+    "quantity_required": 1,
+    "note": "DPReview Sigma DP2 review, Supplied In the Box: Sigma DP2 camera body; Li-ion battery BP31.",
+    "source_name": "DPReview Sigma DP2 review",
+    "source_url": "https://www.dpreview.com/reviews/sigmadp2/3",
+    "source_type": "trusted_database",
+    "confidence": "medium",
+    "last_verified": "2026-05-25"
   },
   {
     "camera_id": "sigma_dp2_merrill",

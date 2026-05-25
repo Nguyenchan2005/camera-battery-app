@@ -305,8 +305,8 @@
     "model": "NP-40",
     "aliases": [],
     "chemistry": "lithium-ion",
-    "voltage": null,
-    "capacity_mah": null,
+    "voltage": 3.7,
+    "capacity_mah": 1230,
     "notes": "Added from reviewed Phase 10 targeted manual evidence."
   },
   {
@@ -438,6 +438,16 @@
     "voltage": null,
     "capacity_mah": null,
     "notes": "Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "fujifilm_np_85",
+    "brand": "Fujifilm",
+    "model": "NP-85",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
   },
   {
     "battery_id": "fujifilm_np_95",
@@ -643,6 +653,16 @@
     "voltage": 7.2,
     "capacity_mah": 1025,
     "notes": "B&H retailer source lists 7.2 V / 1025 mAh."
+  },
+  {
+    "battery_id": "leica_bp_dc9",
+    "brand": "Leica",
+    "model": "BP-DC9",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
   },
   {
     "battery_id": "leica_bp_scl4",
@@ -1215,6 +1235,16 @@
     "notes": "Added from an official bulk compatibility extraction."
   },
   {
+    "battery_id": "pentax_d_li78",
+    "brand": "Pentax",
+    "model": "D-LI78",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
     "battery_id": "pentax_d_li92",
     "brand": "Pentax",
     "model": "D-LI92",
@@ -1267,6 +1297,16 @@
     "notes": "Samsung manual sources list 700 mAh or min 700 mAh depending model."
   },
   {
+    "battery_id": "samsung_bp85a",
+    "brand": "Samsung",
+    "model": "BP85A",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 3.7,
+    "capacity_mah": 850,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
     "battery_id": "samsung_bp88a",
     "brand": "Samsung",
     "model": "BP88A",
@@ -1297,6 +1337,26 @@
     "voltage": null,
     "capacity_mah": 760,
     "notes": "Added from reviewed direct-agent research evidence."
+  },
+  {
+    "battery_id": "samsung_slb_07a",
+    "brand": "Samsung",
+    "model": "SLB-07A",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
+    "battery_id": "samsung_slb_07b",
+    "brand": "Samsung",
+    "model": "SLB-07B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
   },
   {
     "battery_id": "samsung_slb_10a",

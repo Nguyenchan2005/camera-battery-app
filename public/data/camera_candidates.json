@@ -7000,13 +7000,13 @@
     "release_year": 2009,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Casio catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "casio_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "casio_exilim_ex_fh100",
@@ -7125,13 +7125,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Casio catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "casio_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "casio_exilim_ex_h30",
@@ -7631,13 +7631,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Casio catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "casio_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "casio_exilim_ex_s1",
@@ -8481,13 +8481,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Casio catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "casio_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "casio_exilim_ex_z1200",
@@ -12793,23 +12793,27 @@
     "model": "FinePix HS10",
     "display_name": "Fujifilm FinePix HS10",
     "aliases": [
-      "FUJIFILM FinePix HS10"
+      "FUJIFILM FinePix HS10",
+      "FinePix HS11"
     ],
     "regional_names": {
       "global": [
         "Fujifilm FinePix HS10"
+      ],
+      "research_aliases": [
+        "FinePix HS11"
       ]
     },
     "release_year": null,
     "category": "bridge_superzoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Fujifilm FinePix HS10",
     "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_HS10",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_hs30exr",
@@ -12853,13 +12857,13 @@
     "release_year": null,
     "category": "bridge_superzoom",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_hs50exr",
@@ -13403,13 +13407,13 @@
     "release_year": null,
     "category": "3d_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_real_3d_w3",
@@ -13464,23 +13468,27 @@
     "model": "FinePix S2800HD",
     "display_name": "Fujifilm FinePix S2800HD",
     "aliases": [
-      "FUJIFILM FinePix S2800HD"
+      "FUJIFILM FinePix S2800HD",
+      "FinePix S2900HD"
     ],
     "regional_names": {
       "global": [
         "Fujifilm FinePix S2800HD"
+      ],
+      "research_aliases": [
+        "FinePix S2900HD"
       ]
     },
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_s2950",
@@ -13489,23 +13497,27 @@
     "model": "FinePix S2950",
     "display_name": "Fujifilm FinePix S2950",
     "aliases": [
-      "FUJIFILM FinePix S2950"
+      "FUJIFILM FinePix S2950",
+      "FinePix S2990"
     ],
     "regional_names": {
       "global": [
         "Fujifilm FinePix S2950"
+      ],
+      "research_aliases": [
+        "FinePix S2990"
       ]
     },
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_s3000",
@@ -14014,23 +14026,27 @@
     "model": "FinePix S9000",
     "display_name": "Fujifilm FinePix S9000",
     "aliases": [
-      "FUJIFILM FinePix S9000"
+      "FUJIFILM FinePix S9000",
+      "Fujifilm FinePix S9000 Zoom"
     ],
     "regional_names": {
       "global": [
         "Fujifilm FinePix S9000"
+      ],
+      "research_aliases": [
+        "Fujifilm FinePix S9000 Zoom"
       ]
     },
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Fujifilm FinePix S9000",
     "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_S9000/S9500",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_s9500",
@@ -14049,13 +14065,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Fujifilm FinePix S9500",
     "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_S9000/S9500",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_s9600",
@@ -14249,13 +14265,13 @@
     "release_year": 2008,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_s100fs",
@@ -14389,23 +14405,27 @@
     "model": "FinePix S1800",
     "display_name": "Fujifilm FinePix S1800",
     "aliases": [
-      "FUJIFILM FinePix S1800"
+      "FUJIFILM FinePix S1800",
+      "FinePix S1880"
     ],
     "regional_names": {
       "global": [
         "Fujifilm FinePix S1800"
+      ],
+      "research_aliases": [
+        "FinePix S1880"
       ]
     },
     "release_year": 2010,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_s4800",
@@ -14499,13 +14519,13 @@
     "release_year": 2014,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_s8600",
@@ -15820,13 +15840,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "fujifilm_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "fujifilm_finepix_z909exr",
@@ -16770,13 +16790,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki HP PhotoSmart 620",
     "candidate_source_url": "https://camera-wiki.org/wiki/HP_PhotoSmart_620",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "minor_brands_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "hp_photosmart_635",
@@ -16920,13 +16940,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki HP PhotoSmart 850",
     "candidate_source_url": "https://camera-wiki.org/wiki/HP_PhotoSmart_850",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "minor_brands_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "hp_photosmart_935",
@@ -17445,13 +17465,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki HP PhotoSmart M425",
     "candidate_source_url": "https://camera-wiki.org/wiki/Hewlett-Packard",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "minor_brands_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "hp_photosmart_m437",
@@ -22466,13 +22486,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Kodak catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "kodak_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "kodak_easyshare_z990",
@@ -23490,13 +23510,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Leica/Sigma compact catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Leica",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "leica_sigma_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "leica_v_lux_30",
@@ -24856,13 +24876,13 @@
     "release_year": 2001,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_7600",
@@ -26832,13 +26852,13 @@
     "release_year": 2008,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_p90",
@@ -26858,13 +26878,13 @@
     "release_year": 2009,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_p300",
@@ -27139,13 +27159,13 @@
     "release_year": 2014,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_p600",
@@ -27815,13 +27835,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_s8",
@@ -27966,13 +27986,13 @@
     "release_year": 2008,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_s610",
@@ -28044,13 +28064,13 @@
     "release_year": 2009,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "nikon_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "nikon_coolpix_s230",
@@ -31832,7 +31852,8 @@
     "model": "FE-340",
     "display_name": "Olympus FE-340",
     "aliases": [
-      "Olympus FE-340"
+      "Olympus FE-340",
+      "Olympus C-560"
     ],
     "regional_names": {
       "global": [
@@ -31840,18 +31861,21 @@
       ],
       "regional_aliases": [
         "Olympus FE-340"
+      ],
+      "research_aliases": [
+        "Olympus C-560"
       ]
     },
     "release_year": 2008,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Olympus catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_fe_350",
@@ -34033,13 +34057,13 @@
     "release_year": 2012,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Olympus catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "olympus_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "olympus_vh_510",
@@ -40410,13 +40434,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Pentax Optio E70",
     "candidate_source_url": "https://camera-wiki.org/wiki/Pentax",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "ricoh_pentax_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "pentax_optio_e70l",
@@ -40585,13 +40609,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Pentax Optio I-10",
     "candidate_source_url": "https://camera-wiki.org/wiki/Pentax_Optio_I-10",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "ricoh_pentax_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "pentax_optio_m10",
@@ -40710,13 +40734,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Pentax Optio M50",
     "candidate_source_url": "https://camera-wiki.org/wiki/Pentax",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "ricoh_pentax_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "pentax_optio_m60",
@@ -41685,13 +41709,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Pentax Optio W60",
     "candidate_source_url": "https://camera-wiki.org/wiki/Pentax_Optio_W60",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "ricoh_pentax_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "pentax_optio_w80",
@@ -45474,23 +45498,29 @@
     "model": "PL150",
     "display_name": "Samsung PL150",
     "aliases": [
-      "PL150"
+      "PL150",
+      "Samsung TL210",
+      "TL210"
     ],
     "regional_names": {
       "global": [
         "Samsung PL150"
+      ],
+      "research_aliases": [
+        "Samsung TL210",
+        "TL210"
       ]
     },
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Samsung catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "samsung_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "samsung_pl170",
@@ -45584,13 +45614,13 @@
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Samsung catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "samsung_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "samsung_pl90",
@@ -45693,23 +45723,29 @@
     "model": "ST500",
     "display_name": "Samsung ST500",
     "aliases": [
-      "ST500"
+      "ST500",
+      "Samsung TL220",
+      "TL220"
     ],
     "regional_names": {
       "global": [
         "Samsung ST500"
+      ],
+      "research_aliases": [
+        "Samsung TL220",
+        "TL220"
       ]
     },
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Samsung catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "samsung_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "samsung_st5000",
@@ -45743,23 +45779,29 @@
     "model": "ST550",
     "display_name": "Samsung ST550",
     "aliases": [
-      "ST550"
+      "ST550",
+      "Samsung TL225",
+      "TL225"
     ],
     "regional_names": {
       "global": [
         "Samsung ST550"
+      ],
+      "research_aliases": [
+        "Samsung TL225",
+        "TL225"
       ]
     },
     "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Samsung catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "samsung_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "samsung_st5500",
@@ -46402,13 +46444,13 @@
     "release_year": null,
     "category": "large_sensor_compact",
     "lens_type": "fixed_lens",
-    "battery_system": "unknown",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred.",
     "candidate_source_name": "Camera-wiki Sigma DP2",
     "candidate_source_url": "https://camera-wiki.org/wiki/Sigma_DP2",
     "candidate_source_type": "trusted_database",
     "candidate_batch": "leica_sigma_camera_wiki_catalog_phase2",
-    "candidate_status": "unresolved"
+    "candidate_status": "verified_battery"
   },
   {
     "camera_id": "sigma_dp2s",

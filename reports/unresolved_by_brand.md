@@ -4,20 +4,20 @@ Generated: 2026-05-25
 
 | Brand | Unresolved models |
 | --- | ---: |
-| Casio | 120 |
-| Kodak | 99 |
-| Samsung | 90 |
-| Pentax | 84 |
-| HP | 66 |
+| Casio | 116 |
+| Kodak | 98 |
+| Samsung | 86 |
+| Pentax | 80 |
+| HP | 63 |
 | Ricoh | 46 |
-| Fujifilm | 42 |
-| Nikon | 35 |
-| Olympus | 30 |
-| Leica | 26 |
+| Fujifilm | 31 |
+| Nikon | 28 |
+| Olympus | 28 |
+| Leica | 25 |
 | Panasonic | 24 |
 | Minolta | 16 |
 | Konica Minolta | 11 |
-| Sigma | 9 |
+| Sigma | 8 |
 | Sony | 8 |
 | AgfaPhoto | 1 |
 | GE | 1 |
@@ -31,8 +31,6 @@ Generated: 2026-05-25
 ### Casio
 
 - Casio Exilim EX-FH15 (Exilim F): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
-- Casio Exilim EX-FH25 (Exilim F): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
-- Casio Exilim EX-H20G (Exilim H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-H60 (Exilim H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-J10 (Exilim J): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-M1 (Exilim M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
@@ -46,7 +44,6 @@ Generated: 2026-05-25
 - Casio Exilim EX-N50 (Exilim N): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-P505 (Exilim P): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-P600 (Exilim P): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
-- Casio Exilim EX-P700 (Exilim P): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-S1 (Exilim S): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-S10 (Exilim S): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-S100 (Exilim S): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
@@ -75,7 +72,6 @@ Generated: 2026-05-25
 - Casio Exilim EX-V7 (Exilim V): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-V8 (Exilim V): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-Z110 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
-- Casio Exilim EX-Z120 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-Z16 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-Z19 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-Z2 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
@@ -155,8 +151,6 @@ Generated: 2026-05-25
 
 - Fujifilm FinePix F401 (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_F401
 - Fujifilm FinePix F601 Zoom (FinePix F): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix HS10 (FinePix HS): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_HS10
-- Fujifilm FinePix HS35EXR (FinePix HS): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix J150w (FinePix J): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix J20fd (FinePix J): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix J210 (FinePix J): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
@@ -164,23 +158,15 @@ Generated: 2026-05-25
 - Fujifilm FinePix J40 (FinePix J): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix JX280 (FinePix JX): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_JX280
 - Fujifilm FinePix JZ200 (FinePix JZ): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Real 3D W1 (FinePix REAL 3D): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix S1 (FinePix S): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix S1000fd (FinePix S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix S1800 (FinePix S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S20 (FinePix S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S2000HD (FinePix S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S2500HD (FinePix S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix S2800HD (FinePix S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix S2950 (FinePix S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S600 (FinePix S): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S602 Zoom (FinePix S): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_S602_Zoom
 - Fujifilm FinePix S700 (FinePix S): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S800 (FinePix S): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fuji_Finepix_S800/S5800
-- Fujifilm FinePix S9000 (FinePix S): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_S9000/S9500
 - Fujifilm FinePix S9200 (FinePix S): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix S9400W (FinePix S): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix S9500 (FinePix S): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_S9000/S9500
 - Fujifilm FinePix S9800 (FinePix S): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix SL1000 (FinePix SL): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix SL240 (FinePix SL): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
@@ -192,7 +178,6 @@ Generated: 2026-05-25
 - Fujifilm FinePix Z5fd (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix Z700 EXR (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_FinePix_Z700_EXR
 - Fujifilm FinePix Z800EXR (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
-- Fujifilm FinePix Z900EXR (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm FinePix Z91 (FinePix Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 - Fujifilm X100T (X100): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Fujifilm_digital_cameras
 
@@ -213,13 +198,11 @@ Generated: 2026-05-25
 - HP PhotoSmart 435 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Hewlett-Packard
 - HP PhotoSmart 612 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Hewlett-Packard
 - HP PhotoSmart 618 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Hewlett-Packard
-- HP PhotoSmart 620 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/HP_PhotoSmart_620
 - HP PhotoSmart 635 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Hewlett-Packard
 - HP PhotoSmart 715 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Hewlett-Packard
 - HP PhotoSmart 720 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Hewlett-Packard
 - HP PhotoSmart 735 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/HP_PhotoSmart_735
 - HP PhotoSmart 812 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Hewlett-Packard
-- HP PhotoSmart 850 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/HP_PhotoSmart_850
 - HP PhotoSmart 935 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/HP_PhotoSmart_935
 - HP PhotoSmart A444 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Hewlett-Packard
 - HP PhotoSmart C20 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Hewlett-Packard
@@ -240,7 +223,6 @@ Generated: 2026-05-25
 - HP PhotoSmart M307 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Hewlett-Packard
 - HP PhotoSmart M407 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Hewlett-Packard
 - HP PhotoSmart M417 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/HP_PhotoSmart_M417
-- HP PhotoSmart M425 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Hewlett-Packard
 - HP PhotoSmart M437 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Hewlett-Packard
 - HP PhotoSmart M447 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Hewlett-Packard
 - HP PhotoSmart M517 (PhotoSmart): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Hewlett-Packard
@@ -366,7 +348,6 @@ Generated: 2026-05-25
 - Kodak EasyShare Z885 (EasyShare Z): Direct research attempted; source found but no explicit battery text was extracted. Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare Z915 (EasyShare Z): Direct research attempted; source found but no explicit battery text was extracted. Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare Z980 (EasyShare Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
-- Kodak EasyShare Z981 (EasyShare Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare Z990 (EasyShare Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare ZD15 (EasyShare ZD): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare ZD710 (EasyShare ZD): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
@@ -404,7 +385,6 @@ Generated: 2026-05-25
 - Leica V-Lux 1 (V-Lux): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Leica
 - Leica V-Lux 2 (V-Lux): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Leica
 - Leica V-Lux 20 (V-Lux): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Leica
-- Leica V-Lux 3 (V-Lux): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Leica
 - Leica V-Lux 30 (V-Lux): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Leica
 - Leica V-Lux 4 (V-Lux): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Leica
 - Leica V-Lux 40 (V-Lux): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Leica
@@ -446,7 +426,6 @@ Generated: 2026-05-25
 - Nikon COOLPIX 4800 (COOLPIX 4): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX 5900 (COOLPIX 5): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_5900
 - Nikon COOLPIX 7600 (COOLPIX 7): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX 775 (COOLPIX 7): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX 7900 (COOLPIX 7): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_7900
 - Nikon COOLPIX 800 (COOLPIX 8): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Nikon_Coolpix_800
 - Nikon COOLPIX 8400 (COOLPIX 8): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
@@ -455,19 +434,13 @@ Generated: 2026-05-25
 - Nikon COOLPIX 910 (COOLPIX 9): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX P3 (COOLPIX P): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_P3_%26_P4
 - Nikon COOLPIX P50 (COOLPIX P): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX P530 (COOLPIX P): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX P80 (COOLPIX P): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX P90 (COOLPIX P): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S2 (COOLPIX S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_S2
-- Nikon COOLPIX S220 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S3 (COOLPIX S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_S3
 - Nikon COOLPIX S4 (COOLPIX S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_S4
 - Nikon COOLPIX S5300 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S560 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX S60 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S660 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S7 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX S700 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S8 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S9 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 
@@ -490,7 +463,6 @@ Generated: 2026-05-25
 - Olympus FE-20 (FE series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus FE-25 (FE series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus FE-26 (FE series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
-- Olympus FE-340 (FE series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus FE-35 (FE series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus FE-40 (FE series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus FE-4040 (FE series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus_FE-4040
@@ -499,7 +471,6 @@ Generated: 2026-05-25
 - Olympus SZ-12 (SZ series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus Stylus 400 (Stylus/mju Digital): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus_Stylus_%C2%B5_digital_cameras
 - Olympus Stylus 500 (Stylus/mju Digital): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus_Stylus_%C2%B5_digital_cameras
-- Olympus VG-160 (VG series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus VR-3040 (VR series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus VR-330 (VR series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
 - Olympus VR-340 (VR series): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Olympus
@@ -557,19 +528,16 @@ Generated: 2026-05-25
 - Pentax Optio E50 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
 - Pentax Optio E60 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
 - Pentax Optio E65 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
-- Pentax Optio E70 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
 - Pentax Optio E70L (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
 - Pentax Optio E75 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
 - Pentax Optio E80 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
 - Pentax Optio E85 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
 - Pentax Optio E90 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
 - Pentax Optio H90 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax_Optio_H90
-- Pentax Optio I-10 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax_Optio_I-10
 - Pentax Optio M10 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
 - Pentax Optio M20 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
 - Pentax Optio M30 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
 - Pentax Optio M40 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
-- Pentax Optio M50 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
 - Pentax Optio M60 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
 - Pentax Optio M85 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
 - Pentax Optio M90 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
@@ -608,7 +576,6 @@ Generated: 2026-05-25
 - Pentax Optio W10 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
 - Pentax Optio W20 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
 - Pentax Optio W30 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
-- Pentax Optio W60 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax_Optio_W60
 - Pentax Optio W80 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax_Optio_W80
 - Pentax Optio W90 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax_Optio_W90
 - Pentax Optio WG-1 (Optio): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Pentax
@@ -750,10 +717,6 @@ Generated: 2026-05-25
 - Samsung NV7 (NV): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung_NV7_OPS
 - Samsung NV8 (NV): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung NV9 (NV): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
-- Samsung PL150 (PL): Direct research attempted; charger/general battery language does not verify a battery model. Source: https://camera-wiki.org/wiki/Samsung
-- Samsung PL210 (PL): Direct research attempted; ambiguous accessory listing is not promoted. Source: https://camera-wiki.org/wiki/Samsung
-- Samsung ST500 (ST): Direct research attempted; rechargeable battery without model is insufficient. Source: https://camera-wiki.org/wiki/Samsung
-- Samsung ST550 (ST): Direct research attempted; rechargeable battery without model is insufficient. Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST6500 (ST): Direct research attempted; rechargeable battery without model is insufficient. Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST700 (ST): Direct research attempted; rechargeable battery without model is insufficient. Source: https://camera-wiki.org/wiki/Samsung
 - Samsung WB210 (WB): Direct research attempted; accessory listing is not accepted as primary battery evidence. Source: https://camera-wiki.org/wiki/Samsung
@@ -766,7 +729,6 @@ Generated: 2026-05-25
 - Sigma DP1 (DP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sigma_DP1
 - Sigma DP1m (DP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sigma
 - Sigma DP1s (DP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sigma_DP1
-- Sigma DP2 (DP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sigma_DP2
 - Sigma DP2m (DP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sigma
 - Sigma DP2s (DP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sigma_DP2
 - Sigma DP2x (DP): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sigma_DP2

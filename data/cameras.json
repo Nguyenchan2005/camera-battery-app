@@ -5716,6 +5716,26 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "casio_exilim_ex_fh25",
+    "brand": "Casio",
+    "series": "Exilim F",
+    "model": "Exilim EX-FH25",
+    "display_name": "Casio Exilim EX-FH25",
+    "aliases": [
+      "Exilim EX-FH25"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-FH25"
+      ]
+    },
+    "release_year": 2009,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "casio_exilim_ex_fs10",
     "brand": "Casio",
     "series": "Exilim F",
@@ -5796,6 +5816,26 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "casio_exilim_ex_h20g",
+    "brand": "Casio",
+    "series": "Exilim H",
+    "model": "Exilim EX-H20G",
+    "display_name": "Casio Exilim EX-H20G",
+    "aliases": [
+      "Exilim EX-H20G"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-H20G"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "casio_exilim_ex_h30",
     "brand": "Casio",
     "series": "Exilim H",
@@ -5847,6 +5887,26 @@
     "regional_names": {
       "global": [
         "Casio Exilim EX-H50"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "casio_exilim_ex_p700",
+    "brand": "Casio",
+    "series": "Exilim P",
+    "model": "Exilim EX-P700",
+    "display_name": "Casio Exilim EX-P700",
+    "aliases": [
+      "Exilim EX-P700"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-P700"
       ]
     },
     "release_year": null,
@@ -5953,6 +6013,26 @@
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "casio_exilim_ex_z120",
+    "brand": "Casio",
+    "series": "Exilim Z",
+    "model": "Exilim EX-Z120",
+    "display_name": "Casio Exilim EX-Z120",
+    "aliases": [
+      "Exilim EX-Z120"
+    ],
+    "regional_names": {
+      "global": [
+        "Casio Exilim EX-Z120"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
@@ -7528,6 +7608,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "fujifilm_finepix_hs10",
+    "brand": "Fujifilm",
+    "series": "FinePix HS",
+    "model": "FinePix HS10",
+    "display_name": "Fujifilm FinePix HS10",
+    "aliases": [
+      "FUJIFILM FinePix HS10",
+      "FinePix HS11"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix HS10"
+      ],
+      "research_aliases": [
+        "FinePix HS11"
+      ]
+    },
+    "release_year": null,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "fujifilm_finepix_hs30exr",
     "brand": "Fujifilm",
     "series": "FinePix HS",
@@ -7539,6 +7643,26 @@
     "regional_names": {
       "global": [
         "Fujifilm FinePix HS30EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "bridge_superzoom",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_hs35exr",
+    "brand": "Fujifilm",
+    "series": "FinePix HS",
+    "model": "FinePix HS35EXR",
+    "display_name": "Fujifilm FinePix HS35EXR",
+    "aliases": [
+      "FUJIFILM FinePix HS35EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix HS35EXR"
       ]
     },
     "release_year": null,
@@ -8134,6 +8258,26 @@
     "notes": "Added from an official manufacturer battery compatibility table for a recognized fixed-lens compact family; release year remains unverified."
   },
   {
+    "camera_id": "fujifilm_finepix_real_3d_w1",
+    "brand": "Fujifilm",
+    "series": "FinePix REAL 3D",
+    "model": "FinePix Real 3D W1",
+    "display_name": "Fujifilm FinePix Real 3D W1",
+    "aliases": [
+      "FUJIFILM FinePix Real 3D W1"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Real 3D W1"
+      ]
+    },
+    "release_year": null,
+    "category": "3d_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "fujifilm_finepix_real_3d_w3",
     "brand": "Fujifilm",
     "series": "FinePix REAL 3D",
@@ -8148,6 +8292,46 @@
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": ""
+  },
+  {
+    "camera_id": "fujifilm_finepix_s1",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S1",
+    "display_name": "Fujifilm FinePix S1",
+    "aliases": [
+      "FUJIFILM FinePix S1"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S1"
+      ]
+    },
+    "release_year": 2014,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s1000fd",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S1000fd",
+    "display_name": "Fujifilm FinePix S1000fd",
+    "aliases": [
+      "FUJIFILM FinePix S1000fd"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S1000fd"
+      ]
+    },
+    "release_year": 2008,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "fujifilm_finepix_s100fs",
@@ -8210,6 +8394,30 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "fujifilm_finepix_s1800",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S1800",
+    "display_name": "Fujifilm FinePix S1800",
+    "aliases": [
+      "FUJIFILM FinePix S1800",
+      "FinePix S1880"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S1800"
+      ],
+      "research_aliases": [
+        "FinePix S1880"
+      ]
+    },
+    "release_year": 2010,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "fujifilm_finepix_s200exr",
     "brand": "Fujifilm",
     "series": "FinePix S",
@@ -8227,6 +8435,54 @@
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s2800hd",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S2800HD",
+    "display_name": "Fujifilm FinePix S2800HD",
+    "aliases": [
+      "FUJIFILM FinePix S2800HD",
+      "FinePix S2900HD"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S2800HD"
+      ],
+      "research_aliases": [
+        "FinePix S2900HD"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s2950",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S2950",
+    "display_name": "Fujifilm FinePix S2950",
+    "aliases": [
+      "FUJIFILM FinePix S2950",
+      "FinePix S2990"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S2950"
+      ],
+      "research_aliases": [
+        "FinePix S2990"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
@@ -8684,6 +8940,50 @@
       ]
     },
     "release_year": 2014,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s9000",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S9000",
+    "display_name": "Fujifilm FinePix S9000",
+    "aliases": [
+      "FUJIFILM FinePix S9000",
+      "Fujifilm FinePix S9000 Zoom"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S9000"
+      ],
+      "research_aliases": [
+        "Fujifilm FinePix S9000 Zoom"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "fujifilm_finepix_s9500",
+    "brand": "Fujifilm",
+    "series": "FinePix S",
+    "model": "FinePix S9500",
+    "display_name": "Fujifilm FinePix S9500",
+    "aliases": [
+      "FUJIFILM FinePix S9500"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix S9500"
+      ]
+    },
+    "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "aa",
@@ -9574,6 +9874,26 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "fujifilm_finepix_z900exr",
+    "brand": "Fujifilm",
+    "series": "FinePix Z",
+    "model": "FinePix Z900EXR",
+    "display_name": "Fujifilm FinePix Z900EXR",
+    "aliases": [
+      "FUJIFILM FinePix Z900EXR"
+    ],
+    "regional_names": {
+      "global": [
+        "Fujifilm FinePix Z900EXR"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "fujifilm_finepix_z909exr",
     "brand": "Fujifilm",
     "series": "FinePix Z",
@@ -10041,6 +10361,46 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "hp_photosmart_620",
+    "brand": "HP",
+    "series": "PhotoSmart",
+    "model": "PhotoSmart 620",
+    "display_name": "HP PhotoSmart 620",
+    "aliases": [
+      "PhotoSmart 620"
+    ],
+    "regional_names": {
+      "global": [
+        "HP PhotoSmart 620"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "hp_photosmart_850",
+    "brand": "HP",
+    "series": "PhotoSmart",
+    "model": "PhotoSmart 850",
+    "display_name": "HP PhotoSmart 850",
+    "aliases": [
+      "PhotoSmart 850"
+    ],
+    "regional_names": {
+      "global": [
+        "HP PhotoSmart 850"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "hp_photosmart_945",
     "brand": "HP",
     "series": "PhotoSmart",
@@ -10052,6 +10412,26 @@
     "regional_names": {
       "global": [
         "HP PhotoSmart 945"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "hp_photosmart_m425",
+    "brand": "HP",
+    "series": "PhotoSmart",
+    "model": "PhotoSmart M425",
+    "display_name": "HP PhotoSmart M425",
+    "aliases": [
+      "PhotoSmart M425"
+    ],
+    "regional_names": {
+      "global": [
+        "HP PhotoSmart M425"
       ]
     },
     "release_year": null,
@@ -11597,6 +11977,26 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "kodak_easyshare_z981",
+    "brand": "Kodak",
+    "series": "EasyShare Z",
+    "model": "EasyShare Z981",
+    "display_name": "Kodak EasyShare Z981",
+    "aliases": [
+      "Kodak Easyshare Z981"
+    ],
+    "regional_names": {
+      "global": [
+        "Kodak EasyShare Z981"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "kodak_pixpro_az528",
     "brand": "Kodak PIXPRO",
     "series": "Astro Zoom",
@@ -11789,6 +12189,26 @@
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": ""
+  },
+  {
+    "camera_id": "leica_v_lux_3",
+    "brand": "Leica",
+    "series": "V-Lux",
+    "model": "V-Lux 3",
+    "display_name": "Leica V-Lux 3",
+    "aliases": [
+      "LEICA V-LUX 3"
+    ],
+    "regional_names": {
+      "global": [
+        "Leica V-Lux 3"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "leica_v_lux_5",
@@ -12132,6 +12552,27 @@
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_775",
+    "brand": "Nikon",
+    "series": "COOLPIX 7",
+    "model": "COOLPIX 775",
+    "display_name": "Nikon COOLPIX 775",
+    "aliases": [
+      "Coolpix 775",
+      "775"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX 775"
+      ]
+    },
+    "release_year": 2001,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
@@ -13621,6 +14062,27 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "nikon_coolpix_p530",
+    "brand": "Nikon",
+    "series": "COOLPIX P",
+    "model": "COOLPIX P530",
+    "display_name": "Nikon COOLPIX P530",
+    "aliases": [
+      "Coolpix P530",
+      "P530"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX P530"
+      ]
+    },
+    "release_year": 2014,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "nikon_coolpix_p60",
     "brand": "Nikon",
     "series": "COOLPIX P",
@@ -13762,6 +14224,48 @@
       ]
     },
     "release_year": 2013,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_p80",
+    "brand": "Nikon",
+    "series": "COOLPIX P",
+    "model": "COOLPIX P80",
+    "display_name": "Nikon COOLPIX P80",
+    "aliases": [
+      "Coolpix P80",
+      "P80"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX P80"
+      ]
+    },
+    "release_year": 2008,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_p90",
+    "brand": "Nikon",
+    "series": "COOLPIX P",
+    "model": "COOLPIX P90",
+    "display_name": "Nikon COOLPIX P90",
+    "aliases": [
+      "Coolpix P90",
+      "P90"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX P90"
+      ]
+    },
+    "release_year": 2009,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -13941,6 +14445,27 @@
       ]
     },
     "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_s220",
+    "brand": "Nikon",
+    "series": "COOLPIX S",
+    "model": "COOLPIX S220",
+    "display_name": "Nikon COOLPIX S220",
+    "aliases": [
+      "Coolpix S220",
+      "S220"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX S220"
+      ]
+    },
+    "release_year": 2009,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -14493,6 +15018,27 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "nikon_coolpix_s60",
+    "brand": "Nikon",
+    "series": "COOLPIX S",
+    "model": "COOLPIX S60",
+    "display_name": "Nikon COOLPIX S60",
+    "aliases": [
+      "Coolpix S60",
+      "S60"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX S60"
+      ]
+    },
+    "release_year": 2008,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "nikon_coolpix_s600",
     "brand": "Nikon",
     "series": "COOLPIX S",
@@ -14760,6 +15306,27 @@
       ]
     },
     "release_year": 2009,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "nikon_coolpix_s700",
+    "brand": "Nikon",
+    "series": "COOLPIX S",
+    "model": "COOLPIX S700",
+    "display_name": "Nikon COOLPIX S700",
+    "aliases": [
+      "Coolpix S700",
+      "S700"
+    ],
+    "regional_names": {
+      "global": [
+        "COOLPIX S700"
+      ]
+    },
+    "release_year": null,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -17334,6 +17901,33 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "olympus_fe_340",
+    "brand": "Olympus",
+    "series": "FE series",
+    "model": "FE-340",
+    "display_name": "Olympus FE-340",
+    "aliases": [
+      "Olympus FE-340",
+      "Olympus C-560"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus FE-340"
+      ],
+      "regional_aliases": [
+        "Olympus FE-340"
+      ],
+      "research_aliases": [
+        "Olympus C-560"
+      ]
+    },
+    "release_year": 2008,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "olympus_fe_350",
     "brand": "Olympus",
     "series": "FE series",
@@ -19091,6 +19685,29 @@
       ]
     },
     "release_year": 2011,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "olympus_vg_160",
+    "brand": "Olympus",
+    "series": "VG series",
+    "model": "VG-160",
+    "display_name": "Olympus VG-160",
+    "aliases": [
+      "Olympus VG-160"
+    ],
+    "regional_names": {
+      "global": [
+        "Olympus VG-160"
+      ],
+      "regional_aliases": [
+        "Olympus VG-160"
+      ]
+    },
+    "release_year": 2012,
     "category": "point_and_shoot",
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
@@ -22522,6 +23139,86 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "pentax_optio_e70",
+    "brand": "Pentax",
+    "series": "Optio",
+    "model": "Optio E70",
+    "display_name": "Pentax Optio E70",
+    "aliases": [
+      "Optio E70"
+    ],
+    "regional_names": {
+      "global": [
+        "Pentax Optio E70"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "aa",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "pentax_optio_i_10",
+    "brand": "Pentax",
+    "series": "Optio",
+    "model": "Optio I-10",
+    "display_name": "Pentax Optio I-10",
+    "aliases": [
+      "Optio I-10"
+    ],
+    "regional_names": {
+      "global": [
+        "Pentax Optio I-10"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "pentax_optio_m50",
+    "brand": "Pentax",
+    "series": "Optio",
+    "model": "Optio M50",
+    "display_name": "Pentax Optio M50",
+    "aliases": [
+      "Optio M50"
+    ],
+    "regional_names": {
+      "global": [
+        "Pentax Optio M50"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "pentax_optio_w60",
+    "brand": "Pentax",
+    "series": "Optio",
+    "model": "Optio W60",
+    "display_name": "Pentax Optio W60",
+    "aliases": [
+      "Optio W60"
+    ],
+    "regional_names": {
+      "global": [
+        "Pentax Optio W60"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "pentax_wg_90",
     "brand": "Pentax",
     "series": "WG",
@@ -22855,6 +23552,32 @@
     "notes": ""
   },
   {
+    "camera_id": "samsung_pl150",
+    "brand": "Samsung",
+    "series": "PL",
+    "model": "PL150",
+    "display_name": "Samsung PL150",
+    "aliases": [
+      "PL150",
+      "Samsung TL210",
+      "TL210"
+    ],
+    "regional_names": {
+      "global": [
+        "Samsung PL150"
+      ],
+      "research_aliases": [
+        "Samsung TL210",
+        "TL210"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "samsung_pl170",
     "brand": "Samsung",
     "series": "PL",
@@ -22906,6 +23629,26 @@
     "regional_names": {
       "global": [
         "Samsung PL200"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "samsung_pl210",
+    "brand": "Samsung",
+    "series": "PL",
+    "model": "PL210",
+    "display_name": "Samsung PL210",
+    "aliases": [
+      "PL210"
+    ],
+    "regional_names": {
+      "global": [
+        "Samsung PL210"
       ]
     },
     "release_year": null,
@@ -22992,6 +23735,32 @@
     "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
+    "camera_id": "samsung_st500",
+    "brand": "Samsung",
+    "series": "ST",
+    "model": "ST500",
+    "display_name": "Samsung ST500",
+    "aliases": [
+      "ST500",
+      "Samsung TL220",
+      "TL220"
+    ],
+    "regional_names": {
+      "global": [
+        "Samsung ST500"
+      ],
+      "research_aliases": [
+        "Samsung TL220",
+        "TL220"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
     "camera_id": "samsung_st5000",
     "brand": "Samsung",
     "series": "ST",
@@ -23003,6 +23772,32 @@
     "regional_names": {
       "global": [
         "Samsung ST5000"
+      ]
+    },
+    "release_year": null,
+    "category": "point_and_shoot",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
+  },
+  {
+    "camera_id": "samsung_st550",
+    "brand": "Samsung",
+    "series": "ST",
+    "model": "ST550",
+    "display_name": "Samsung ST550",
+    "aliases": [
+      "ST550",
+      "Samsung TL225",
+      "TL225"
+    ],
+    "regional_names": {
+      "global": [
+        "Samsung ST550"
+      ],
+      "research_aliases": [
+        "Samsung TL225",
+        "TL225"
       ]
     },
     "release_year": null,
@@ -23404,6 +24199,26 @@
     "lens_type": "fixed_lens",
     "battery_system": "proprietary_li_ion",
     "notes": ""
+  },
+  {
+    "camera_id": "sigma_dp2",
+    "brand": "Sigma",
+    "series": "DP",
+    "model": "DP2",
+    "display_name": "Sigma DP2",
+    "aliases": [
+      "DP2"
+    ],
+    "regional_names": {
+      "global": [
+        "Sigma DP2"
+      ]
+    },
+    "release_year": null,
+    "category": "large_sensor_compact",
+    "lens_type": "fixed_lens",
+    "battery_system": "proprietary_li_ion",
+    "notes": "Candidate existence imported from Camera-wiki; battery mapping not inferred."
   },
   {
     "camera_id": "sigma_dp2_merrill",

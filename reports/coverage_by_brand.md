@@ -6,22 +6,22 @@ Generated: 2026-05-25
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | AgfaPhoto | real_adapter | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 1 |
 | Canon | preexisting_canon_batch | 227 | 227 | 0 | 378 | 373 | 5 | 0 | 77 | 246 |
-| Casio | real_adapter | 163 | 43 | 120 | 45 | 24 | 21 | 0 | 161 | 42 |
-| Fujifilm | partial_adapter | 228 | 186 | 42 | 238 | 173 | 65 | 0 | 228 | 96 |
+| Casio | real_adapter | 163 | 47 | 116 | 49 | 24 | 25 | 0 | 161 | 46 |
+| Fujifilm | partial_adapter | 228 | 197 | 31 | 249 | 173 | 76 | 0 | 228 | 106 |
 | GE | real_adapter | 3 | 2 | 1 | 2 | 0 | 2 | 0 | 3 | 3 |
-| HP | real_adapter | 67 | 1 | 66 | 1 | 0 | 1 | 0 | 67 | 19 |
-| Kodak | real_adapter | 176 | 77 | 99 | 77 | 12 | 65 | 0 | 176 | 76 |
+| HP | real_adapter | 67 | 4 | 63 | 4 | 0 | 4 | 0 | 67 | 22 |
+| Kodak | real_adapter | 176 | 78 | 98 | 78 | 12 | 66 | 0 | 176 | 77 |
 | Kodak PIXPRO | real_adapter | 2 | 2 | 0 | 2 | 2 | 0 | 0 | 2 | 2 |
 | Konica Minolta | real_adapter | 17 | 6 | 11 | 6 | 1 | 4 | 1 | 17 | 15 |
-| Leica | partial_adapter | 30 | 4 | 26 | 4 | 4 | 0 | 0 | 29 | 12 |
+| Leica | partial_adapter | 30 | 5 | 25 | 5 | 4 | 1 | 0 | 29 | 13 |
 | Minolta | real_adapter | 20 | 4 | 16 | 6 | 0 | 6 | 0 | 20 | 13 |
-| Nikon | partial_adapter | 188 | 153 | 35 | 161 | 117 | 44 | 0 | 188 | 156 |
+| Nikon | partial_adapter | 188 | 160 | 28 | 168 | 117 | 51 | 0 | 188 | 163 |
 | OM System | real_adapter | 1 | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 1 |
-| Olympus | real_adapter | 229 | 199 | 30 | 304 | 267 | 37 | 0 | 229 | 60 |
+| Olympus | real_adapter | 229 | 201 | 28 | 306 | 267 | 39 | 0 | 229 | 62 |
 | Panasonic | real_adapter | 166 | 142 | 24 | 156 | 149 | 7 | 0 | 166 | 45 |
-| Pentax | partial_adapter | 88 | 4 | 84 | 5 | 1 | 4 | 0 | 88 | 13 |
+| Pentax | partial_adapter | 88 | 8 | 80 | 9 | 1 | 8 | 0 | 88 | 17 |
 | Ricoh | partial_adapter | 58 | 12 | 46 | 12 | 9 | 3 | 0 | 58 | 32 |
-| Samsung | real_adapter | 118 | 28 | 90 | 29 | 1 | 26 | 2 | 116 | 33 |
-| Sigma | partial_adapter | 16 | 7 | 9 | 7 | 7 | 0 | 0 | 16 | 9 |
+| Samsung | real_adapter | 118 | 32 | 86 | 33 | 1 | 30 | 2 | 116 | 37 |
+| Sigma | partial_adapter | 16 | 8 | 8 | 8 | 7 | 1 | 0 | 16 | 10 |
 | Sony | partial_adapter | 194 | 186 | 8 | 308 | 291 | 17 | 0 | 194 | 112 |
 | Vivitar | real_adapter | 1 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 1 |

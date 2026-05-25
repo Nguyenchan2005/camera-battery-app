@@ -28,34 +28,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "casio_exilim_ex_fh25",
-    "display_name": "Casio Exilim EX-FH25",
-    "brand": "Casio",
-    "series": "Exilim F",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Casio"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "casio_exilim_ex_h20g",
-    "display_name": "Casio Exilim EX-H20G",
-    "brand": "Casio",
-    "series": "Exilim H",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Casio"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "casio_exilim_ex_h60",
     "display_name": "Casio Exilim EX-H60",
     "brand": "Casio",
@@ -226,20 +198,6 @@
   {
     "camera_id": "casio_exilim_ex_p600",
     "display_name": "Casio Exilim EX-P600",
-    "brand": "Casio",
-    "series": "Exilim P",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Casio"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "casio_exilim_ex_p700",
-    "display_name": "Casio Exilim EX-P700",
     "brand": "Casio",
     "series": "Exilim P",
     "release_year": null,
@@ -632,20 +590,6 @@
   {
     "camera_id": "casio_exilim_ex_z110",
     "display_name": "Casio Exilim EX-Z110",
-    "brand": "Casio",
-    "series": "Exilim Z",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Casio"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "casio_exilim_ex_z120",
-    "display_name": "Casio Exilim EX-Z120",
     "brand": "Casio",
     "series": "Exilim Z",
     "release_year": null,
@@ -1724,36 +1668,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "fujifilm_finepix_hs10",
-    "display_name": "Fujifilm FinePix HS10",
-    "brand": "Fujifilm",
-    "series": "FinePix HS",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Fujifilm FinePix HS10",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_HS10",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Fujifilm_FinePix_HS10",
-      "https://dl.fujifilm-x.com/support/manual/h/fujifilm_hs10_manual_01.pdf"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "fujifilm_finepix_hs35exr",
-    "display_name": "Fujifilm FinePix HS35EXR",
-    "brand": "Fujifilm",
-    "series": "FinePix HS",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-      "https://dl.fujifilm-x.com/support/manual/h/fujifilm_hs35exr_manual_01.pdf"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "fujifilm_finepix_j150w",
     "display_name": "Fujifilm FinePix J150w",
     "brand": "Fujifilm",
@@ -1859,66 +1773,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "fujifilm_finepix_real_3d_w1",
-    "display_name": "Fujifilm FinePix Real 3D W1",
-    "brand": "Fujifilm",
-    "series": "FinePix REAL 3D",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-      "https://dl.fujifilm-x.com/support/manual/r/fujifilm_real3dw1_manual_01.pdf"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "fujifilm_finepix_s1",
-    "display_name": "Fujifilm FinePix S1",
-    "brand": "Fujifilm",
-    "series": "FinePix S",
-    "release_year": 2014,
-    "reason": "Battery source check failed: TimeoutError: The read operation timed out",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-      "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s1_manual_01.pdf"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "fujifilm_finepix_s1000fd",
-    "display_name": "Fujifilm FinePix S1000fd",
-    "brand": "Fujifilm",
-    "series": "FinePix S",
-    "release_year": 2008,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-      "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s1000fd_manual_01.pdf"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "fujifilm_finepix_s1800",
-    "display_name": "Fujifilm FinePix S1800",
-    "brand": "Fujifilm",
-    "series": "FinePix S",
-    "release_year": 2010,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-      "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s1800_manual_01.pdf"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "fujifilm_finepix_s20",
     "display_name": "Fujifilm FinePix S20",
     "brand": "Fujifilm",
@@ -1960,36 +1814,6 @@
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
       "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s2500hd_manual_01.pdf"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "fujifilm_finepix_s2800hd",
-    "display_name": "Fujifilm FinePix S2800HD",
-    "brand": "Fujifilm",
-    "series": "FinePix S",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-      "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s2800hd_manual_01.pdf"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "fujifilm_finepix_s2950",
-    "display_name": "Fujifilm FinePix S2950",
-    "brand": "Fujifilm",
-    "series": "FinePix S",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-      "https://dl.fujifilm-x.com/support/manual/s/fujifilm_s2950_manual_01.pdf"
     ],
     "last_checked": "2026-05-24"
   },
@@ -2050,20 +1874,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "fujifilm_finepix_s9000",
-    "display_name": "Fujifilm FinePix S9000",
-    "brand": "Fujifilm",
-    "series": "FinePix S",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Fujifilm FinePix S9000",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_S9000/S9500",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Fujifilm_FinePix_S9000/S9500"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "fujifilm_finepix_s9200",
     "display_name": "Fujifilm FinePix S9200",
     "brand": "Fujifilm",
@@ -2088,20 +1898,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Fujifilm_digital_cameras"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "fujifilm_finepix_s9500",
-    "display_name": "Fujifilm FinePix S9500",
-    "brand": "Fujifilm",
-    "series": "FinePix S",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Fujifilm FinePix S9500",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_FinePix_S9000/S9500",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Fujifilm_FinePix_S9000/S9500"
     ],
     "last_checked": "2026-05-24"
   },
@@ -2248,20 +2044,6 @@
   {
     "camera_id": "fujifilm_finepix_z800exr",
     "display_name": "Fujifilm FinePix Z800EXR",
-    "brand": "Fujifilm",
-    "series": "FinePix Z",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Fujifilm digital cameras catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Fujifilm_digital_cameras",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Fujifilm_digital_cameras"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "fujifilm_finepix_z900exr",
-    "display_name": "Fujifilm FinePix Z900EXR",
     "brand": "Fujifilm",
     "series": "FinePix Z",
     "release_year": null,
@@ -2472,20 +2254,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "hp_photosmart_620",
-    "display_name": "HP PhotoSmart 620",
-    "brand": "HP",
-    "series": "PhotoSmart",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki HP PhotoSmart 620",
-    "candidate_source_url": "https://camera-wiki.org/wiki/HP_PhotoSmart_620",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/HP_PhotoSmart_620"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "hp_photosmart_635",
     "display_name": "HP PhotoSmart 635",
     "brand": "HP",
@@ -2552,20 +2320,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Hewlett-Packard",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Hewlett-Packard"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "hp_photosmart_850",
-    "display_name": "HP PhotoSmart 850",
-    "brand": "HP",
-    "series": "PhotoSmart",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki HP PhotoSmart 850",
-    "candidate_source_url": "https://camera-wiki.org/wiki/HP_PhotoSmart_850",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/HP_PhotoSmart_850"
     ],
     "last_checked": "2026-05-24"
   },
@@ -2846,20 +2600,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/HP_PhotoSmart_M417",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/HP_PhotoSmart_M417"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "hp_photosmart_m425",
-    "display_name": "HP PhotoSmart M425",
-    "brand": "HP",
-    "series": "PhotoSmart",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki HP PhotoSmart M425",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Hewlett-Packard",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Hewlett-Packard"
     ],
     "last_checked": "2026-05-24"
   },
@@ -4583,20 +4323,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "kodak_easyshare_z981",
-    "display_name": "Kodak EasyShare Z981",
-    "brand": "Kodak",
-    "series": "EasyShare Z",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Kodak catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Kodak"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "kodak_easyshare_z990",
     "display_name": "Kodak EasyShare Z990",
     "brand": "Kodak",
@@ -5019,20 +4745,6 @@
   {
     "camera_id": "leica_v_lux_20",
     "display_name": "Leica V-Lux 20",
-    "brand": "Leica",
-    "series": "V-Lux",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Leica/Sigma compact catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Leica",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Leica"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "leica_v_lux_3",
-    "display_name": "Leica V-Lux 3",
     "brand": "Leica",
     "series": "V-Lux",
     "release_year": null,
@@ -5546,21 +5258,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "nikon_coolpix_775",
-    "display_name": "Nikon COOLPIX 775",
-    "brand": "Nikon",
-    "series": "COOLPIX 7",
-    "release_year": 2001,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/775/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "nikon_coolpix_7900",
     "display_name": "Nikon COOLPIX 7900",
     "brand": "Nikon",
@@ -5679,51 +5376,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "nikon_coolpix_p530",
-    "display_name": "Nikon COOLPIX P530",
-    "brand": "Nikon",
-    "series": "COOLPIX P",
-    "release_year": 2014,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/p530/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_p80",
-    "display_name": "Nikon COOLPIX P80",
-    "brand": "Nikon",
-    "series": "COOLPIX P",
-    "release_year": 2008,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/p80/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_p90",
-    "display_name": "Nikon COOLPIX P90",
-    "brand": "Nikon",
-    "series": "COOLPIX P",
-    "release_year": 2009,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/p90/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "nikon_coolpix_s2",
     "display_name": "Nikon COOLPIX S2",
     "brand": "Nikon",
@@ -5735,21 +5387,6 @@
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Nikon_Coolpix_S2",
       "https://nij.nikon.com/products/lineup/compact/s2/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_s220",
-    "display_name": "Nikon COOLPIX S220",
-    "brand": "Nikon",
-    "series": "COOLPIX S",
-    "release_year": 2009,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/s220/spec.html"
     ],
     "last_checked": "2026-05-24"
   },
@@ -5814,21 +5451,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "nikon_coolpix_s60",
-    "display_name": "Nikon COOLPIX S60",
-    "brand": "Nikon",
-    "series": "COOLPIX S",
-    "release_year": 2008,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/s60/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "nikon_coolpix_s660",
     "display_name": "Nikon COOLPIX S660",
     "brand": "Nikon",
@@ -5855,21 +5477,6 @@
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Nikon_Coolpix",
       "https://nij.nikon.com/products/lineup/compact/s7/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_s700",
-    "display_name": "Nikon COOLPIX S700",
-    "brand": "Nikon",
-    "series": "COOLPIX S",
-    "release_year": null,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/s700/spec.html"
     ],
     "last_checked": "2026-05-24"
   },
@@ -6142,20 +5749,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "olympus_fe_340",
-    "display_name": "Olympus FE-340",
-    "brand": "Olympus",
-    "series": "FE series",
-    "release_year": 2008,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "olympus_fe_35",
     "display_name": "Olympus FE-35",
     "brand": "Olympus",
@@ -6264,20 +5857,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Olympus_Stylus_%C2%B5_digital_cameras",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Olympus_Stylus_%C2%B5_digital_cameras"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "olympus_vg_160",
-    "display_name": "Olympus VG-160",
-    "brand": "Olympus",
-    "series": "VG series",
-    "release_year": 2012,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Olympus catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Olympus",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Olympus"
     ],
     "last_checked": "2026-05-24"
   },
@@ -7001,20 +6580,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "pentax_optio_e70",
-    "display_name": "Pentax Optio E70",
-    "brand": "Pentax",
-    "series": "Optio",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Pentax Optio E70",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Pentax",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Pentax"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "pentax_optio_e70l",
     "display_name": "Pentax Optio E70L",
     "brand": "Pentax",
@@ -7099,20 +6664,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "pentax_optio_i_10",
-    "display_name": "Pentax Optio I-10",
-    "brand": "Pentax",
-    "series": "Optio",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Pentax Optio I-10",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Pentax_Optio_I-10",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Pentax_Optio_I-10"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "pentax_optio_m10",
     "display_name": "Pentax Optio M10",
     "brand": "Pentax",
@@ -7162,20 +6713,6 @@
     "release_year": null,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Pentax Optio M40",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Pentax",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Pentax"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "pentax_optio_m50",
-    "display_name": "Pentax Optio M50",
-    "brand": "Pentax",
-    "series": "Optio",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Pentax Optio M50",
     "candidate_source_url": "https://camera-wiki.org/wiki/Pentax",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Pentax"
@@ -7711,20 +7248,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Pentax",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Pentax"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "pentax_optio_w60",
-    "display_name": "Pentax Optio W60",
-    "brand": "Pentax",
-    "series": "Optio",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Pentax Optio W60",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Pentax_Optio_W60",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Pentax_Optio_W60"
     ],
     "last_checked": "2026-05-24"
   },
@@ -9625,66 +9148,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "samsung_pl150",
-    "display_name": "Samsung PL150",
-    "brand": "Samsung",
-    "series": "PL",
-    "release_year": null,
-    "reason": "Direct research attempted; charger/general battery language does not verify a battery model.",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung",
-      "https://safe-manuals.com/user-manual/samsung/pl150"
-    ],
-    "last_checked": "2026-05-25"
-  },
-  {
-    "camera_id": "samsung_pl210",
-    "display_name": "Samsung PL210",
-    "brand": "Samsung",
-    "series": "PL",
-    "release_year": null,
-    "reason": "Direct research attempted; ambiguous accessory listing is not promoted.",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung",
-      "https://safe-manuals.com/user-manual/samsung/pl210"
-    ],
-    "last_checked": "2026-05-25"
-  },
-  {
-    "camera_id": "samsung_st500",
-    "display_name": "Samsung ST500",
-    "brand": "Samsung",
-    "series": "ST",
-    "release_year": null,
-    "reason": "Direct research attempted; rechargeable battery without model is insufficient.",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung",
-      "https://safe-manuals.com/user-manual/samsung/st500"
-    ],
-    "last_checked": "2026-05-25"
-  },
-  {
-    "camera_id": "samsung_st550",
-    "display_name": "Samsung ST550",
-    "brand": "Samsung",
-    "series": "ST",
-    "release_year": null,
-    "reason": "Direct research attempted; rechargeable battery without model is insufficient.",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung",
-      "https://safe-manuals.com/user-manual/samsung/st550"
-    ],
-    "last_checked": "2026-05-25"
-  },
-  {
     "camera_id": "samsung_st6500",
     "display_name": "Samsung ST6500",
     "brand": "Samsung",
@@ -9812,20 +9275,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Sigma_DP1",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Sigma_DP1"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sigma_dp2",
-    "display_name": "Sigma DP2",
-    "brand": "Sigma",
-    "series": "DP",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sigma DP2",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sigma_DP2",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sigma_DP2"
     ],
     "last_checked": "2026-05-24"
   },

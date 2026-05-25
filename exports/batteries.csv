@@ -29,7 +29,7 @@ casio_np_110,Casio,NP-110,[],lithium-ion,,1200,Added by web-assisted verifier fr
 casio_np_130,Casio,NP-130,[],lithium-ion,,1800,Casio FAQ lists rated capacity 1800 mAh.
 casio_np_130a,Casio,NP-130A,[],lithium-ion,,1800,Casio FAQ lists rated capacity 1800 mAh.
 casio_np_160,Casio,NP-160,[],lithium-ion,,1200,Added from reviewed Phase 10 targeted manual evidence.
-casio_np_40,Casio,NP-40,[],lithium-ion,,,Added from reviewed Phase 10 targeted manual evidence.
+casio_np_40,Casio,NP-40,[],lithium-ion,3.7,1230,Added from reviewed Phase 10 targeted manual evidence.
 casio_np_60,Casio,NP-60,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
 casio_np_70,Casio,NP-70,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
 casio_np_80,Casio,NP-80,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
@@ -43,6 +43,7 @@ fujifilm_np_45a,Fujifilm,NP-45A,[],lithium-ion,3.7,720,Added from reviewed direc
 fujifilm_np_45s,Fujifilm,NP-45S,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 fujifilm_np_50,Fujifilm,NP-50,[],lithium-ion,3.6,,Voltage confirmed in FinePix REAL 3D W3 manual snippet.
 fujifilm_np_70,Fujifilm,NP-70,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
+fujifilm_np_85,Fujifilm,NP-85,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 fujifilm_np_95,Fujifilm,NP-95,[],lithium-ion,,,Added by import_all_remaining.py; electrical details left blank unless source-backed.
 fujifilm_np_w126,Fujifilm,NP-W126,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 fujifilm_np_w126s,Fujifilm,NP-W126S,[],lithium-ion,7.2,1260,Fujifilm X100VI manual lists nominal voltage 7.2 V and capacity 1260 mAh.
@@ -61,6 +62,7 @@ konica_minolta_np_1,Konica Minolta,NP-1,[],lithium-ion,3.7,,Third-party manual m
 konica_minolta_np_600,Konica Minolta,NP-600,[],lithium-ion,3.7,,Konica Minolta G600 release/manual sources confirm NP-600.
 leica_bp_dc12,Leica,BP-DC12,"[""BP-DC12-U""]",lithium-ion,7.2,1200,Retailer source lists 7.2 V / 1200 mAh for V-Lux 5 battery.
 leica_bp_dc15,Leica,BP-DC15,"[""BP-DC15-E""]",lithium-ion,7.2,1025,B&H retailer source lists 7.2 V / 1025 mAh.
+leica_bp_dc9,Leica,BP-DC9,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 leica_bp_scl4,Leica,BP-SCL4,[],lithium-ion,7.2,1860,Leica Q2 technical data PDF lists 7.2 V / 1860 mAh.
 leica_bp_scl6,Leica,BP-SCL6,[],lithium-ion,7.2,2200,Leica Q3 store/technical data lists 7.2 V / 2200 mAh.
 minolta_np_400,Minolta,NP-400,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
@@ -117,14 +119,18 @@ panasonic_dmw_blg10pp,Panasonic,DMW-BLG10PP,[],lithium-ion,,,Added by popular co
 panasonic_dmw_blh7,Panasonic,DMW-BLH7,[],lithium-ion,,,Added from an official bulk compatibility extraction.
 panasonic_dmw_bmb9,Panasonic,DMW-BMB9,"[""DMW-BMB9E""]",lithium-ion,7.2,895,Panasonic DMW-BMB9 page lists 7.2 V / 895 mAh.
 panasonic_dmwbce10,Panasonic,DMWBCE10,[],lithium-ion,,,Added from an official bulk compatibility extraction.
+pentax_d_li78,Pentax,D-LI78,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 pentax_d_li92,Pentax,D-LI92,[],lithium-ion,,,Added by import_all_remaining.py; electrical details left blank unless source-backed.
 ricoh_db_100,Ricoh,DB-100,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
 ricoh_db_110,Ricoh,DB-110,[],lithium-ion,3.6,1350,WG-6 manual snippet lists 3.6 V / 1350 mAh.
 ricoh_db_70,Ricoh,DB-70,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
 samsung_bp70a,Samsung,BP70A,"[""BP-70A""]",lithium-ion,3.7,700,Samsung manual sources list 700 mAh or min 700 mAh depending model.
+samsung_bp85a,Samsung,BP85A,[],lithium-ion,3.7,850,Added from reviewed LLM-assisted research evidence with a recorded source.
 samsung_bp88a,Samsung,BP88A,[],lithium-ion,3.7,880,Added from reviewed LLM-assisted research evidence with a recorded source.
 samsung_bp_1410,Samsung,BP-1410,"[""BP1410""]",lithium-ion,,,
 samsung_slb_07,Samsung,SLB-07,[],lithium-ion,,760,Added from reviewed direct-agent research evidence.
+samsung_slb_07a,Samsung,SLB-07A,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
+samsung_slb_07b,Samsung,SLB-07B,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 samsung_slb_10a,Samsung,SLB-10A,[],lithium-ion,3.7,1050,Added from reviewed Phase 10 targeted manual evidence.
 samsung_slb_11a,Samsung,SLB-11A,[],lithium-ion,3.8,1130,Added from reviewed LLM-assisted research evidence with a recorded source.
 sigma_bp_31,Sigma,BP-31,[],lithium-ion,3.7,1300,B&H source lists 3.7 V / 1300 mAh.
