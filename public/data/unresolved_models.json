@@ -70,20 +70,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "casio_exilim_ex_fc100",
-    "display_name": "Casio Exilim EX-FC100",
-    "brand": "Casio",
-    "series": "Exilim F",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Casio"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "casio_exilim_ex_fc150",
     "display_name": "Casio Exilim EX-FC150",
     "brand": "Casio",
@@ -103,20 +89,6 @@
     "brand": "Casio",
     "series": "Exilim F",
     "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Casio"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "casio_exilim_ex_fh100",
-    "display_name": "Casio Exilim EX-FH100",
-    "brand": "Casio",
-    "series": "Exilim F",
-    "release_year": 2010,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Casio catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
@@ -187,34 +159,6 @@
     "brand": "Casio",
     "series": "Exilim G",
     "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Casio"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "casio_exilim_ex_h10",
-    "display_name": "Casio Exilim EX-H10",
-    "brand": "Casio",
-    "series": "Exilim H",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Casio"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "casio_exilim_ex_h15",
-    "display_name": "Casio Exilim EX-H15",
-    "brand": "Casio",
-    "series": "Exilim H",
-    "release_year": null,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Casio catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
@@ -1601,20 +1545,6 @@
     "brand": "Casio",
     "series": "Exilim Z",
     "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Casio catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Casio"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "casio_exilim_ex_zr15",
-    "display_name": "Casio Exilim EX-ZR15",
-    "brand": "Casio",
-    "series": "Exilim Z",
-    "release_year": 2012,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Casio catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Casio",
@@ -4760,20 +4690,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "kodak_easyshare_c653",
-    "display_name": "Kodak EasyShare C653",
-    "brand": "Kodak",
-    "series": "EasyShare C",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Kodak catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Kodak"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "kodak_easyshare_c663",
     "display_name": "Kodak EasyShare C663",
     "brand": "Kodak",
@@ -4800,21 +4716,6 @@
       "https://camera-wiki.org/wiki/Kodak"
     ],
     "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "kodak_easyshare_c713",
-    "display_name": "Kodak EasyShare C713",
-    "brand": "Kodak",
-    "series": "EasyShare C",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Kodak catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Kodak",
-      "https://www.bhphotovideo.com/c/product/582525-REG/Kodak_1590363_EasyShare_C713_Digital_Camera.html/overview"
-    ],
-    "last_checked": "2026-05-25"
   },
   {
     "camera_id": "kodak_easyshare_c743",
@@ -5001,20 +4902,6 @@
   {
     "camera_id": "kodak_easyshare_cd50",
     "display_name": "Kodak EasyShare CD50",
-    "brand": "Kodak",
-    "series": "EasyShare CD",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Kodak catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Kodak"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "kodak_easyshare_cd703",
-    "display_name": "Kodak EasyShare CD703",
     "brand": "Kodak",
     "series": "EasyShare CD",
     "release_year": null,
@@ -5253,20 +5140,6 @@
   {
     "camera_id": "kodak_easyshare_cx7310",
     "display_name": "Kodak EasyShare CX7310",
-    "brand": "Kodak",
-    "series": "EasyShare CX",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Kodak catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Kodak"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "kodak_easyshare_cx7330",
-    "display_name": "Kodak EasyShare CX7330",
     "brand": "Kodak",
     "series": "EasyShare CX",
     "release_year": null,
@@ -5881,20 +5754,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "kodak_easyshare_m550",
-    "display_name": "Kodak EasyShare M550",
-    "brand": "Kodak",
-    "series": "EasyShare M",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Kodak catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Kodak"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "kodak_easyshare_m552",
     "display_name": "Kodak EasyShare M552",
     "brand": "Kodak",
@@ -5909,50 +5768,8 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "kodak_easyshare_m575",
-    "display_name": "Kodak EasyShare M575",
-    "brand": "Kodak",
-    "series": "EasyShare M",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Kodak catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Kodak"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "kodak_easyshare_m577",
     "display_name": "Kodak EasyShare M577",
-    "brand": "Kodak",
-    "series": "EasyShare M",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Kodak catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Kodak"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "kodak_easyshare_m580",
-    "display_name": "Kodak EasyShare M580",
-    "brand": "Kodak",
-    "series": "EasyShare M",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Kodak catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Kodak",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Kodak"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "kodak_easyshare_m583",
-    "display_name": "Kodak EasyShare M583",
     "brand": "Kodak",
     "series": "EasyShare M",
     "release_year": null,
@@ -7668,21 +7485,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "nikon_coolpix_4600",
-    "display_name": "Nikon COOLPIX 4600",
-    "brand": "Nikon",
-    "series": "COOLPIX 4",
-    "release_year": 2005,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/4600/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "nikon_coolpix_4800",
     "display_name": "Nikon COOLPIX 4800",
     "brand": "Nikon",
@@ -7694,36 +7496,6 @@
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Nikon_Coolpix",
       "https://nij.nikon.com/products/lineup/compact/4800/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_5200",
-    "display_name": "Nikon COOLPIX 5200",
-    "brand": "Nikon",
-    "series": "COOLPIX 5",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Nikon COOLPIX 5200",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix_5200",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix_5200",
-      "https://nij.nikon.com/products/lineup/compact/5200/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_5600",
-    "display_name": "Nikon COOLPIX 5600",
-    "brand": "Nikon",
-    "series": "COOLPIX 5",
-    "release_year": 2005,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/5600/spec.html"
     ],
     "last_checked": "2026-05-24"
   },
@@ -7936,21 +7708,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "nikon_coolpix_l110",
-    "display_name": "Nikon COOLPIX L110",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": 2010,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l110/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "nikon_coolpix_l12",
     "display_name": "Nikon COOLPIX L12",
     "brand": "Nikon",
@@ -7996,21 +7753,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "nikon_coolpix_l16",
-    "display_name": "Nikon COOLPIX L16",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": 2008,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l16/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "nikon_coolpix_l18",
     "display_name": "Nikon COOLPIX L18",
     "brand": "Nikon",
@@ -8022,51 +7764,6 @@
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Nikon_Coolpix",
       "https://nij.nikon.com/products/lineup/compact/l18/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_l19",
-    "display_name": "Nikon COOLPIX L19",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": 2009,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l19/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_l2",
-    "display_name": "Nikon COOLPIX L2",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": 2006,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l2/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_l20",
-    "display_name": "Nikon COOLPIX L20",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": 2009,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l20/spec.html"
     ],
     "last_checked": "2026-05-24"
   },
@@ -8086,66 +7783,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "nikon_coolpix_l22",
-    "display_name": "Nikon COOLPIX L22",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": 2010,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l22/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_l24",
-    "display_name": "Nikon COOLPIX L24",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": 2011,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l24/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_l25",
-    "display_name": "Nikon COOLPIX L25",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": null,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l25/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_l27",
-    "display_name": "Nikon COOLPIX L27",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": null,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l27/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "nikon_coolpix_l29",
     "display_name": "Nikon COOLPIX L29",
     "brand": "Nikon",
@@ -8157,81 +7794,6 @@
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Nikon_Coolpix",
       "https://nij.nikon.com/products/lineup/compact/l29/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_l3",
-    "display_name": "Nikon COOLPIX L3",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": 2006,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l3/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_l310",
-    "display_name": "Nikon COOLPIX L310",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": null,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l310/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_l320",
-    "display_name": "Nikon COOLPIX L320",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": 2013,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l320/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_l330",
-    "display_name": "Nikon COOLPIX L330",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": null,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l330/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_l4",
-    "display_name": "Nikon COOLPIX L4",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": 2006,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l4/spec.html"
     ],
     "last_checked": "2026-05-24"
   },
@@ -8262,51 +7824,6 @@
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Nikon_Coolpix",
       "https://nij.nikon.com/products/lineup/compact/l6/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_l620",
-    "display_name": "Nikon COOLPIX L620",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": 2013,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l620/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_l830",
-    "display_name": "Nikon COOLPIX L830",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": 2014,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l830/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_l840",
-    "display_name": "Nikon COOLPIX L840",
-    "brand": "Nikon",
-    "series": "COOLPIX L",
-    "release_year": 2015,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/l840/spec.html"
     ],
     "last_checked": "2026-05-24"
   },
@@ -8371,21 +7888,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "nikon_coolpix_p5000",
-    "display_name": "Nikon COOLPIX P5000",
-    "brand": "Nikon",
-    "series": "COOLPIX P",
-    "release_year": 2007,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/p5000/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "nikon_coolpix_p530",
     "display_name": "Nikon COOLPIX P530",
     "brand": "Nikon",
@@ -8397,21 +7899,6 @@
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Nikon_Coolpix",
       "https://nij.nikon.com/products/lineup/compact/p530/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_p60",
-    "display_name": "Nikon COOLPIX P60",
-    "brand": "Nikon",
-    "series": "COOLPIX P",
-    "release_year": 2008,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/p60/spec.html"
     ],
     "last_checked": "2026-05-24"
   },
@@ -8461,21 +7948,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "nikon_coolpix_s10",
-    "display_name": "Nikon COOLPIX S10",
-    "brand": "Nikon",
-    "series": "COOLPIX S",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Nikon COOLPIX S10",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix_S10",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix_S10",
-      "https://nij.nikon.com/products/lineup/compact/s10/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "nikon_coolpix_s2",
     "display_name": "Nikon COOLPIX S2",
     "brand": "Nikon",
@@ -8487,21 +7959,6 @@
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Nikon_Coolpix_S2",
       "https://nij.nikon.com/products/lineup/compact/s2/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_s200",
-    "display_name": "Nikon COOLPIX S200",
-    "brand": "Nikon",
-    "series": "COOLPIX S",
-    "release_year": null,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/s200/spec.html"
     ],
     "last_checked": "2026-05-24"
   },
@@ -8637,36 +8094,6 @@
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Nikon_Coolpix",
       "https://nij.nikon.com/products/lineup/compact/s4100/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_s50",
-    "display_name": "Nikon COOLPIX S50",
-    "brand": "Nikon",
-    "series": "COOLPIX S",
-    "release_year": null,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/s50/spec.html"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "nikon_coolpix_s500",
-    "display_name": "Nikon COOLPIX S500",
-    "brand": "Nikon",
-    "series": "COOLPIX S",
-    "release_year": null,
-    "reason": "Checked source but exact model match was not confirmed.",
-    "candidate_source_name": "Camera-wiki Nikon Coolpix catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Nikon_Coolpix",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Nikon_Coolpix",
-      "https://nij.nikon.com/products/lineup/compact/s500/spec.html"
     ],
     "last_checked": "2026-05-24"
   },
@@ -12984,64 +12411,8 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "samsung_pl100",
-    "display_name": "Samsung PL100",
-    "brand": "Samsung",
-    "series": "PL",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "samsung_pl150",
     "display_name": "Samsung PL150",
-    "brand": "Samsung",
-    "series": "PL",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "samsung_pl170",
-    "display_name": "Samsung PL170",
-    "brand": "Samsung",
-    "series": "PL",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "samsung_pl20",
-    "display_name": "Samsung PL20",
-    "brand": "Samsung",
-    "series": "PL",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "samsung_pl200",
-    "display_name": "Samsung PL200",
     "brand": "Samsung",
     "series": "PL",
     "release_year": null,
@@ -13068,36 +12439,8 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "samsung_pl90",
-    "display_name": "Samsung PL90",
-    "brand": "Samsung",
-    "series": "PL",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "samsung_st100",
     "display_name": "Samsung ST100",
-    "brand": "Samsung",
-    "series": "ST",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "samsung_st30",
-    "display_name": "Samsung ST30",
     "brand": "Samsung",
     "series": "ST",
     "release_year": null,
@@ -13180,20 +12523,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "samsung_st65",
-    "display_name": "Samsung ST65",
-    "brand": "Samsung",
-    "series": "ST",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "samsung_st6500",
     "display_name": "Samsung ST6500",
     "brand": "Samsung",
@@ -13250,36 +12579,8 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "samsung_st90",
-    "display_name": "Samsung ST90",
-    "brand": "Samsung",
-    "series": "ST",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "samsung_st93",
     "display_name": "Samsung ST93",
-    "brand": "Samsung",
-    "series": "ST",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "samsung_st95",
-    "display_name": "Samsung ST95",
     "brand": "Samsung",
     "series": "ST",
     "release_year": null,
@@ -13320,50 +12621,8 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "samsung_wb550",
-    "display_name": "Samsung WB550",
-    "brand": "Samsung",
-    "series": "WB",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "samsung_wb5500",
     "display_name": "Samsung WB5500",
-    "brand": "Samsung",
-    "series": "WB",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "samsung_wb600",
-    "display_name": "Samsung WB600",
-    "brand": "Samsung",
-    "series": "WB",
-    "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Samsung catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Samsung",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Samsung"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "samsung_wb650",
-    "display_name": "Samsung WB650",
     "brand": "Samsung",
     "series": "WB",
     "release_year": null,
@@ -13526,50 +12785,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Sigma",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Sigma"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_h100",
-    "display_name": "Sony Cyber-shot DSC-H100",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-H",
-    "release_year": null,
-    "reason": "Battery source check failed: TimeoutError: The read operation timed out",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dsch-series/dsc-h100/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_h20",
-    "display_name": "Sony Cyber-shot DSC-H20",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-H",
-    "release_year": 2009,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_h200",
-    "display_name": "Sony Cyber-shot DSC-H200",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-H",
-    "release_year": 2013,
-    "reason": "Battery source check failed: TimeoutError: The read operation timed out",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dsch-series/dsc-h200/specifications"
     ],
     "last_checked": "2026-05-24"
   },
@@ -13761,51 +12976,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_w310",
-    "display_name": "Sony Cyber-shot DSC-W310",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w310/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_w330",
-    "display_name": "Sony Cyber-shot DSC-W330",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": null,
-    "reason": "Battery source check failed: TimeoutError: The read operation timed out",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w330/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_w360",
-    "display_name": "Sony Cyber-shot DSC-W360",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": null,
-    "reason": "Battery source check failed: TimeoutError: The read operation timed out",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w360/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_w370",
     "display_name": "Sony Cyber-shot DSC-W370",
     "brand": "Sony",
@@ -13835,36 +13005,6 @@
     "last_checked": "2026-05-24"
   },
   {
-    "camera_id": "sony_cyber_shot_dsc_w510",
-    "display_name": "Sony Cyber-shot DSC-W510",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": 2011,
-    "reason": "Battery source check failed: TimeoutError: The read operation timed out",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w510/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_w520",
-    "display_name": "Sony Cyber-shot DSC-W520",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": null,
-    "reason": "Checked source but no explicit battery/power mapping was extracted.",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w520/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
     "camera_id": "sony_cyber_shot_dsc_w55",
     "display_name": "Sony Cyber-shot DSC-W55",
     "brand": "Sony",
@@ -13875,36 +13015,6 @@
     "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
     "checked_source_urls": [
       "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_w560",
-    "display_name": "Sony Cyber-shot DSC-W560",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": 2011,
-    "reason": "Battery source check failed: TimeoutError: The read operation timed out",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w560/specifications"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_w580",
-    "display_name": "Sony Cyber-shot DSC-W580",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-W",
-    "release_year": null,
-    "reason": "Battery source check failed: TimeoutError: The read operation timed out",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony",
-      "https://www.sony.co.id/en/electronics/support/compact-cameras-dscw-series/dsc-w580/specifications"
     ],
     "last_checked": "2026-05-24"
   },
@@ -13942,20 +13052,6 @@
     "brand": "Sony",
     "series": "Cyber-shot DSC-W",
     "release_year": null,
-    "reason": "Camera existence confirmed, battery not yet source-verified",
-    "candidate_source_name": "Camera-wiki Sony catalog",
-    "candidate_source_url": "https://camera-wiki.org/wiki/Sony",
-    "checked_source_urls": [
-      "https://camera-wiki.org/wiki/Sony"
-    ],
-    "last_checked": "2026-05-24"
-  },
-  {
-    "camera_id": "sony_cyber_shot_dsc_wx9",
-    "display_name": "Sony Cyber-shot DSC-WX9",
-    "brand": "Sony",
-    "series": "Cyber-shot DSC-WX",
-    "release_year": 2011,
     "reason": "Camera existence confirmed, battery not yet source-verified",
     "candidate_source_name": "Camera-wiki Sony catalog",
     "candidate_source_url": "https://camera-wiki.org/wiki/Sony",

@@ -7551,6 +7551,42 @@
     "notes": ""
   },
   {
+    "source_id": "casio_casio_ex_fc100_user_guide_https_support_casio_com_storage_en_manual_pdf_en_001_exfc100_m10_fb_en_pdf",
+    "source_name": "Casio EX-FC100 User Guide",
+    "source_url": "https://support.casio.com/storage/en/manual/pdf/EN/001/EXFC100_M10_FB_EN.pdf",
+    "source_type": "official_manual",
+    "publisher": "Casio",
+    "last_verified": "2026-05-25",
+    "notes": "EX-FC100 Power Requirements: Rechargeable lithium ion battery (NP-40) x1."
+  },
+  {
+    "source_id": "casio_casio_ex_fh100_user_guide_https_support_casio_com_pdf_001_exfh100_m29_fb_100311_e_pdf",
+    "source_name": "Casio EX-FH100 User Guide",
+    "source_url": "https://support.casio.com/pdf/001/EXFH100_M29_FB_100311_E.pdf",
+    "source_type": "official_manual",
+    "publisher": "Casio",
+    "last_verified": "2026-05-25",
+    "notes": "EX-FH100 Power Requirements: Rechargeable lithium ion battery (NP-90) x1."
+  },
+  {
+    "source_id": "casio_casio_ex_h10_user_guide_https_support_casio_com_storage_en_manual_pdf_en_001_exh10_m10_fd_en_pdf",
+    "source_name": "Casio EX-H10 User Guide",
+    "source_url": "https://support.casio.com/storage/en/manual/pdf/EN/001/EXH10_M10_FD_EN.pdf",
+    "source_type": "official_manual",
+    "publisher": "Casio",
+    "last_verified": "2026-05-25",
+    "notes": "EX-H10 Power Requirements: Rechargeable lithium ion battery (NP-90) x1."
+  },
+  {
+    "source_id": "casio_casio_ex_h15_user_guide_https_support_casio_com_storage_en_manual_pdf_en_001_exh15_m29_fd_en_pdf",
+    "source_name": "Casio EX-H15 User Guide",
+    "source_url": "https://support.casio.com/storage/en/manual/pdf/EN/001/EXH15_M29_FD_EN.pdf",
+    "source_type": "official_manual",
+    "publisher": "Casio",
+    "last_verified": "2026-05-25",
+    "notes": "EX-H15 Power Requirements: Rechargeable lithium ion battery (NP-90) x1."
+  },
+  {
     "source_id": "casio_casio_ex_zr1000_power_requirements_faq_https_support_casio_com_tw_support_answer_php_cid_001016008006_and_num_4_an",
     "source_name": "Casio EX-ZR1000 power requirements FAQ",
     "source_url": "https://support.casio.com/tw/support/answer.php?cid=001016008006&num=4&qid=3662",
@@ -7576,6 +7612,15 @@
     "publisher": "Casio",
     "last_verified": "2026-05-25",
     "notes": "CASIO official Power Requirements for EX-ZR1500: the rechargeable NP-130A lithium-ion battery that comes with the camera can be used to power the camera."
+  },
+  {
+    "source_id": "casio_casio_ex_zr15_power_requirements_faq_https_support_casio_com_en_support_answer_php_cid_001016003006_and_num_6159_a",
+    "source_name": "Casio EX-ZR15 Power Requirements FAQ",
+    "source_url": "https://support.casio.com/en/support/answer.php?cid=001016003006&num=6159&qid=520",
+    "source_type": "official_accessory_page",
+    "publisher": "Casio",
+    "last_verified": "2026-05-25",
+    "notes": "EX-ZR15 Power Requirements. Supported Battery: NP-110 or NP-160."
   },
   {
     "source_id": "casio_casio_ex_zr2000_official_power_requirements_https_support_casio_com_en_support_answer_php_cid_001016022006_and_num",
@@ -8064,6 +8109,33 @@
     "notes": "Kodak official user guide for EasyShare C603 identifies Kodak oxy-alkaline digital camera batteries AA as a power source; retrieved evidence does not state quantity. Source confirms battery type but quantity was not explicitly extracted."
   },
   {
+    "source_id": "kodak_kodak_easyshare_c653_manual_manualslib_mirror_https_www_manualslib_com_manual_3586927_kodak_easyshare_c653_html_pa",
+    "source_name": "Kodak EasyShare C653 Manual (ManualsLib mirror)",
+    "source_url": "https://www.manualslib.com/manual/3586927/Kodak-Easyshare-C653.html?page=66",
+    "source_type": "manual_mirror",
+    "publisher": "Kodak",
+    "last_verified": "2026-05-25",
+    "notes": "Kodak EasyShare C653 battery types: 2 AA lithium batteries or 2 AA Ni-MH batteries."
+  },
+  {
+    "source_id": "kodak_kodak_easyshare_c713_c813_cd703_user_guide_https_resources_kodak_com_support_pdf_en_manuals_urg00775_c713_c813_cd7",
+    "source_name": "Kodak EasyShare C713/C813/CD703 User Guide",
+    "source_url": "https://resources.kodak.com/support/pdf/en/manuals/urg00775/C713_C813_CD703_UG_GLB_en.pdf",
+    "source_type": "official_manual",
+    "publisher": "Kodak",
+    "last_verified": "2026-05-25",
+    "notes": "Kodak EasyShare CD703. Battery types: (2) Kodak Ni-MH rechargeable batteries AA."
+  },
+  {
+    "source_id": "kodak_kodak_easyshare_cx7330_user_guide_https_resources_kodak_com_support_pdf_en_manuals_urg00239_cx7330_glb_en_pdf",
+    "source_name": "Kodak EasyShare CX7330 User Guide",
+    "source_url": "https://resources.kodak.com/support/pdf/en/manuals/urg00239/CX7330_GLB_en.pdf",
+    "source_type": "official_manual",
+    "publisher": "Kodak",
+    "last_verified": "2026-05-25",
+    "notes": "Kodak EasyShare CX7330 battery replacement types: AA (2) lithium batteries."
+  },
+  {
     "source_id": "kodak_kodak_easyshare_m530_official_extended_user_guide_https_resources_kodak_com_support_pdf_en_manuals_urg01095_m530_x",
     "source_name": "Kodak EasyShare M530 Official Extended User Guide",
     "source_url": "https://resources.kodak.com/support/pdf/en/manuals/urg01095/M530_xUG_GLB_en.pdf",
@@ -8071,6 +8143,42 @@
     "publisher": "Kodak",
     "last_verified": "2026-05-25",
     "notes": "Kodak official user guide for EasyShare M530: Power - KODAK Li-Ion Rechargeable Digital Camera Battery KLIC-7006."
+  },
+  {
+    "source_id": "kodak_kodak_easyshare_m550_user_guide_https_www_kodak_com_global_plugins_acrobat_en_service_manuals_urg01102_m550_xug_gl",
+    "source_name": "Kodak EasyShare M550 User Guide",
+    "source_url": "https://www.kodak.com/global/plugins/acrobat/en/service/manuals/urg01102/M550_xUG_GLB_en.pdf",
+    "source_type": "official_manual",
+    "publisher": "Kodak",
+    "last_verified": "2026-05-25",
+    "notes": "KODAK EASYSHARE M550: Loading the KLIC-7006 battery."
+  },
+  {
+    "source_id": "kodak_kodak_easyshare_m575_official_specifications_https_kodakassist_freshdesk_com_support_solutions_articles_4800106928",
+    "source_name": "Kodak EasyShare M575 Official Specifications",
+    "source_url": "https://kodakassist.freshdesk.com/support/solutions/articles/48001069288-kodak-easyshare-m575-digital-camera-specifications",
+    "source_type": "official_manual",
+    "publisher": "Kodak",
+    "last_verified": "2026-05-25",
+    "notes": "Kodak EasyShare M575. Power: KLIC-7006 Li-Ion Rechargeable Battery."
+  },
+  {
+    "source_id": "kodak_kodak_easyshare_m580_extended_user_guide_https_kodakassist_freshdesk_com_support_solutions_articles_48001067919_ko",
+    "source_name": "Kodak EasyShare M580 Extended User Guide",
+    "source_url": "https://kodakassist.freshdesk.com/support/solutions/articles/48001067919-kodak-easyshare-m580-digital-camera-extended-user-guide",
+    "source_type": "official_manual",
+    "publisher": "Kodak",
+    "last_verified": "2026-05-25",
+    "notes": "KODAK EASYSHARE M580: Loading the KLIC-7006 battery."
+  },
+  {
+    "source_id": "kodak_kodak_easyshare_m583_user_guide_https_resources_kodak_com_support_pdf_en_manuals_urg01244_m583_xug_glb_en_pdf",
+    "source_name": "Kodak EasyShare M583 User Guide",
+    "source_url": "https://resources.kodak.com/support/pdf/en/manuals/urg01244/M583_xUG_GLB_en.pdf",
+    "source_type": "official_manual",
+    "publisher": "Kodak",
+    "last_verified": "2026-05-25",
+    "notes": "KODAK EASYSHARE M583: Loading the KLIC-7006 battery."
   },
   {
     "source_id": "kodak_kodak_easyshare_m883_user_guide_https_kodakassist_freshdesk_com_support_solutions_articles_48001069330_kodak_easys",
@@ -8361,6 +8469,159 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "nikon_nikon_coolpix_2010_official_announcement_https_www_nikonusa_com_press_room_coolpix_camera_lineup",
+    "source_name": "Nikon COOLPIX 2010 Official Announcement",
+    "source_url": "https://www.nikonusa.com/press-room/coolpix-camera-lineup",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "Nikon COOLPIX L22. Powered by AA-size batteries."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_4600_5600_user_manual_https_www_nikonusa_com_pdf_manuals_coolpix_4600_5600_en_pdf",
+    "source_name": "Nikon COOLPIX 4600/5600 User Manual",
+    "source_url": "https://www.nikonusa.com/pdf/manuals/coolpix/4600_5600_en.pdf",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "COOLPIX 4600/COOLPIX 5600 power sources: Two LR6 (AA) alkaline batteries."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_5200_user_manual_https_www_nikonusa_com_pdf_manuals_coolpix_cp5200_en_pdf",
+    "source_name": "Nikon COOLPIX 5200 User Manual",
+    "source_url": "https://www.nikonusa.com/pdf/manuals/coolpix/CP5200_en.pdf",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "COOLPIX 5200 power sources: One rechargeable Nikon EN-EL5 lithium-ion battery."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_l110_official_announcement_https_www_nikonusa_com_press_room_nikon_unveils_new_coolpix_digi",
+    "source_name": "Nikon COOLPIX L110 Official Announcement",
+    "source_url": "https://www.nikonusa.com/press-room/nikon-unveils-new-coolpix-digi",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "COOLPIX L110 uses a set of four AA Energizer Ultimate Lithium batteries."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_l16_official_specifications_https_www_nikonusa_com_p_coolpix_l16_25598_overview",
+    "source_name": "Nikon COOLPIX L16 Official Specifications",
+    "source_url": "https://www.nikonusa.com/p/coolpix-l16/25598/overview",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "Nikon COOLPIX L16. Power Sources: 2 AA-size batteries."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_l20_l19_user_manual_https_www_nikonusa_com_pdf_manuals_coolpix_l20l19en_pdf",
+    "source_name": "Nikon COOLPIX L20/L19 User Manual",
+    "source_url": "https://www.nikonusa.com/pdf/manuals/coolpix/L20L19EN.pdf",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "COOLPIX L20/COOLPIX L19 power sources: Two LR6/L40 (AA-size) alkaline batteries."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_l24_official_specifications_https_www_nikonusa_com_p_coolpix_l24_26240_overview",
+    "source_name": "Nikon COOLPIX L24 Official Specifications",
+    "source_url": "https://www.nikonusa.com/p/coolpix-l24/26240/overview",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "Nikon COOLPIX L24. Power Sources: 2 AA-size batteries."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_l25_official_specifications_https_www_nikonusa_com_p_coolpix_l25_26343_overview",
+    "source_name": "Nikon COOLPIX L25 Official Specifications",
+    "source_url": "https://www.nikonusa.com/p/coolpix-l25/26343/overview",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "Nikon COOLPIX L25. Power Sources: 2 AA-size batteries."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_l27_official_specifications_https_www_nikonusa_com_p_coolpix_l27_26440_overview",
+    "source_name": "Nikon COOLPIX L27 Official Specifications",
+    "source_url": "https://www.nikonusa.com/p/coolpix-l27/26440/overview",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "Nikon COOLPIX L27. Power Sources: Two LR6/L40 (AA-size) alkaline batteries."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_l2_l3_l4_official_announcement_https_www_nikonusa_com_press_room_nikon_coolpix_makes_memories_e",
+    "source_name": "Nikon COOLPIX L2/L3/L4 Official Announcement",
+    "source_url": "https://www.nikonusa.com/press-room/nikon-coolpix-makes-memories-e",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "Nikon COOLPIX L2, COOLPIX L3 and COOLPIX L4 are AA-size battery compatible."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_l310_official_specifications_https_www_nikonusa_com_p_coolpix_l310_26331_overview",
+    "source_name": "Nikon COOLPIX L310 Official Specifications",
+    "source_url": "https://www.nikonusa.com/p/coolpix-l310/26331/overview",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "Nikon COOLPIX L310. Power Sources: 4 AA-size batteries."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_l320_official_specifications_https_www_nikonusa_com_p_l320_26392_overview",
+    "source_name": "Nikon COOLPIX L320 Official Specifications",
+    "source_url": "https://www.nikonusa.com/p/l320/26392/overview",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "Nikon COOLPIX L320. Power Sources: Four LR6/AA-size alkaline batteries."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_l330_official_specifications_https_www_nikonusa_com_p_coolpix_l330_26475_overview",
+    "source_name": "Nikon COOLPIX L330 Official Specifications",
+    "source_url": "https://www.nikonusa.com/p/coolpix-l330/26475/overview",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "Nikon COOLPIX L330. Power Sources: Four LR6/L40 (AA-size) alkaline batteries."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_l620_official_specifications_https_www_nikonusa_com_p_coolpix_l620_refurbished_26426b_overview",
+    "source_name": "Nikon COOLPIX L620 Official Specifications",
+    "source_url": "https://www.nikonusa.com/p/coolpix-l620-refurbished/26426B/overview",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "Nikon COOLPIX L620. Power Sources: 4 AA-size batteries."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_l830_official_specifications_https_www_nikonusa_com_p_coolpix_l830_26477_overview",
+    "source_name": "Nikon COOLPIX L830 Official Specifications",
+    "source_url": "https://www.nikonusa.com/p/coolpix-l830/26477/overview",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "Nikon COOLPIX L830. Power Sources: Four AA-size batteries."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_l840_official_specifications_https_www_nikonusa_com_p_coolpix_l840_26485_overview",
+    "source_name": "Nikon COOLPIX L840 Official Specifications",
+    "source_url": "https://www.nikonusa.com/p/coolpix-l840/26485/overview",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "Nikon COOLPIX L840. Power Sources: Four AA-size batteries."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_official_comparison_guide_https_www_nikonusa_com_fileuploads_pdfs_coolpixcompare_pdf",
+    "source_name": "Nikon COOLPIX Official Comparison Guide",
+    "source_url": "https://www.nikonusa.com/fileuploads/pdfs/CoolpixCompare.pdf",
+    "source_type": "official_accessory_page",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "COOLPIX S200: Rechargeable Battery EN-EL10 and MH-63 Charger included."
+  },
+  {
     "source_id": "nikon_nikon_coolpix_p1_p2_official_manual_https_www_nikonusa_com_pdf_manuals_coolpix_p1p2_en_pdf",
     "source_name": "Nikon COOLPIX P1/P2 Official Manual",
     "source_url": "https://www.nikonusa.com/pdf/manuals/coolpix/P1P2_en.pdf",
@@ -8379,6 +8640,24 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "nikon_nikon_coolpix_p5000_official_specifications_https_www_nikonusa_com_p_coolpix_p5000_25565_overview",
+    "source_name": "Nikon COOLPIX P5000 Official Specifications",
+    "source_url": "https://www.nikonusa.com/p/coolpix-p5000/25565/overview",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "Nikon COOLPIX P5000. Battery / Batteries: Rechargeable Li-ion Battery EN-EL5."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_p60_user_manual_https_www_nikonusa_com_pdf_manuals_coolpix_p60_en_pdf",
+    "source_name": "Nikon COOLPIX P60 User Manual",
+    "source_url": "https://www.nikonusa.com/pdf/manuals/coolpix/P60_en.pdf",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "COOLPIX P60 power sources: LR6 alkaline (AA-size) battery x 2."
+  },
+  {
     "source_id": "nikon_nikon_coolpix_s1_manual_https_cdn_10_nikon_cdn_com_pdf_manuals_coolpix_s1_en_pdf",
     "source_name": "Nikon COOLPIX S1 manual",
     "source_url": "https://cdn-10.nikon-cdn.com/pdf/manuals/coolpix/S1_en.pdf",
@@ -8386,6 +8665,15 @@
     "publisher": "Nikon",
     "last_verified": "2026-05-24",
     "notes": "Backfilled source registry entry from an existing compatibility row."
+  },
+  {
+    "source_id": "nikon_nikon_coolpix_s500_user_manual_https_www_nikonusa_com_pdf_manuals_coolpix_s500_en_pdf",
+    "source_name": "Nikon COOLPIX S500 User Manual",
+    "source_url": "https://www.nikonusa.com/pdf/manuals/coolpix/S500_en.pdf",
+    "source_type": "official_manual",
+    "publisher": "Nikon",
+    "last_verified": "2026-05-25",
+    "notes": "COOLPIX S500: Rechargeable Li-ion Battery EN-EL10."
   },
   {
     "source_id": "nikon_nikon_en_el12_official_compatibility_page_https_www_nikonusa_com_p_en_el12_rechargeable_li_ion_battery_25780_overv",
@@ -9576,6 +9864,15 @@
     "notes": "Samsung support provides the WB1000_English.pdf user manual for Samsung WB1000."
   },
   {
+    "source_id": "samsung_samsung_pl100_manual_manualslib_mirror_https_www_manualslib_com_manual_261693_samsung_pl100_html_page_97",
+    "source_name": "Samsung PL100 Manual (ManualsLib mirror)",
+    "source_url": "https://www.manualslib.com/manual/261693/Samsung-Pl100.html?page=97",
+    "source_type": "manual_mirror",
+    "publisher": "Samsung",
+    "last_verified": "2026-05-25",
+    "notes": "Samsung PL100 specifications. Power source: Rechargeable battery: BP70A, 740mAh."
+  },
+  {
     "source_id": "samsung_samsung_pl120_user_manual_mirror_https_www_manualslib_com_manual_144210_samsung_pl120_html_page_117",
     "source_name": "Samsung PL120 user manual mirror",
     "source_url": "https://www.manualslib.com/manual/144210/Samsung-Pl120.html?page=117",
@@ -9583,6 +9880,42 @@
     "publisher": "Samsung",
     "last_verified": "2026-05-24",
     "notes": "Backfilled source registry entry from an existing compatibility row."
+  },
+  {
+    "source_id": "samsung_samsung_pl170_manual_manualslib_mirror_https_www_manualslib_com_manual_261689_samsung_pl170_html_page_100",
+    "source_name": "Samsung PL170 Manual (ManualsLib mirror)",
+    "source_url": "https://www.manualslib.com/manual/261689/Samsung-Pl170.html?page=100",
+    "source_type": "manual_mirror",
+    "publisher": "Samsung",
+    "last_verified": "2026-05-25",
+    "notes": "Samsung PL170 specifications. Power source: Rechargeable battery: BP70A, 740mAh."
+  },
+  {
+    "source_id": "samsung_samsung_pl200_manual_manualslib_mirror_https_www_manualslib_com_manual_261687_samsung_pl200_html_page_93",
+    "source_name": "Samsung PL200 Manual (ManualsLib mirror)",
+    "source_url": "https://www.manualslib.com/manual/261687/Samsung-Pl200.html?page=93",
+    "source_type": "manual_mirror",
+    "publisher": "Samsung",
+    "last_verified": "2026-05-25",
+    "notes": "Samsung PL200 specifications. Power source: Rechargeable battery: BP70A, 740mAh."
+  },
+  {
+    "source_id": "samsung_samsung_pl20_manual_manualslib_mirror_https_www_manualslib_com_manual_261691_samsung_pl20_html_page_90",
+    "source_name": "Samsung PL20 Manual (ManualsLib mirror)",
+    "source_url": "https://www.manualslib.com/manual/261691/Samsung-Pl20.html?page=90",
+    "source_type": "manual_mirror",
+    "publisher": "Samsung",
+    "last_verified": "2026-05-25",
+    "notes": "Samsung PL20 specifications. Power source: Rechargeable battery: BP70A, 740mAh."
+  },
+  {
+    "source_id": "samsung_samsung_pl90_manual_manualslib_mirror_https_www_manualslib_com_manual_425671_samsung_pl90_html_page_79",
+    "source_name": "Samsung PL90 Manual (ManualsLib mirror)",
+    "source_url": "https://www.manualslib.com/manual/425671/Samsung-Pl90.html?page=79",
+    "source_type": "manual_mirror",
+    "publisher": "Samsung",
+    "last_verified": "2026-05-25",
+    "notes": "Samsung PL90 specifications. Power source: Rechargeable battery: BP70A, 740mAh."
   },
   {
     "source_id": "samsung_samsung_st150f_user_manual_mirror_https_www_manualsonline_com_manuals_mfg_samsung_st150f_3_html_p_135",
@@ -9594,6 +9927,42 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "samsung_samsung_st30_manual_manualslib_mirror_https_www_manualslib_com_manual_210057_samsung_st30_html_page_94",
+    "source_name": "Samsung ST30 Manual (ManualsLib mirror)",
+    "source_url": "https://www.manualslib.com/manual/210057/Samsung-St30.html?page=94",
+    "source_type": "manual_mirror",
+    "publisher": "Samsung",
+    "last_verified": "2026-05-25",
+    "notes": "Samsung ST30 specifications. Power source: Rechargeable battery: BP70A, 740mAh."
+  },
+  {
+    "source_id": "samsung_samsung_st65_manual_manualslib_mirror_https_www_manualslib_com_manual_146341_samsung_st65_html_page_98",
+    "source_name": "Samsung ST65 Manual (ManualsLib mirror)",
+    "source_url": "https://www.manualslib.com/manual/146341/Samsung-St65.html?page=98",
+    "source_type": "manual_mirror",
+    "publisher": "Samsung",
+    "last_verified": "2026-05-25",
+    "notes": "Samsung ST65 specifications. Power source: Rechargeable battery: BP70A, 740mAh."
+  },
+  {
+    "source_id": "samsung_samsung_st90_manual_manualslib_mirror_https_www_manualslib_com_manual_147297_samsung_st90_html_page_98",
+    "source_name": "Samsung ST90 Manual (ManualsLib mirror)",
+    "source_url": "https://www.manualslib.com/manual/147297/Samsung-St90.html?page=98",
+    "source_type": "manual_mirror",
+    "publisher": "Samsung",
+    "last_verified": "2026-05-25",
+    "notes": "Samsung ST90 specifications. Power source: Rechargeable battery: BP70A, 740mAh."
+  },
+  {
+    "source_id": "samsung_samsung_st95_manual_manualslib_mirror_https_www_manualslib_com_manual_146324_samsung_st95_html_page_114",
+    "source_name": "Samsung ST95 Manual (ManualsLib mirror)",
+    "source_url": "https://www.manualslib.com/manual/146324/Samsung-St95.html?page=114",
+    "source_type": "manual_mirror",
+    "publisher": "Samsung",
+    "last_verified": "2026-05-25",
+    "notes": "Samsung ST95 specifications. Power source: Rechargeable battery: BP70A, 740mAh."
+  },
+  {
     "source_id": "samsung_samsung_wb1000_user_manual_text_mirror_https_manualzz_com_doc_49237037_samsung_wb1000_user_manual",
     "source_name": "Samsung WB1000 User Manual text mirror",
     "source_url": "https://manualzz.com/doc/49237037/samsung-wb1000-user-manual",
@@ -9601,6 +9970,33 @@
     "publisher": "Samsung",
     "last_verified": "2026-05-25",
     "notes": "Samsung WB1000 User Manual: Power source - Rechargeable battery: Lithium-ion battery (SLB-11A, 1,130 mAh). Battery specifications: Mode SLB-11A, Type Lithium-ion battery, Cell capacity 1,130 mAh, Voltage 3.8 V."
+  },
+  {
+    "source_id": "samsung_samsung_wb550_manual_manualslib_mirror_https_www_manualslib_com_manual_146261_samsung_wb550_html_page_95",
+    "source_name": "Samsung WB550 Manual (ManualsLib mirror)",
+    "source_url": "https://www.manualslib.com/manual/146261/Samsung-Wb550.html?page=95",
+    "source_type": "manual_mirror",
+    "publisher": "Samsung",
+    "last_verified": "2026-05-25",
+    "notes": "Samsung WB550 specifications. Power source: Rechargeable battery: SLB-10A, 3.7V (1,050mAh)."
+  },
+  {
+    "source_id": "samsung_samsung_wb600_manual_manualslib_mirror_https_www_manualslib_com_manual_261669_samsung_wb600_html_page_99",
+    "source_name": "Samsung WB600 Manual (ManualsLib mirror)",
+    "source_url": "https://www.manualslib.com/manual/261669/Samsung-Wb600.html?page=99",
+    "source_type": "manual_mirror",
+    "publisher": "Samsung",
+    "last_verified": "2026-05-25",
+    "notes": "Samsung WB600 specifications. Power source: Rechargeable battery: SLB-11A, 3.8V (1,130 mAh)."
+  },
+  {
+    "source_id": "samsung_samsung_wb650_manual_manualslib_mirror_https_www_manualslib_com_manual_261662_samsung_wb650_html_page_110",
+    "source_name": "Samsung WB650 Manual (ManualsLib mirror)",
+    "source_url": "https://www.manualslib.com/manual/261662/Samsung-Wb650.html?page=110",
+    "source_type": "manual_mirror",
+    "publisher": "Samsung",
+    "last_verified": "2026-05-25",
+    "notes": "Samsung WB650 specifications. Power source: Rechargeable battery: SLB-11A, 3.8V (1,130 mAh)."
   },
   {
     "source_id": "sigma_sigma_bp_41_accessory_page_https_www_sigmaphoto_com_li_ion_battery_bp_41_for_dp_merrill_cameras",
@@ -9747,6 +10143,33 @@
     "notes": "Sony official battery compatibility table lists DSC-N2 with compatible battery NP-FG1."
   },
   {
+    "source_id": "sony_sony_dsc_h100_official_specifications_https_www_sony_co_uk_electronics_support_compact_cameras_dsc_h_series_dsc_h10",
+    "source_name": "Sony DSC-H100 Official Specifications",
+    "source_url": "https://www.sony.co.uk/electronics/support/compact-cameras-dsc-h-series/dsc-h100/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-H100. Battery System: AA battery. Supplied Battery: AA battery."
+  },
+  {
+    "source_id": "sony_sony_dsc_h200_official_specifications_https_www_sony_co_uk_electronics_support_compact_cameras_dsc_h_series_dsc_h20",
+    "source_name": "Sony DSC-H200 Official Specifications",
+    "source_url": "https://www.sony.co.uk/electronics/support/compact-cameras-dsc-h-series/dsc-h200/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-H200. Battery Type: Alkaline, NH-AA, Lithium Battery. Supplied Battery: Alkaline AA Battery."
+  },
+  {
+    "source_id": "sony_sony_dsc_h20_official_specifications_https_www_sony_co_uk_electronics_support_compact_cameras_dsc_h_series_dsc_h20",
+    "source_name": "Sony DSC-H20 Official Specifications",
+    "source_url": "https://www.sony.co.uk/electronics/support/compact-cameras-dsc-h-series/dsc-h20/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-H20. Supplied Battery: NP-BG1."
+  },
+  {
     "source_id": "sony_sony_dsc_h90_official_specifications_https_www_sony_es_electronics_support_compact_cameras_dsc_h_series_dsc_h90_spe",
     "source_name": "Sony DSC-H90 Official Specifications",
     "source_url": "https://www.sony.es/electronics/support/compact-cameras-dsc-h-series/dsc-h90/specifications",
@@ -9855,6 +10278,69 @@
     "notes": "DSC-T7 Read This First manual: use the supplied NP-FE1 battery pack before using the camera for the first time."
   },
   {
+    "source_id": "sony_sony_dsc_w310_official_specifications_https_www_sony_co_uk_electronics_support_compact_cameras_dsc_w_series_dsc_w31",
+    "source_name": "Sony DSC-W310 Official Specifications",
+    "source_url": "https://www.sony.co.uk/electronics/support/compact-cameras-dsc-w-series/dsc-w310/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-W310. Supplied Battery: NP-BN1."
+  },
+  {
+    "source_id": "sony_sony_dsc_w330_official_specifications_https_www_sony_co_uk_electronics_support_compact_cameras_dsc_w_series_dsc_w33",
+    "source_name": "Sony DSC-W330 Official Specifications",
+    "source_url": "https://www.sony.co.uk/electronics/support/compact-cameras-dsc-w-series/dsc-w330/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-W330. Supplied Battery: NP-BN1."
+  },
+  {
+    "source_id": "sony_sony_dsc_w360_official_specifications_https_www_sony_co_uk_electronics_support_compact_cameras_dsc_w_series_dsc_w36",
+    "source_name": "Sony DSC-W360 Official Specifications",
+    "source_url": "https://www.sony.co.uk/electronics/support/compact-cameras-dsc-w-series/dsc-w360/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-W360. Supplied Battery: NP-BN1."
+  },
+  {
+    "source_id": "sony_sony_dsc_w510_official_specifications_https_www_sony_co_uk_electronics_support_compact_cameras_dsc_w_series_dsc_w51",
+    "source_name": "Sony DSC-W510 Official Specifications",
+    "source_url": "https://www.sony.co.uk/electronics/support/compact-cameras-dsc-w-series/dsc-w510/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-W510. Battery Type: NP-BN1."
+  },
+  {
+    "source_id": "sony_sony_dsc_w520_official_specifications_https_www_sony_co_uk_electronics_support_compact_cameras_dsc_w_series_dsc_w52",
+    "source_name": "Sony DSC-W520 Official Specifications",
+    "source_url": "https://www.sony.co.uk/electronics/support/compact-cameras-dsc-w-series/dsc-w520/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-W520. Battery Type: NP-BN1."
+  },
+  {
+    "source_id": "sony_sony_dsc_w560_official_specifications_https_www_sony_co_uk_electronics_support_compact_cameras_dsc_w_series_dsc_w56",
+    "source_name": "Sony DSC-W560 Official Specifications",
+    "source_url": "https://www.sony.co.uk/electronics/support/compact-cameras-dsc-w-series/dsc-w560/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-W560. Battery Type: NP-BN1."
+  },
+  {
+    "source_id": "sony_sony_dsc_w580_official_specifications_https_www_sony_co_uk_electronics_support_compact_cameras_dsc_w_series_dsc_w58",
+    "source_name": "Sony DSC-W580 Official Specifications",
+    "source_url": "https://www.sony.co.uk/electronics/support/compact-cameras-dsc-w-series/dsc-w580/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-W580. Battery Type: NP-BN1."
+  },
+  {
     "source_id": "sony_sony_dsc_wx300_official_specifications_https_www_sony_com_electronics_support_compact_cameras_dsc_wx_series_dsc_wx3",
     "source_name": "Sony DSC-WX300 Official Specifications",
     "source_url": "https://www.sony.com/electronics/support/compact-cameras-dsc-wx-series/dsc-wx300/specifications",
@@ -9862,6 +10348,15 @@
     "publisher": "Sony",
     "last_verified": "2026-05-25",
     "notes": "Sony official specifications for DSC-WX300: Supplied Battery - Rechargeable Battery Pack NP-BX1."
+  },
+  {
+    "source_id": "sony_sony_dsc_wx9_official_specifications_https_www_sony_co_uk_electronics_support_compact_cameras_dscw_series_dsc_wx9_s",
+    "source_name": "Sony DSC-WX9 Official Specifications",
+    "source_url": "https://www.sony.co.uk/electronics/support/compact-cameras-dscw-series/dsc-wx9/specifications",
+    "source_type": "official_manual",
+    "publisher": "Sony",
+    "last_verified": "2026-05-25",
+    "notes": "Sony DSC-WX9. Supplied Battery: NP-BN1."
   },
   {
     "source_id": "sony_sony_india_dsc_t90_specifications_https_www_sony_co_in_electronics_support_compact_cameras_dsct_series_dsc_t90_spec",

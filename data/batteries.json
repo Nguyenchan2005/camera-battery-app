@@ -256,7 +256,7 @@
     "aliases": [],
     "chemistry": "lithium-ion",
     "voltage": null,
-    "capacity_mah": null,
+    "capacity_mah": 1200,
     "notes": "Added by web-assisted verifier from an explicit source-backed battery mapping."
   },
   {
@@ -278,6 +278,36 @@
     "voltage": null,
     "capacity_mah": 1800,
     "notes": "Casio FAQ lists rated capacity 1800 mAh."
+  },
+  {
+    "battery_id": "casio_np_160",
+    "brand": "Casio",
+    "model": "NP-160",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": 1200,
+    "notes": "Added from reviewed Phase 10 targeted manual evidence."
+  },
+  {
+    "battery_id": "casio_np_40",
+    "brand": "Casio",
+    "model": "NP-40",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from reviewed Phase 10 targeted manual evidence."
+  },
+  {
+    "battery_id": "casio_np_90",
+    "brand": "Casio",
+    "model": "NP-90",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": 3.7,
+    "capacity_mah": 1950,
+    "notes": "Added from reviewed Phase 10 targeted manual evidence."
   },
   {
     "battery_id": "fujifilm_np_120",
@@ -1122,9 +1152,9 @@
     "model": "SLB-10A",
     "aliases": [],
     "chemistry": "lithium-ion",
-    "voltage": null,
-    "capacity_mah": null,
-    "notes": ""
+    "voltage": 3.7,
+    "capacity_mah": 1050,
+    "notes": "Added from reviewed Phase 10 targeted manual evidence."
   },
   {
     "battery_id": "samsung_slb_11a",

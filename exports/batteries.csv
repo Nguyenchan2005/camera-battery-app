@@ -24,9 +24,12 @@ canon_nb_6lh,Canon,NB-6LH,[],lithium-ion,,,Added from Canon Batch 1 import; elec
 canon_nb_7l,Canon,NB-7L,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
 canon_nb_8l,Canon,NB-8L,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
 canon_nb_9l,Canon,NB-9L,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
-casio_np_110,Casio,NP-110,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
+casio_np_110,Casio,NP-110,[],lithium-ion,,1200,Added by web-assisted verifier from an explicit source-backed battery mapping.
 casio_np_130,Casio,NP-130,[],lithium-ion,,1800,Casio FAQ lists rated capacity 1800 mAh.
 casio_np_130a,Casio,NP-130A,[],lithium-ion,,1800,Casio FAQ lists rated capacity 1800 mAh.
+casio_np_160,Casio,NP-160,[],lithium-ion,,1200,Added from reviewed Phase 10 targeted manual evidence.
+casio_np_40,Casio,NP-40,[],lithium-ion,,,Added from reviewed Phase 10 targeted manual evidence.
+casio_np_90,Casio,NP-90,[],lithium-ion,3.7,1950,Added from reviewed Phase 10 targeted manual evidence.
 fujifilm_np_120,Fujifilm,NP-120,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 fujifilm_np_140,Fujifilm,NP-140,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 fujifilm_np_40,Fujifilm,NP-40,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
@@ -107,7 +110,7 @@ ricoh_db_110,Ricoh,DB-110,[],lithium-ion,3.6,1350,WG-6 manual snippet lists 3.6 
 samsung_bp70a,Samsung,BP70A,"[""BP-70A""]",lithium-ion,3.7,700,Samsung manual sources list 700 mAh or min 700 mAh depending model.
 samsung_bp88a,Samsung,BP88A,[],lithium-ion,3.7,880,Added from reviewed LLM-assisted research evidence with a recorded source.
 samsung_bp_1410,Samsung,BP-1410,"[""BP1410""]",lithium-ion,,,
-samsung_slb_10a,Samsung,SLB-10A,[],lithium-ion,,,
+samsung_slb_10a,Samsung,SLB-10A,[],lithium-ion,3.7,1050,Added from reviewed Phase 10 targeted manual evidence.
 samsung_slb_11a,Samsung,SLB-11A,[],lithium-ion,3.8,1130,Added from reviewed LLM-assisted research evidence with a recorded source.
 sigma_bp_31,Sigma,BP-31,[],lithium-ion,3.7,1300,B&H source lists 3.7 V / 1300 mAh.
 sigma_bp_41,Sigma,BP-41,[],lithium-ion,,1250,Capacity from third-party battery summary; official Sigma source confirms camera compatibility.

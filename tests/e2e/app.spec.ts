@@ -57,18 +57,17 @@ test("search Kodak EasyShare C1013 returns unresolved without battery compatibil
   await expect(page.getByTestId("inventory-unverified-summary")).toContainText("chua xac minh pin");
 });
 
-test("shows weak battery suggestions separately from verified compatibility", async ({ page }) => {
+test("shows newly manual-verified Kodak C713 as compatible rather than suggested", async ({ page }) => {
   await openApp(page);
   await fillSearch(page, "Kodak EasyShare C713");
-  await page.getByTestId("search-result-unresolved_candidate-kodak_easyshare_c713").click();
-  await expect(page.getByTestId("result-unresolved")).toBeVisible();
-  await expect(page.getByTestId("unresolved-suggestions")).toContainText("AA");
-  await expect(page.getByTestId("unresolved-suggestions")).toContainText("unverified suggestion");
-  await expect(page.locator('[data-testid^="compat-card-"]')).toHaveCount(0);
+  await page.getByTestId("search-result-camera-kodak_easyshare_c713").click();
+  await expect(page.getByTestId("result-camera")).toBeVisible();
+  await expect(page.getByTestId("compat-card-generic_aa-uses_aa")).toContainText("AA");
+  await expect(page.getByTestId("unresolved-suggestions")).toHaveCount(0);
 
   await submitSearch(page, "AA");
-  await expect(page.getByTestId("battery-suggested-matches")).toContainText("Kodak EasyShare C713");
-  await expect(page.getByTestId("battery-suggested-matches")).toContainText("chua xac minh");
+  await expect(page.getByTestId("battery-camera-kodak_easyshare_c713")).toContainText("Kodak EasyShare C713");
+  await expect(page.getByTestId("battery-suggested-matches")).toHaveCount(0);
 });
 
 test("finds researched Samsung TL320 alias as verified WB1000 with SLB-11A", async ({ page }) => {

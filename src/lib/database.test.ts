@@ -19,7 +19,7 @@ const bundle = {
   sources: sourcesJson,
   unresolvedModels: unresolvedModelsJson,
   batterySuggestions: batterySuggestionsJson,
-} as DataBundle;
+} as unknown as DataBundle;
 
 const db = createDatabase(bundle);
 
@@ -155,16 +155,35 @@ describe("database loader, search, and source-backed lookup", () => {
   });
 
   it("keeps weak battery suggestions separate from verified compatibility", () => {
-    const lookup = db.lookupFromMatch(db.searchAll("Kodak EasyShare C713", 1)[0]);
+    const suggestedDb = createDatabase({
+      ...bundle,
+      batterySuggestions: [
+        {
+          camera_id: "kodak_easyshare_c1013",
+          display_name: "Kodak EasyShare C1013",
+          brand: "Kodak",
+          suggested_battery_model: "AA",
+          suggested_battery_id: "generic_aa",
+          evidence_type: "retailer_specification",
+          source_name: "Test retailer source",
+          source_url: "https://example.com/test-suggestion",
+          source_text: "Kodak EasyShare C1013 battery suggestion: AA.",
+          confidence: "low",
+          warning: "Not verified official compatibility.",
+          last_checked: "2026-05-25",
+        },
+      ],
+    });
+    const lookup = suggestedDb.lookupFromMatch(suggestedDb.searchAll("Kodak EasyShare C1013", 1)[0]);
     expect(lookup.kind).toBe("unresolved");
     if (lookup.kind === "unresolved") {
       expect(lookup.suggestions.some((row) => row.suggested_battery_model === "AA")).toBe(true);
-      expect(db.getCameraBatteryCompatibility(lookup.candidate.camera_id)).toEqual([]);
-      expect(db.buildNaturalAnswer(lookup)).toContain("goi y chua xac minh");
+      expect(suggestedDb.getCameraBatteryCompatibility(lookup.candidate.camera_id)).toEqual([]);
+      expect(suggestedDb.buildNaturalAnswer(lookup)).toContain("goi y chua xac minh");
     }
-    const aaSuggestions = db.getBatterySuggestionsForBattery("generic_aa");
-    expect(aaSuggestions.some((row) => row.camera_id === "kodak_easyshare_c713")).toBe(true);
-    expect(db.getBatteryCompatibleCameras("generic_aa").some((row) => row.camera.camera_id === "kodak_easyshare_c713")).toBe(false);
+    const aaSuggestions = suggestedDb.getBatterySuggestionsForBattery("generic_aa");
+    expect(aaSuggestions.some((row) => row.camera_id === "kodak_easyshare_c1013")).toBe(true);
+    expect(suggestedDb.getBatteryCompatibleCameras("generic_aa").some((row) => row.camera.camera_id === "kodak_easyshare_c1013")).toBe(false);
   });
 
   it("returns unknown for a model not in the database", () => {

@@ -4,35 +4,35 @@ Generated: 2026-05-25
 
 ## Summary
 
-- Cameras: 1006
-- Compatibility rows: 1463
-- Cameras with at least one high-confidence verified battery row: 943
+- Cameras: 1068
+- Compatibility rows: 1526
+- Cameras with at least one high-confidence verified battery row: 992
 - Cameras with unknown battery mapping rows: 0
-- Cameras with aliases or regional names: 998
+- Cameras with aliases or regional names: 1060
 
 ## Cameras By Brand
 
 | Brand | Cameras | High rows | Medium rows | Low rows |
 | --- | ---: | ---: | ---: | ---: |
 | Canon | 223 | 373 | 1 | 0 |
-| Casio | 17 | 18 | 0 | 0 |
+| Casio | 22 | 24 | 0 | 0 |
 | Fujifilm | 135 | 173 | 14 | 0 |
 | GE | 2 | 0 | 2 | 0 |
 | HP | 1 | 0 | 1 | 0 |
-| Kodak | 6 | 5 | 1 | 0 |
+| Kodak | 14 | 12 | 2 | 0 |
 | Kodak PIXPRO | 2 | 2 | 0 | 0 |
 | Konica Minolta | 6 | 1 | 4 | 1 |
 | Leica | 4 | 4 | 0 | 0 |
 | Minolta | 4 | 0 | 6 | 0 |
-| Nikon | 97 | 84 | 21 | 0 |
+| Nikon | 123 | 110 | 21 | 0 |
 | OM System | 1 | 1 | 0 | 0 |
 | Olympus | 184 | 267 | 22 | 0 |
 | Panasonic | 136 | 149 | 1 | 0 |
 | Pentax | 4 | 1 | 4 | 0 |
 | Ricoh | 6 | 3 | 3 | 0 |
-| Samsung | 7 | 1 | 5 | 2 |
+| Samsung | 19 | 1 | 17 | 2 |
 | Sigma | 7 | 7 | 0 | 0 |
-| Sony | 163 | 280 | 5 | 0 |
+| Sony | 174 | 291 | 5 | 0 |
 | Vivitar | 1 | 0 | 1 | 0 |
 
 ## Manual Check List
@@ -58,6 +58,7 @@ Generated: 2026-05-25
 | GE | GE X5 | uses_aa | medium | https://camera-wiki.org/wiki/GE_X5 |
 | HP | HP PhotoSmart 945 | uses_aa | medium | https://camera-wiki.org/wiki/HP_PhotoSmart_945 |
 | Kodak | Kodak EasyShare C613 | uses_aa | medium | https://www.manualslib.com/manual/89231/Kodak-Easyshare-C613.html |
+| Kodak | Kodak EasyShare C653 | uses_aa | medium | https://www.manualslib.com/manual/3586927/Kodak-Easyshare-C653.html?page=66 |
 | Konica Minolta | Konica Minolta DiMAGE X1 | fully_compatible | low | https://manualmachine.com/konicaminolta/dimagex1/13844315-user-manual/ |
 | Konica Minolta | Konica Minolta DiMAGE Z10 | uses_aa | medium | https://camera-wiki.org/wiki/Konica_Minolta_DiMAGE_Z10 |
 | Konica Minolta | Konica Minolta DiMAGE Z2 | uses_aa | medium | https://camera-wiki.org/wiki/Konica_Minolta_DiMAGE_Z2 |
@@ -123,10 +124,22 @@ Generated: 2026-05-25
 | Samsung | Samsung DV300F | fully_compatible | medium | https://www.manualslib.com/manual/412593/Samsung-Dv300f.html?page=143 |
 | Samsung | Samsung Digimax 240 | fully_compatible | medium | https://camera-wiki.org/wiki/Samsung_Digimax_240 |
 | Samsung | Samsung Digimax 240 | uses_aa | medium | https://camera-wiki.org/wiki/Samsung_Digimax_240 |
+| Samsung | Samsung PL100 | fully_compatible | medium | https://www.manualslib.com/manual/261693/Samsung-Pl100.html?page=97 |
 | Samsung | Samsung PL120 | fully_compatible | low | https://www.manualslib.com/manual/144210/Samsung-Pl120.html?page=117 |
+| Samsung | Samsung PL170 | fully_compatible | medium | https://www.manualslib.com/manual/261689/Samsung-Pl170.html?page=100 |
+| Samsung | Samsung PL20 | fully_compatible | medium | https://www.manualslib.com/manual/261691/Samsung-Pl20.html?page=90 |
+| Samsung | Samsung PL200 | fully_compatible | medium | https://www.manualslib.com/manual/261687/Samsung-Pl200.html?page=93 |
+| Samsung | Samsung PL90 | fully_compatible | medium | https://www.manualslib.com/manual/425671/Samsung-Pl90.html?page=79 |
 | Samsung | Samsung ST150F | fully_compatible | low | https://www.manualsonline.com/manuals/mfg/samsung/st150f_3.html?p=135 |
+| Samsung | Samsung ST30 | fully_compatible | medium | https://www.manualslib.com/manual/210057/Samsung-St30.html?page=94 |
+| Samsung | Samsung ST65 | fully_compatible | medium | https://www.manualslib.com/manual/146341/Samsung-St65.html?page=98 |
+| Samsung | Samsung ST90 | fully_compatible | medium | https://www.manualslib.com/manual/147297/Samsung-St90.html?page=98 |
+| Samsung | Samsung ST95 | fully_compatible | medium | https://www.manualslib.com/manual/146324/Samsung-St95.html?page=114 |
 | Samsung | Samsung WB1000 | fully_compatible | medium | https://manualzz.com/doc/49237037/samsung-wb1000-user-manual |
 | Samsung | Samsung WB2200F | fully_compatible | medium | https://www.dpreview.com/products/samsung/compacts/samsung_wb2200f/specifications |
+| Samsung | Samsung WB550 | fully_compatible | medium | https://www.manualslib.com/manual/146261/Samsung-Wb550.html?page=95 |
+| Samsung | Samsung WB600 | fully_compatible | medium | https://www.manualslib.com/manual/261669/Samsung-Wb600.html?page=99 |
+| Samsung | Samsung WB650 | fully_compatible | medium | https://www.manualslib.com/manual/261662/Samsung-Wb650.html?page=110 |
 | Sony | Sony Cyber-shot DSC-H2 | uses_aa | medium | https://camera-wiki.org/wiki/Sony_DSC-H2 |
 | Sony | Sony Cyber-shot DSC-T33 | fully_compatible | medium | https://camera-wiki.org/wiki/Sony_DSC-T33 |
 | Sony | Sony Cyber-shot DSC-T9 | fully_compatible | medium | https://camera-wiki.org/wiki/Sony_DSC-T9 |

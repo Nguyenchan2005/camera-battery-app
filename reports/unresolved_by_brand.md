@@ -4,18 +4,18 @@ Generated: 2026-05-25
 
 | Brand | Unresolved models |
 | --- | ---: |
-| Kodak | 170 |
-| Casio | 146 |
-| Samsung | 111 |
+| Kodak | 162 |
+| Casio | 141 |
+| Samsung | 99 |
 | Fujifilm | 93 |
-| Nikon | 91 |
 | Pentax | 84 |
 | HP | 66 |
+| Nikon | 65 |
 | Ricoh | 52 |
 | Olympus | 45 |
-| Sony | 31 |
 | Panasonic | 30 |
 | Leica | 26 |
+| Sony | 20 |
 | Minolta | 16 |
 | Konica Minolta | 11 |
 | Sigma | 9 |
@@ -38,17 +38,13 @@ Generated: 2026-05-25
 
 ### Casio
 
-- Casio Exilim EX-FC100 (Exilim F): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-FC150 (Exilim F): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-FC200S (Exilim F): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
-- Casio Exilim EX-FH100 (Exilim F): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-FH15 (Exilim F): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-FH20 (Exilim F): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-FH25 (Exilim F): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-FS10 (Exilim F): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-G1 (Exilim G): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
-- Casio Exilim EX-H10 (Exilim H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
-- Casio Exilim EX-H15 (Exilim H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-H20G (Exilim H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-H5 (Exilim H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-H50 (Exilim H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
@@ -148,7 +144,6 @@ Generated: 2026-05-25
 - Casio Exilim EX-Z9 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-Z90 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR10 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
-- Casio Exilim EX-ZR15 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR2100 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR3000 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
 - Casio Exilim EX-ZR3500 (Exilim Z): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Casio
@@ -381,10 +376,8 @@ Generated: 2026-05-25
 - Kodak EasyShare C513 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C530 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C533 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
-- Kodak EasyShare C653 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C663 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C703 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
-- Kodak EasyShare C713 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C743 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C763 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare C875 (EasyShare C): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
@@ -399,7 +392,6 @@ Generated: 2026-05-25
 - Kodak EasyShare CD43 (EasyShare CD): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare CD44 (EasyShare CD): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare CD50 (EasyShare CD): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
-- Kodak EasyShare CD703 (EasyShare CD): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare CD80 (EasyShare CD): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare CD82 (EasyShare CD): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare CD83 (EasyShare CD): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
@@ -417,7 +409,6 @@ Generated: 2026-05-25
 - Kodak EasyShare CX7220 (EasyShare CX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare CX7300 (EasyShare CX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare CX7310 (EasyShare CX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
-- Kodak EasyShare CX7330 (EasyShare CX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare CX7430 (EasyShare CX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare CX7525 (EasyShare CX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare CX7530 (EasyShare CX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
@@ -461,12 +452,8 @@ Generated: 2026-05-25
 - Kodak EasyShare M532 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare M5350 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare M5370 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
-- Kodak EasyShare M550 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare M552 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
-- Kodak EasyShare M575 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare M577 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
-- Kodak EasyShare M580 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
-- Kodak EasyShare M583 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare M590 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare M753 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
 - Kodak EasyShare M763 (EasyShare M): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Kodak
@@ -600,10 +587,7 @@ Generated: 2026-05-25
 - Nikon COOLPIX 3700 (COOLPIX 3): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_3700
 - Nikon COOLPIX 4200 (COOLPIX 4): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX 4300 (COOLPIX 4): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_4300
-- Nikon COOLPIX 4600 (COOLPIX 4): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX 4800 (COOLPIX 4): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX 5200 (COOLPIX 5): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_5200
-- Nikon COOLPIX 5600 (COOLPIX 5): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX 5700 (COOLPIX 5): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_5700
 - Nikon COOLPIX 5900 (COOLPIX 5): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_5900
 - Nikon COOLPIX 7600 (COOLPIX 7): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
@@ -618,44 +602,23 @@ Generated: 2026-05-25
 - Nikon COOLPIX L10 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L100 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L11 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L110 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L12 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L14 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L15 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L16 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L18 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L19 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L2 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L20 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L21 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L22 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L24 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L25 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L27 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L29 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L3 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L310 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L320 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L330 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L4 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L5 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX L6 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L620 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L830 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX L840 (COOLPIX L): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX P100 (COOLPIX P): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_P100
 - Nikon COOLPIX P3 (COOLPIX P): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_P3_%26_P4
 - Nikon COOLPIX P4 (COOLPIX P): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_P3_%26_P4
 - Nikon COOLPIX P50 (COOLPIX P): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX P5000 (COOLPIX P): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX P530 (COOLPIX P): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX P60 (COOLPIX P): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX P80 (COOLPIX P): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX P90 (COOLPIX P): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S02 (COOLPIX S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX S10 (COOLPIX S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_S10
 - Nikon COOLPIX S2 (COOLPIX S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_S2
-- Nikon COOLPIX S200 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S210 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S220 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S230 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
@@ -665,8 +628,6 @@ Generated: 2026-05-25
 - Nikon COOLPIX S3000 (COOLPIX S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_S3000
 - Nikon COOLPIX S4 (COOLPIX S): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Nikon_Coolpix_S4
 - Nikon COOLPIX S4100 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX S50 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
-- Nikon COOLPIX S500 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S51 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S510 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
 - Nikon COOLPIX S52 (COOLPIX S): Checked source but exact model match was not confirmed. Source: https://camera-wiki.org/wiki/Nikon_Coolpix
@@ -989,34 +950,22 @@ Generated: 2026-05-25
 - Samsung NV7 (NV): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung_NV7_OPS
 - Samsung NV8 (NV): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung NV9 (NV): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
-- Samsung PL100 (PL): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung PL150 (PL): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
-- Samsung PL170 (PL): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
-- Samsung PL20 (PL): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
-- Samsung PL200 (PL): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung PL210 (PL): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
-- Samsung PL90 (PL): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST100 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
-- Samsung ST30 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST500 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST5000 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST550 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST5500 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST600 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
-- Samsung ST65 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST6500 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST70 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST700 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST80 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
-- Samsung ST90 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung ST93 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
-- Samsung ST95 (ST): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung WB2000 (WB): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung WB210 (WB): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
-- Samsung WB550 (WB): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung WB5500 (WB): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
-- Samsung WB600 (WB): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
-- Samsung WB650 (WB): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung WB700 (WB): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 - Samsung WB750 (WB): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Samsung
 
@@ -1034,9 +983,6 @@ Generated: 2026-05-25
 
 ### Sony
 
-- Sony Cyber-shot DSC-H100 (Cyber-shot DSC-H): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-H20 (Cyber-shot DSC-H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-H200 (Cyber-shot DSC-H): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-H9 (Cyber-shot DSC-H): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-T25 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-T66 (Cyber-shot DSC-T): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
@@ -1050,18 +996,10 @@ Generated: 2026-05-25
 - Sony Cyber-shot DSC-W17 (Cyber-shot DSC-W): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W215 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W275 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-W310 (Cyber-shot DSC-W): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-W330 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-W360 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W370 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W40 (Cyber-shot DSC-W): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-W510 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-W520 (Cyber-shot DSC-W): Checked source but no explicit battery/power mapping was extracted. Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W55 (Cyber-shot DSC-W): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-W560 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-W580 (Cyber-shot DSC-W): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W70 (Cyber-shot DSC-W): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W85 (Cyber-shot DSC-W): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony Cyber-shot DSC-W90 (Cyber-shot DSC-W): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
-- Sony Cyber-shot DSC-WX9 (Cyber-shot DSC-WX): Camera existence confirmed, battery not yet source-verified Source: https://camera-wiki.org/wiki/Sony
 - Sony ZV-1 Mark II (VLOGCAM ZV): Battery source check failed: TimeoutError: The read operation timed out Source: https://camera-wiki.org/wiki/Sony

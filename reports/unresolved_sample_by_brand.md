@@ -33,17 +33,13 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 
 | Camera | Series | Source | Reason |
 | --- | --- | --- | --- |
-| Casio Exilim EX-FC100 | Exilim F | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-FC150 | Exilim F | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-FC200S | Exilim F | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
-| Casio Exilim EX-FH100 | Exilim F | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-FH15 | Exilim F | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-FH20 | Exilim F | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-FH25 | Exilim F | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-FS10 | Exilim F | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-G1 | Exilim G | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
-| Casio Exilim EX-H10 | Exilim H | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
-| Casio Exilim EX-H15 | Exilim H | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-H20G | Exilim H | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-H5 | Exilim H | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-H50 | Exilim H | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
@@ -53,6 +49,10 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 | Casio Exilim EX-M2 | Exilim M | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-M20 | Exilim M | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 | Casio Exilim EX-MR1 | Exilim M | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
+| Casio Exilim EX-N1 | Exilim N | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
+| Casio Exilim EX-N10 | Exilim N | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
+| Casio Exilim EX-N20 | Exilim N | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
+| Casio Exilim EX-N5 | Exilim N | https://camera-wiki.org/wiki/Casio | Camera existence confirmed, battery not yet source-verified |
 
 ## Samsung
 
@@ -104,31 +104,6 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 | Fujifilm FinePix A850 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Checked source but no explicit battery/power mapping was extracted. |
 | Fujifilm FinePix A920 | FinePix A | https://camera-wiki.org/wiki/Fujifilm_digital_cameras | Battery source check failed: TimeoutError: The read operation timed out |
 
-## Nikon
-
-| Camera | Series | Source | Reason |
-| --- | --- | --- | --- |
-| Nikon COOLPIX 2000 | COOLPIX 2 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
-| Nikon COOLPIX 2100 | COOLPIX 2 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
-| Nikon COOLPIX 2200 | COOLPIX 2 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
-| Nikon COOLPIX 2500 | COOLPIX 2 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
-| Nikon COOLPIX 3200 | COOLPIX 3 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
-| Nikon COOLPIX 3500 | COOLPIX 3 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
-| Nikon COOLPIX 3700 | COOLPIX 3 | https://camera-wiki.org/wiki/Nikon_Coolpix_3700 | Checked source but no explicit battery/power mapping was extracted. |
-| Nikon COOLPIX 4200 | COOLPIX 4 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
-| Nikon COOLPIX 4300 | COOLPIX 4 | https://camera-wiki.org/wiki/Nikon_Coolpix_4300 | Checked source but no explicit battery/power mapping was extracted. |
-| Nikon COOLPIX 4600 | COOLPIX 4 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
-| Nikon COOLPIX 4800 | COOLPIX 4 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
-| Nikon COOLPIX 5200 | COOLPIX 5 | https://camera-wiki.org/wiki/Nikon_Coolpix_5200 | Checked source but no explicit battery/power mapping was extracted. |
-| Nikon COOLPIX 5600 | COOLPIX 5 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
-| Nikon COOLPIX 5700 | COOLPIX 5 | https://camera-wiki.org/wiki/Nikon_Coolpix_5700 | Checked source but no explicit battery/power mapping was extracted. |
-| Nikon COOLPIX 5900 | COOLPIX 5 | https://camera-wiki.org/wiki/Nikon_Coolpix_5900 | Checked source but no explicit battery/power mapping was extracted. |
-| Nikon COOLPIX 7600 | COOLPIX 7 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
-| Nikon COOLPIX 775 | COOLPIX 7 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
-| Nikon COOLPIX 7900 | COOLPIX 7 | https://camera-wiki.org/wiki/Nikon_Coolpix_7900 | Checked source but no explicit battery/power mapping was extracted. |
-| Nikon COOLPIX 800 | COOLPIX 8 | https://camera-wiki.org/wiki/Nikon_Coolpix_800 | Camera existence confirmed, battery not yet source-verified |
-| Nikon COOLPIX 8400 | COOLPIX 8 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
-
 ## Pentax
 
 | Camera | Series | Source | Reason |
@@ -178,6 +153,31 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 | HP PhotoSmart 850 | PhotoSmart | https://camera-wiki.org/wiki/HP_PhotoSmart_850 | Camera existence confirmed, battery not yet source-verified |
 | HP PhotoSmart 935 | PhotoSmart | https://camera-wiki.org/wiki/HP_PhotoSmart_935 | Camera existence confirmed, battery not yet source-verified |
 | HP PhotoSmart A444 | PhotoSmart | https://camera-wiki.org/wiki/Hewlett-Packard | Camera existence confirmed, battery not yet source-verified |
+
+## Nikon
+
+| Camera | Series | Source | Reason |
+| --- | --- | --- | --- |
+| Nikon COOLPIX 2000 | COOLPIX 2 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX 2100 | COOLPIX 2 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX 2200 | COOLPIX 2 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX 2500 | COOLPIX 2 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX 3200 | COOLPIX 3 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX 3500 | COOLPIX 3 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX 3700 | COOLPIX 3 | https://camera-wiki.org/wiki/Nikon_Coolpix_3700 | Checked source but no explicit battery/power mapping was extracted. |
+| Nikon COOLPIX 4200 | COOLPIX 4 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX 4300 | COOLPIX 4 | https://camera-wiki.org/wiki/Nikon_Coolpix_4300 | Checked source but no explicit battery/power mapping was extracted. |
+| Nikon COOLPIX 4800 | COOLPIX 4 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX 5700 | COOLPIX 5 | https://camera-wiki.org/wiki/Nikon_Coolpix_5700 | Checked source but no explicit battery/power mapping was extracted. |
+| Nikon COOLPIX 5900 | COOLPIX 5 | https://camera-wiki.org/wiki/Nikon_Coolpix_5900 | Checked source but no explicit battery/power mapping was extracted. |
+| Nikon COOLPIX 7600 | COOLPIX 7 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX 775 | COOLPIX 7 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX 7900 | COOLPIX 7 | https://camera-wiki.org/wiki/Nikon_Coolpix_7900 | Checked source but no explicit battery/power mapping was extracted. |
+| Nikon COOLPIX 800 | COOLPIX 8 | https://camera-wiki.org/wiki/Nikon_Coolpix_800 | Camera existence confirmed, battery not yet source-verified |
+| Nikon COOLPIX 8400 | COOLPIX 8 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX 880 | COOLPIX 8 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
+| Nikon COOLPIX 900 | COOLPIX 9 | https://camera-wiki.org/wiki/Nikon_Coolpix | Camera existence confirmed, battery not yet source-verified |
+| Nikon COOLPIX 910 | COOLPIX 9 | https://camera-wiki.org/wiki/Nikon_Coolpix | Checked source but exact model match was not confirmed. |
 
 ## Ricoh
 
@@ -229,31 +229,6 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 | Olympus C-800L | C series | https://camera-wiki.org/wiki/Olympus_C-800L | Camera existence confirmed, battery not yet source-verified |
 | Olympus C-960 | C series | https://camera-wiki.org/wiki/Olympus | Camera existence confirmed, battery not yet source-verified |
 
-## Sony
-
-| Camera | Series | Source | Reason |
-| --- | --- | --- | --- |
-| Sony Cyber-shot DSC-H100 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-H20 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-H200 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-H9 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-T25 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-T66 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-T75 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-TX77 | Cyber-shot DSC-TX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-W100 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-W115 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-W12 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-W125 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-W15 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-W17 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
-| Sony Cyber-shot DSC-W215 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-W275 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-W310 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Checked source but no explicit battery/power mapping was extracted. |
-| Sony Cyber-shot DSC-W330 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-W360 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-| Sony Cyber-shot DSC-W370 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
-
 ## Panasonic
 
 | Camera | Series | Source | Reason |
@@ -303,6 +278,31 @@ Major brands list up to 20 unresolved models; smaller brands list up to 5.
 | Leica V-Lux 3 | V-Lux | https://camera-wiki.org/wiki/Leica | Camera existence confirmed, battery not yet source-verified |
 | Leica V-Lux 30 | V-Lux | https://camera-wiki.org/wiki/Leica | Camera existence confirmed, battery not yet source-verified |
 | Leica V-Lux 4 | V-Lux | https://camera-wiki.org/wiki/Leica | Camera existence confirmed, battery not yet source-verified |
+
+## Sony
+
+| Camera | Series | Source | Reason |
+| --- | --- | --- | --- |
+| Sony Cyber-shot DSC-H9 | Cyber-shot DSC-H | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-T25 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-T66 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-T75 | Cyber-shot DSC-T | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-TX77 | Cyber-shot DSC-TX | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-W100 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-W115 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-W12 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-W125 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-W15 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-W17 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-W215 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-W275 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-W370 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
+| Sony Cyber-shot DSC-W40 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-W55 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-W70 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-W85 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony Cyber-shot DSC-W90 | Cyber-shot DSC-W | https://camera-wiki.org/wiki/Sony | Camera existence confirmed, battery not yet source-verified |
+| Sony ZV-1 Mark II | VLOGCAM ZV | https://camera-wiki.org/wiki/Sony | Battery source check failed: TimeoutError: The read operation timed out |
 
 ## Minolta
 
