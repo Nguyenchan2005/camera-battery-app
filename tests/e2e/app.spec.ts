@@ -104,6 +104,33 @@ test("adds camera and battery to local inventory", async ({ page }) => {
   expect(stored.batteries).toContain("canon_nb_13l");
 });
 
+test("opens compatible details by clicking camera or battery in the inventory", async ({ page }) => {
+  await openApp(page);
+  await fillSearch(page, "Canon G7X Mark III");
+  await page.getByTestId("search-result-camera-canon_powershot_g7_x_mark_iii").click();
+  await page.getByTestId("add-result-camera").click();
+  await page.getByTestId("add-compat-battery-canon_nb_13l").click();
+
+  await page.getByTestId("inventory-battery-canon_nb_13l-open").click();
+  await expect(page.getByTestId("result-battery")).toBeVisible();
+  await expect(page.getByTestId("battery-camera-canon_powershot_g7_x_mark_iii")).toContainText("Canon PowerShot G7 X Mark III");
+
+  await page.getByTestId("inventory-camera-canon_powershot_g7_x_mark_iii-open").click();
+  await expect(page.getByTestId("result-camera")).toBeVisible();
+  await expect(page.getByTestId("compat-card-canon_nb_13l-fully_compatible")).toContainText("NB-13L");
+});
+
+test("shows a long inventory camera name without truncating it", async ({ page }) => {
+  await openApp(page);
+  await fillSearch(page, "PowerShot SD1000 DIGITAL ELPH");
+  await page.getByTestId("search-result-camera-canon_powershot_sd1000_digital_elph").click();
+  await page.getByTestId("add-result-camera").click();
+
+  const name = page.getByTestId("inventory-camera-canon_powershot_sd1000_digital_elph-label");
+  await expect(name).toHaveText("PowerShot SD1000 DIGITAL ELPH");
+  await expect(name).not.toHaveClass(/truncate/);
+});
+
 test("exports and imports inventory JSON", async ({ page }, testInfo) => {
   await openApp(page);
   await fillSearch(page, "Canon G7X Mark III");

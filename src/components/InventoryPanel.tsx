@@ -18,6 +18,8 @@ export function InventoryPanel({
   replaceBatteries,
   removeBattery,
   clearBatteries,
+  onSelectCamera,
+  onSelectBattery,
 }: {
   db: CameraBatteryDatabase;
   myCameraIds: string[];
@@ -30,6 +32,8 @@ export function InventoryPanel({
   replaceBatteries: (ids: string[]) => void;
   removeBattery: (id: string) => void;
   clearBatteries: () => void;
+  onSelectCamera: (id: string) => void;
+  onSelectBattery: (id: string) => void;
 }) {
   const [cameraQuery, setCameraQuery] = useState("");
   const [batteryQuery, setBatteryQuery] = useState("");
@@ -225,7 +229,14 @@ export function InventoryPanel({
                 const label = camera?.display_name ?? candidate?.display_name ?? cameraId;
                 const matches = camera ? db.getMyCompatibleBatteries(cameraId, myBatteryIds) : [];
                 return (
-                  <InventoryRow key={cameraId} testId={`inventory-camera-${cameraId}`} label={label} onRemove={() => removeCamera(cameraId)}>
+                  <InventoryRow
+                    key={cameraId}
+                    testId={`inventory-camera-${cameraId}`}
+                    label={label}
+                    actionLabel={status.status === "verified" ? "Xem pin" : "Xem trạng thái"}
+                    onOpen={() => onSelectCamera(cameraId)}
+                    onRemove={() => removeCamera(cameraId)}
+                  >
                     <Badge tone={status.status === "verified" ? "green" : status.status === "unresolved" ? "gray" : "red"}>
                       {status.status === "verified" ? "Đã có dữ liệu pin" : status.status === "unresolved" ? "Chưa xác minh" : "Không có dữ liệu"}
                     </Badge>
@@ -271,7 +282,14 @@ export function InventoryPanel({
                 const battery = db.batteriesById.get(batteryId);
                 const matches = db.getMyCompatibleCameras(batteryId, myCameraIds);
                 return (
-                  <InventoryRow key={batteryId} testId={`inventory-battery-${batteryId}`} label={battery?.model ?? batteryId} onRemove={() => removeBattery(batteryId)}>
+                  <InventoryRow
+                    key={batteryId}
+                    testId={`inventory-battery-${batteryId}`}
+                    label={battery?.model ?? batteryId}
+                    actionLabel="Xem máy tương thích"
+                    onOpen={() => onSelectBattery(batteryId)}
+                    onRemove={() => removeBattery(batteryId)}
+                  >
                     {matches.length ? <Badge tone="green">Dùng được cho {matches.length} máy</Badge> : <Badge tone="gray">Chưa khớp máy nào</Badge>}
                   </InventoryRow>
                 );
@@ -441,21 +459,32 @@ function safeTestId(value: string): string {
 function InventoryRow({
   label,
   children,
+  actionLabel,
+  onOpen,
   onRemove,
   testId,
 }: {
   label: string;
   children: React.ReactNode;
+  actionLabel: string;
+  onOpen: () => void;
   onRemove: () => void;
   testId: string;
 }) {
   return (
-    <div data-testid={testId} className="flex items-center justify-between gap-3 rounded-md border border-slate-200 px-3 py-2">
-      <div className="min-w-0">
-        <div className="truncate text-sm font-medium text-slate-900">{label}</div>
+    <div data-testid={testId} className="flex items-start justify-between gap-2 rounded-md border border-slate-200 px-2 py-2">
+      <button
+        data-testid={`${testId}-open`}
+        aria-label={`${actionLabel}: ${label}`}
+        className="min-w-0 flex-1 rounded-md px-1 py-1 text-left transition hover:bg-teal-50 focus-visible:bg-teal-50"
+        type="button"
+        onClick={onOpen}
+      >
+        <div data-testid={`${testId}-label`} className="break-words text-sm font-medium leading-5 text-slate-900">{label}</div>
         <div className="mt-1 flex flex-wrap gap-1.5">{children}</div>
-      </div>
-      <button className="shrink-0 rounded-md px-2 py-1 text-sm font-medium text-slate-500 hover:bg-rose-50 hover:text-rose-700" type="button" onClick={onRemove}>
+        <div className="mt-2 text-xs font-medium text-teal-700">{actionLabel}</div>
+      </button>
+      <button aria-label={`Xóa ${label} khỏi kho`} className="shrink-0 rounded-md px-2 py-1 text-sm font-medium text-slate-500 hover:bg-rose-50 hover:text-rose-700" type="button" onClick={onRemove}>
         Xóa
       </button>
     </div>

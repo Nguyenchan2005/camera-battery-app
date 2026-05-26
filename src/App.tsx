@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import type React from "react";
 import { AuthPanel } from "./components/AuthPanel";
 import { DatabaseStats } from "./components/DatabaseStats";
@@ -50,6 +50,7 @@ export default function App() {
 function ReadyApp({ db, runtimeIssues }: { db: CameraBatteryDatabase; runtimeIssues: RuntimeValidationIssue[] }) {
   const [query, setQuery] = useState("");
   const [result, setResult] = useState<LookupResult | null>(null);
+  const resultRef = useRef<HTMLDivElement | null>(null);
   const myCameras = useLocalStorageIds("compact-camera-db:my-camera-ids");
   const myBatteries = useLocalStorageIds("compact-camera-db:my-battery-ids");
   const onlineStatus = useOnlineStatus();
@@ -71,6 +72,49 @@ function ReadyApp({ db, runtimeIssues }: { db: CameraBatteryDatabase; runtimeIss
 
   function submitSearch() {
     setResult(allSuggestions.length ? db.lookupFromMatch(allSuggestions[0], query) : { kind: "unknown", query });
+  }
+
+  function revealInventoryResult(nextResult: LookupResult) {
+    setResult(nextResult);
+    window.requestAnimationFrame(() => {
+      resultRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+  }
+
+  function selectInventoryCamera(cameraId: string) {
+    const status = db.getCandidateStatus(cameraId);
+    if (status.status === "verified") {
+      revealInventoryResult({
+        kind: "camera",
+        camera: status.camera,
+        compatibility: db.getCameraBatteryCompatibility(cameraId),
+      });
+      return;
+    }
+    if (status.status === "unresolved") {
+      revealInventoryResult({
+        kind: "unresolved",
+        candidate: status.candidate,
+        unresolved: status.unresolved,
+        suggestions: db.getBatterySuggestionsForCandidate(cameraId),
+      });
+      return;
+    }
+    revealInventoryResult({ kind: "unknown", query: cameraId });
+  }
+
+  function selectInventoryBattery(batteryId: string) {
+    const battery = db.batteriesById.get(batteryId);
+    if (!battery) {
+      revealInventoryResult({ kind: "unknown", query: batteryId });
+      return;
+    }
+    revealInventoryResult({
+      kind: "battery",
+      battery,
+      cameras: db.getBatteryCompatibleCameras(batteryId),
+      suggestions: db.getBatterySuggestionsForBattery(batteryId),
+    });
   }
 
   return (
@@ -113,14 +157,16 @@ function ReadyApp({ db, runtimeIssues }: { db: CameraBatteryDatabase; runtimeIss
             onSubmit={submitSearch}
             onSelect={selectMatch}
           />
-          <ResultPanel
-            db={db}
-            result={result}
-            myCameraIds={myCameras.ids}
-            myBatteryIds={myBatteries.ids}
-            addCamera={myCameras.add}
-            addBattery={myBatteries.add}
-          />
+          <div ref={resultRef}>
+            <ResultPanel
+              db={db}
+              result={result}
+              myCameraIds={myCameras.ids}
+              myBatteryIds={myBatteries.ids}
+              addCamera={myCameras.add}
+              addBattery={myBatteries.add}
+            />
+          </div>
         </div>
 
         <InventoryPanel
@@ -135,6 +181,8 @@ function ReadyApp({ db, runtimeIssues }: { db: CameraBatteryDatabase; runtimeIss
           replaceBatteries={myBatteries.replace}
           removeBattery={myBatteries.remove}
           clearBatteries={myBatteries.clear}
+          onSelectCamera={selectInventoryCamera}
+          onSelectBattery={selectInventoryBattery}
         />
       </div>
 
