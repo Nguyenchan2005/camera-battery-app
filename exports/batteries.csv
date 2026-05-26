@@ -1,4 +1,5 @@
 battery_id,brand,model,aliases,chemistry,voltage,capacity_mah,notes
+agfaphoto_bl_5b,AgfaPhoto,BL-5B,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 canon_bp_511,Canon,BP-511,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
 canon_bp_511a,Canon,BP-511A,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
 canon_bp_512,Canon,BP-512,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
@@ -25,11 +26,16 @@ canon_nb_6lh,Canon,NB-6LH,[],lithium-ion,,,Added from Canon Batch 1 import; elec
 canon_nb_7l,Canon,NB-7L,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
 canon_nb_8l,Canon,NB-8L,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
 canon_nb_9l,Canon,NB-9L,[],lithium-ion,,,Added from Canon Batch 1 import; electrical details left blank unless separately source-backed.
+casio_np_100,Casio,NP-100,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 casio_np_110,Casio,NP-110,[],lithium-ion,,1200,Added by web-assisted verifier from an explicit source-backed battery mapping.
+casio_np_120,Casio,NP-120,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 casio_np_130,Casio,NP-130,[],lithium-ion,,1800,Casio FAQ lists rated capacity 1800 mAh.
 casio_np_130a,Casio,NP-130A,[],lithium-ion,,1800,Casio FAQ lists rated capacity 1800 mAh.
+casio_np_150,Casio,NP-150,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 casio_np_160,Casio,NP-160,[],lithium-ion,,1200,Added from reviewed Phase 10 targeted manual evidence.
+casio_np_20,Casio,NP-20,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 casio_np_40,Casio,NP-40,[],lithium-ion,3.7,1230,Added from reviewed Phase 10 targeted manual evidence.
+casio_np_50,Casio,NP-50,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 casio_np_60,Casio,NP-60,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
 casio_np_70,Casio,NP-70,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
 casio_np_80,Casio,NP-80,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
@@ -42,26 +48,43 @@ fujifilm_np_45,Fujifilm,NP-45,[],lithium-ion,,,Added from reviewed LLM-assisted 
 fujifilm_np_45a,Fujifilm,NP-45A,[],lithium-ion,3.7,720,Added from reviewed direct-agent research evidence.
 fujifilm_np_45s,Fujifilm,NP-45S,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 fujifilm_np_50,Fujifilm,NP-50,[],lithium-ion,3.6,,Voltage confirmed in FinePix REAL 3D W3 manual snippet.
+fujifilm_np_60,Fujifilm,NP-60,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 fujifilm_np_70,Fujifilm,NP-70,[],lithium-ion,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 fujifilm_np_85,Fujifilm,NP-85,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 fujifilm_np_95,Fujifilm,NP-95,[],lithium-ion,,,Added by import_all_remaining.py; electrical details left blank unless source-backed.
 fujifilm_np_w126,Fujifilm,NP-W126,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 fujifilm_np_w126s,Fujifilm,NP-W126S,[],lithium-ion,7.2,1260,Fujifilm X100VI manual lists nominal voltage 7.2 V and capacity 1260 mAh.
+ge_gb_10,GE,GB-10,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 generic_2cr5,Generic,2CR5,"[""2CR5 lithium""]",lithium,,,Special camera lithium battery format; voltage/capacity intentionally left blank until source-backed.
 generic_aa,Generic,AA,"[""LR6"", ""HR6"", ""AA alkaline"", ""AA NiMH"", ""AA lithium"", ""AA cell""]",varies,,,Generic AA cell; chemistry and voltage depend on cell type.
 generic_aaa,Generic,AAA,"[""LR03"", ""HR03"", ""AAA alkaline"", ""AAA NiMH"", ""AAA lithium"", ""AAA cell""]",varies,,,Generic AAA cell; chemistry and voltage depend on cell type.
 generic_built_in_battery,Generic,Built-in battery,"[""Integrated rechargeable battery""]",lithium-ion,,,Added from reviewed direct-agent research evidence.
 generic_cr123a,Generic,CR123A,[],lithium,,,Added by Phase 3 unresolved verifier; electrical details left blank unless source-backed.
 generic_cr_v3,Generic,CR-V3,"[""CR3V"", ""CR-3V""]",lithium,,,Special camera lithium battery format; not interchangeable with AA unless source says camera supports both.
+hp_hp_r07,HP,HP R07,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+kodak_klic_5000,Kodak,KLIC-5000,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+kodak_klic_5001,Kodak,KLIC-5001,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+kodak_klic_7000,Kodak,KLIC-7000,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+kodak_klic_7001,Kodak,KLIC-7001,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 kodak_klic_7003,Kodak,KLIC-7003,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
+kodak_klic_7004,Kodak,KLIC-7004,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 kodak_klic_7006,Kodak,KLIC-7006,[],lithium-ion,,,Added by web-assisted verifier from an explicit source-backed battery mapping.
 kodak_klic_8000,Kodak,KLIC-8000,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
 kodak_lb_012,Kodak PIXPRO,LB-012,[],lithium-ion,3.7,700,Kodak PIXPRO FZ55 spec sheet lists 3.7 V / 700 mAh.
 kodak_lb_060,Kodak PIXPRO,LB-060,[],lithium-ion,3.7,1100,Kodak PIXPRO AZ528 page lists 3.7 V / 1100 mAh.
 konica_minolta_np_1,Konica Minolta,NP-1,[],lithium-ion,3.7,,Third-party manual mirror snippet lists 3.7 V.
+konica_minolta_np_200,Konica Minolta,NP-200,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+konica_minolta_np_400,Konica Minolta,NP-400,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 konica_minolta_np_600,Konica Minolta,NP-600,[],lithium-ion,3.7,,Konica Minolta G600 release/manual sources confirm NP-600.
+konica_minolta_np_700,Konica Minolta,NP-700,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+leica_bp_dc10,Leica,BP-DC10,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 leica_bp_dc12,Leica,BP-DC12,"[""BP-DC12-U""]",lithium-ion,7.2,1200,Retailer source lists 7.2 V / 1200 mAh for V-Lux 5 battery.
 leica_bp_dc15,Leica,BP-DC15,"[""BP-DC15-E""]",lithium-ion,7.2,1025,B&H retailer source lists 7.2 V / 1025 mAh.
+leica_bp_dc4,Leica,BP-DC4,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+leica_bp_dc5,Leica,BP-DC5,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+leica_bp_dc6,Leica,BP-DC6,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+leica_bp_dc7,Leica,BP-DC7,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+leica_bp_dc8,Leica,BP-DC8,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 leica_bp_dc9,Leica,BP-DC9,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 leica_bp_scl4,Leica,BP-SCL4,[],lithium-ion,7.2,1860,Leica Q2 technical data PDF lists 7.2 V / 1860 mAh.
 leica_bp_scl6,Leica,BP-SCL6,[],lithium-ion,7.2,2200,Leica Q3 store/technical data lists 7.2 V / 2200 mAh.
@@ -119,20 +142,37 @@ panasonic_dmw_blg10pp,Panasonic,DMW-BLG10PP,[],lithium-ion,,,Added by popular co
 panasonic_dmw_blh7,Panasonic,DMW-BLH7,[],lithium-ion,,,Added from an official bulk compatibility extraction.
 panasonic_dmw_bmb9,Panasonic,DMW-BMB9,"[""DMW-BMB9E""]",lithium-ion,7.2,895,Panasonic DMW-BMB9 page lists 7.2 V / 895 mAh.
 panasonic_dmwbce10,Panasonic,DMWBCE10,[],lithium-ion,,,Added from an official bulk compatibility extraction.
+pentax_d_li2,Pentax,D-LI2,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+pentax_d_li63,Pentax,D-LI63,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+pentax_d_li7,Pentax,D-LI7,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 pentax_d_li78,Pentax,D-LI78,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
+pentax_d_li8,Pentax,D-LI8,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+pentax_d_li88,Pentax,D-LI88,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 pentax_d_li92,Pentax,D-LI92,[],lithium-ion,,,Added by import_all_remaining.py; electrical details left blank unless source-backed.
+pentax_d_li95,Pentax,D-LI95,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 ricoh_db_100,Ricoh,DB-100,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
 ricoh_db_110,Ricoh,DB-110,[],lithium-ion,3.6,1350,WG-6 manual snippet lists 3.6 V / 1350 mAh.
+ricoh_db_20,Ricoh,DB-20,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+ricoh_db_43,Ricoh,DB-43,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+ricoh_db_50,Ricoh,DB-50,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+ricoh_db_60,Ricoh,DB-60,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+ricoh_db_65,Ricoh,DB-65,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 ricoh_db_70,Ricoh,DB-70,[],lithium-ion,,,Added from reviewed direct-agent research evidence.
 samsung_bp70a,Samsung,BP70A,"[""BP-70A""]",lithium-ion,3.7,700,Samsung manual sources list 700 mAh or min 700 mAh depending model.
 samsung_bp85a,Samsung,BP85A,[],lithium-ion,3.7,850,Added from reviewed LLM-assisted research evidence with a recorded source.
 samsung_bp88a,Samsung,BP88A,[],lithium-ion,3.7,880,Added from reviewed LLM-assisted research evidence with a recorded source.
 samsung_bp_1410,Samsung,BP-1410,"[""BP1410""]",lithium-ion,,,
 samsung_slb_07,Samsung,SLB-07,[],lithium-ion,,760,Added from reviewed direct-agent research evidence.
+samsung_slb_0737,Samsung,SLB-0737,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 samsung_slb_07a,Samsung,SLB-07A,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
 samsung_slb_07b,Samsung,SLB-07B,[],lithium-ion,,,Added from reviewed LLM-assisted research evidence with a recorded source.
+samsung_slb_0837,Samsung,SLB-0837,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+samsung_slb_1037,Samsung,SLB-1037,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 samsung_slb_10a,Samsung,SLB-10A,[],lithium-ion,3.7,1050,Added from reviewed Phase 10 targeted manual evidence.
+samsung_slb_1137,Samsung,SLB-1137,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
+samsung_slb_1137d,Samsung,SLB-1137D,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 samsung_slb_11a,Samsung,SLB-11A,[],lithium-ion,3.8,1130,Added from reviewed LLM-assisted research evidence with a recorded source.
+samsung_slb_1437,Samsung,SLB-1437,[],lithium-ion,,,Added from project-owner manual attestation without an original source URL.
 sigma_bp_31,Sigma,BP-31,[],lithium-ion,3.7,1300,B&H source lists 3.7 V / 1300 mAh.
 sigma_bp_41,Sigma,BP-41,[],lithium-ion,,1250,Capacity from third-party battery summary; official Sigma source confirms camera compatibility.
 sigma_bp_51,Sigma,BP-51,[],lithium-ion,,,Added by import_all_remaining.py; electrical details left blank unless source-backed.

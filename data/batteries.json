@@ -1,5 +1,15 @@
 [
   {
+    "battery_id": "agfaphoto_bl_5b",
+    "brand": "AgfaPhoto",
+    "model": "BL-5B",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
     "battery_id": "canon_bp_511",
     "brand": "Canon",
     "model": "BP-511",
@@ -260,6 +270,16 @@
     "notes": "Added from Canon Batch 1 import; electrical details left blank unless separately source-backed."
   },
   {
+    "battery_id": "casio_np_100",
+    "brand": "Casio",
+    "model": "NP-100",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
     "battery_id": "casio_np_110",
     "brand": "Casio",
     "model": "NP-110",
@@ -268,6 +288,16 @@
     "voltage": null,
     "capacity_mah": 1200,
     "notes": "Added by web-assisted verifier from an explicit source-backed battery mapping."
+  },
+  {
+    "battery_id": "casio_np_120",
+    "brand": "Casio",
+    "model": "NP-120",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
   },
   {
     "battery_id": "casio_np_130",
@@ -290,6 +320,16 @@
     "notes": "Casio FAQ lists rated capacity 1800 mAh."
   },
   {
+    "battery_id": "casio_np_150",
+    "brand": "Casio",
+    "model": "NP-150",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
     "battery_id": "casio_np_160",
     "brand": "Casio",
     "model": "NP-160",
@@ -300,6 +340,16 @@
     "notes": "Added from reviewed Phase 10 targeted manual evidence."
   },
   {
+    "battery_id": "casio_np_20",
+    "brand": "Casio",
+    "model": "NP-20",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
     "battery_id": "casio_np_40",
     "brand": "Casio",
     "model": "NP-40",
@@ -308,6 +358,16 @@
     "voltage": 3.7,
     "capacity_mah": 1230,
     "notes": "Added from reviewed Phase 10 targeted manual evidence."
+  },
+  {
+    "battery_id": "casio_np_50",
+    "brand": "Casio",
+    "model": "NP-50",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
   },
   {
     "battery_id": "casio_np_60",
@@ -430,6 +490,16 @@
     "notes": "Voltage confirmed in FinePix REAL 3D W3 manual snippet."
   },
   {
+    "battery_id": "fujifilm_np_60",
+    "brand": "Fujifilm",
+    "model": "NP-60",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
     "battery_id": "fujifilm_np_70",
     "brand": "Fujifilm",
     "model": "NP-70",
@@ -478,6 +548,16 @@
     "voltage": 7.2,
     "capacity_mah": 1260,
     "notes": "Fujifilm X100VI manual lists nominal voltage 7.2 V and capacity 1260 mAh."
+  },
+  {
+    "battery_id": "ge_gb_10",
+    "brand": "GE",
+    "model": "GB-10",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
   },
   {
     "battery_id": "generic_2cr5",
@@ -561,6 +641,56 @@
     "notes": "Special camera lithium battery format; not interchangeable with AA unless source says camera supports both."
   },
   {
+    "battery_id": "hp_hp_r07",
+    "brand": "HP",
+    "model": "HP R07",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "kodak_klic_5000",
+    "brand": "Kodak",
+    "model": "KLIC-5000",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "kodak_klic_5001",
+    "brand": "Kodak",
+    "model": "KLIC-5001",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "kodak_klic_7000",
+    "brand": "Kodak",
+    "model": "KLIC-7000",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "kodak_klic_7001",
+    "brand": "Kodak",
+    "model": "KLIC-7001",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
     "battery_id": "kodak_klic_7003",
     "brand": "Kodak",
     "model": "KLIC-7003",
@@ -569,6 +699,16 @@
     "voltage": null,
     "capacity_mah": null,
     "notes": "Added from reviewed direct-agent research evidence."
+  },
+  {
+    "battery_id": "kodak_klic_7004",
+    "brand": "Kodak",
+    "model": "KLIC-7004",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
   },
   {
     "battery_id": "kodak_klic_7006",
@@ -621,6 +761,26 @@
     "notes": "Third-party manual mirror snippet lists 3.7 V."
   },
   {
+    "battery_id": "konica_minolta_np_200",
+    "brand": "Konica Minolta",
+    "model": "NP-200",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "konica_minolta_np_400",
+    "brand": "Konica Minolta",
+    "model": "NP-400",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
     "battery_id": "konica_minolta_np_600",
     "brand": "Konica Minolta",
     "model": "NP-600",
@@ -629,6 +789,26 @@
     "voltage": 3.7,
     "capacity_mah": null,
     "notes": "Konica Minolta G600 release/manual sources confirm NP-600."
+  },
+  {
+    "battery_id": "konica_minolta_np_700",
+    "brand": "Konica Minolta",
+    "model": "NP-700",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "leica_bp_dc10",
+    "brand": "Leica",
+    "model": "BP-DC10",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
   },
   {
     "battery_id": "leica_bp_dc12",
@@ -653,6 +833,56 @@
     "voltage": 7.2,
     "capacity_mah": 1025,
     "notes": "B&H retailer source lists 7.2 V / 1025 mAh."
+  },
+  {
+    "battery_id": "leica_bp_dc4",
+    "brand": "Leica",
+    "model": "BP-DC4",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "leica_bp_dc5",
+    "brand": "Leica",
+    "model": "BP-DC5",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "leica_bp_dc6",
+    "brand": "Leica",
+    "model": "BP-DC6",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "leica_bp_dc7",
+    "brand": "Leica",
+    "model": "BP-DC7",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "leica_bp_dc8",
+    "brand": "Leica",
+    "model": "BP-DC8",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
   },
   {
     "battery_id": "leica_bp_dc9",
@@ -1235,6 +1465,36 @@
     "notes": "Added from an official bulk compatibility extraction."
   },
   {
+    "battery_id": "pentax_d_li2",
+    "brand": "Pentax",
+    "model": "D-LI2",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "pentax_d_li63",
+    "brand": "Pentax",
+    "model": "D-LI63",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "pentax_d_li7",
+    "brand": "Pentax",
+    "model": "D-LI7",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
     "battery_id": "pentax_d_li78",
     "brand": "Pentax",
     "model": "D-LI78",
@@ -1245,6 +1505,26 @@
     "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
   },
   {
+    "battery_id": "pentax_d_li8",
+    "brand": "Pentax",
+    "model": "D-LI8",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "pentax_d_li88",
+    "brand": "Pentax",
+    "model": "D-LI88",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
     "battery_id": "pentax_d_li92",
     "brand": "Pentax",
     "model": "D-LI92",
@@ -1253,6 +1533,16 @@
     "voltage": null,
     "capacity_mah": null,
     "notes": "Added by import_all_remaining.py; electrical details left blank unless source-backed."
+  },
+  {
+    "battery_id": "pentax_d_li95",
+    "brand": "Pentax",
+    "model": "D-LI95",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
   },
   {
     "battery_id": "ricoh_db_100",
@@ -1273,6 +1563,56 @@
     "voltage": 3.6,
     "capacity_mah": 1350,
     "notes": "WG-6 manual snippet lists 3.6 V / 1350 mAh."
+  },
+  {
+    "battery_id": "ricoh_db_20",
+    "brand": "Ricoh",
+    "model": "DB-20",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "ricoh_db_43",
+    "brand": "Ricoh",
+    "model": "DB-43",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "ricoh_db_50",
+    "brand": "Ricoh",
+    "model": "DB-50",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "ricoh_db_60",
+    "brand": "Ricoh",
+    "model": "DB-60",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "ricoh_db_65",
+    "brand": "Ricoh",
+    "model": "DB-65",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
   },
   {
     "battery_id": "ricoh_db_70",
@@ -1339,6 +1679,16 @@
     "notes": "Added from reviewed direct-agent research evidence."
   },
   {
+    "battery_id": "samsung_slb_0737",
+    "brand": "Samsung",
+    "model": "SLB-0737",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
     "battery_id": "samsung_slb_07a",
     "brand": "Samsung",
     "model": "SLB-07A",
@@ -1359,6 +1709,26 @@
     "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
   },
   {
+    "battery_id": "samsung_slb_0837",
+    "brand": "Samsung",
+    "model": "SLB-0837",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "samsung_slb_1037",
+    "brand": "Samsung",
+    "model": "SLB-1037",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
     "battery_id": "samsung_slb_10a",
     "brand": "Samsung",
     "model": "SLB-10A",
@@ -1369,6 +1739,26 @@
     "notes": "Added from reviewed Phase 10 targeted manual evidence."
   },
   {
+    "battery_id": "samsung_slb_1137",
+    "brand": "Samsung",
+    "model": "SLB-1137",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
+    "battery_id": "samsung_slb_1137d",
+    "brand": "Samsung",
+    "model": "SLB-1137D",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
+  },
+  {
     "battery_id": "samsung_slb_11a",
     "brand": "Samsung",
     "model": "SLB-11A",
@@ -1377,6 +1767,16 @@
     "voltage": 3.8,
     "capacity_mah": 1130,
     "notes": "Added from reviewed LLM-assisted research evidence with a recorded source."
+  },
+  {
+    "battery_id": "samsung_slb_1437",
+    "brand": "Samsung",
+    "model": "SLB-1437",
+    "aliases": [],
+    "chemistry": "lithium-ion",
+    "voltage": null,
+    "capacity_mah": null,
+    "notes": "Added from project-owner manual attestation without an original source URL."
   },
   {
     "battery_id": "sigma_bp_31",

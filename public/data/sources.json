@@ -11754,6 +11754,15 @@
     "notes": "Backfilled source registry entry from an existing compatibility row."
   },
   {
+    "source_id": "project_owner_project_owner_manually_verified_battery_claims_batch_620_https_github_com_nguyenchan2005_camera_battery_ap",
+    "source_name": "Project owner manually verified battery claims batch 620",
+    "source_url": "https://github.com/Nguyenchan2005/camera-battery-app/blob/97bafe9/research_inputs/manual_battery_claims_batch_620.json",
+    "source_type": "third_party_chart",
+    "publisher": "Project owner",
+    "last_verified": "2026-05-26",
+    "notes": "Project owner manually attested Sigma DP3 uses BP-41. Original verification URL was not supplied; provenance URL records the submitted batch only."
+  },
+  {
     "source_id": "ricoh_camera_wiki_ricoh_caplio_gx100_https_camera_wiki_org_wiki_ricoh_caplio_gx100",
     "source_name": "Camera-wiki Ricoh Caplio GX100",
     "source_url": "https://camera-wiki.org/wiki/Ricoh_Caplio_GX100",

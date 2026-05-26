@@ -42,17 +42,17 @@ test("search Canon G7X Mark III returns verified camera and NB-13L compatibility
   await expect(page.getByTestId("source-row").first()).toBeVisible();
 });
 
-test("search Kodak EasyShare C1013 returns unresolved without battery compatibility", async ({ page }) => {
+test("search Kodak EasyShare M753 returns unresolved without battery compatibility", async ({ page }) => {
   await openApp(page);
-  await fillSearch(page, "Kodak EasyShare C1013");
-  await page.getByTestId("search-result-unresolved_candidate-kodak_easyshare_c1013").click();
+  await fillSearch(page, "Kodak EasyShare M753");
+  await page.getByTestId("search-result-unresolved_candidate-kodak_easyshare_m753").click();
   await expect(page.getByTestId("result-unresolved")).toBeVisible();
-  await expect(page.getByTestId("result-panel")).toContainText("Kodak EasyShare C1013");
+  await expect(page.getByTestId("result-panel")).toContainText("Kodak EasyShare M753");
   await expect(page.getByTestId("result-panel")).toContainText("Da tim thay model nay trong catalog");
   await expect(page.getByTestId("result-panel")).toContainText("Khong nen mua pin");
   await expect(page.locator('[data-testid^="compat-card-"]')).toHaveCount(0);
   await page.getByTestId("add-unresolved-camera").click();
-  await expect(page.getByTestId("inventory-camera-kodak_easyshare_c1013")).toContainText("can xac minh pin");
+  await expect(page.getByTestId("inventory-camera-kodak_easyshare_m753")).toContainText("can xac minh pin");
   await expect(page.getByTestId("inventory-unverified-count")).toContainText("1");
   await expect(page.getByTestId("inventory-unverified-summary")).toContainText("chua xac minh pin");
 });

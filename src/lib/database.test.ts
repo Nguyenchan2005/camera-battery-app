@@ -138,7 +138,7 @@ describe("database loader, search, and source-backed lookup", () => {
   });
 
   it("searches an unresolved candidate without returning battery compatibility", () => {
-    const result = db.searchAll("Kodak EasyShare C1013", 5);
+    const result = db.searchAll("Kodak EasyShare M753", 5);
     expect(result[0]?.type).toBe("unresolved_candidate");
     const lookup = db.lookupFromMatch(result[0]);
     expect(lookup.kind).toBe("unresolved");
@@ -150,8 +150,8 @@ describe("database loader, search, and source-backed lookup", () => {
 
   it("does not list unresolved cameras in battery compatibility results", () => {
     const compatibleCameras = db.getBatteryCompatibleCameras("canon_nb_13l");
-    expect(compatibleCameras.some((row) => row.camera.camera_id === "kodak_easyshare_c1013")).toBe(false);
-    expect(db.getMyCompatibleCameras("canon_nb_13l", ["kodak_easyshare_c1013"])).toEqual([]);
+    expect(compatibleCameras.some((row) => row.camera.camera_id === "kodak_easyshare_m753")).toBe(false);
+    expect(db.getMyCompatibleCameras("canon_nb_13l", ["kodak_easyshare_m753"])).toEqual([]);
   });
 
   it("keeps weak battery suggestions separate from verified compatibility", () => {
@@ -159,22 +159,22 @@ describe("database loader, search, and source-backed lookup", () => {
       ...bundle,
       batterySuggestions: [
         {
-          camera_id: "kodak_easyshare_c1013",
-          display_name: "Kodak EasyShare C1013",
+          camera_id: "kodak_easyshare_m753",
+          display_name: "Kodak EasyShare M753",
           brand: "Kodak",
           suggested_battery_model: "AA",
           suggested_battery_id: "generic_aa",
           evidence_type: "retailer_specification",
           source_name: "Test retailer source",
           source_url: "https://example.com/test-suggestion",
-          source_text: "Kodak EasyShare C1013 battery suggestion: AA.",
+          source_text: "Kodak EasyShare M753 battery suggestion: AA.",
           confidence: "low",
           warning: "Not verified official compatibility.",
           last_checked: "2026-05-25",
         },
       ],
     });
-    const lookup = suggestedDb.lookupFromMatch(suggestedDb.searchAll("Kodak EasyShare C1013", 1)[0]);
+    const lookup = suggestedDb.lookupFromMatch(suggestedDb.searchAll("Kodak EasyShare M753", 1)[0]);
     expect(lookup.kind).toBe("unresolved");
     if (lookup.kind === "unresolved") {
       expect(lookup.suggestions.some((row) => row.suggested_battery_model === "AA")).toBe(true);
@@ -182,8 +182,8 @@ describe("database loader, search, and source-backed lookup", () => {
       expect(suggestedDb.buildNaturalAnswer(lookup)).toContain("goi y chua xac minh");
     }
     const aaSuggestions = suggestedDb.getBatterySuggestionsForBattery("generic_aa");
-    expect(aaSuggestions.some((row) => row.camera_id === "kodak_easyshare_c1013")).toBe(true);
-    expect(suggestedDb.getBatteryCompatibleCameras("generic_aa").some((row) => row.camera.camera_id === "kodak_easyshare_c1013")).toBe(false);
+    expect(aaSuggestions.some((row) => row.camera_id === "kodak_easyshare_m753")).toBe(true);
+    expect(suggestedDb.getBatteryCompatibleCameras("generic_aa").some((row) => row.camera.camera_id === "kodak_easyshare_m753")).toBe(false);
   });
 
   it("returns unknown for a model not in the database", () => {
