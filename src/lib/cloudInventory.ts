@@ -46,12 +46,12 @@ export function validateInventoryIds(inventory: InventorySnapshot, db: CameraBat
   const warnings: string[] = [];
   const myCameraIds = inventory.myCameraIds.filter((id) => {
     const exists = db.camerasById.has(id) || db.candidatesById.has(id);
-    if (!exists) warnings.push(`${sourceLabel} camera id ignored because it is not in database: ${id}`);
+    if (!exists) warnings.push(`Bỏ qua mã máy ảnh từ ${formatSourceLabel(sourceLabel)} vì không có trong dữ liệu: ${id}`);
     return exists;
   });
   const myBatteryIds = inventory.myBatteryIds.filter((id) => {
     const exists = db.batteriesById.has(id);
-    if (!exists) warnings.push(`${sourceLabel} battery id ignored because it is not in database: ${id}`);
+    if (!exists) warnings.push(`Bỏ qua mã pin từ ${formatSourceLabel(sourceLabel)} vì không có trong dữ liệu: ${id}`);
     return exists;
   });
 
@@ -59,6 +59,10 @@ export function validateInventoryIds(inventory: InventorySnapshot, db: CameraBat
     inventory: makeInventorySnapshot(myCameraIds, myBatteryIds, inventory.updatedAt),
     warnings,
   };
+}
+
+function formatSourceLabel(sourceLabel: string): string {
+  return sourceLabel === "cloud" ? "đám mây" : sourceLabel === "local" ? "thiết bị" : sourceLabel;
 }
 
 export function getInitialSyncStatus(options: { configured: boolean; userId: string | null; online: boolean }) {

@@ -41,7 +41,7 @@ export function analyzeBulkInventoryInput(input: string, db: CameraBatteryDataba
   for (const line of lines) {
     const matches = db.searchAll(line, limit);
     if (!matches.length) {
-      notFound.push({ line, reason: "No database match." });
+      notFound.push({ line, reason: "Không tìm thấy dữ liệu phù hợp." });
       continue;
     }
 
@@ -54,7 +54,7 @@ export function analyzeBulkInventoryInput(input: string, db: CameraBatteryDataba
     ambiguousMatches.push({
       line,
       options: matches,
-      reason: exactMatches.length > 1 ? "Multiple exact matches." : "No exact match; manual choice required.",
+      reason: exactMatches.length > 1 ? "Có nhiều kết quả khớp chính xác." : "Chưa có kết quả chính xác; cần chọn thủ công.",
     });
   }
 

@@ -4,10 +4,10 @@ import type { SearchEntityType, SearchMatch } from "../types/database";
 type SearchTab = "all" | SearchEntityType;
 
 const tabs: Array<{ id: SearchTab; label: string }> = [
-  { id: "camera", label: "Verified cameras" },
-  { id: "battery", label: "Batteries" },
-  { id: "unresolved_candidate", label: "Unresolved candidates" },
-  { id: "all", label: "All" },
+  { id: "all", label: "Tất cả" },
+  { id: "camera", label: "Máy có pin" },
+  { id: "battery", label: "Pin" },
+  { id: "unresolved_candidate", label: "Chưa xác minh pin" },
 ];
 
 export function SearchBox({
@@ -25,6 +25,7 @@ export function SearchBox({
 }) {
   const [activeTab, setActiveTab] = useState<SearchTab>("all");
   const [activeIndex, setActiveIndex] = useState(0);
+  const [showSuggestions, setShowSuggestions] = useState(true);
   const compactLength = query.replace(/[^a-z0-9]/gi, "").length;
   const activeSuggestions = useMemo(() => suggestionsByTab[activeTab], [activeTab, suggestionsByTab]);
 
@@ -33,6 +34,7 @@ export function SearchBox({
   }, [activeTab, query]);
 
   function commitSelected() {
+    setShowSuggestions(false);
     if (activeSuggestions[activeIndex]) {
       onSelect(activeSuggestions[activeIndex]);
     } else {
@@ -41,14 +43,23 @@ export function SearchBox({
   }
 
   return (
-    <section data-testid="search-box" className="rounded-lg border border-slate-200 bg-white p-5 shadow-soft">
+    <section data-testid="search-box" className="rounded-lg border border-slate-200 bg-white p-5 shadow-soft sm:p-6">
+      <div className="mb-4">
+        <h2 className="text-lg font-semibold text-slate-950">Tra cứu</h2>
+        <p className="mt-1 text-sm text-slate-600">Tên máy ảnh, tên vùng, biệt danh model hoặc mã pin</p>
+      </div>
       <div className="flex flex-col gap-3 sm:flex-row">
+        <label className="sr-only" htmlFor="camera-battery-search">Máy ảnh hoặc pin</label>
         <input
+          id="camera-battery-search"
           data-testid="search-input"
-          className="min-h-12 flex-1 rounded-md border border-slate-300 px-4 text-base outline-none transition focus:border-sky-500 focus:ring-4 focus:ring-sky-100"
-          placeholder='Nhap "Canon G7X Mark III", "NB-13L", "RX100 VII"...'
+          className="min-h-12 flex-1 rounded-md border border-slate-300 px-4 text-base outline-none transition focus:border-teal-600 focus:ring-4 focus:ring-teal-100"
+          placeholder='Canon G7 X Mark III, Sony RX100 VII, NB-13L...'
           value={query}
-          onChange={(event) => onQueryChange(event.target.value)}
+          onChange={(event) => {
+            setShowSuggestions(true);
+            onQueryChange(event.target.value);
+          }}
           onKeyDown={(event) => {
             if (event.key === "ArrowDown") {
               event.preventDefault();
@@ -64,11 +75,14 @@ export function SearchBox({
         />
         <button
           data-testid="search-submit"
-          className="min-h-12 rounded-md bg-slate-950 px-5 text-sm font-semibold text-white transition hover:bg-slate-800"
+          className="min-h-12 rounded-md bg-teal-700 px-5 text-sm font-semibold text-white transition hover:bg-teal-800"
           type="button"
-          onClick={onSubmit}
+          onClick={() => {
+            setShowSuggestions(false);
+            onSubmit();
+          }}
         >
-          Tra cuu
+          Tìm kiếm
         </button>
       </div>
 
@@ -79,11 +93,14 @@ export function SearchBox({
             data-testid={`search-tab-${tab.id}`}
             className={`rounded-md border px-3 py-2 text-sm font-medium transition ${
               activeTab === tab.id
-                ? "border-slate-950 bg-slate-950 text-white"
-                : "border-slate-200 bg-white text-slate-700 hover:bg-slate-50"
+                ? "border-teal-700 bg-teal-700 text-white"
+                : "border-slate-200 bg-white text-slate-700 hover:border-teal-200 hover:bg-teal-50"
             }`}
             type="button"
-            onClick={() => setActiveTab(tab.id)}
+            onClick={() => {
+              setShowSuggestions(true);
+              setActiveTab(tab.id);
+            }}
           >
             {tab.label} ({suggestionsByTab[tab.id].length})
           </button>
@@ -92,40 +109,53 @@ export function SearchBox({
 
       {compactLength > 0 && compactLength < 2 ? (
         <div data-testid="short-query-hint" className="mt-4 rounded-md bg-slate-50 p-4 text-sm text-slate-600">
-          Query qua ngan. Hay nhap model hoac pin cu the hon, vi du: G7X III, RX100 VII, NB13L, NPBX1.
+          Từ khóa quá ngắn. Hãy nhập model hoặc mã pin cụ thể hơn, ví dụ: G7X III, RX100 VII, NB13L, NPBX1.
         </div>
       ) : null}
 
-      {compactLength >= 2 && activeSuggestions.length ? (
+      {showSuggestions && compactLength >= 2 && activeSuggestions.length ? (
         <div data-testid="search-suggestions" className="mt-4 grid gap-2">
           {activeSuggestions.map((match, index) => (
             <button
               key={`${match.type}-${match.id}`}
               data-testid={`search-result-${match.type}-${match.id}`}
               className={`rounded-md border px-3 py-2 text-left transition ${
-                index === activeIndex ? "border-sky-400 bg-sky-50" : "border-slate-200 hover:border-sky-300 hover:bg-sky-50"
+                index === activeIndex ? "border-teal-500 bg-teal-50" : "border-slate-200 hover:border-teal-300 hover:bg-teal-50"
               }`}
               type="button"
-              onClick={() => onSelect(match)}
+              onClick={() => {
+                setShowSuggestions(false);
+                onSelect(match);
+              }}
             >
               <div className="flex items-center justify-between gap-3">
                 <span className="font-medium text-slate-900">{match.label}</span>
                 <span className="rounded-full bg-slate-100 px-2 py-1 text-xs text-slate-600">
-                  {match.type === "camera" ? "verified camera" : match.type === "battery" ? "battery" : "unresolved"}
+                  {match.type === "camera" ? "Đã có pin" : match.type === "battery" ? "Pin" : "Chưa xác minh"}
                 </span>
               </div>
               <div className="mt-1 text-sm text-slate-500">{match.subtitle}</div>
-              <div className="mt-1 text-xs text-slate-400">Match: {match.matchReason}</div>
+              <div className="mt-1 text-xs text-slate-500">Khớp theo: {formatMatchReason(match.matchReason)}</div>
             </button>
           ))}
         </div>
       ) : null}
 
-      {compactLength >= 2 && !activeSuggestions.length ? (
+      {showSuggestions && compactLength >= 2 && !activeSuggestions.length ? (
         <div data-testid="no-suggestions" className="mt-4 rounded-md border border-dashed border-slate-300 p-4 text-sm text-slate-500">
-          Khong co goi y trong tab nay.
+          Không có gợi ý trong nhóm này.
         </div>
       ) : null}
     </section>
   );
+}
+
+export function formatMatchReason(reason: string): string {
+  return {
+    "exact alias": "tên hoặc bí danh chính xác",
+    "generated alias": "tên viết tắt",
+    "compact alias": "dạng viết liền",
+    "fuzzy fallback": "kết quả gần đúng",
+    "fuzzy match": "kết quả gần đúng",
+  }[reason] ?? reason;
 }

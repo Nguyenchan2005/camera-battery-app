@@ -16,14 +16,14 @@ export function AuthPanel({ sync }: { sync: InventorySyncController }) {
       <section data-testid="auth-panel" className="rounded-lg border border-slate-200 bg-white p-5 shadow-soft">
         <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
           <div>
-            <h2 className="text-lg font-semibold text-slate-950">Cloud sync</h2>
-            <p className="text-sm text-slate-600">Local-only mode. Supabase env vars are not configured.</p>
+            <h2 className="text-lg font-semibold text-slate-950">Đồng bộ kho cá nhân</h2>
+            <p className="text-sm text-slate-600">Đang lưu cục bộ vì chưa cấu hình Supabase.</p>
           </div>
           <span className="rounded-full border border-slate-200 bg-slate-100 px-3 py-1 text-xs font-medium text-slate-700">
-            Local only
+            Chỉ lưu trên thiết bị
           </span>
         </div>
-        <p className="mt-3 text-xs text-slate-500">Missing: {sync.missingConfig.join(", ")}</p>
+        <p className="mt-3 text-xs text-slate-500">Chưa cấu hình: {sync.missingConfig.join(", ")}</p>
       </section>
     );
   }
@@ -32,11 +32,11 @@ export function AuthPanel({ sync }: { sync: InventorySyncController }) {
     <section data-testid="auth-panel" className="rounded-lg border border-slate-200 bg-white p-5 shadow-soft">
       <div className="flex flex-col gap-4 lg:flex-row lg:items-end lg:justify-between">
         <div>
-          <h2 className="text-lg font-semibold text-slate-950">Cloud sync</h2>
-          <p className="text-sm text-slate-600">Supabase only stores your personal camera and battery inventory ids.</p>
+          <h2 className="text-lg font-semibold text-slate-950">Đồng bộ kho cá nhân</h2>
+          <p className="text-sm text-slate-600">Supabase chỉ lưu mã máy ảnh và mã pin trong kho của bạn.</p>
           {sync.user ? (
             <p data-testid="auth-user" className="mt-2 text-sm font-medium text-slate-900">
-              Signed in: {sync.user.email ?? sync.user.id}
+              Đã đăng nhập: {sync.user.email ?? sync.user.id}
             </p>
           ) : null}
         </div>
@@ -51,7 +51,7 @@ export function AuthPanel({ sync }: { sync: InventorySyncController }) {
             }}
             disabled={sync.authLoading}
           >
-            Sign out
+            Đăng xuất
           </button>
         ) : (
           <form className="flex w-full flex-col gap-2 sm:w-auto sm:min-w-[360px] sm:flex-row" onSubmit={submit}>
@@ -69,7 +69,7 @@ export function AuthPanel({ sync }: { sync: InventorySyncController }) {
               type="submit"
               disabled={sync.authLoading || !email.trim()}
             >
-              Send magic link
+              Gửi liên kết đăng nhập
             </button>
           </form>
         )}

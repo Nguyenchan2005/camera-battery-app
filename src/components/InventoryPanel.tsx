@@ -4,6 +4,7 @@ import type { CameraBatteryDatabase } from "../lib/database";
 import { analyzeBulkInventoryInput, type BulkInventoryAnalysis } from "../lib/bulkInventory";
 import { exportInventory, parseInventoryImport } from "../lib/inventory";
 import { Badge } from "./Badge";
+import { formatMatchReason } from "./SearchBox";
 
 export function InventoryPanel({
   db,
@@ -104,21 +105,21 @@ export function InventoryPanel({
     <section data-testid="inventory-panel" className="rounded-lg border border-slate-200 bg-white p-5 shadow-soft">
       <div className="flex flex-wrap items-center justify-between gap-3">
         <div>
-          <h2 className="text-lg font-semibold text-slate-950">Kho cua toi</h2>
-          <p className="text-sm text-slate-500">Luu tren trinh duyet bang localStorage.</p>
+          <h2 className="text-lg font-semibold text-slate-950">Kho của tôi</h2>
+          <p className="text-sm text-slate-500">Máy ảnh và pin bạn đang sở hữu</p>
         </div>
         <div className="grid grid-cols-2 gap-2 text-center text-sm sm:grid-cols-5">
-          <Stat label="May" value={myCameraIds.length} testId="inventory-camera-count" />
+          <Stat label="Máy ảnh" value={myCameraIds.length} testId="inventory-camera-count" />
           <Stat label="Pin" value={myBatteryIds.length} testId="inventory-battery-count" />
-          <Stat label="Da khop" value={coveredCameraIds.length} testId="inventory-covered-count" />
-          <Stat label="Thieu pin" value={uncoveredCameraIds.length} testId="inventory-uncovered-count" />
-          <Stat label="Can verify" value={unverifiedInventoryCameraIds.length} testId="inventory-unverified-count" />
+          <Stat label="Có pin" value={coveredCameraIds.length} testId="inventory-covered-count" />
+          <Stat label="Thiếu pin" value={uncoveredCameraIds.length} testId="inventory-uncovered-count" />
+          <Stat label="Cần xác minh" value={unverifiedInventoryCameraIds.length} testId="inventory-unverified-count" />
         </div>
       </div>
 
       <div className="mt-4 flex flex-wrap gap-2">
         <button data-testid="inventory-export" className="rounded-md border border-slate-300 px-3 py-2 text-sm font-medium hover:bg-slate-50" type="button" onClick={handleExport}>
-          Export kho JSON
+          Xuất kho dạng JSON
         </button>
         <button
           data-testid="inventory-import-button"
@@ -126,7 +127,7 @@ export function InventoryPanel({
           type="button"
           onClick={() => importRef.current?.click()}
         >
-          Import kho JSON
+          Nhập kho từ JSON
         </button>
         <input
           ref={importRef}
@@ -150,9 +151,9 @@ export function InventoryPanel({
       <div data-testid="inventory-bulk-panel" className="mt-5 rounded-md border border-slate-200 bg-slate-50 p-4">
         <div className="flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between">
           <div>
-            <h3 className="font-semibold text-slate-900">Them hang loat bang paste</h3>
+            <h3 className="font-semibold text-slate-900">Thêm nhiều mục từ danh sách</h3>
             <p className="mt-1 text-sm text-slate-600">
-              Moi dong la mot may anh hoac pin. App chi tu them khi match exact duy nhat; dong mo ho se hien goi y de ban chon.
+              Mỗi dòng là một máy ảnh hoặc pin. Mục khớp chính xác duy nhất sẽ được thêm tự động; mục mơ hồ sẽ chờ bạn chọn.
             </p>
           </div>
           <button
@@ -164,12 +165,12 @@ export function InventoryPanel({
               setBulkAnalysis(null);
             }}
           >
-            Clear paste
+            Xóa nội dung
           </button>
         </div>
         <textarea
           data-testid="inventory-bulk-input"
-          className="mt-3 min-h-32 w-full resize-y rounded-md border border-slate-300 bg-white px-3 py-2 text-sm outline-none focus:border-sky-500 focus:ring-4 focus:ring-sky-100"
+          className="mt-3 min-h-32 w-full resize-y rounded-md border border-slate-300 bg-white px-3 py-2 text-sm outline-none focus:border-teal-600 focus:ring-4 focus:ring-teal-100"
           placeholder={"Canon G7X Mark III\nSony RX100 VII\nNB13L\nNPBX1"}
           value={bulkInput}
           onChange={(event) => setBulkInput(event.target.value)}
@@ -177,14 +178,14 @@ export function InventoryPanel({
         <div className="mt-3 flex flex-wrap gap-2">
           <button
             data-testid="inventory-bulk-add"
-            className="rounded-md bg-slate-950 px-3 py-2 text-sm font-semibold text-white hover:bg-slate-800 disabled:cursor-not-allowed disabled:bg-slate-400"
+            className="rounded-md bg-teal-700 px-3 py-2 text-sm font-semibold text-white hover:bg-teal-800 disabled:cursor-not-allowed disabled:bg-slate-400"
             type="button"
             disabled={!bulkInput.trim()}
             onClick={handleBulkAdd}
           >
-            Them hang loat
+            Thêm mục khớp chính xác
           </button>
-          <span className="self-center text-xs text-slate-500">Unresolved candidate co the them vao kho, nhung app se khong tra pin cho model chua verify.</span>
+          <span className="self-center text-xs text-slate-500">Model chưa xác minh vẫn có thể lưu vào kho, nhưng sẽ không được gán pin.</span>
         </div>
         {bulkAnalysis ? (
           <BulkAnalysisSummary analysis={bulkAnalysis} onChooseOption={chooseAmbiguousOption} />
@@ -194,21 +195,21 @@ export function InventoryPanel({
       <div className="mt-5 grid gap-5 lg:grid-cols-2">
         <div>
           <div className="flex items-center justify-between gap-3">
-            <h3 className="font-semibold text-slate-900">May anh</h3>
+            <h3 className="font-semibold text-slate-900">Máy ảnh</h3>
             <button data-testid="clear-cameras" className="text-xs font-medium text-slate-500 hover:text-rose-700" type="button" onClick={clearCameras}>
-              Clear
+              Xóa tất cả
             </button>
           </div>
           <Picker
             testIdPrefix="inventory-camera"
-            placeholder="Them may anh..."
+            placeholder="Thêm máy ảnh..."
             query={cameraQuery}
             setQuery={setCameraQuery}
             suggestions={cameraSuggestions.map((match) => ({
               id: match.id,
               label: match.label,
-              subtitle: `${match.subtitle} / ${match.matchReason}`,
-              tag: match.type === "camera" ? "verified" : "unresolved",
+              subtitle: `${match.subtitle} / ${formatMatchReason(match.matchReason)}`,
+              tag: match.type === "camera" ? "đã có pin" : "chưa xác minh",
             }))}
             onAdd={(id) => {
               addCamera(id);
@@ -225,16 +226,18 @@ export function InventoryPanel({
                 const matches = camera ? db.getMyCompatibleBatteries(cameraId, myBatteryIds) : [];
                 return (
                   <InventoryRow key={cameraId} testId={`inventory-camera-${cameraId}`} label={label} onRemove={() => removeCamera(cameraId)}>
-                    <Badge tone={status.status === "verified" ? "green" : status.status === "unresolved" ? "gray" : "red"}>{status.status}</Badge>
-                    {status.status === "verified" && matches.length ? <Badge tone="green">co pin trong kho</Badge> : null}
-                    {status.status === "verified" && !matches.length ? <Badge tone="gray">verified thieu pin trong kho</Badge> : null}
-                    {status.status === "unresolved" ? <Badge tone="gray">can xac minh pin</Badge> : null}
-                    {status.status === "unknown" ? <Badge tone="red">khong co trong database</Badge> : null}
+                    <Badge tone={status.status === "verified" ? "green" : status.status === "unresolved" ? "gray" : "red"}>
+                      {status.status === "verified" ? "Đã có dữ liệu pin" : status.status === "unresolved" ? "Chưa xác minh" : "Không có dữ liệu"}
+                    </Badge>
+                    {status.status === "verified" && matches.length ? <Badge tone="green">Có pin trong kho</Badge> : null}
+                    {status.status === "verified" && !matches.length ? <Badge tone="gray">Chưa có pin phù hợp</Badge> : null}
+                    {status.status === "unresolved" ? <Badge tone="gray">Cần xác minh pin</Badge> : null}
+                    {status.status === "unknown" ? <Badge tone="red">Không có trong dữ liệu</Badge> : null}
                   </InventoryRow>
                 );
               })
             ) : (
-              <Empty text="Chua co may anh trong kho." />
+              <Empty text="Chưa có máy ảnh trong kho." />
             )}
           </div>
         </div>
@@ -243,19 +246,19 @@ export function InventoryPanel({
           <div className="flex items-center justify-between gap-3">
             <h3 className="font-semibold text-slate-900">Pin</h3>
             <button data-testid="clear-batteries" className="text-xs font-medium text-slate-500 hover:text-rose-700" type="button" onClick={clearBatteries}>
-              Clear
+              Xóa tất cả
             </button>
           </div>
           <Picker
             testIdPrefix="inventory-battery"
-            placeholder="Them pin..."
+            placeholder="Thêm pin..."
             query={batteryQuery}
             setQuery={setBatteryQuery}
             suggestions={batterySuggestions.map((match) => ({
               id: match.id,
               label: match.label,
-              subtitle: `${match.subtitle} / ${match.matchReason}`,
-              tag: "battery",
+              subtitle: `${match.subtitle} / ${formatMatchReason(match.matchReason)}`,
+              tag: "pin",
             }))}
             onAdd={(id) => {
               addBattery(id);
@@ -269,35 +272,35 @@ export function InventoryPanel({
                 const matches = db.getMyCompatibleCameras(batteryId, myCameraIds);
                 return (
                   <InventoryRow key={batteryId} testId={`inventory-battery-${batteryId}`} label={battery?.model ?? batteryId} onRemove={() => removeBattery(batteryId)}>
-                    {matches.length ? <Badge tone="green">dung duoc cho {matches.length} may</Badge> : <Badge tone="gray">chua khop may nao</Badge>}
+                    {matches.length ? <Badge tone="green">Dùng được cho {matches.length} máy</Badge> : <Badge tone="gray">Chưa khớp máy nào</Badge>}
                   </InventoryRow>
                 );
               })
             ) : (
-              <Empty text="Chua co pin trong kho." />
+              <Empty text="Chưa có pin trong kho." />
             )}
           </div>
         </div>
       </div>
 
       <div data-testid="inventory-comparison" className="mt-5 rounded-md bg-slate-50 p-4">
-        <h3 className="font-semibold text-slate-900">So voi kho cua toi</h3>
+        <h3 className="font-semibold text-slate-900">Đối chiếu trong kho</h3>
         <div className="mt-2 grid gap-2 text-sm text-slate-600">
           {unverifiedInventoryCameraIds.length ? (
-            <p data-testid="inventory-unverified-summary">Co {unverifiedInventoryCameraIds.length} may trong kho chua xac minh pin: {unverifiedInventoryCameraIds.map((id) => db.candidatesById.get(id)?.display_name ?? id).join(", ")}</p>
+            <p data-testid="inventory-unverified-summary">Có {unverifiedInventoryCameraIds.length} máy trong kho chưa xác minh pin: {unverifiedInventoryCameraIds.map((id) => db.candidatesById.get(id)?.display_name ?? id).join(", ")}</p>
           ) : (
-            <p>Khong co may unverified trong kho.</p>
+            <p>Không có máy chưa xác minh pin trong kho.</p>
           )}
           {uncoveredCameraIds.length ? (
-            <p data-testid="inventory-verified-missing-summary">Verified camera thieu pin phu hop: {uncoveredCameraIds.map((id) => db.camerasById.get(id)?.display_name ?? id).join(", ")}</p>
+            <p data-testid="inventory-verified-missing-summary">Máy đã có mapping nhưng thiếu pin phù hợp: {uncoveredCameraIds.map((id) => db.camerasById.get(id)?.display_name ?? id).join(", ")}</p>
           ) : (
-            <p>Tat ca may verified trong kho da co it nhat mot pin khop, neu co du lieu compatibility.</p>
+            <p>Tất cả máy đã có mapping trong kho hiện có ít nhất một pin phù hợp.</p>
           )}
-          {unknownInventoryCameraIds.length ? <p>Camera id khong con trong database: {unknownInventoryCameraIds.join(", ")}</p> : null}
+          {unknownInventoryCameraIds.length ? <p>Mã máy ảnh không còn trong dữ liệu: {unknownInventoryCameraIds.join(", ")}</p> : null}
           {unusedBatteryIds.length ? (
-            <p>Pin chua dung duoc voi may nao trong kho: {unusedBatteryIds.map((id) => db.batteriesById.get(id)?.model ?? id).join(", ")}</p>
+            <p>Pin chưa dùng được với máy nào trong kho: {unusedBatteryIds.map((id) => db.batteriesById.get(id)?.model ?? id).join(", ")}</p>
           ) : (
-            <p>Khong co pin du theo du lieu hien tai.</p>
+            <p>Không có pin dư theo dữ liệu hiện tại.</p>
           )}
         </div>
       </div>
@@ -324,7 +327,7 @@ function Picker({
     <div className="mt-2">
       <input
         data-testid={`${testIdPrefix}-search`}
-        className="min-h-10 w-full rounded-md border border-slate-300 px-3 text-sm outline-none focus:border-sky-500 focus:ring-4 focus:ring-sky-100"
+        className="min-h-10 w-full rounded-md border border-slate-300 px-3 text-sm outline-none focus:border-teal-600 focus:ring-4 focus:ring-teal-100"
         placeholder={placeholder}
         value={query}
         onChange={(event) => setQuery(event.target.value)}
@@ -335,7 +338,7 @@ function Picker({
             <button
               key={`${suggestion.tag}-${suggestion.id}`}
               data-testid={`${testIdPrefix}-option-${suggestion.id}`}
-              className="block w-full border-b border-slate-100 px-3 py-2 text-left last:border-0 hover:bg-sky-50"
+              className="block w-full border-b border-slate-100 px-3 py-2 text-left last:border-0 hover:bg-teal-50"
               type="button"
               onClick={() => onAdd(suggestion.id)}
             >
@@ -359,19 +362,19 @@ function BulkAnalysisSummary({
   return (
     <div data-testid="inventory-bulk-summary" className="mt-4 space-y-3 text-sm">
       <div className="grid gap-2 sm:grid-cols-4">
-        <SummaryMetric label="Dong da doc" value={analysis.totalLines} />
-        <SummaryMetric label="Tu them exact" value={analysis.autoMatches.length} />
-        <SummaryMetric label="Can chon" value={analysis.ambiguousMatches.length} />
-        <SummaryMetric label="Khong thay" value={analysis.notFound.length} />
+        <SummaryMetric label="Dòng đã đọc" value={analysis.totalLines} />
+        <SummaryMetric label="Tự thêm chính xác" value={analysis.autoMatches.length} />
+        <SummaryMetric label="Cần chọn" value={analysis.ambiguousMatches.length} />
+        <SummaryMetric label="Không thấy" value={analysis.notFound.length} />
       </div>
 
       {analysis.autoMatches.length ? (
         <div data-testid="inventory-bulk-auto" className="rounded-md border border-emerald-200 bg-emerald-50 p-3 text-emerald-800">
-          <strong>Da tu them:</strong>
+          <strong>Đã tự thêm:</strong>
           <ul className="mt-2 list-inside list-disc space-y-1">
             {analysis.autoMatches.map((row) => (
               <li key={`${row.line}-${row.match.type}-${row.match.id}`}>
-                {row.line} to {row.match.label} ({row.match.type})
+                {row.line} → {row.match.label} ({formatItemType(row.match.type)})
               </li>
             ))}
           </ul>
@@ -380,7 +383,7 @@ function BulkAnalysisSummary({
 
       {analysis.ambiguousMatches.length ? (
         <div data-testid="inventory-bulk-ambiguous" className="rounded-md border border-amber-200 bg-amber-50 p-3 text-amber-900">
-          <strong>Can chon thu cong:</strong>
+          <strong>Cần chọn thủ công:</strong>
           <div className="mt-3 space-y-3">
             {analysis.ambiguousMatches.map((row) => (
               <div key={row.line} className="rounded-md border border-amber-200 bg-white p-3">
@@ -391,13 +394,13 @@ function BulkAnalysisSummary({
                     <button
                       key={`${row.line}-${option.type}-${option.id}`}
                       data-testid={`inventory-bulk-option-${safeTestId(row.line)}-${index}`}
-                      className="rounded-md border border-slate-200 bg-white px-3 py-2 text-left hover:border-sky-300 hover:bg-sky-50"
+                      className="rounded-md border border-slate-200 bg-white px-3 py-2 text-left hover:border-teal-300 hover:bg-teal-50"
                       type="button"
                       onClick={() => onChooseOption(row.line, index)}
                     >
                       <span className="block font-medium text-slate-900">{option.label}</span>
                       <span className="block text-xs text-slate-500">
-                        {option.type} / {option.subtitle} / {option.matchReason}
+                        {formatItemType(option.type)} / {option.subtitle} / {formatMatchReason(option.matchReason)}
                       </span>
                     </button>
                   ))}
@@ -410,7 +413,7 @@ function BulkAnalysisSummary({
 
       {analysis.notFound.length ? (
         <div data-testid="inventory-bulk-not-found" className="rounded-md border border-rose-200 bg-rose-50 p-3 text-rose-800">
-          <strong>Khong tim thay:</strong>
+          <strong>Không tìm thấy:</strong>
           <ul className="mt-2 list-inside list-disc space-y-1">
             {analysis.notFound.map((row) => (
               <li key={row.line}>{row.line}</li>
@@ -453,7 +456,7 @@ function InventoryRow({
         <div className="mt-1 flex flex-wrap gap-1.5">{children}</div>
       </div>
       <button className="shrink-0 rounded-md px-2 py-1 text-sm font-medium text-slate-500 hover:bg-rose-50 hover:text-rose-700" type="button" onClick={onRemove}>
-        Xoa
+        Xóa
       </button>
     </div>
   );
@@ -470,4 +473,8 @@ function Stat({ label, value, testId }: { label: string; value: number; testId: 
 
 function Empty({ text }: { text: string }) {
   return <div className="rounded-md border border-dashed border-slate-300 px-3 py-4 text-sm text-slate-500">{text}</div>;
+}
+
+function formatItemType(type: "camera" | "battery" | "unresolved_candidate"): string {
+  return type === "camera" ? "Máy đã có pin" : type === "battery" ? "Pin" : "Model chưa xác minh";
 }

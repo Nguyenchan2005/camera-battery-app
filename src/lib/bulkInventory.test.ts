@@ -65,7 +65,7 @@ describe("bulk inventory paste analysis", () => {
     expect(result.notFound).toEqual([
       {
         line: "Definitely Missing Camera 9999XYZ",
-        reason: "No database match.",
+        reason: "Không tìm thấy dữ liệu phù hợp.",
       },
     ]);
   });

@@ -13,7 +13,7 @@ export function SourceDisclosure({ compatibility }: { compatibility: GroupedComp
         type="button"
         onClick={() => setOpen((current) => !current)}
       >
-        {open ? "An nguon xac minh" : `Nguon xac minh (${compatibility.sources.length})`}
+        {open ? "Ẩn nguồn đối chiếu" : `Nguồn đối chiếu (${compatibility.sources.length})`}
       </button>
       {open ? (
         <div data-testid="source-list" className="mt-3 space-y-3">
@@ -22,10 +22,10 @@ export function SourceDisclosure({ compatibility }: { compatibility: GroupedComp
               <div className="flex flex-wrap gap-2">
                 <SourceBadge sourceType={source.source_type} />
                 <ConfidenceBadge confidence={source.confidence} />
-                <span className="text-xs text-slate-500">verified {source.last_verified}</span>
+                <span className="text-xs text-slate-500">Kiểm tra: {source.last_verified}</span>
               </div>
               <a
-                className="mt-2 block break-words text-sm font-medium text-sky-700 hover:text-sky-900"
+                className="mt-2 block break-words text-sm font-medium text-teal-700 hover:text-teal-900"
                 href={source.source_url}
                 rel="noreferrer"
                 target="_blank"

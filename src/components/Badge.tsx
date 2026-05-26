@@ -22,16 +22,47 @@ export function Badge({ children, tone }: { children: React.ReactNode; tone: Bad
 
 export function ConfidenceBadge({ confidence }: { confidence: Confidence }) {
   const tone: BadgeTone = confidence === "high" ? "green" : confidence === "medium" ? "yellow" : "orange";
-  return <Badge tone={tone}>{confidence}</Badge>;
+  return <Badge tone={tone}>{confidenceLabel(confidence)}</Badge>;
 }
 
 export function StatusBadge({ status }: { status: CompatibilityStatus }) {
   const tone: BadgeTone =
     status === "fully_compatible" || status === "uses_aa" || status === "uses_aaa" ? "green" : status === "unknown" ? "gray" : "blue";
-  return <Badge tone={tone}>{status}</Badge>;
+  return <Badge tone={tone}>{statusLabel(status)}</Badge>;
 }
 
 export function SourceBadge({ sourceType }: { sourceType: SourceType }) {
   const tone: BadgeTone = sourceType.startsWith("official") ? "green" : sourceType === "trusted_database" ? "yellow" : "orange";
-  return <Badge tone={tone}>{sourceType}</Badge>;
+  return <Badge tone={tone}>{sourceTypeLabel(sourceType)}</Badge>;
+}
+
+export function confidenceLabel(confidence: Confidence): string {
+  return {
+    high: "Tin cậy cao",
+    medium: "Tin cậy vừa",
+    low: "Tin cậy thấp",
+  }[confidence];
+}
+
+export function statusLabel(status: CompatibilityStatus): string {
+  return {
+    fully_compatible: "Tương thích",
+    partially_compatible: "Tương thích một phần",
+    uses_aa: "Dùng pin AA",
+    uses_aaa: "Dùng pin AAA",
+    built_in_battery: "Pin tích hợp",
+    unknown: "Chưa rõ",
+  }[status];
+}
+
+export function sourceTypeLabel(sourceType: SourceType): string {
+  return {
+    official_manual: "Hướng dẫn chính hãng",
+    official_accessory_page: "Trang phụ kiện chính hãng",
+    trusted_database: "Cơ sở dữ liệu uy tín",
+    manual_mirror: "Bản sao hướng dẫn",
+    retailer: "Nhà bán lẻ",
+    third_party_chart: "Nguồn bên thứ ba",
+    unknown: "Nguồn chưa rõ",
+  }[sourceType];
 }

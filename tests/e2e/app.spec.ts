@@ -18,8 +18,8 @@ async function submitSearch(page: import("@playwright/test").Page, query: string
 test("app loads from static preview with database stats and network status", async ({ page }) => {
   await openApp(page);
   await expect(page.getByTestId("network-status")).toBeVisible();
-  await expect(page.getByTestId("database-stats")).toContainText("Verified cameras");
-  await expect(page.getByTestId("last-data-update")).toContainText(/Last data update: \d{4}-\d{2}-\d{2}|unknown/);
+  await expect(page.getByTestId("database-stats")).toContainText("Máy có pin");
+  await expect(page.getByTestId("last-data-update")).toContainText(/Cập nhật dữ liệu gần nhất: \d{4}-\d{2}-\d{2}|Chưa có/);
 });
 
 test("search NB-13L returns a battery result", async ({ page }) => {
@@ -27,8 +27,8 @@ test("search NB-13L returns a battery result", async ({ page }) => {
   await submitSearch(page, "NB-13L");
   await expect(page.getByTestId("result-battery")).toBeVisible();
   await expect(page.getByTestId("result-panel")).toContainText("NB-13L");
-  await expect(page.getByTestId("battery-coverage-summary")).toContainText("may verified");
-  await expect(page.getByTestId("battery-unresolved-note")).toContainText("camera da duoc xac minh pin");
+  await expect(page.getByTestId("battery-coverage-summary")).toContainText("máy ảnh có mapping");
+  await expect(page.getByTestId("battery-unresolved-note")).toContainText("máy ảnh đã có mapping pin");
 });
 
 test("search Canon G7X Mark III returns verified camera and NB-13L compatibility", async ({ page }) => {
@@ -48,13 +48,13 @@ test("search Kodak EasyShare M753 returns unresolved without battery compatibili
   await page.getByTestId("search-result-unresolved_candidate-kodak_easyshare_m753").click();
   await expect(page.getByTestId("result-unresolved")).toBeVisible();
   await expect(page.getByTestId("result-panel")).toContainText("Kodak EasyShare M753");
-  await expect(page.getByTestId("result-panel")).toContainText("Da tim thay model nay trong catalog");
-  await expect(page.getByTestId("result-panel")).toContainText("Khong nen mua pin");
+  await expect(page.getByTestId("result-panel")).toContainText("Đã tìm thấy model này trong catalog");
+  await expect(page.getByTestId("result-panel")).toContainText("Không nên mua pin");
   await expect(page.locator('[data-testid^="compat-card-"]')).toHaveCount(0);
   await page.getByTestId("add-unresolved-camera").click();
-  await expect(page.getByTestId("inventory-camera-kodak_easyshare_m753")).toContainText("can xac minh pin");
+  await expect(page.getByTestId("inventory-camera-kodak_easyshare_m753")).toContainText("Cần xác minh pin");
   await expect(page.getByTestId("inventory-unverified-count")).toContainText("1");
-  await expect(page.getByTestId("inventory-unverified-summary")).toContainText("chua xac minh pin");
+  await expect(page.getByTestId("inventory-unverified-summary")).toContainText("chưa xác minh pin");
 });
 
 test("shows newly manual-verified Kodak C713 as compatible rather than suggested", async ({ page }) => {
@@ -76,14 +76,14 @@ test("finds researched Samsung TL320 alias as verified WB1000 with SLB-11A", asy
   await page.getByTestId("search-result-camera-samsung_wb1000").click();
   await expect(page.getByTestId("result-camera")).toBeVisible();
   await expect(page.getByTestId("compat-card-samsung_slb_11a-fully_compatible")).toBeVisible();
-  await expect(page.getByText("pin da xac minh")).toBeVisible();
+  await expect(page.getByText("Đã ghi nhận mapping pin")).toBeVisible();
 });
 
 test("search unknown model returns not found state", async ({ page }) => {
   await openApp(page);
   await submitSearch(page, "Definitely Not A Compact Camera 9999XYZ");
   await expect(page.getByTestId("result-unknown")).toBeVisible();
-  await expect(page.getByTestId("result-panel")).toContainText("Chua co du lieu");
+  await expect(page.getByTestId("result-panel")).toContainText("Chưa có dữ liệu");
 });
 
 test("adds camera and battery to local inventory", async ({ page }) => {
@@ -134,7 +134,7 @@ test("bulk paste adds exact inventory matches and reports unknown lines", async 
 
   await expect(page.getByTestId("inventory-camera-canon_powershot_g7_x_mark_iii")).toBeVisible();
   await expect(page.getByTestId("inventory-battery-canon_nb_13l")).toBeVisible();
-  await expect(page.getByTestId("inventory-bulk-summary")).toContainText("Tu them exact");
+  await expect(page.getByTestId("inventory-bulk-summary")).toContainText("Tự thêm chính xác");
   await expect(page.getByTestId("inventory-bulk-not-found")).toContainText("Definitely Missing Camera 9999XYZ");
 });
 

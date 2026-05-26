@@ -218,7 +218,7 @@ export function useInventorySync({
       setError(null);
       try {
         const validated = validateInventoryIds(inventory, db, "local");
-        setWarnings((current) => [...current.filter((item) => !item.startsWith("local ")), ...validated.warnings]);
+        setWarnings((current) => [...current.filter((item) => !item.includes("từ thiết bị")), ...validated.warnings]);
         const saved = await saveCloudInventory(supabase, user.id, validated.inventory);
         lastCloudRef.current = saved;
         readyUserIdRef.current = user.id;
@@ -264,7 +264,7 @@ export function useInventorySync({
         options: { emailRedirectTo: getAuthRedirectUrl() },
       });
       if (signInError) throw new Error(signInError.message);
-      setAuthMessage("Magic link sent. Check your email to sign in.");
+      setAuthMessage("Đã gửi liên kết đăng nhập. Vui lòng kiểm tra email của bạn.");
     } catch (signInError) {
       setError(signInError instanceof Error ? signInError.message : String(signInError));
       setStatus("sync_error");

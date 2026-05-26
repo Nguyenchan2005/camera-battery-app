@@ -60,6 +60,16 @@ const sourceRank: Record<SourceType, number> = {
   unknown: 0,
 };
 
+const sourceDisplayName: Record<SourceType, string> = {
+  official_manual: "hướng dẫn chính hãng",
+  official_accessory_page: "trang phụ kiện chính hãng",
+  trusted_database: "cơ sở dữ liệu uy tín",
+  manual_mirror: "bản sao hướng dẫn",
+  retailer: "nhà bán lẻ",
+  third_party_chart: "nguồn bên thứ ba",
+  unknown: "nguồn chưa rõ",
+};
+
 export async function loadDataBundle(options: { baseUrl?: string; fetchJson?: FetchJson } = {}): Promise<DataBundle> {
   const baseUrl = (options.baseUrl ?? "/data").replace(/\/$/, "");
   const fetchJson = options.fetchJson ?? defaultFetchJson;
@@ -80,7 +90,7 @@ export async function loadDataBundle(options: { baseUrl?: string; fetchJson?: Fe
 async function defaultFetchJson<T>(url: string): Promise<T> {
   const response = await fetch(url);
   if (!response.ok) {
-    throw new Error(`Failed to load ${url}: HTTP ${response.status}`);
+    throw new Error(`Không thể tải ${url}: HTTP ${response.status}`);
   }
   return (await response.json()) as T;
 }
@@ -97,7 +107,7 @@ function validateBundleShape(bundle: DataBundle): void {
   ];
   for (const [name, value] of arrays) {
     if (!Array.isArray(value)) {
-      throw new Error(`Schema mismatch: ${String(name)} must be a JSON array.`);
+      throw new Error(`Dữ liệu không đúng cấu trúc: ${String(name)} phải là một mảng JSON.`);
     }
   }
 
@@ -404,42 +414,42 @@ export class CameraBatteryDatabase {
   buildNaturalAnswer(result: LookupResult, context: { myCameraIds?: string[]; myBatteryIds?: string[] } = {}): string {
     if (result.kind === "camera") {
       if (!result.compatibility.length) {
-        return `${result.camera.display_name} la camera verified, nhung hien chua co compatibility row hop le de hien thi.`;
+        return `${result.camera.display_name} là máy ảnh đã có dữ liệu pin, nhưng hiện không có dòng tương thích hợp lệ để hiển thị.`;
       }
 
       const batteryNames = result.compatibility
         .map((row) => this.batteriesById.get(row.battery_id)?.model ?? row.battery_id)
         .join(", ");
-      const sourceTypes = dedupe(result.compatibility.flatMap((row) => row.sources.map((source) => source.source_type))).join(" / ");
+      const sourceTypes = [...new Set(result.compatibility.flatMap((row) => row.sources.map((source) => sourceDisplayName[source.source_type])))].join(" / ");
       const myMatches = this.getMyCompatibleBatteries(result.camera.camera_id, context.myBatteryIds ?? []);
       const myText = myMatches.length
-        ? `Trong kho cua ban hien co ${myMatches.map((row) => this.batteriesById.get(row.battery_id)?.model ?? row.battery_id).join(", ")} nen dung duoc cho may nay.`
-        : "Trong kho cua ban hien chua co pin nao duoc database xac nhan dung duoc cho may nay.";
-      return `${result.camera.display_name} su dung pin/nguon ${batteryNames}. Du lieu nay da duoc xac minh tu nguon ${sourceTypes}. ${myText}`;
+        ? `Trong kho của bạn hiện có ${myMatches.map((row) => this.batteriesById.get(row.battery_id)?.model ?? row.battery_id).join(", ")} nên dùng được cho máy này.`
+        : "Trong kho của bạn hiện chưa có pin nào được dữ liệu xác nhận dùng được cho máy này.";
+      return `${result.camera.display_name} có mapping pin/nguồn ${batteryNames}. Dữ liệu đi kèm nguồn ${sourceTypes}. ${myText}`;
     }
 
     if (result.kind === "battery") {
       const camerasForBattery = result.cameras.map((row) => row.camera);
       if (!camerasForBattery.length) {
-        return `Pin ${result.battery.model} co trong database pin, nhung hien chua co camera verified nao tro toi pin nay.`;
+        return `Pin ${result.battery.model} có trong danh mục pin, nhưng hiện chưa có máy ảnh nào có mapping tới pin này.`;
       }
       const shown = camerasForBattery.slice(0, 8).map((camera) => camera.display_name).join(", ");
-      const remainder = camerasForBattery.length > 8 ? ` va ${camerasForBattery.length - 8} model khac` : "";
+      const remainder = camerasForBattery.length > 8 ? ` và ${camerasForBattery.length - 8} model khác` : "";
       const myMatches = this.getMyCompatibleCameras(result.battery.battery_id, context.myCameraIds ?? []);
       const myText = myMatches.length
-        ? `Trong kho may cua ban, pin nay dung duoc cho ${myMatches.map((camera) => camera.display_name).join(", ")}.`
-        : "Trong kho may cua ban hien chua co model nao duoc xac nhan dung pin nay.";
-      return `Pin ${result.battery.model} dung duoc cho cac may verified nhu ${shown}${remainder}. ${myText}`;
+        ? `Trong kho máy của bạn, pin này dùng được cho ${myMatches.map((camera) => camera.display_name).join(", ")}.`
+        : "Trong kho máy của bạn hiện chưa có model nào được xác nhận dùng pin này.";
+      return `Pin ${result.battery.model} dùng được cho các máy ảnh đã có mapping như ${shown}${remainder}. ${myText}`;
     }
 
     if (result.kind === "unresolved") {
       const suggestionText = result.suggestions.length
-        ? ` Co goi y chua xac minh (${result.suggestions.map((row) => row.suggested_battery_model).join(", ")}), nhung day khong phai compatibility verified.`
+        ? ` Có gợi ý chưa xác minh (${result.suggestions.map((row) => row.suggested_battery_model).join(", ")}), nhưng đây không phải mapping tương thích đã xác minh.`
         : "";
-      return `${result.candidate.display_name} co trong catalog, nhung hien database chua co nguon xac minh pin.${suggestionText} Khong nen mua pin dua tren model nay cho den khi co nguon xac minh.`;
+      return `${result.candidate.display_name} có trong catalog, nhưng hiện dữ liệu chưa có nguồn xác minh pin.${suggestionText} Không nên mua pin dựa trên model này cho đến khi có nguồn xác minh.`;
     }
 
-    return `Hien database chua co du lieu cho model/pin "${result.query}". Ban co the kiem tra lai cach viet hoac them vao danh sach can xac minh.`;
+    return `Hiện chưa có dữ liệu cho model/pin "${result.query}". Bạn có thể kiểm tra lại cách viết hoặc thêm vào danh sách cần xác minh.`;
   }
 
   validateRuntimeData(): RuntimeValidationIssue[] {

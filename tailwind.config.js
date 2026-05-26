@@ -4,11 +4,11 @@ export default {
   theme: {
     extend: {
       colors: {
-        ink: "#18212f",
-        paper: "#f7f8fb",
+        ink: "#172524",
+        paper: "#f3f6f5",
       },
       boxShadow: {
-        soft: "0 18px 50px rgba(29, 39, 57, 0.10)",
+        soft: "0 1px 2px rgba(15, 23, 42, 0.05), 0 10px 22px rgba(15, 23, 42, 0.04)",
       },
     },
   },

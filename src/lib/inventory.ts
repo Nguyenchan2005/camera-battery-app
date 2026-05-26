@@ -28,11 +28,11 @@ export function parseInventoryImport(raw: string, db: CameraBatteryDatabase): In
   try {
     parsed = JSON.parse(raw);
   } catch {
-    throw new Error("File import không phải JSON hợp lệ.");
+    throw new Error("File nhập không phải JSON hợp lệ.");
   }
 
   if (!parsed || typeof parsed !== "object") {
-    throw new Error("JSON import không đúng định dạng.");
+    throw new Error("Dữ liệu nhập không đúng định dạng.");
   }
 
   const object = parsed as Partial<InventoryExport>;
@@ -44,12 +44,12 @@ export function parseInventoryImport(raw: string, db: CameraBatteryDatabase): In
 
   const validCameraIds = myCameraIds.filter((id) => {
     const exists = db.camerasById.has(id) || db.candidatesById.has(id);
-    if (!exists) warnings.push(`Camera id không còn trong database: ${id}`);
+    if (!exists) warnings.push(`Mã máy ảnh không còn trong dữ liệu: ${id}`);
     return exists;
   });
   const validBatteryIds = myBatteryIds.filter((id) => {
     const exists = db.batteriesById.has(id);
-    if (!exists) warnings.push(`Battery id không còn trong database: ${id}`);
+    if (!exists) warnings.push(`Mã pin không còn trong dữ liệu: ${id}`);
     return exists;
   });
 

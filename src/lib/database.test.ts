@@ -144,7 +144,7 @@ describe("database loader, search, and source-backed lookup", () => {
     expect(lookup.kind).toBe("unresolved");
     if (lookup.kind === "unresolved") {
       expect(db.getCameraBatteryCompatibility(lookup.candidate.camera_id)).toEqual([]);
-      expect(db.buildNaturalAnswer(lookup)).toContain("chua co nguon xac minh pin");
+      expect(db.buildNaturalAnswer(lookup)).toContain("chưa có nguồn xác minh pin");
     }
   });
 
@@ -179,7 +179,7 @@ describe("database loader, search, and source-backed lookup", () => {
     if (lookup.kind === "unresolved") {
       expect(lookup.suggestions.some((row) => row.suggested_battery_model === "AA")).toBe(true);
       expect(suggestedDb.getCameraBatteryCompatibility(lookup.candidate.camera_id)).toEqual([]);
-      expect(suggestedDb.buildNaturalAnswer(lookup)).toContain("goi y chua xac minh");
+      expect(suggestedDb.buildNaturalAnswer(lookup)).toContain("gợi ý chưa xác minh");
     }
     const aaSuggestions = suggestedDb.getBatterySuggestionsForBattery("generic_aa");
     expect(aaSuggestions.some((row) => row.camera_id === "kodak_easyshare_m753")).toBe(true);
@@ -189,7 +189,7 @@ describe("database loader, search, and source-backed lookup", () => {
   it("returns unknown for a model not in the database", () => {
     const lookup = db.resolveLookup("Definitely Not A Compact Camera 9999XYZ");
     expect(lookup.kind).toBe("unknown");
-    expect(db.buildNaturalAnswer(lookup)).toContain("chua co du lieu");
+    expect(db.buildNaturalAnswer(lookup)).toContain("chưa có dữ liệu");
   });
 
   it("groups duplicate compatibility sources by camera, battery, and status", () => {
